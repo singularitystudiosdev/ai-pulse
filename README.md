@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-02 19:34 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-02 19:40 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 405 HF upvotes · v 405 | 405 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
+| [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 406 HF upvotes · v 406 | 406 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
 | [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 335 HF upvotes · v 335 | 335 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
 | [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://huggingface.co/papers/2608.31106) | Jiashu Zhu | 93 HF upvotes · v 93 | 93 HF upvotes · "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Reso" · model release |
 | [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | Shaowen Wang | 68 HF upvotes · v 68 | 68 HF upvotes · "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers" · model release |
@@ -40,13 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (3)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [I literally hit 100% of my 5hr quota with Fable 5.1 in 4 minutes... I'm so annoyed! 😡](https://x.com/matthias_mrc/status/2094929947454300390)<br>![card](https://pbs.twimg.com/media/HRKvoEfXEAAU7id.png?name=orig) | [@matthias_mrc](https://x.com/matthias_mrc) | 461♥ 16RT · v 14.5 | 14 velocity · 461♥ 16RT · 22066 views · 20h old |
-| [Fable 5.1 is borderline not usable...  The cache problem was fixed which should make it much more token effic…](https://x.com/Layton_Gott/status/2094916813205176493)<br>![card](https://pbs.twimg.com/media/HRKiSqdXwAA9tUl.png?name=orig) | [@Layton_Gott](https://x.com/Layton_Gott) | 193♥ 7RT · v 6 | 6.0 velocity · 193♥ 7RT · 9953 views · 21h old |
-| [Fable 5.1 is a VERY intelligent model  The issue is that it's UNUSABLE. Reaching the usage limits so fast...](https://x.com/alexandrekerner/status/2094919778074841088) | [@alexandrekerner](https://x.com/alexandrekerner) | 101♥ 4RT · v 1.6 | 1.6 velocity · 101♥ 4RT · 2306 views · 21h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
