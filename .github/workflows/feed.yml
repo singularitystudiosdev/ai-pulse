@@ -39,7 +39,7 @@ jobs:
           REPO: ${{ github.repository }}
         run: |
           CUTOFF=$(date -u -d '1 hour ago' +%Y-%m-%dT%H:%M:%SZ)
-          COUNT=$(gh api "repos/$REPO/actions/runs?per_page=100" \
+          COUNT=$(gh api "repos/$REPO/actions/workflows/feed.yml/runs?per_page=100" \
             --jq '[.workflow_runs[] | select(.created_at > "'"$CUTOFF"'")] | length')
           echo "runs in last hour: $COUNT"
           if [ "$COUNT" -lt 10 ]; then
