@@ -37,9 +37,10 @@ function rankProducts() {
   } else if (sortKey === 'momentum') {
     list = list.slice().sort((a, b) => (b.momentum || 0) - (a.momentum || 0));
   } else {
-    // ARR first; the unranked tail (no public claim) by traction, then freshness.
+    // ARR first; estimates next; the rest by traction, then freshness.
     list = list.slice().sort((a, b) => (b.arrUsd || 0) - (a.arrUsd || 0)
-      || (b.mentions?.length || 0) - (a.mentions?.length || 0)
+      || (b.arrEstimateUsd || 0) - (a.arrEstimateUsd || 0)
+      || (b.mentions || 0) - (a.mentions || 0)
       || (b.firstSeen || '').localeCompare(a.firstSeen || ''));
   }
   return list;
@@ -130,6 +131,12 @@ function row(p, i) {
     arr.append(src);
     const fmt = (v) => v >= 1e9 ? `$${(v / 1e9).toFixed(1)}B` : `$${Math.round(v / 1e6)}M`;
     ticker(num, p.arrUsd, fmt);
+  } else if (p.arrEstimateUsd) {
+    const num = document.createElement('span');
+    num.className = 'arr-est';
+    num.textContent = `≈ ${fmtArr(p.arrEstimateUsd)} est`;
+    arr.title = `estimate — ${p.estimateBasis || ''}`;
+    arr.append(num);
   } else {
     const unk = document.createElement('span');
     unk.className = 'arr-unknown';

@@ -74,6 +74,11 @@ export function exportProducts(state) {
       tagline: p.tagline,
       arrUsd: p.arrUsd,
       arrUsdReported: p.arrUsdReported ?? p.arrUsd,
+      // Revenue proxy for the claim-less tail: headcount × revenue/employee,
+      // the standard private-market heuristic. Explicitly a guess.
+      arrEstimateUsd: !p.arrUsd && p.teamSize >= 5 ? p.teamSize * 200_000 : null,
+      estimateBasis: !p.arrUsd && p.teamSize >= 5 ? `team of ${p.teamSize} × $200k/yr per employee` : null,
+      teamSize: p.teamSize ?? null,
       basis: p.basis || null,
       stale: p.stale ?? false,
       confidence: p.confidence || 'medium',

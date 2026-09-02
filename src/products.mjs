@@ -108,6 +108,7 @@ function mergeSeedFile(state, path) {
       subcat: s.subcat || 'industrial',
       tagline: s.tagline || null,
       aliases: [],
+      teamSize: s.teamSize ?? null,
       seeded: true,
       arrUsd: s.arrUsd ?? null,
       arrUsdReported: s.arrUsd ?? null,
