@@ -7,7 +7,7 @@ import { writeFileSync, mkdirSync } from 'node:fs';
 import { dirname } from 'node:path';
 
 const OUT_PATH = 'docs/data/products.json';
-const REDDIT_SUBREDDITS = ['SaaS', 'SideProject', 'artificial'];
+const REDDIT_SUBREDDITS = ['SaaS', 'SideProject', 'artificial', 'robotics', 'MachineLearning', 'startups'];
 const CAP = 400;
 
 function engagementFor(item) {

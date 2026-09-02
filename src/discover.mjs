@@ -18,7 +18,7 @@ function harvestTweetLinks(text, into, meta) {
   }
 }
 
-export async function discoverFromHN(queries, { numericFilters = '', hitsPerPage = 100, perQueryCap = 40 } = {}) {
+export async function discoverFromHN(queries, { numericFilters = '', hitsPerPage = 200, perQueryCap = 40 } = {}) {
   const found = new Map();
   const channels = [];
   let ok = false;
@@ -171,7 +171,8 @@ export async function discoverRevenueTalk({ hitsPerPage = 75 } = {}) {
 // 2026-09-02: 66 items in 7d for '"$" ARR'). Links are news.google redirects.
 export async function discoverNewsClaims({ days = 7 } = {}) {
   const out = [];
-  const queries = ['"ARR" AI startup', '"hits $" ARR', 'AI startup revenue milestone'];
+  const queries = ['"ARR" AI startup', '"hits $" ARR', 'AI startup revenue milestone',
+    '"humanoid robot" funding', '"robot startup" revenue', 'defense drone contract'];
   for (const q of queries) {
     try {
       const res = await fetch(`https://news.google.com/rss/search?q=${encodeURIComponent(q)} when:${days}d&hl=en-US&gl=US&ceid=US:en`, {

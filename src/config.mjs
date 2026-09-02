@@ -1,6 +1,9 @@
 // Central knobs — spec §1-§4. All times UTC.
-export const QUERIES = ['x.com', 'x.com humanoid', 'x.com robot', 'x.com launch'];
-export const ALGOLIA_WINDOW_HOURS = 26; // lookback for HN comments
+export const QUERIES = [
+  'x.com', 'x.com humanoid', 'x.com robot', 'x.com launch',
+  'x.com funding', 'x.com demo', 'x.com startup',
+];
+export const ALGOLIA_WINDOW_HOURS = 72; // lookback for HN comments (MAX_AGE_HOURS still gates freshness)
 export const MAX_AGE_HOURS = 36;        // hard gate: older than this = the wave passed
 export const MIN_TEXT_LEN = 60;
 export const MIN_LIKES = 25;

@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-02 07:07 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-02 07:08 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 185 HF upvotes · v 185 | 185 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
+| [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 187 HF upvotes · v 187 | 187 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
 | [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://huggingface.co/papers/2608.31106) | Jiashu Zhu | 93 HF upvotes · v 93 | 93 HF upvotes · "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Reso" · model release |
 | [Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://huggingface.co/papers/2608.30821) | Minghan Qin | 88 HF upvotes · v 88 | 88 HF upvotes · "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Mo" · model release |
 | [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | Shaowen Wang | 52 HF upvotes · v 52 | 52 HF upvotes · "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers" · model release |
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | masteranza | 109 HN points · v 197 | 109 HN points · 44 comments · Show HN |
-| [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"](https://hnmatchmaker.com/) | all2 | 75 HN points · v 141 | 75 HN points · 33 comments · Show HN |
+| [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"](https://hnmatchmaker.com/) | all2 | 76 HN points · v 142 | 76 HN points · 33 comments · Show HN |
 | [Show HN: Supafork – Share and Fork Sessions Across Harnesses](https://www.supafork.com) | supafork | 11 HN points · v 27 | 11 HN points · 8 comments · Show HN |
 | [Show HN: I built a live stream site where every spot is instantly AI-generated](https://videoai.me/live) | Paul_Grsl | 8 HN points · v 26 | 8 HN points · 9 comments · Show HN |
 
