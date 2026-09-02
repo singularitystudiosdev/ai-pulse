@@ -153,7 +153,9 @@ export function observeMention(state, { slug, name, platform, url, date, engagem
 
   if (text) {
     const claim = extractClaim(text);
-    if (claim && (!p.arrUsd || claim.usd !== p.arrUsd)) {
+    // A figure under $1M/yr is a stray number from the surrounding text,
+    // not a company's recurring revenue — drop it.
+    if (claim && claim.usd >= 1e6 && (!p.arrUsd || claim.usd !== p.arrUsd)) {
       // Accept the newest claim that differs; keep the history for the chart.
       p.arrUsd = claim.usd;
       p.arrAsOf = iso;
