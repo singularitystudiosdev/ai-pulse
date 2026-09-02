@@ -2876,5 +2876,775 @@
   "basis": "third-party GetLatka estimate (Jul 2025); ~$2.5M raised across seed rounds",
   "sourceType": "other",
   "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Railway",
+  "aliases": [
+   "Railway.app",
+   "railway.app"
+  ],
+  "category": "dev-saas",
+  "subcat": "cloud-deployment",
+  "url": "https://railway.app",
+  "arrUsd": 10000000,
+  "arrUsdReported": null,
+  "asOf": "2026-01-22",
+  "sourceUrl": "https://www.webpronews.com/railways-100-million-bet-on-ai-proof-cloud-amid-deployment-wars/",
+  "quote": "Founder and CEO Jake Cooper disclosed the annual recurring revenue exceeds $10 million, per Axios Pro.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "company-stated >$10M ARR disclosed by CEO Jake Cooper via Axios Pro at the $100M Series B led by TQ Ventures (reported 2026-01-22); $10M recorded as the floor",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Fly.io",
+  "aliases": [
+   "flyio"
+  ],
+  "category": "dev-saas",
+  "subcat": "cloud-hosting",
+  "url": "https://fly.io",
+  "arrUsd": 11200000,
+  "arrUsdReported": null,
+  "asOf": "2024-10-31",
+  "sourceUrl": "https://getlatka.com/companies/fly.io",
+  "quote": "In 2024, fly.io's revenue reached $11.2M. The company previously reported $7.6M in 2023.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024, self-labeled Estimated); no company disclosure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Render",
+  "aliases": [
+   "Render.com",
+   "render.com"
+  ],
+  "category": "dev-saas",
+  "subcat": "cloud-hosting",
+  "url": "https://render.com",
+  "arrUsd": 19300000,
+  "arrUsdReported": null,
+  "asOf": "2025-09-30",
+  "sourceUrl": "https://getlatka.com/companies/render.com",
+  "quote": "In 2025, render.com's revenue reached $19.3M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (September 2025 milestone); no company disclosure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "PlanetScale",
+  "aliases": [
+   "planetscale.com"
+  ],
+  "category": "dev-saas",
+  "subcat": "database-platform",
+  "url": "https://planetscale.com",
+  "arrUsd": 3900000,
+  "arrUsdReported": null,
+  "asOf": "2024-10-31",
+  "sourceUrl": "https://getlatka.com/companies/planetscale.com",
+  "quote": "In 2024, PlanetScale's revenue reached $3.9M. The company previously reported $1.9M in 2023.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024, self-labeled Estimated); GetLatka funding table is stale (misses the 2025 Series D) - flagged unreliable, kept as the only dated claim",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Convex",
+  "aliases": [
+   "convex.dev"
+  ],
+  "category": "dev-saas",
+  "subcat": "backend-platform",
+  "url": "https://www.convex.dev",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2026-08-04",
+  "sourceUrl": "https://www.prnewswire.com/news-releases/convex-raises-57m-series-b-led-by-insight-partners-to-scale-the-reliable-backend-for-the-ai-era-302841686.html",
+  "quote": "Convex, the backend platform designed for reliability at scale, today announced a $57 million Series B led by Insight Partners.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$57M Series B led by Insight Partners raised 2026-08-04, funding-verified - PRNewswire company release; total funding $110.5M; no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Neon",
+  "aliases": [
+   "Neon.tech",
+   "neon.tech"
+  ],
+  "category": "dev-saas",
+  "subcat": "serverless-postgres",
+  "url": "https://neon.tech",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-05-14",
+  "sourceUrl": "https://techcrunch.com/2025/05/14/databricks-to-buy-open-source-database-startup-neon-for-1b/",
+  "quote": "Data analytics platform Databricks said on Wednesday that it has agreed to acquire Neon, a startup building an open source alternative to AWS Aurora Postgres, for about $1 billion.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "acquired by Databricks for ~$1B (2025-05-14, TechCrunch); no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Datadog",
+  "aliases": [
+   "DDOG"
+  ],
+  "category": "dev-saas",
+  "subcat": "observability",
+  "url": "https://www.datadoghq.com",
+  "arrUsd": 3430000000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://www.nasdaq.com/press-release/datadog-announces-fourth-quarter-and-fiscal-year-2025-financial-results-2026-02-10",
+  "quote": "Revenue was $3.43 billion, an increase of 28% year-over-year.",
+  "confidence": "high",
+  "stale": false,
+  "basis": "audited FY2025 revenue from official Q4/FY2025 earnings release (Feb 10, 2026); booked revenue, not an ARR run-rate; FY2026 guidance $4.06-4.10B excluded from arrUsd",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Grafana Labs",
+  "aliases": [
+   "Grafana"
+  ],
+  "category": "dev-saas",
+  "subcat": "observability",
+  "url": "https://grafana.com",
+  "arrUsd": 250000000,
+  "arrUsdReported": null,
+  "asOf": "2024-10-31",
+  "sourceUrl": "https://getlatka.com/companies/grafana",
+  "quote": "In 2024, Grafana Labs's revenue reached $250M. The company previously reported $150M in 2023.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024); Grafana's own public statements only cite a $6B valuation at its 2024 Series D, no company ARR figure",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Snyk",
+  "aliases": [
+   "snyk.io"
+  ],
+  "category": "dev-saas",
+  "subcat": "devsecops",
+  "url": "https://snyk.io",
+  "arrUsd": 326000000,
+  "arrUsdReported": null,
+  "asOf": "2026-02-28",
+  "sourceUrl": "https://sacra.com/c/snyk/",
+  "quote": "Sacra estimates that Snyk hit $326M in annual recurring revenue (ARR) in February 2026, up 7% YoY and up from $322M at the end of 2025.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party Sacra estimate (self-labeled); CONFLICT: GetLatka carries $407.8M for June 2025 then $326M for February 2026 citing sacra.com - kept the Sacra primary quote",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "GitGuardian",
+  "aliases": [
+   "gitguardian.com"
+  ],
+  "category": "dev-saas",
+  "subcat": "devsecops",
+  "url": "https://www.gitguardian.com",
+  "arrUsd": 13200000,
+  "arrUsdReported": null,
+  "asOf": "2024-10-31",
+  "sourceUrl": "https://getlatka.com/companies/gitguardian.com",
+  "quote": "In 2024, GitGuardian's revenue reached $13.2M. The company previously reported $10M in 2023.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024, self-labeled Estimated); no company disclosure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Chainguard",
+  "aliases": [
+   "chainguard.dev"
+  ],
+  "category": "dev-saas",
+  "subcat": "software-supply-chain",
+  "url": "https://www.chainguard.dev",
+  "arrUsd": 40000000,
+  "arrUsdReported": null,
+  "asOf": "2025-04-23",
+  "sourceUrl": "https://www.securityweek.com/chainguard-raises-hefty-356m-series-d-at-3-5-billion-valuation/",
+  "quote": "Lorenc now boasts that its catalog has grown from 400 to 1,400 images in the past year, pushing revenue from $5 million to $40 million.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "CEO Dan Lorenc company-stated revenue of $40M at the $356M Series D / $3.5B valuation (SecurityWeek, 2025-04-23); same source notes a forecast of >$100M ARR for 2025 - forecast excluded from arrUsd",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Apify",
+  "aliases": [
+   "apify.com"
+  ],
+  "category": "dev-saas",
+  "subcat": "web-scraping-api",
+  "url": "https://apify.com",
+  "arrUsd": 13300000,
+  "arrUsdReported": null,
+  "asOf": "2024-10-31",
+  "sourceUrl": "https://getlatka.com/companies/apify.com",
+  "quote": "In 2024, Apify's revenue reached $13.3M. The company previously reported $6.4M in 2023.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024, self-labeled Estimated); headcount nearly doubled to 231 by April 2026, so the figure likely understates current revenue - no newer dated claim found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "SerpApi",
+  "aliases": [
+   "serpapi.com"
+  ],
+  "category": "dev-saas",
+  "subcat": "search-api",
+  "url": "https://serpapi.com",
+  "arrUsd": 3000000,
+  "arrUsdReported": null,
+  "asOf": "2025-06-30",
+  "sourceUrl": "https://getlatka.com/companies/serpapi.com",
+  "quote": "In 2025, SerpApi's revenue reached $3M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (June 2025, self-labeled Estimated); bootstrapped, no company disclosure",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Exa",
+  "aliases": [
+   "exa.ai",
+   "Metaphor"
+  ],
+  "category": "dev-saas",
+  "subcat": "ai-search-api",
+  "url": "https://exa.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-09-03",
+  "sourceUrl": "https://exa.ai/blog/announcing-series-b",
+  "quote": "We're thrilled to announce that Exa has raised an $85m Series B to be the search engine for AI.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$85M Series B led by Benchmark at $700M valuation raised 2025-09-03, funding-verified - Exa company blog; no public ARR claim - coverage row",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Tavily",
+  "aliases": [
+   "tavily.com"
+  ],
+  "category": "dev-saas",
+  "subcat": "web-search-api",
+  "url": "https://www.tavily.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-08-06",
+  "sourceUrl": "https://www.tavily.com/blog/big-news-from-tavily-announcing-25m-series-a-to-power-the-internet-of-agents",
+  "quote": "Tavily has raised a $25M Series A led by Insight Partners and Alpha Wave Global to power the next generation of autonomous AI agents.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$25M Series A led by Insight Partners and Alpha Wave Global raised 2025-08-06, funding-verified - Tavily company blog (corroborated by TechCrunch same date); no public ARR claim - coverage row",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Firecrawl",
+  "aliases": [
+   "firecrawl.dev",
+   "Mendable"
+  ],
+  "category": "dev-saas",
+  "subcat": "web-scraping-api",
+  "url": "https://www.firecrawl.dev",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-08-19",
+  "sourceUrl": "https://www.firecrawl.dev/blog/firecrawl-v2-series-a-announcement",
+  "quote": "Firecrawl just raised a $14.5M Series A led by Nexus Venture Partners.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$14.5M Series A led by Nexus Venture Partners raised 2025-08-19, funding-verified - Firecrawl company blog; no public ARR claim - coverage row",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Bardeen",
+  "aliases": [
+   "Bardeen.ai"
+  ],
+  "category": "agentic-automation",
+  "subcat": "workflow-automation",
+  "url": "https://www.bardeen.ai",
+  "arrUsd": 4500000,
+  "arrUsdReported": null,
+  "asOf": "2023-12-31",
+  "sourceUrl": "https://getlatka.com/companies/bardeen.ai",
+  "quote": "In 2023, Bardeen's revenue reached $4.5M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (last updated Dec 2023); no newer figure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "UiPath",
+  "aliases": [
+   "PATH"
+  ],
+  "category": "agentic-automation",
+  "subcat": "rpa-agentic-automation",
+  "url": "https://www.uipath.com",
+  "arrUsd": 1853000000,
+  "arrUsdReported": null,
+  "asOf": "2026-01-31",
+  "sourceUrl": "https://ir.uipath.com/news/detail/431/uipath-reports-fourth-quarter-and-full-year-fiscal-2026-financial-results",
+  "quote": "ARR of $1.853 billion as of January 31, 2026 increased 11 percent year-over-year.",
+  "confidence": "high",
+  "stale": false,
+  "basis": "official Q4/FY2026 earnings release (2026-03-11); audited ARR metric from a public company; fiscal year ends January 31",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Manus",
+  "aliases": [
+   "Butterfly Effect",
+   "Manus AI"
+  ],
+  "category": "agentic-automation",
+  "subcat": "general-ai-agent",
+  "url": "https://manus.im",
+  "arrUsd": 100000000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-17",
+  "sourceUrl": "https://manus.im/blog/manus-100m-arr",
+  "quote": "Manus has crossed $100M in ARR, eight months after launch. This makes us the fastest startup to go from $0 to $100M in the world.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "company-blog announcement (2025-12-17); total revenue run-rate $125M including usage-based revenue; ARR Club independently recorded $90M in Nov 2025 before this",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "OpenHands",
+  "aliases": [
+   "All Hands AI"
+  ],
+  "category": "agentic-automation",
+  "subcat": "coding-agents",
+  "url": "https://www.openhands.dev",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-11-18",
+  "sourceUrl": "https://www.openhands.dev/blog/weve-just-raised-18-8m-to-build-the-open-standard-for-autonomous-software-development",
+  "quote": "We raised $18.8M in a Series A led by Madrona to build the open, secure, and model-agnostic platform for cloud coding agents.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$18.8M Series A led by Madrona raised 2025-11-18, funding-verified - OpenHands company blog; no public ARR claim - coverage row",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Cline",
+  "aliases": [
+   "cline.bot"
+  ],
+  "category": "agentic-automation",
+  "subcat": "coding-agents",
+  "url": "https://cline.bot",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-07-31",
+  "sourceUrl": "https://cline.bot/blog/cline-raises-32m-series-a-and-seed-funding-building-the-open-source-ai-coding-agent-that-enterprises-trust",
+  "quote": "Cline has raised $32M in combined Series A and Seed funding, led by Emergence Capital and Pace Capital, with participation from 1984 Ventures, Essence VC, Cox Exponential, and angels including Jared Friedman, Theodore Browne, Logan Kilpatrick, Addy Osmani, and Eric Simons who believe in our vision of bringing Cline, the most powerful and trusted AI coding agent, to enterprise developers.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$32M combined Series A and Seed led by Emergence Capital and Pace Capital raised 2025-07-31, funding-verified - Cline company blog; no public ARR claim - coverage row",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Norm AI",
+  "aliases": [
+   "Norm Ai"
+  ],
+  "category": "agentic-automation",
+  "subcat": "regulatory-ai-agents",
+  "url": "https://www.norm.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-03-11",
+  "sourceUrl": "https://www.prnewswire.com/news-releases/norm-ai-secures-48-million-to-transform-regulations-into-compliance-ai-agents-302398351.html",
+  "quote": "Norm Ai, a leading Regulatory AI agent company, is today announcing $48 million in funding from Coatue, Craft Ventures, Vanguard, Blackstone Innovations Investments, Bain Capital, New York Life Ventures, Citi Ventures, TIAA Ventures, and Marc Benioff, bringing the total funds raised to $87 million over the past 18 months.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$48M Series B raised 2025-03-11, funding-verified - PRNewswire company release; no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Luminai",
+  "aliases": [],
+  "category": "agentic-automation",
+  "subcat": "healthcare-automation",
+  "url": "https://www.luminai.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2026-04-09",
+  "sourceUrl": "https://www.prnewswire.com/news-releases/luminai-raises-38-million-series-b-to-scale-intelligence-across-health-system-operations-302737804.html",
+  "quote": "Luminai, an AI-native enterprise automation platform purpose-built for healthcare operations, today announced the close of a $38 million Series B funding round, bringing total capital raised to $60 million.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$38M Series B led by Peak XV Partners raised 2026-04-09, funding-verified - PRNewswire company release; no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Browserbase",
+  "aliases": [
+   "browserbase.com"
+  ],
+  "category": "agentic-automation",
+  "subcat": "browser-agents",
+  "url": "https://www.browserbase.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-06-17",
+  "sourceUrl": "https://www.upstartsmedia.com/p/browserbase-raises-40m-and-launches-director",
+  "quote": "The 16-month-old infrastructure startup behind 'headless browsers' is now valued at $300 million and claims more than 1,000 customers.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$40M Series B led by Notable Capital raised June 2025 at $300M valuation, funding-verified - Browserbase company blog (2025-06-18) and Upstarts (2025-06-17); no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Browser Use",
+  "aliases": [
+   "browser-use.com"
+  ],
+  "category": "agentic-automation",
+  "subcat": "browser-agents",
+  "url": "https://browser-use.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-03-23",
+  "sourceUrl": "https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/",
+  "quote": "Browser Use told TechCrunch that it has raised a sizable $17 million seed funding round led by Felicis' Astasia Myers with participation from Paul Graham, A Capital, and Nexus Venture Partners.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$17M seed led by Felicis raised 2025-03-23, funding-verified - TechCrunch; no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Anchor Browser",
+  "aliases": [
+   "anchorbrowser.io",
+   "b0.dev"
+  ],
+  "category": "agentic-automation",
+  "subcat": "browser-agents",
+  "url": "https://www.anchorbrowser.io",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-10-22",
+  "sourceUrl": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/anchor-browser-raises-6m-seed-round-to-power-the-next-generation-1089129",
+  "quote": "Anchor Browser, the cloud browser for AI agents, has raised a $6M Seed round led by Blumberg Capital with participation from Gradient.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$6M seed led by Blumberg Capital raised 2025-10-22, funding-verified - ACCESS Newswire company release; no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "n8n",
+  "aliases": [
+   "n8n.io"
+  ],
+  "category": "agentic-automation",
+  "subcat": "workflow-automation",
+  "url": "https://n8n.io",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-03-24",
+  "sourceUrl": "https://venturecapital.com/news/funding-events/aifriendly-workflow-automation-startup-n8n-secures-60m-in-funding-20250324-221050-v1",
+  "quote": "Berlin-based startup n8n has raised €55 million ($60 million) in funding and plans to use the investment to enhance its technology and expand into new markets, including the U.S.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$60M (€55M) Series B led by Highland Europe raised March 2025 at ~€250M valuation (report sourced to TechCrunch); fivefold revenue increase disclosed but no absolute ARR - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "CrewAI",
+  "aliases": [
+   "crewai.com"
+  ],
+  "category": "agentic-automation",
+  "subcat": "agent-framework",
+  "url": "https://www.crewai.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-10-22",
+  "sourceUrl": "https://techcrunch.com/2024/10/22/crewai-uses-third-party-models-to-automate-business-tasks/",
+  "quote": "CrewAI has raised $18 million across seed and Series A rounds from backers, including Boldstart Ventures, Craft Ventures, Earl Grey Capital, and Insight Partners.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$18M across seed and Series A (Series A led by Insight Partners) reported 2024-10-22, funding-verified - TechCrunch; no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Suno",
+  "aliases": [
+   "suno.com",
+   "Suno AI"
+  ],
+  "category": "generative-media",
+  "subcat": "music",
+  "url": "https://suno.com",
+  "arrUsd": 300000000,
+  "arrUsdReported": null,
+  "asOf": "2026-02-26",
+  "sourceUrl": "https://www.billboard.com/pro/suno-2-million-paid-subscribers-300m-arr-revenue/",
+  "quote": "On Wednesday, Suno CEO and co-founder Mikey Shulman posted about two new milestones for his AI music company on X: 2 million paid subscribers and $300 million annual recurring revenue (ARR).",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "CEO-stated ARR posted on X (Feb 25, 2026) as reported by Billboard; GetLatka independently shows $200M ARR for 2025 - consistent trajectory",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Framer",
+  "aliases": [
+   "framer.com"
+  ],
+  "category": "generative-media",
+  "subcat": "web-design",
+  "url": "https://www.framer.com",
+  "arrUsd": 50000000,
+  "arrUsdReported": null,
+  "asOf": "2025-08-28",
+  "sourceUrl": "https://techcrunch.com/2025/08/28/no-code-website-builder-framer-reaches-2b-valuation/",
+  "quote": "According to a spokesperson, the company reached $50 million in annual recurring revenue this year, and aims to cross the $100 million threshold next year.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "company-stated ARR to TechCrunch at the $100M Series D / $2B valuation (2025-08-28); 'this year' = 2025; $100M 2026 target is a projection, excluded",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Kapwing",
+  "aliases": [
+   "kapwing.com"
+  ],
+  "category": "generative-media",
+  "subcat": "video-editing",
+  "url": "https://www.kapwing.com",
+  "arrUsd": 10400000,
+  "arrUsdReported": null,
+  "asOf": "2024-10-31",
+  "sourceUrl": "https://getlatka.com/companies/kapwing.com",
+  "quote": "In 2024, Kapwing's revenue reached $10.4M. The company previously reported $6.2M in 2023.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024, self-labeled Estimated); no company disclosure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Pictory",
+  "aliases": [
+   "Pictory.AI",
+   "pictory.ai"
+  ],
+  "category": "generative-media",
+  "subcat": "video-creation",
+  "url": "https://pictory.ai",
+  "arrUsd": 3900000,
+  "arrUsdReported": null,
+  "asOf": "2024-10-31",
+  "sourceUrl": "https://getlatka.com/companies/pictory.ai",
+  "quote": "In 2024, Pictory.AI's revenue reached $3.9M. The company previously reported $3.2M in 2023.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024, self-labeled Estimated); no company disclosure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Beatoven.ai",
+  "aliases": [
+   "Beatoven"
+  ],
+  "category": "generative-media",
+  "subcat": "music",
+  "url": "https://www.beatoven.ai",
+  "arrUsd": 2500000,
+  "arrUsdReported": null,
+  "asOf": "2025-07-31",
+  "sourceUrl": "https://getlatka.com/companies/beatoven.ai",
+  "quote": "In 2025, Beatoven.ai's revenue reached $2.5M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (July 2025 milestone, header self-labeled Est.); no company disclosure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "ElevenLabs",
+  "aliases": [
+   "Eleven Labs",
+   "elevenlabs.io"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-models",
+  "url": "https://elevenlabs.io",
+  "arrUsd": 500000000,
+  "arrUsdReported": null,
+  "asOf": "2026-05-05",
+  "sourceUrl": "https://elevenlabs.io/blog/500m-arr-and-new-investors",
+  "quote": "We ended 2025 with $350 million in ARR, and in the first four months of 2026, we have already surpassed $500 million ARR.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "company-blog announcement at the third close of its Series D (2026-05-05); Sacra separately estimates $600M ARR for June 2026 and GetLatka $500M (Jul 2026) - company statement kept",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Retell AI",
+  "aliases": [
+   "Retell",
+   "retellai.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-agent-infra",
+  "url": "https://www.retellai.com",
+  "arrUsd": 50000000,
+  "arrUsdReported": null,
+  "asOf": "2026-05-13",
+  "sourceUrl": "https://www.arr.club/retell/retell-scales-to-50m-arr-with-a-team-of-30-people",
+  "quote": "It has grown to $50M ARR with a team of 30 people, up from $5M at the start of 2025.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "ARR Club third-party milestone (May 13, 2026); the same tracker's history records $60M on Jun 1, 2026 - kept the fetched $50M sentence, newer datapoint noted; enterprisedna.co independently cites $50M",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Speechmatics",
+  "aliases": [
+   "speechmatics.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "speech-to-text",
+  "url": "https://www.speechmatics.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2022-06-28",
+  "sourceUrl": "https://www.speechmatics.com/company/articles-and-news/speechmatics-raises-usd62m-to-understand-every-voice-globally",
+  "quote": "Speechmatics, the leading speech recognition technology scaleup, has raised $62m in Series B funding. Led by Susquehanna Growth Equity with participation from existing investors AlbionVC and IQ Capital, the funding will be used to support Speechmatics' vision to be a world-leading speech platform, understanding every voice with human-level accuracy.",
+  "confidence": "medium",
+  "stale": true,
+  "basis": "$62M Series B led by Susquehanna Growth Equity (2022-06-28, company announcement); no public ARR claim - coverage row",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Gladia",
+  "aliases": [
+   "gladia.io"
+  ],
+  "category": "voice-ai",
+  "subcat": "speech-to-text",
+  "url": "https://www.gladia.io",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-10-15",
+  "sourceUrl": "https://www.prnewswire.com/news-releases/gladia-raises-16-million-in-series-a-funding-launches-the-first-multilingual-real-time-audio-transcription-and-analytics-engine-302275501.html",
+  "quote": "Gladia, an AI transcription and audio intelligence provider, has completed a USD $16 million Series A funding round.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$16M Series A led by XAnge raised 2024-10-15, funding-verified - PRNewswire company release; no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Fathom",
+  "aliases": [
+   "Fathom.ai",
+   "fathom.video"
+  ],
+  "category": "voice-ai",
+  "subcat": "ai-notetaker",
+  "url": "https://www.fathom.ai",
+  "arrUsd": 30000000,
+  "arrUsdReported": null,
+  "asOf": "2025-01-31",
+  "sourceUrl": "https://getlatka.com/companies/fathom.ai",
+  "quote": "Fathom reached $30 million in annual recurring revenue in 2025, up from $10 million in 2024 and $1 million in 2023.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka profile (updated 2026-09-01) whose milestone table dates the $30M to January 2025; trajectory 'zero to one, one to ten, and ten to 30' attributed to CEO Richard White; $17M Series A (2024-09) excluded as funding",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Papercup",
+  "aliases": [
+   "papercup.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "dubbing",
+  "url": "https://www.papercup.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2023-12-31",
+  "sourceUrl": "https://newdigitalage.co/technology/ai-start-up-papercup-raises-20m-to-generate-humanised-voices-for-ai-dubbing/",
+  "quote": "UK artificial intelligence start-up Papercup has completed a $20 million Series A investment round.",
+  "confidence": "medium",
+  "stale": true,
+  "basis": "$20M Series A, funding-verified - New Digital Age (article undated in fetch; Papercup's $20M Series A was announced mid-2023, recorded at year precision); no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Deepdub",
+  "aliases": [
+   "deepdub.ai"
+  ],
+  "category": "voice-ai",
+  "subcat": "dubbing",
+  "url": "https://deepdub.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2022-02-10",
+  "sourceUrl": "https://www.prnewswire.com/news-releases/deepdub-raises-20-million-in-series-a-funding-led-by-insight-partners-to-bring-ai-based-dubbing-global-301479228.html",
+  "quote": "Deepdub, the leader in AI-based entertainment localization, today announced that it has raised $20 million in Series A funding led by New York-based global venture capital and private equity firm Insight Partners, with participation from existing investors Booster Ventures and Stardom Ventures and new investors Swift VC.",
+  "confidence": "medium",
+  "stale": true,
+  "basis": "$20M Series A led by Insight Partners raised 2022-02-10, funding-verified - PRNewswire company release; no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
  }
 ]
