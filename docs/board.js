@@ -33,11 +33,11 @@ function rankProducts() {
   let list = products.filter((p) => boardCat === 'all' || p.category === boardCat);
   if (boardCat === 'physical' && boardSub) list = list.filter((p) => p.subcat === boardSub);
   if (sortKey === 'new') {
-    list = list.slice().sortKey((a, b) => (b.firstSeen || '').localeCompare(a.firstSeen || ''));
+    list = list.slice().sort((a, b) => (b.firstSeen || '').localeCompare(a.firstSeen || ''));
   } else if (sortKey === 'momentum') {
-    list = list.slice().sortKey((a, b) => (b.momentum || 0) - (a.momentum || 0));
+    list = list.slice().sort((a, b) => (b.momentum || 0) - (a.momentum || 0));
   } else {
-    list = list.slice().sortKey((a, b) => (b.arrUsd || 0) - (a.arrUsd || 0) || (b.momentum || 0) - (a.momentum || 0));
+    list = list.slice().sort((a, b) => (b.arrUsd || 0) - (a.arrUsd || 0) || (b.momentum || 0) - (a.momentum || 0));
   }
   return list;
 }
