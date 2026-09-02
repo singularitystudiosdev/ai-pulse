@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-02 22:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-02 22:38 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 432 HF upvotes · v 432 | 432 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
+| [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 433 HF upvotes · v 433 | 433 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
 | [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 337 HF upvotes · v 337 | 337 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
 | [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://huggingface.co/papers/2608.31106) | Jiashu Zhu | 93 HF upvotes · v 93 | 93 HF upvotes · "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Reso" · model release |
 | [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | Shaowen Wang | 70 HF upvotes · v 70 | 70 HF upvotes · "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers" · model release |
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Ok, THIS is wild, never expected anything like this:  Uber exited Nigeria… no warning, just shut down the app…](https://x.com/GergelyOrosz/status/2095256757178188113) | [@GergelyOrosz](https://x.com/GergelyOrosz) | 3734♥ 284RT · v 4439.4 | 4439 velocity · 3734♥ 284RT · 261674 views · 2h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
