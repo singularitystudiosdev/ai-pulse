@@ -23,7 +23,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A data/ archive/ README.md
+          git add -A data/ docs/data/ archive/ README.md
           git diff --cached --quiet || git commit -m "feed: $(date -u +%F-%H:%M) [skip ci]"
           for i in 1 2 3; do
             git pull --rebase --autostash origin main && git push && break || sleep $((i*10))

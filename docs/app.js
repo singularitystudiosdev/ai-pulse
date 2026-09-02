@@ -244,6 +244,62 @@ function wire() {
 
   $('hide-seen').addEventListener('change', (e) => { hideSeen = e.target.checked; render(); });
 
+  // Run button: opens the workflow's dispatch page (GitHub's own Run button —
+  // dispatching needs an auth token, so we can't do it from a static page),
+  // then polls feed.json until the agent's fresh commit lands.
+  const ACTIONS_URL = 'https://github.com/singularitystudiosdev/ai-pulse/actions/workflows/feed.yml';
+  const POLL_MS = 30_000;
+  const POLL_MAX_MS = 12 * 60_000;
+  let baseline = null;
+  let watchTimer = null;
+
+  const setRun = (state) => {
+    const btn = $('run-btn');
+    const label = $('run-label');
+    btn.classList.remove('busy', 'fresh');
+    if (state === 'busy') { btn.classList.add('busy'); label.textContent = '⏳ agent running — watching…'; }
+    else if (state === 'fresh') { btn.classList.add('fresh'); label.textContent = '✓ fresh data landed'; }
+    else label.textContent = '▶ Run agent now';
+  };
+
+  async function pollForFresh() {
+    try {
+      const res = await fetch(`data/feed.json?t=${Date.now()}`, { cache: 'no-store' });
+      if (!res.ok) return false;
+      const data = await res.json();
+      if (baseline && data.generatedAt && data.generatedAt !== baseline) {
+        items = data.items || [];
+        baseline = data.generatedAt;
+        $('updated').textContent = `updated ${new Date(data.generatedAt).toISOString().slice(11, 16)} UTC`;
+        setRun('fresh');
+        render();
+        setTimeout(() => setRun('idle'), 8000);
+        return true;
+      }
+    } catch { /* next tick */ }
+    return false;
+  }
+
+  $('run-btn').addEventListener('click', () => {
+    if (watchTimer) return; // already watching
+    // capture the current generatedAt as the "before" snapshot
+    fetch(`data/feed.json?t=${Date.now()}`, { cache: 'no-store' })
+      .then((r) => r.json())
+      .then((d) => { baseline = d.generatedAt || null; })
+      .catch(() => {});
+    setRun('busy');
+    window.open(ACTIONS_URL, '_blank', 'noopener');
+    const started = Date.now();
+    watchTimer = setInterval(async () => {
+      if (Date.now() - started > POLL_MAX_MS) {
+        clearInterval(watchTimer); watchTimer = null;
+        setRun('idle');
+        return;
+      }
+      if (await pollForFresh()) { clearInterval(watchTimer); watchTimer = null; }
+    }, POLL_MS);
+  });
+
   $('reset').addEventListener('click', () => {
     localStorage.removeItem(KEY);
     store = load();

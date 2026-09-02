@@ -1,9 +1,10 @@
-// Machine feed for the Pages front-end: flat, newest-first, capped. The site
-// fetches data/feed.json directly — no backend, no auth, same commit cycle.
+// Machine feed for the Pages front-end: flat, newest-first, capped. Lives
+// under docs/ because Pages publishes ONLY that folder — repo-root data/ is
+// not served. No backend, no auth, same commit cycle.
 import { writeFileSync, mkdirSync } from 'node:fs';
 import { dirname } from 'node:path';
 
-const FEED_PATH = 'data/feed.json';
+const FEED_PATH = 'docs/data/feed.json';
 const CAP = 200;
 
 export function exportFeed(state) {

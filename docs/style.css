@@ -121,6 +121,25 @@ body {
   background: rgba(108, 140, 255, 0.12);
 }
 
+.run {
+  border: 1px solid rgba(61, 220, 132, 0.4);
+  background: rgba(61, 220, 132, 0.1);
+  color: #6fe3a1;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all .18s;
+}
+
+.run:hover { background: rgba(61, 220, 132, 0.2); border-color: #3ddc84; }
+
+.run.busy { color: var(--dim); border-color: var(--line); background: var(--bg2); cursor: default; }
+
+.run.fresh { color: #3ddc84; border-color: #3ddc84; }
+
 .toggle {
   display: inline-flex;
   align-items: center;
