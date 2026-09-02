@@ -15,17 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-02 12:44 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-02 12:50 UTC · runs every 30 min · 0 secrets, no X API
 
-### 🧠 Model releases (5)
+### 🧠 Model releases (1)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 287 HF upvotes · v 287 | 287 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
-| [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 243 HF upvotes · v 243 | 243 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
-| [Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://huggingface.co/papers/2608.30821) | Minghan Qin | 96 HF upvotes · v 96 | 96 HF upvotes · "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Mo" · model release |
-| [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://huggingface.co/papers/2608.31106) | Jiashu Zhu | 93 HF upvotes · v 93 | 93 HF upvotes · "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Reso" · model release |
-| [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | Shaowen Wang | 59 HF upvotes · v 59 | 59 HF upvotes · "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers" · model release |
+| [Fable 5.1 on the Boeing 747 benchmark result - I think it's amazing and clearly better than 5.0 🔥   (sharing…](https://x.com/victormustar/status/2094901703468306626)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2094901668609507328/img/5pCN_3ITk2LcBAhs.jpg) | [@victormustar](https://x.com/victormustar) | 131♥ 7RT · v 7.9 | 7.9 velocity · 131♥ 7RT · 7875 views · 15h old · matched "benchmark" |
 
 ### 🚀 AI SaaS launches (4)
 
