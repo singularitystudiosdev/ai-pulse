@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ai-pulse — AI on X, ranked</title>
+  <meta name="description" content="Live feed of AI model releases, SaaS launches, embodied AI and viral posts on X — no API, no auth, updated every 30 minutes.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <span class="pulse-dot" aria-hidden="true"></span>
+      <h1>ai<span class="accent">-</span>pulse</h1>
+    </div>
+    <p class="tagline">AI on X, ranked. <span id="updated">loading…</span></p>
+    <nav class="controls" aria-label="Feed controls">
+      <div class="tabs" role="tablist" aria-label="Sort">
+        <button class="tab active" id="tab-velocity" role="tab" aria-selected="true">⚡ Velocity</button>
+        <button class="tab" id="tab-foryou" role="tab" aria-selected="false">✨ For You</button>
+      </div>
+      <div class="chips" role="group" aria-label="Category filter">
+        <button class="chip active" data-cat="all">All</button>
+        <button class="chip" data-cat="1">🧠 Models</button>
+        <button class="chip" data-cat="2">🚀 SaaS</button>
+        <button class="chip" data-cat="3">🦾 Embodied</button>
+        <button class="chip" data-cat="4">🔥 Viral</button>
+      </div>
+      <label class="toggle">
+        <input type="checkbox" id="hide-seen">
+        <span>hide seen</span>
+      </label>
+    </nav>
+  </header>
+
+  <main>
+    <div id="learn-hint" class="hint" hidden>
+      ✨ <strong>For You</strong> learns from what you ★ and open — star a few posts and it starts shaping this order.
+    </div>
+    <div id="grid" class="grid" aria-live="polite"></div>
+    <div id="empty" class="empty" hidden>
+      <p>Nothing here right now.</p>
+      <p class="sub">The agent runs every 30 minutes — <span id="empty-refresh">try refreshing in a bit</span>.</p>
+    </div>
+  </main>
+
+  <footer class="foot">
+    <button id="reset" class="ghost">reset what I've taught it</button>
+    <span class="sep">·</span>
+    <span id="stats">—</span>
+    <span class="sep">·</span>
+    <a href="https://github.com/singularitystudiosdev/ai-pulse" target="_blank" rel="noopener">repo</a>
+    <span class="sep">·</span>
+    <a href="https://github.com/singularitystudiosdev/ai-pulse/tree/main/archive" target="_blank" rel="noopener">archives</a>
+    <p class="note">Everything you ★ or open stays in <em>your browser</em> — it never leaves this device.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
