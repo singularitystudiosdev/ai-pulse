@@ -8,6 +8,7 @@ concurrency:
   cancel-in-progress: false
 permissions:
   contents: write
+  actions: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -28,3 +29,22 @@ jobs:
           for i in 1 2 3; do
             git pull --rebase --autostash origin main && git push && break || sleep $((i*10))
           done
+      # Self-perpetuating 24/7 loop: each run queues the next, paced to >=5 min
+      # by a runs-per-hour cap. GitHub's scheduler missed every cron slot since
+      # registration (07:15-07:30 UTC) — this keeps the agent alive regardless.
+      - name: Chain next run
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          CUTOFF=$(date -u -d '1 hour ago' +%Y-%m-%dT%H:%M:%SZ)
+          COUNT=$(gh api "repos/$REPO/actions/runs?per_page=100" \
+            --jq '[.workflow_runs[] | select(.created_at > "'"$CUTOFF"'")] | length')
+          echo "runs in last hour: $COUNT"
+          if [ "$COUNT" -lt 10 ]; then
+            gh api -X POST "repos/$REPO/actions/workflows/feed.yml/dispatches" -f ref=main
+            echo "next run queued"
+          else
+            echo "hourly cap reached — cron and the chain's own pacing take over"
+          fi
