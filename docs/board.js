@@ -16,7 +16,7 @@ let products = [];
 let boardCat = 'all';
 let boardSub = null;
 let sortKey = 'arr';
-const $ = (id) => document.getElementById(id);
+const b$ = (id) => document.getElementById(id);
 
 function fmtArr(usd) {
   if (!usd) return null;
