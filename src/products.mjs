@@ -46,8 +46,6 @@ export function seedRegistry(state) {
   }
   const now = new Date().toISOString();
   let added = 0;
-  const now = new Date().toISOString();
-  let added = 0;
   for (const s of seeds) {
     const slug = slugify(s.name.split(' (')[0]); // "Pocket (AI notetaker…)" -> pocket
     const existing = state.products[slug];
