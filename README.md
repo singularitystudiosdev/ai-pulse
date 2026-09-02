@@ -5,7 +5,7 @@
 > **🏆 Leaderboards** — successful AI products ranked by reported ARR, momentum
 > and newness, across Physical AI (🎖 Military / 📱 Consumer / 🏭 Industrial),
 > Developer SaaS, Normie SaaS, Agents & Automation, Creative & Video AI, Voice AI.
-> Every number carries a dated source link. The registry spans 280+ products —
+> Every number carries a dated source link. The registry spans 530+ products —
 > a verified claim ledger for the leaders, plus a Physical-AI landscape seed
 > (260+ companies from the YC companies API, Wikipedia robotics lists and
 > Google News coverage); the agent keeps it current by scraping X, HN, Reddit,
