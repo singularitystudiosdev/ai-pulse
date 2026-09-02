@@ -1,0 +1,10 @@
+{
+  "name": "ai-pulse",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node src/run.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
