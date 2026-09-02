@@ -1,9 +1,15 @@
-# ai-pulse — AI on X, ranked
+# ai-pulse — AI product intelligence, ranked
 
-> **🌐 Open the live feed: https://singularitystudiosdev.github.io/ai-pulse/**
+> **🌐 Open it: https://singularitystudiosdev.github.io/ai-pulse/**
 >
-> Fresh X/Twitter AI posts (model releases, SaaS launches, embodied AI, viral posts),
-> discovered via HN Algolia + Hugging Face + fxtwitter. No X API, no auth, 0 secrets.
+> **🏆 Leaderboards** — successful AI products ranked by reported ARR, momentum
+> and newness, across Physical AI (🎖 Military / 📱 Consumer / 🏭 Industrial),
+> Developer SaaS, Normie SaaS, Agents & Automation, Creative & Video AI, Voice AI.
+> Every number carries a dated source link. Seeded from a verified 24-product
+> ledger; the agent keeps it current by scraping X, HN, Reddit, Product Hunt
+> and Google News every 30 minutes. No API keys, no auth, 0 secrets.
+>
+> **📡 Live feed** — fresh AI posts from X/HN/HF, ranked by velocity.
 
 <!--START_SECTION:feed-->
 
