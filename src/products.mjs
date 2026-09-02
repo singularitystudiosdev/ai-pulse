@@ -78,6 +78,54 @@ export function seedRegistry(state) {
     };
     added++;
   }
+  for (const path of ['data/yc-physical-seed.json', 'data/physical-registry-seed.json']) {
+    added += mergeSeedFile(state, path);
+  }
+  return added;
+}
+
+// Landscape seeds (YC companies API, robotics directories): coverage rows,
+// most without claims. Ledger rows always win — a seed never downgrades one.
+function mergeSeedFile(state, path) {
+  if (!existsSync(path)) return 0;
+  let seeds;
+  try {
+    seeds = JSON.parse(readFileSync(path, 'utf8'));
+  } catch (e) {
+    console.error(`${path} unreadable: ${e.message}`);
+    return 0;
+  }
+  let added = 0;
+  for (const s of seeds) {
+    if (!s?.name) continue;
+    const slug = slugify(s.name.split(' (')[0]);
+    if (!slug || state.products[slug]) continue;
+    state.products[slug] = {
+      slug,
+      name: s.name.split(' (')[0],
+      url: s.url || null,
+      category: 'physical',
+      subcat: s.subcat || 'industrial',
+      tagline: s.tagline || null,
+      aliases: [],
+      seeded: true,
+      arrUsd: s.arrUsd ?? null,
+      arrUsdReported: s.arrUsd ?? null,
+      basis: s.yc ? 'YC companies API listing' : (s.sourceUrl ? `listed by ${s.sourceUrl}` : null),
+      stale: false,
+      confidence: s.arrUsd ? 'medium' : null,
+      arrAsOf: s.asOf ?? null,
+      arrSource: s.arrUsd && (s.claimSource || s.sourceUrl)
+        ? { url: s.claimSource || s.sourceUrl, date: s.asOf, quote: null, confidence: 'medium' }
+        : null,
+      arrHistory: [],
+      momentum: 0,
+      mentions: [],
+      firstSeen: new Date().toISOString(),
+      lastSeen: new Date().toISOString(),
+    };
+    added++;
+  }
   return added;
 }
 

@@ -37,7 +37,10 @@ function rankProducts() {
   } else if (sortKey === 'momentum') {
     list = list.slice().sort((a, b) => (b.momentum || 0) - (a.momentum || 0));
   } else {
-    list = list.slice().sort((a, b) => (b.arrUsd || 0) - (a.arrUsd || 0) || (b.momentum || 0) - (a.momentum || 0));
+    // ARR first; the unranked tail (no public claim) by traction, then freshness.
+    list = list.slice().sort((a, b) => (b.arrUsd || 0) - (a.arrUsd || 0)
+      || (b.mentions?.length || 0) - (a.mentions?.length || 0)
+      || (b.firstSeen || '').localeCompare(a.firstSeen || ''));
   }
   return list;
 }
