@@ -1,4 +1,4 @@
-// Leaderboard view: category → sortKey → ranked product rows. Data comes from
+// Leaderboard view: category → sortKey → rankProducts product rows. Data comes from
 // data/products.json (agent-committed). fx patterns: tab-pill (animated active
 // tab), ticker (ARR count-up), reveal (IO stagger), lift (hover).
 'use strict';
@@ -29,7 +29,7 @@ function platformIcon(p) {
   return { x: '𝕏', hn: 'Y', reddit: 'R', ph: 'P' }[p] || p;
 }
 
-function ranked() {
+function rankProducts() {
   let list = products.filter((p) => boardCat === 'all' || p.category === boardCat);
   if (boardCat === 'physical' && boardSub) list = list.filter((p) => p.subcat === boardSub);
   if (sortKey === 'new') {
@@ -163,7 +163,7 @@ function momentumPct(p) {
 function renderBoard() {
   const grid = b$('board-rows');
   grid.textContent = '';
-  const list = ranked();
+  const list = rankProducts();
   document.getElementById('board-empty').hidden = list.length > 0;
   list.forEach((p, i) => grid.append(row(p, i)));
   document.getElementById('board-count').textContent =
