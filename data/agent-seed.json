@@ -1,0 +1,544 @@
+[
+ {
+  "name": "ChatGPT",
+  "aliases": [
+   "OpenAI",
+   "ChatGPT Ads",
+   "GPT-5"
+  ],
+  "category": "consumer-ai",
+  "subcat": null,
+  "url": "https://openai.com",
+  "arrUsd": 1000000000,
+  "asOf": "2026-08-31",
+  "sourceUrl": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+  "quote": "In less than 200 days after launch, ChatGPT Ads has reached $1 billion in annualized revenue run rate.",
+  "confidence": "high",
+  "stale": false,
+  "basis": "company-announced annualized run-rate for the ChatGPT Ads segment ONLY, not total OpenAI/ChatGPT revenue (Bloomberg reported >$40B total on 2026-08-13, paywalled, unverified)",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "HeyGen",
+  "category": "generative-media",
+  "subcat": null,
+  "url": "https://www.heygen.com",
+  "arrUsd": 200000000,
+  "asOf": "2026-06-25",
+  "sourceUrl": "https://www.heygen.com/blog/heygen-surpasses-200m-arr",
+  "quote": "HeyGen, the identity-first AI video platform, today announced it has surpassed $200 million in annual recurring revenue, doubling in eight months.",
+  "confidence": "high",
+  "stale": false,
+  "basis": "company-blog announcement by CEO Joshua Xu, self-reported ARR",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Genspark",
+  "category": "agentic-automation",
+  "subcat": null,
+  "url": "https://www.genspark.ai",
+  "arrUsd": 250000000,
+  "asOf": "2026-06-17",
+  "sourceUrl": "https://www.reuters.com/technology/gensparkai-valued-26-billion-latest-funding-round-2026-06-17/",
+  "quote": "Genspark said it added $150 million in annual recurring revenue (ARR) in the first three months of 2026, on top of the $100 million ARR it generated since launching in April 2025.",
+  "confidence": "high",
+  "stale": false,
+  "basis": "company-stated to Reuters at Series B extension: $100M (Apr-Dec 2025) + $150M (Q1 2026) = $250M cumulative run-rate",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Grok",
+  "aliases": [
+   "xAI"
+  ],
+  "category": "consumer-ai",
+  "subcat": null,
+  "url": "https://x.ai",
+  "arrUsd": 500000000,
+  "asOf": "2026-07-17",
+  "sourceUrl": "https://aibusinessweekly.net/p/grok-ai-statistics",
+  "quote": "xAI's estimated annual recurring revenue is approximately $500 million against a burn rate near $1 billion per month per Bloomberg.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party estimate (newsletter citing Bloomberg, dated 2026-03-24, updated 2026-07-17); no company disclosure - xAI is now a SpaceX subsidiary",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Character.AI",
+  "aliases": [
+   "Character AI",
+   "c.ai"
+  ],
+  "category": "consumer-ai",
+  "subcat": null,
+  "url": "https://character.ai",
+  "arrUsd": 30000000,
+  "asOf": "2025-07-01",
+  "sourceUrl": "https://sacra.com/c/character-ai/",
+  "quote": "Sacra estimates that Character.AI hit $30 million in annualized revenue in July 2025. The company projects that it will hit $50 million at the end of 2025.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party Sacra estimate (self-labeled); primary revenue is the $9.99/mo c.ai+ subscription; Business of Apps separately estimates $50M CY2025 revenue",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Descript",
+  "category": "generative-media",
+  "subcat": null,
+  "url": "https://www.descript.com",
+  "arrUsd": 55000000,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://sacra.com/c/descript/",
+  "quote": "Sacra estimates that Descript hit $55M in annual recurring revenue (ARR) in late 2024, representing 75% year-over-year growth.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party Sacra estimate (self-labeled); no company-disclosed revenue figure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Cluely",
+  "category": "agentic-automation",
+  "subcat": null,
+  "url": "https://cluely.com",
+  "arrUsd": 5200000,
+  "asOf": "2025-06-30",
+  "sourceUrl": "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/",
+  "quote": "here's what we were doing at the time: > consumer arr 2.7m, run rate 3.8m > enterprise arr 2.5m, run rate 2.5m",
+  "confidence": "medium",
+  "stale": true,
+  "basis": "founder-posted Stripe figures (June 2025) in his retraction: $2.7M consumer + $2.5M enterprise ARR = $5.2M; the earlier $7M ARR claim was admitted fabricated",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "RizzGPT",
+  "aliases": [
+   "Plug AI",
+   "PlugAI"
+  ],
+  "category": "consumer-ai",
+  "subcat": null,
+  "url": "https://plugai.app",
+  "arrUsd": 7400000,
+  "asOf": "2024-10-07",
+  "sourceUrl": "https://www.forbes.com/sites/josipamajic/2024/10/07/hacking-the-app-store-gen-zs-15m-arr-bootstrapped-success-story/",
+  "quote": "They've co-founded three successful apps: RizzGPT, Umax, and Cal AI, collectively generating an impressive $15.4 million in annual recurring revenue (ARR).",
+  "confidence": "low",
+  "stale": true,
+  "basis": "DERIVED: Forbes' $15.4M ARR for the RizzGPT+Umax+Cal AI portfolio minus Cal AI's stated $8M ARR (same article) = ~$7.4M combined for RizzGPT+Umax; per-app split never disclosed - do not double-count with a Umax row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Chai",
+  "aliases": [
+   "CHAI",
+   "Chai Research"
+  ],
+  "category": "consumer-ai",
+  "subcat": "companion",
+  "url": "https://chai-research.com",
+  "arrUsd": 48000000,
+  "asOf": "2025-10-31",
+  "sourceUrl": "https://finance.yahoo.com/news/chai-48m-revenue-funding-round-053800897.html",
+  "quote": "surpassed its 2025 revenue target two months ahead of schedule, reaching $48 million by the end of October. The company now projects over $50 million in annual recurring revenue (ARR) by year-end",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "company PR Newswire release (republished by Yahoo Finance); $48M is revenue through Oct 2025, >$50M ARR is the company year-end projection",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Tolan",
+  "aliases": [
+   "Portola"
+  ],
+  "category": "consumer-ai",
+  "subcat": "companion",
+  "url": "https://www.tolans.com",
+  "arrUsd": 12000000,
+  "asOf": "2025-07-16",
+  "sourceUrl": "https://readthesignal.co/p/ai-companion-tolan-4m-to-12m-arr",
+  "quote": "Four months later, its ARR has reached $12 million, with over 3 million downloads. That attracted Tolan a $20 million Series A round led by Khosla Ventures.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party Substack analysis; corroborated by ARR Club milestone page dated 2025-07-04 ($12M, +780%)",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Plaud",
+  "aliases": [
+   "Plaud AI",
+   "Plaud Note",
+   "Plaud Pin"
+  ],
+  "category": "voice-ai",
+  "subcat": "ai-notetaker",
+  "url": "https://plaud.com",
+  "arrUsd": 100000000,
+  "asOf": "2026-06-16",
+  "sourceUrl": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+  "quote": "It also said that its subscription business has reached more than $100 million in annualized revenue run rate.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "company-stated software/subscription ARR only, told to TechCrunch; excludes hardware sales",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Turbo AI",
+  "aliases": [
+   "Turbolearn"
+  ],
+  "category": "consumer-ai",
+  "subcat": "study-notetaker",
+  "url": "https://turbolearn.ai",
+  "arrUsd": 10000000,
+  "asOf": "2025-10-23",
+  "sourceUrl": "https://techcrunch.com/2025/10/23/20-year-old-dropouts-built-ai-notetaker-turbo-ai-to-5-million-users/",
+  "quote": "Five million users. Eight-figure annual recurring revenue. Twenty thousand new users joining daily.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "founder-stated eight-figure ARR to TechCrunch; no exact number, $10M recorded as the floor",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Umax",
+  "aliases": [
+   "Umax - become hot"
+  ],
+  "category": "consumer-ai",
+  "subcat": "looksmaxxing",
+  "url": "https://umax.app",
+  "arrUsd": 6000000,
+  "asOf": "2025-10-23",
+  "sourceUrl": "https://techcrunch.com/2025/10/23/20-year-old-dropouts-built-ai-notetaker-turbo-ai-to-5-million-users/",
+  "quote": "Dhawan previously built UMax, an advice app that promised to make people more attractive and reached No. 1 on the App Store with 20 million users and $6 million in annual revenue.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "founder-stated to TechCrunch; supersedes the derived RizzGPT+Umax split in the RizzGPT basis note",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "MiniMax",
+  "aliases": [
+   "Talkie",
+   "Talkie: Creative AI Community",
+   "Hailuo AI"
+  ],
+  "category": "consumer-ai",
+  "subcat": "companion",
+  "url": "https://www.minimax.io",
+  "arrUsd": 150000000,
+  "asOf": "2026-02-28",
+  "sourceUrl": "https://www.siliconreport.com/minimaxs-first-post-ipo-results-beat-expectations-arr-exceeds-150-million-transitioning-to-82629a48febee92d",
+  "quote": "The Hong Kong-listed AI firm annual recurring revenue exceeded $150 million as of February 2026, management revealed during the earnings call.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "company-disclosed ARR at first post-IPO earnings (HK-listed); company-wide figure - consumer products (Hailuo + Talkie) were $53.1M of 2025 revenue",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Otter.ai",
+  "aliases": [
+   "Otter",
+   "Otter AI"
+  ],
+  "category": "voice-ai",
+  "subcat": "ai-notetaker",
+  "url": "https://otter.ai",
+  "arrUsd": 100000000,
+  "asOf": "2025-03-31",
+  "sourceUrl": "https://otter.ai/blog/otter-ai-caps-transformational-2025-with-100m-arr-milestone-industry-first-ai-meeting-agents-and-global-enterprise-expansion",
+  "quote": "In March 2025, Otter.ai surpassed $100 million in annual recurring revenue.",
+  "confidence": "high",
+  "stale": false,
+  "basis": "company-blog press release dated 2025-12-22 announcing the March 2025 milestone; GetLatka independently lists $100M for 2025",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Duolingo",
+  "aliases": [
+   "Duolingo Max"
+  ],
+  "category": "consumer-ai",
+  "subcat": "learning",
+  "url": "https://www.duolingo.com",
+  "arrUsd": 1000000000,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://www.nasdaq.com/press-release/duolingo-reports-fourth-quarter-and-full-year-2025-results-2026-02-26",
+  "quote": "We closed 2025 with strong momentum, surpassing 50 million daily active users and generating more than $1 billion in bookings for the first time, said Luis von Ahn, Co-Founder and CEO of Duolingo.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "FY2025 BOOKINGS (not ARR) from official Q4/FY2025 earnings release, Feb 26 2026",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "PolyBuzz",
+  "aliases": [
+   "Poly.AI chat"
+  ],
+  "category": "consumer-ai",
+  "subcat": "companion",
+  "url": "https://www.polybuzz.ai",
+  "arrUsd": 24000000,
+  "asOf": "2026-08-31",
+  "sourceUrl": "https://apprank.io/polybuzz-chat-with-ai-friends",
+  "quote": "Monthly Revenue $2.0M / Yearly Revenue $24.0M / Per Download $2.86",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party app-intelligence estimate (AppRank, Aug 2026); #30 in top-grossing Entertainment",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Linky",
+  "aliases": [
+   "Linky AI: Chat, Play, Connect"
+  ],
+  "category": "consumer-ai",
+  "subcat": "companion",
+  "url": "https://www.linky-ai.com",
+  "arrUsd": 1100000,
+  "asOf": "2026-08-31",
+  "sourceUrl": "https://apprank.io/linky-ai-chat-play-connect",
+  "quote": "Monthly Revenue $90.0K / Yearly Revenue $1.1M / Per Download $1.50",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party AppRank estimate (Aug 2026); Android revenue may not be fully captured",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Grammarly",
+  "aliases": [
+   "Grammarly Go"
+  ],
+  "category": "consumer-ai",
+  "subcat": "writing",
+  "url": "https://www.grammarly.com",
+  "arrUsd": 700000000,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/grammarly",
+  "quote": "In 2025, Grammarly revenue reached $700M. The company previously reported $700M in 2024.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (self-labeled); no company-disclosed figure found - upgrades the charted-but-claim-less entry",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Picsart",
+  "aliases": [
+   "PicsArt AI"
+  ],
+  "category": "consumer-ai",
+  "subcat": "photo-video",
+  "url": "https://picsart.com",
+  "arrUsd": 750000000,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/picsart",
+  "quote": "In 2024, PicsArt revenue reached $750M. The company previously reported $259M in 2020.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate; treat as upper bound - only the 2021 $1.5B Series C valuation is company-public",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "FaceApp",
+  "aliases": [
+   "Wireless Lab"
+  ],
+  "category": "consumer-ai",
+  "subcat": "photo-editing",
+  "url": "https://faceapp.com",
+  "arrUsd": 80000000,
+  "asOf": "2022-01-31",
+  "sourceUrl": "https://getlatka.com/companies/faceapp",
+  "quote": "In 2022, FaceApp revenue reached $80M. The company previously reported $50M in 2021.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate for 2022; no newer figure - app still #6 in top-grossing Photo & Video",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Lightricks",
+  "aliases": [
+   "Facetune",
+   "Photoleap",
+   "Videoleap",
+   "LTX Studio"
+  ],
+  "category": "consumer-ai",
+  "subcat": "photo-video",
+  "url": "https://www.lightricks.com",
+  "arrUsd": 80700000,
+  "asOf": "2024-06-30",
+  "sourceUrl": "https://getlatka.com/companies/lightricks",
+  "quote": "In 2024, Lightricks revenue reached $80.7M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate; covers Facetune #5, Videoleap and Photoleap in top-grossing Photo & Video",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Brainly",
+  "aliases": [
+   "Brainly AI",
+   "Lyn (Brainly AI)"
+  ],
+  "category": "consumer-ai",
+  "subcat": "homework",
+  "url": "https://brainly.com",
+  "arrUsd": 75000000,
+  "asOf": "2025-08-31",
+  "sourceUrl": "https://getlatka.com/companies/brainly",
+  "quote": "In 2025, Brainly revenue reached $75M. The company previously reported $59.6M in 2024.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (self-labeled Estimated); strongest figure for the homework-AI cluster",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Lensa AI",
+  "aliases": [
+   "Prisma Labs",
+   "Lensa"
+  ],
+  "category": "consumer-ai",
+  "subcat": "photo-editing",
+  "url": "https://lensa-ai.com",
+  "arrUsd": 20200000,
+  "asOf": "2024-10-31",
+  "sourceUrl": "https://getlatka.com/companies/lensa-ai",
+  "quote": "In 2024, Prisma Labs revenue reached $20.2M. The company previously reported $16.2M in 2023.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (self-labeled Est.); does not reflect the Dec-2022 viral spike; still #91 top-grossing Photo & Video",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Replika",
+  "aliases": [
+   "Luka",
+   "Replika AI"
+  ],
+  "category": "consumer-ai",
+  "subcat": "companion",
+  "url": "https://replika.com",
+  "arrUsd": 14000000,
+  "asOf": "2024-06-30",
+  "sourceUrl": "https://getlatka.com/companies/replika.ai",
+  "quote": "In 2026, Replika revenue reached $4.8M. The company previously reported $14M in 2024.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimates CONFLICT with each other ($14M 2024 / $4.8M 2026) and with other estimates (~$35M); $14M kept as last pre-decline estimate - flagged, unreliable",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Fireflies.ai",
+  "aliases": [
+   "Fireflies"
+  ],
+  "category": "voice-ai",
+  "subcat": "ai-notetaker",
+  "url": "https://fireflies.ai",
+  "arrUsd": 10900000,
+  "asOf": "2024-10-31",
+  "sourceUrl": "https://getlatka.com/companies/fireflies.ai",
+  "quote": "In 2024, Fireflies.ai revenue reached $10.9M. The company previously reported $5.8M in 2023.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (self-labeled Estimated); $1B valuation 2025 but no newer revenue disclosure",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Read AI",
+  "aliases": [
+   "Read"
+  ],
+  "category": "voice-ai",
+  "subcat": "ai-notetaker",
+  "url": "https://www.read.ai",
+  "arrUsd": 6900000,
+  "asOf": "2024-06-30",
+  "sourceUrl": "https://getlatka.com/companies/read.ai",
+  "quote": "In 2024, Read.ai revenue reached $6.9M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate; no company disclosure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Speechify",
+  "aliases": [
+   "Speechify text to speech"
+  ],
+  "category": "voice-ai",
+  "subcat": "text-to-speech",
+  "url": "https://speechify.com",
+  "arrUsd": 17600000,
+  "asOf": "2025-05-01",
+  "sourceUrl": "https://getlatka.com/companies/speechify",
+  "quote": "2025 Revenue $17.6M",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate; founder claims profitability in press but no ARR figure - GetLatka is the only dated revenue claim",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Boomy",
+  "aliases": [
+   "Boomy Corporation"
+  ],
+  "category": "generative-media",
+  "subcat": "music",
+  "url": "https://boomy.com",
+  "arrUsd": 1400000,
+  "asOf": "2025-06-30",
+  "sourceUrl": "https://getlatka.com/companies/boomy",
+  "quote": "In 2025, Boomy revenue reached $1.4M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate; the only dated consumer-AI-music claim besides Suno",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "SnapCalorie",
+  "aliases": [],
+  "category": "consumer-ai",
+  "subcat": "nutrition",
+  "url": "https://snapcalorie.com",
+  "arrUsd": 1000000,
+  "asOf": "2024-06-30",
+  "sourceUrl": "https://getlatka.com/companies/snapcalorie",
+  "quote": "In 2024, SnapCalorie revenue reached $1M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (YC company, 7 employees); floor-value row",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ }
+]

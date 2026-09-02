@@ -78,14 +78,16 @@ export function seedRegistry(state) {
     };
     added++;
   }
-  for (const path of ['data/yc-physical-seed.json', 'data/physical-registry-seed.json']) {
+  for (const path of ['data/yc-physical-seed.json', 'data/physical-registry-seed.json', 'data/agent-seed.json']) {
     added += mergeSeedFile(state, path);
   }
   return added;
 }
 
-// Landscape seeds (YC companies API, robotics directories): coverage rows,
-// most without claims. Ledger rows always win — a seed never downgrades one.
+// Landscape seeds (YC companies API, robotics directories) and agent-seeded
+// rows (data/agent-seed.json — verified claims dropped by a research agent).
+// Ledger rows always win — a seed never downgrades one. Rows without a
+// category are landscape coverage and default to physical/industrial.
 function mergeSeedFile(state, path) {
   if (!existsSync(path)) return 0;
   let seeds;
@@ -100,24 +102,26 @@ function mergeSeedFile(state, path) {
     if (!s?.name) continue;
     const slug = slugify(s.name.split(' (')[0]);
     if (!slug || state.products[slug]) continue;
+    const category = s.category ? (LEDGER_ALIASES[s.category] || s.category) : 'physical';
+    const isLandscape = category === 'physical';
     state.products[slug] = {
       slug,
       name: s.name.split(' (')[0],
       url: s.url || null,
-      category: 'physical',
-      subcat: s.subcat || 'industrial',
+      category,
+      subcat: s.subcat || (isLandscape ? 'industrial' : null),
       tagline: s.tagline || null,
-      aliases: [],
+      aliases: s.aliases || [],
       teamSize: s.teamSize ?? null,
       seeded: true,
       arrUsd: s.arrUsd ?? null,
       arrUsdReported: s.arrUsd ?? null,
-      basis: s.yc ? 'YC companies API listing' : (s.sourceUrl ? `listed by ${s.sourceUrl}` : null),
-      stale: false,
-      confidence: s.arrUsd ? 'medium' : null,
+      basis: s.basis || (s.yc ? 'YC companies API listing' : (s.sourceUrl ? `listed by ${s.sourceUrl}` : null)),
+      stale: !!s.stale,
+      confidence: s.confidence ?? (s.arrUsd ? 'medium' : null),
       arrAsOf: s.asOf ?? null,
       arrSource: s.arrUsd && (s.claimSource || s.sourceUrl)
-        ? { url: s.claimSource || s.sourceUrl, date: s.asOf, quote: null, confidence: 'medium' }
+        ? { url: s.claimSource || s.sourceUrl, date: s.asOf, quote: s.quote ?? null, confidence: s.confidence ?? 'medium' }
         : null,
       arrHistory: [],
       momentum: 0,
@@ -133,6 +137,35 @@ function mergeSeedFile(state, path) {
     added++;
   }
   return added;
+}
+
+// Register a discovery candidate if the slug is free. Returns true if added.
+export function registerProduct(state, { name, url, category, subcat = null, tagline = null, aliases = [], basis, confidence = null, mentions = [] }) {
+  const slug = slugify(name);
+  if (!slug || state.products[slug]) return false;
+  state.products[slug] = {
+    slug,
+    name,
+    url: url || null,
+    category,
+    subcat,
+    tagline,
+    aliases,
+    seeded: true,
+    arrUsd: null,
+    arrUsdReported: null,
+    basis: basis || null,
+    stale: false,
+    confidence,
+    arrAsOf: null,
+    arrSource: null,
+    arrHistory: [],
+    momentum: 0,
+    mentions,
+    firstSeen: new Date().toISOString(),
+    lastSeen: new Date().toISOString(),
+  };
+  return true;
 }
 
 // Extract a revenue claim (USD) from text, as {usd, quote} or null.

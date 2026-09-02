@@ -69,7 +69,7 @@ async function main() {
   const products = await updateProducts(state, candidates);
   saveState(state);
 
-  console.log(`products: seeded=${products.seeded} corpus=${products.corpusSize} matched=${products.matched} claims=${products.claims} exported=${products.exported}`);
+  console.log(`products: seeded=${products.seeded} corpus=${products.corpusSize} matched=${products.matched} claims=${products.claims} charts=${products.charts} chartMentions=${products.chartMentions} chartRegistered=${products.chartRegistered} focus=[${products.focus?.join(',')}] redditFocus=[${products.redditFocus?.join(',')}] exported=${products.exported}`);
 
   console.log(`runs=${state.counters.runs} candidates=${candidates.length} gated=${gated.length} picks=${picks.length} found=${counts[1]}/${counts[2]}/${counts[3]}/${counts[4]} drops=${drops.length}`);
   if (drops.length) console.log(`drop sample: ${drops.slice(0, 8).join(' | ')}`);

@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node src/run.mjs"
+    "build": "node src/run.mjs",
+    "report": "node src/report.mjs"
   },
   "engines": { "node": ">=20" }
 }
