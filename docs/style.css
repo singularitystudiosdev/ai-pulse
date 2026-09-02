@@ -155,6 +155,8 @@ body {
   border-bottom: 1px solid var(--line);
 }
 
+.favbar[hidden] { display: none; }
+
 .favbar-label {
   font-size: 12px;
   font-weight: 800;
