@@ -140,6 +140,74 @@ body {
 
 .run.fresh { color: #3ddc84; border-color: #3ddc84; }
 
+.favbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  max-width: 1080px;
+  margin: 6px auto 0;
+  padding: 8px 20px;
+  background: rgba(11, 14, 20, 0.85);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--line);
+}
+
+.favbar-label {
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--gold);
+  white-space: nowrap;
+  letter-spacing: .3px;
+}
+
+.favbar-chips {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.favbar-chips::-webkit-scrollbar { display: none; }
+
+.fav-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid rgba(255, 201, 77, 0.35);
+  background: rgba(255, 201, 77, 0.07);
+  color: var(--text);
+  padding: 4px 6px 4px 11px;
+  border-radius: 999px;
+  font-size: 12.5px;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: all .18s;
+  animation: chip-in .3s cubic-bezier(.2, .8, .3, 1);
+}
+
+@keyframes chip-in {
+  from { opacity: 0; transform: translateX(-8px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+.fav-chip:hover { background: rgba(255, 201, 77, 0.16); border-color: var(--gold); }
+
+.fav-chip .fx {
+  border: 0;
+  background: transparent;
+  color: var(--faint);
+  font-size: 13px;
+  cursor: pointer;
+  padding: 0 3px;
+  line-height: 1;
+  border-radius: 50%;
+}
+
+.fav-chip .fx:hover { color: #ff637f; }
+
 .toggle {
   display: inline-flex;
   align-items: center;

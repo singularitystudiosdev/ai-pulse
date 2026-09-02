@@ -27,6 +27,26 @@ function load() {
 let store = load();
 const save = () => localStorage.setItem(KEY, JSON.stringify(store));
 
+// Favorites carry their own snapshot (url/title/category) so chips keep working
+// even after the item rotates out of feed.json. Legacy entries stored a bare
+// timestamp — hydrate what we can from the live feed, drop the rest.
+function favMeta(item) {
+  return { ts: Date.now(), url: item.url, text: item.text, category: item.category, user: item.user };
+}
+
+function hydrateFavs() {
+  const byId = new Map(items.map((i) => [i.id, i]));
+  let changed = false;
+  for (const [id, v] of Object.entries(store.favs)) {
+    if (typeof v === 'number') {
+      const it = byId.get(id);
+      if (it) { store.favs[id] = favMeta(it); store.favs[id].ts = v; changed = true; }
+      else { delete store.favs[id]; changed = true; }
+    }
+  }
+  if (changed) save();
+}
+
 // Same tokenizer as the pipeline (src/util.mjs) so profile terms line up.
 function tokenize(text) {
   return String(text || '')
@@ -78,7 +98,10 @@ function affinity(item) {
 }
 
 function ranked() {
-  let list = items.filter((i) => catFilter === 'all' || i.category === +catFilter);
+  let list;
+  if (catFilter === 'fav') list = items.filter((i) => store.favs[i.id]);
+  else if (catFilter === 'all') list = items;
+  else list = items.filter((i) => i.category === +catFilter);
   if (hideSeen) list = list.filter((i) => !store.seen[i.id]);
   const maxV = Math.max(...list.map((i) => i.velocity || 0), 1);
   return list.map((i) => {
@@ -140,9 +163,10 @@ function card(item, idx) {
   star.textContent = '★';
   star.addEventListener('click', () => {
     if (store.favs[item.id]) { delete store.favs[item.id]; }
-    else { store.favs[item.id] = Date.now(); learn(item, FAV_W); }
+    else { store.favs[item.id] = favMeta(item); learn(item, FAV_W); }
     star.classList.toggle('on', !!store.favs[item.id]);
     star.setAttribute('aria-pressed', String(!!store.favs[item.id]));
+    renderFavBar();
     stats();
   });
   top.append(star);
@@ -208,7 +232,51 @@ function render() {
   $('empty').hidden = list.length > 0;
   $('learn-hint').hidden = !(sort === 'foryou' && store.events < HINT_AT);
   list.forEach((item, i) => grid.append(card(item, i)));
+  renderFavBar();
   stats();
+}
+
+// Sticky favorites tray under the header: one chip per star, newest first.
+// Chips are self-contained links — click opens the post, ✕ unstards.
+function renderFavBar() {
+  const bar = $('favbar');
+  const wrap = $('favbar-chips');
+  const favs = Object.entries(store.favs)
+    .map(([id, v]) => ({ id, ...(typeof v === 'number' ? { ts: v } : v) }))
+    .sort((a, b) => (b.ts || 0) - (a.ts || 0));
+  bar.hidden = favs.length === 0;
+  wrap.textContent = '';
+  for (const f of favs) {
+    const chip = document.createElement('a');
+    chip.className = 'fav-chip';
+    chip.href = f.url || '#';
+    chip.target = '_blank';
+    chip.rel = 'noopener';
+    const icon = document.createElement('span');
+    icon.textContent = (CATS[f.category] || '★').split(' ')[0];
+    const label = document.createElement('span');
+    const txt = f.text || f.url || id;
+    label.textContent = txt.length > 34 ? txt.slice(0, 33) + '…' : txt;
+    chip.append(icon, label);
+    chip.addEventListener('click', () => {
+      const it = items.find((i) => i.id === id);
+      if (it && !store.seen[id]) { store.seen[id] = Date.now(); learn(it, CLICK_W); }
+      stats();
+    });
+    const x = document.createElement('button');
+    x.className = 'fx';
+    x.setAttribute('aria-label', 'remove from favorites');
+    x.textContent = '✕';
+    x.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      delete store.favs[id];
+      save();
+      render();
+    });
+    chip.append(x);
+    wrap.append(chip);
+  }
 }
 
 function stats() {
@@ -314,6 +382,7 @@ async function boot() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
     items = data.items || [];
+    hydrateFavs();
     const when = data.generatedAt ? new Date(data.generatedAt) : null;
     $('updated').textContent = when
       ? `updated ${when.toISOString().slice(11, 16)} UTC`

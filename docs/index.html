@@ -26,6 +26,7 @@
         <button class="chip" data-cat="2">🚀 SaaS</button>
         <button class="chip" data-cat="3">🦾 Embodied</button>
         <button class="chip" data-cat="4">🔥 Viral</button>
+        <button class="chip" data-cat="fav">★ Favorites</button>
       </div>
       <button id="run-btn" class="run" title="Triggers the agent on GitHub Actions, then watches for fresh data">
         <span id="run-label">▶ Run agent now</span>
@@ -36,6 +37,11 @@
       </label>
     </nav>
   </header>
+
+  <div id="favbar" class="favbar" hidden>
+    <span class="favbar-label">★ favorites</span>
+    <div id="favbar-chips" class="favbar-chips"></div>
+  </div>
 
   <main>
     <div id="learn-hint" class="hint" hidden>
