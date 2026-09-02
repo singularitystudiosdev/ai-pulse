@@ -121,7 +121,9 @@ function mergeSeedFile(state, path) {
       arrHistory: [],
       momentum: 0,
       mentions: [],
-      firstSeen: new Date().toISOString(),
+      // Directory rows have no discovery date — null, which isNew() treats as
+      // not-new. Import date would light a 🔥 badge on all 250+ rows.
+      firstSeen: s.asOf ?? null,
       lastSeen: new Date().toISOString(),
     };
     added++;
