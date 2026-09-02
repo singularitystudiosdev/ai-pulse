@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-02 21:57 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-02 22:02 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Meta has released Muse Spark 1.3, their fourth Muse Spark model release in five months. Muse Spark 1.3 (max),…](https://x.com/ArtificialAnlys/status/2095247787277553929)<br>![card](https://pbs.twimg.com/media/HRPNDv3aoAA3EDU.jpg?name=orig) | [@ArtificialAnlys](https://x.com/ArtificialAnlys) | 975♥ 109RT · v 4507.7 | 4508 velocity · 975♥ 109RT · 272878 views · 1h old · matched "claude", "grok" |
-| [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 426 HF upvotes · v 426 | 426 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
+| [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 427 HF upvotes · v 427 | 427 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
 | [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 336 HF upvotes · v 336 | 336 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
 | [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://huggingface.co/papers/2608.31106) | Jiashu Zhu | 93 HF upvotes · v 93 | 93 HF upvotes · "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Reso" · model release |
 | [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | Shaowen Wang | 69 HF upvotes · v 69 | 69 HF upvotes · "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers" · model release |
+| [UI-Venus-2 Technical Report](https://huggingface.co/papers/2609.00028) | Venus Team | 54 HF upvotes · v 54 | 54 HF upvotes · "UI-Venus-2 Technical Report" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
