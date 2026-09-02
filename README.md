@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-02 15:48 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-02 16:33 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 325 HF upvotes · v 325 | 325 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
-| [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 320 HF upvotes · v 320 | 320 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
-| [Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://huggingface.co/papers/2608.30821) | Minghan Qin | 97 HF upvotes · v 97 | 97 HF upvotes · "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Mo" · model release |
+| [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 349 HF upvotes · v 349 | 349 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
+| [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 335 HF upvotes · v 335 | 335 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
 | [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://huggingface.co/papers/2608.31106) | Jiashu Zhu | 93 HF upvotes · v 93 | 93 HF upvotes · "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Reso" · model release |
-| [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | Shaowen Wang | 66 HF upvotes · v 66 | 66 HF upvotes · "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers" · model release |
+| [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | Shaowen Wang | 67 HF upvotes · v 67 | 67 HF upvotes · "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers" · model release |
+| [UI-Venus-2 Technical Report](https://huggingface.co/papers/2609.00028) | Venus Team | 53 HF upvotes · v 53 | 53 HF upvotes · "UI-Venus-2 Technical Report" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | masteranza | 168 HN points · v 316 | 168 HN points · 74 comments · Show HN |
-| [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"](https://hnmatchmaker.com/) | all2 | 103 HN points · v 189 | 103 HN points · 43 comments · Show HN |
+| [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | masteranza | 170 HN points · v 318 | 170 HN points · 74 comments · Show HN |
+| [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"](https://hnmatchmaker.com/) | all2 | 103 HN points · v 191 | 103 HN points · 44 comments · Show HN |
 | [Show HN: Supafork – Share and Fork Sessions Across Harnesses](https://www.supafork.com) | supafork | 15 HN points · v 33 | 15 HN points · 9 comments · Show HN |
 | [Show HN: Selfship.ai – Surface and fix isues with your agentic applications 24x7](https://selfship.ai/) | pranny | 10 HN points · v 30 | 10 HN points · 10 comments · Show HN |
 
