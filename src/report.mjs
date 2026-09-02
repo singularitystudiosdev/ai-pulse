@@ -3,8 +3,8 @@
 import { readFileSync } from 'node:fs';
 import { loadState } from './state.mjs';
 
-// Board coverage targets per category (the user's ask: normie ~= 50+).
-const TARGETS = { normie: 50, dev: 20, agents: 20, creative: 20, voice: 20, physical: 260 };
+// Board coverage targets per category (the user's ask: ~50+ per board).
+const TARGETS = { normie: 50, dev: 50, agents: 50, creative: 50, voice: 50, physical: 260 };
 
 function pct(n, d) {
   return d ? `${Math.round((n / d) * 100)}%` : '—';

@@ -178,6 +178,10 @@ function renderBoard() {
   list.forEach((p, i) => grid.append(row(p, i)));
   document.getElementById('board-count').textContent =
     `${list.length} product${list.length === 1 ? '' : 's'}`;
+  // The field row only filters within Physical AI — hide it for every other
+  // category instead of showing buttons that do nothing.
+  const fieldRow = document.getElementById('subrow-physical');
+  if (fieldRow) fieldRow.hidden = boardCat !== 'physical';
 }
 
 function wireBoard() {
