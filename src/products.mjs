@@ -123,7 +123,10 @@ function mergeSeedFile(state, path) {
       mentions: [],
       // Directory rows have no discovery date — null, which isNew() treats as
       // not-new. Import date would light a 🔥 badge on all 250+ rows.
-      firstSeen: s.asOf ?? null,
+      // YC launched_at arrives as Unix seconds; normalize either epoch to ISO.
+      firstSeen: typeof s.asOf === 'number'
+        ? new Date(s.asOf * (s.asOf < 1e12 ? 1000 : 1)).toISOString()
+        : (s.asOf ?? null),
       lastSeen: new Date().toISOString(),
     };
     added++;
