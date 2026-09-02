@@ -1,9 +1,9 @@
-// Leaderboard view: category → sort → ranked product rows. Data comes from
+// Leaderboard view: category → sortKey → ranked product rows. Data comes from
 // data/products.json (agent-committed). fx patterns: tab-pill (animated active
 // tab), ticker (ARR count-up), reveal (IO stagger), lift (hover).
 'use strict';
 
-const CATS = {
+const BCATS = {
   physical: { emoji: '🦾', name: 'Physical AI', subcats: { military: '🎖 Military', consumer: '📱 Consumer', industrial: '🏭 Industrial' } },
   dev: { emoji: '🛠', name: 'Developer SaaS' },
   normie: { emoji: '🧑‍💻', name: 'Normie SaaS' },
@@ -13,9 +13,9 @@ const CATS = {
 };
 
 let products = [];
-let cat = 'all';
-let sub = null;
-let sort = 'arr';
+let boardCat = 'all';
+let boardSub = null;
+let sortKey = 'arr';
 const $ = (id) => document.getElementById(id);
 
 function fmtArr(usd) {
@@ -30,14 +30,14 @@ function platformIcon(p) {
 }
 
 function ranked() {
-  let list = products.filter((p) => cat === 'all' || p.category === cat);
-  if (cat === 'physical' && sub) list = list.filter((p) => p.subcat === sub);
-  if (sort === 'new') {
-    list = list.slice().sort((a, b) => (b.firstSeen || '').localeCompare(a.firstSeen || ''));
-  } else if (sort === 'momentum') {
-    list = list.slice().sort((a, b) => (b.momentum || 0) - (a.momentum || 0));
+  let list = products.filter((p) => boardCat === 'all' || p.category === boardCat);
+  if (boardCat === 'physical' && boardSub) list = list.filter((p) => p.subcat === boardSub);
+  if (sortKey === 'new') {
+    list = list.slice().sortKey((a, b) => (b.firstSeen || '').localeCompare(a.firstSeen || ''));
+  } else if (sortKey === 'momentum') {
+    list = list.slice().sortKey((a, b) => (b.momentum || 0) - (a.momentum || 0));
   } else {
-    list = list.slice().sort((a, b) => (b.arrUsd || 0) - (a.arrUsd || 0) || (b.momentum || 0) - (a.momentum || 0));
+    list = list.slice().sortKey((a, b) => (b.arrUsd || 0) - (a.arrUsd || 0) || (b.momentum || 0) - (a.momentum || 0));
   }
   return list;
 }
@@ -67,7 +67,7 @@ function row(p, i) {
   el.style.setProperty('--i', Math.min(i, 14));
 
   const rank = document.createElement('span');
-  rank.className = 'rank' + (i === 0 && sort === 'arr' ? ' gold' : '');
+  rank.className = 'rank' + (i === 0 && sortKey === 'arr' ? ' gold' : '');
   rank.textContent = String(i + 1);
 
   const main = document.createElement('span');
@@ -161,7 +161,7 @@ function momentumPct(p) {
 }
 
 function renderBoard() {
-  const grid = $('board-rows');
+  const grid = b$('board-rows');
   grid.textContent = '';
   const list = ranked();
   document.getElementById('board-empty').hidden = list.length > 0;
@@ -173,23 +173,23 @@ function renderBoard() {
 function wireBoard() {
   for (const chip of document.querySelectorAll('[data-bcat]')) {
     chip.addEventListener('click', () => {
-      cat = chip.dataset.bcat;
-      sub = null;
+      boardCat = chip.dataset.bcat;
+      boardSub = null;
       for (const c of document.querySelectorAll('[data-bcat]')) c.classList.toggle('active', c === chip);
       renderBoard();
     });
   }
   for (const chip of document.querySelectorAll('[data-bsub]')) {
     chip.addEventListener('click', () => {
-      sub = chip.dataset.bsub;
+      boardSub = chip.dataset.bsub;
       for (const c of document.querySelectorAll('[data-bsub]')) c.classList.toggle('active', c === chip);
       renderBoard();
     });
   }
-  const pill = document.getElementById('sort-pill');
+  const pill = document.getElementById('sortKey-pill');
   for (const tab of document.querySelectorAll('[data-bsort]')) {
     tab.addEventListener('click', () => {
-      sort = tab.dataset.bsort;
+      sortKey = tab.dataset.bsort;
       for (const t of document.querySelectorAll('[data-bsort]')) t.classList.toggle('is-active', t === tab);
       movePill(tab);
       renderBoard();
@@ -203,7 +203,7 @@ function wireBoard() {
 }
 
 function movePill(btn) {
-  const pill = document.getElementById('sort-pill');
+  const pill = document.getElementById('sortKey-pill');
   if (!pill || !btn) return;
   pill.style.left = btn.offsetLeft + 'px';
   pill.style.width = btn.offsetWidth + 'px';
