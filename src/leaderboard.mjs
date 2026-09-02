@@ -23,6 +23,9 @@ const CAP = 400;
 // full of GPT wrappers and keyword-stuffed names that pollute the board.
 const AI_APP_RE = /\b(ai|a\.i\.|gpt|chatbot|copilot|claude|gemini|grok|llm|agent|companion)\b/i;
 const CHART_REGISTER_MAX_RANK = 50;
+// The free charts are wrapper-heavy, but the productivity top-25 is clean
+// (assistant incumbents) — a narrower gate than grossing.
+const CHART_FREE_MAX_RANK = 25;
 
 // Chart names often carry a brand token for a product already registered
 // ("Gemini Notebook" ≈ Google Gemini). Map tokens -> registry slugs so
@@ -161,7 +164,8 @@ function ingestCharts(state, charts, match, now) {
         chartMentions++;
         observeMention(state, { slug, platform: mention.platform, url: mention.url, date: mention.date, engagement, text: null });
       }
-    } else if (c.kind.startsWith('top-grossing') && c.rank <= CHART_REGISTER_MAX_RANK
+    } else if (((c.kind.startsWith('top-grossing') && c.rank <= CHART_REGISTER_MAX_RANK)
+      || (c.kind === 'top-free-productivity' && c.rank <= CHART_FREE_MAX_RANK))
       && AI_APP_RE.test(c.name)
       && !APPSTORE_NAME_BLOCKLIST.test(c.name)
       && !(c.artist && APPSTORE_PUBLISHER_BLOCKLIST.some((pub) => c.artist.toLowerCase().includes(pub)))) {
