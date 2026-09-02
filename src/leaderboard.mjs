@@ -16,7 +16,7 @@ import { writeFileSync, mkdirSync } from 'node:fs';
 import { dirname } from 'node:path';
 
 const OUT_PATH = 'docs/data/products.json';
-const CAP = 400;
+const CAP = 600; // registry passed 455 — the old 400 silently sliced claim-less Tier-2 rows off the board
 
 // An app-store chart name worth registering when no registry row matched.
 // Only the top-grossing feed carries a revenue signal — the free charts are

@@ -1651,5 +1651,1230 @@
   "basis": "raised $26M Series A (doubled from $13M, Redpoint-led Jul 2025) with Octopus Ventures and CommerzVentures (2026-06-01); 900% revenue growth but no absolute ARR - board ranks by mentions",
   "sourceType": "press",
   "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Veed.io",
+  "aliases": [
+   "Veed",
+   "veed.io"
+  ],
+  "category": "generative-media",
+  "subcat": "video-editing",
+  "url": "https://www.veed.io",
+  "arrUsd": 50000000,
+  "arrUsdReported": null,
+  "asOf": "2026-09-02",
+  "sourceUrl": "https://getlatka.com/companies/veed",
+  "quote": "Veed generates $50M in revenue.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (page updated 2026-09-02); CONFLICT with the same page's milestone table ($40M for 2024) - kept the newer header figure",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Synthesia",
+  "aliases": [
+   "synthesia.io"
+  ],
+  "category": "generative-media",
+  "subcat": "avatar",
+  "url": "https://www.synthesia.io",
+  "arrUsd": 100000000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/synthesia.io",
+  "quote": "In 2025, Synthesia's revenue reached $100M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (updated Jul 3, 2026; prior milestone $62M June 2024); no newer company disclosure",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "D-ID",
+  "aliases": [
+   "d-id.com"
+  ],
+  "category": "generative-media",
+  "subcat": "avatar",
+  "url": "https://www.d-id.com",
+  "arrUsd": 33600000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/d-id.com",
+  "quote": "In 2024, D-ID's revenue reached $33.6M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (November 2024 milestone); no newer figure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Colossyan",
+  "aliases": [
+   "colossyan.com"
+  ],
+  "category": "generative-media",
+  "subcat": "avatar",
+  "url": "https://www.colossyan.com",
+  "arrUsd": 6600000,
+  "arrUsdReported": null,
+  "asOf": "2023-12-31",
+  "sourceUrl": "https://getlatka.com/companies/colossyan.com",
+  "quote": "In 2023, Colossyan's revenue reached $6.6M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (last updated Dec 2023); no newer figure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Tavus",
+  "aliases": [
+   "tavus.io"
+  ],
+  "category": "generative-media",
+  "subcat": "avatar",
+  "url": "https://www.tavus.io",
+  "arrUsd": 1900000,
+  "arrUsdReported": null,
+  "asOf": "2023-12-31",
+  "sourceUrl": "https://getlatka.com/companies/tavus.io",
+  "quote": "In 2023, Tavus's revenue reached $1.9M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (last updated Dec 2023); floor-value row",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Kling AI",
+  "aliases": [
+   "Kuaishou Kling"
+  ],
+  "category": "generative-media",
+  "subcat": "video-gen",
+  "url": "https://klingai.com",
+  "arrUsd": 240000000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://www.prnewswire.com/news-releases/kling-ai-annualized-revenue-run-rate-hits-usd240-million-in-december-2025-302659847.html",
+  "quote": "Kling AI, achieved monthly revenue exceeding USD 20 Million in December 2025, corresponding to an Annualized Revenue Run Rate (ARR) of USD 240 Million.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "company-disclosed run-rate via Kuaishou Technology IR release (2026-01-13); later coverage suggesting ~$500M for Kuaishou's AI unit overall unverified, excluded",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Freepik",
+  "aliases": [
+   "Magnific"
+  ],
+  "category": "generative-media",
+  "subcat": "creative-suite",
+  "url": "https://www.freepik.com",
+  "arrUsd": 230000000,
+  "arrUsdReported": null,
+  "asOf": "2026-04-29",
+  "sourceUrl": "https://leb.business/en/article/freepik-becomes-magnific-as-spanish-ai-platform-hits-230m-arr",
+  "quote": "CEO Joaquín Cuenca Abela said the rebranded company is generating $230 million in annual recurring revenue.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "company-stated ARR at the Freepik-to-Magnific rebrand (reported 2026-04-28/29, Fortune and LeBusiness); bootstrapped, self-reported",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Stability AI",
+  "aliases": [
+   "Stable Diffusion"
+  ],
+  "category": "generative-media",
+  "subcat": "image-models",
+  "url": "https://stability.ai",
+  "arrUsd": 50000000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://sacra.com/c/stability-ai/",
+  "quote": "Sacra estimates that Stability AI generated $50M in revenue for 2024, up from $8M in 2023",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party Sacra estimate (self-labeled); no company-disclosed revenue figure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Pika",
+  "aliases": [
+   "Pika Labs",
+   "pika.art"
+  ],
+  "category": "generative-media",
+  "subcat": "video-gen",
+  "url": "https://pika.art",
+  "arrUsd": 7600000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/pika.art",
+  "quote": "In 2024, Pika's revenue reached $7.6M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024 milestone); $470M valuation 2025 excluded",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Ideogram",
+  "aliases": [
+   "ideogram.ai"
+  ],
+  "category": "generative-media",
+  "subcat": "image-models",
+  "url": "https://ideogram.ai",
+  "arrUsd": 7000000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/ideogram.ai",
+  "quote": "In 2025, Ideogram's revenue reached $7M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (updated 2026-09-02); no company disclosure",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Recraft",
+  "aliases": [
+   "Recraft AI"
+  ],
+  "category": "generative-media",
+  "subcat": "design-models",
+  "url": "https://www.recraft.ai",
+  "arrUsd": 8400000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/recraft.ai",
+  "quote": "In 2025, Recraft AI's revenue reached $8.4M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (updated 2026-09-02); no company disclosure",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Krea",
+  "aliases": [
+   "krea.ai"
+  ],
+  "category": "generative-media",
+  "subcat": "creative-tools",
+  "url": "https://www.krea.ai",
+  "arrUsd": 5800000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/krea.ai",
+  "quote": "In 2025, Krea's revenue reached $5.8M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate; CONFLICT with its own April 2025 milestone ($8M) - kept the newer page estimate",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Leonardo.AI",
+  "aliases": [
+   "Leonardo.Ai"
+  ],
+  "category": "generative-media",
+  "subcat": "creative-tools",
+  "url": "https://leonardo.ai",
+  "arrUsd": 16000000,
+  "arrUsdReported": null,
+  "asOf": "2024-06-30",
+  "sourceUrl": "https://getlatka.com/companies/leonardo.ai",
+  "quote": "Leonardo.AI Hit $16m revenue in June 2024",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (June 2024, self-labeled Estimated); acquired by Canva in 2024",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Decart",
+  "aliases": [
+   "decart.ai"
+  ],
+  "category": "generative-media",
+  "subcat": "realtime-video-models",
+  "url": "https://www.decart.ai",
+  "arrUsd": 12600000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/decart.ai",
+  "quote": "In 2024, Decart's revenue reached $12.6M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (last updated Nov 23, 2025); $153M funding excluded",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Moonvalley",
+  "aliases": [
+   "Marey"
+  ],
+  "category": "generative-media",
+  "subcat": "video-gen",
+  "url": "https://moonvalley.ai",
+  "arrUsd": 5000000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/moonvalley.ai",
+  "quote": "In 2024, Moonvalley's revenue reached $5M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (updated Aug 10, 2026, figure for 2024); no newer figure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "OpusClip",
+  "aliases": [
+   "Opus Pro",
+   "opus.pro"
+  ],
+  "category": "generative-media",
+  "subcat": "video-clipping",
+  "url": "https://www.opus.pro",
+  "arrUsd": 10300000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/opus.pro",
+  "quote": "In 2025, OpusClip's revenue reached $10.3M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (self-labeled Estimated); $36M funding excluded",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Submagic",
+  "aliases": [
+   "SubMagic"
+  ],
+  "category": "generative-media",
+  "subcat": "video-captions",
+  "url": "https://www.submagic.co",
+  "arrUsd": 8000000,
+  "arrUsdReported": null,
+  "asOf": "2025-06-30",
+  "sourceUrl": "https://getlatka.com/companies/submagic.co",
+  "quote": "2025 SubMagic Hit $8m revenue in June 2025",
+  "confidence": "low",
+  "stale": false,
+  "basis": "GetLatka milestone sourced to a founder interview ('current $8M ARR run rate', team of 13, June 2025)",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "InVideo",
+  "aliases": [
+   "invideo.io"
+  ],
+  "category": "generative-media",
+  "subcat": "video-creation",
+  "url": "https://invideo.io",
+  "arrUsd": 70000000,
+  "arrUsdReported": null,
+  "asOf": "2025-03-31",
+  "sourceUrl": "https://www.moneycontrol.com/news/business/startup/inside-invideo-s-70-million-arr-growth-story-a-hacker-mindset-entrepreneurial-surge-and-product-market-fit-challenge-12980201.html",
+  "quote": "The AI-driven video creation platform took off, helping InVideo break past its slump and achieve $70 million in annual recurring revenue (ARR).",
+  "confidence": "medium",
+  "stale": true,
+  "basis": "$70M ARR per co-founder Sanket Shah interview with Moneycontrol (2025-03-31); supersedes GetLatka $30M 2024 - newer founder-stated figure",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Haiper",
+  "aliases": [
+   "haiper.ai"
+  ],
+  "category": "generative-media",
+  "subcat": "video-gen",
+  "url": "https://haiper.ai",
+  "arrUsd": 2000000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/haiper.ai",
+  "quote": "In 2025, Haiper's revenue reached $2M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (self-labeled Estimated); $19M funding excluded",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "PixVerse",
+  "aliases": [
+   "AIsphere"
+  ],
+  "category": "generative-media",
+  "subcat": "video-gen",
+  "url": "https://pixverse.ai",
+  "arrUsd": 40000000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://www.yicaiglobal.com/news/aisphere-raises-usd300-million-most-by-a-chinese-text-to-video-startup-report-says",
+  "quote": "The company has more than USD40 million in annual recurring revenue at the end of last year, and the user base of its app, called PixVerse overseas and Paiwo AI in China, exceeded 100 million in October, with more than 16 million monthly active users.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "ARR above $40M at end-2025, reported by Yicai (2026-03-12) citing LatePost; supersedes the GetLatka $3M estimate - same report covers the $300M Series C (funding, excluded)",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Hedra",
+  "aliases": [
+   "hedra.com"
+  ],
+  "category": "generative-media",
+  "subcat": "character-video",
+  "url": "https://www.hedra.com",
+  "arrUsd": 3500000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/hedra.com",
+  "quote": "In 2025, Hedra's revenue reached $3.5M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (self-labeled Estimated); no company disclosure",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Kaiber",
+  "aliases": [
+   "kaiber.ai"
+  ],
+  "category": "generative-media",
+  "subcat": "video-gen",
+  "url": "https://kaiber.ai",
+  "arrUsd": 2600000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/kaiber.ai",
+  "quote": "In 2025, Kaiber's revenue reached $2.6M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (self-labeled Estimated); no company disclosure",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Fliki",
+  "aliases": [
+   "fliki.ai"
+  ],
+  "category": "generative-media",
+  "subcat": "video-narration",
+  "url": "https://fliki.ai",
+  "arrUsd": 1400000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/fliki.ai",
+  "quote": "In 2025, Fliki's revenue reached $1.4M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (self-labeled Estimated); floor-value row",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Kittl",
+  "aliases": [
+   "kittl.com"
+  ],
+  "category": "generative-media",
+  "subcat": "design",
+  "url": "https://www.kittl.com",
+  "arrUsd": 17500000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/kittl.com",
+  "quote": "In 2025, Kittl's revenue reached $17.5M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (self-labeled Estimated); $48M funding excluded",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Playground",
+  "aliases": [
+   "Playground AI",
+   "playground.com"
+  ],
+  "category": "generative-media",
+  "subcat": "design",
+  "url": "https://playground.com",
+  "arrUsd": 2700000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/playground.com",
+  "quote": "In 2024, Playground's revenue reached $2.7M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (self-labeled Estimated); no newer figure found",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Luma AI",
+  "aliases": [
+   "Dream Machine",
+   "Luma Labs"
+  ],
+  "category": "generative-media",
+  "subcat": "video-gen",
+  "url": "https://lumalabs.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-11-19",
+  "sourceUrl": "https://www.cnbc.com/2025/11/19/luma-ai-raises-900-million-in-funding-led-by-saudi-ai-firm-humain.html",
+  "quote": "Video generation startup Luma AI said it raised $900 million in a new funding round led by Humain, an artificial intelligence company owned by Saudi Arabia's Public Investment Fund.",
+  "confidence": null,
+  "stale": false,
+  "basis": "raised $900M Series C led by HUMAIN (2025-11-19, CNBC); no public ARR claim - board ranks by mentions",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Black Forest Labs",
+  "aliases": [
+   "BFL",
+   "FLUX"
+  ],
+  "category": "generative-media",
+  "subcat": "image-models",
+  "url": "https://bfl.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-12-01",
+  "sourceUrl": "https://bfl.ai/blog/our-300m-series-b",
+  "quote": "Laying the Foundations for Visual Intelligence—Our $300M Series B December 1, 2025",
+  "confidence": null,
+  "stale": false,
+  "basis": "raised $300M Series B at $3.25B valuation (2025-12-01, company blog; TechCrunch corroborates); no public ARR claim - board ranks by mentions",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Civitai",
+  "aliases": [
+   "civitai.com"
+  ],
+  "category": "generative-media",
+  "subcat": "model-community",
+  "url": "https://civitai.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2023-12-31",
+  "sourceUrl": "https://civitai.com/articles/2976/weve-raised-dollar51m-in-seed-funding-led-by-andreessen-horowitz",
+  "quote": "we've raised $5.1M in seed funding, led by Andreessen Horowitz.",
+  "confidence": null,
+  "stale": true,
+  "basis": "raised $5.1M seed led by a16z (2023, Civitai announcement article); no public ARR claim - board ranks by mentions",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Odyssey",
+  "aliases": [
+   "odyssey.ml"
+  ],
+  "category": "generative-media",
+  "subcat": "world-models",
+  "url": "https://odyssey.ml",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-11-13",
+  "sourceUrl": "https://techcrunch.com/2024/11/13/this-generative-ai-startup-is-strapping-cameras-to-peoples-backs/",
+  "quote": "Odyssey today announced that it raised $18 million in a Series A funding round led by EQT Ventures with participation from GV and Air Street Capital.",
+  "confidence": null,
+  "stale": true,
+  "basis": "raised $18M Series A led by EQT Ventures, total $27M (2024-11-13, TechCrunch); no public ARR claim - board ranks by mentions",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Genmo",
+  "aliases": [
+   "Mochi"
+  ],
+  "category": "generative-media",
+  "subcat": "video-gen",
+  "url": "https://www.genmo.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-10-31",
+  "sourceUrl": "https://ageofllms.com/ai-news/ai-fun/genmo-mochi-1",
+  "quote": "Genmo also raised $28.4 million in Series A funding, with investors including NEA, The House Fund, and others.",
+  "confidence": null,
+  "stale": true,
+  "basis": "raised $28.4M Series A (Oct 2024, NEA; Seedtable corroborates date); no public ARR claim - board ranks by mentions",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Fal.ai",
+  "aliases": [
+   "fal"
+  ],
+  "category": "generative-media",
+  "subcat": "genmedia-infra",
+  "url": "https://fal.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-02-12",
+  "sourceUrl": "https://blog.fal.ai/fal-raises-49m-series-b-to-power-the-future-of-ai-video/",
+  "quote": "fal has raised a $49M Series B to fuel our mission: building the core infrastructure for AI-driven media creation.",
+  "confidence": null,
+  "stale": true,
+  "basis": "raised $49M Series B led by Notable Capital with a16z (2025-02-12, company blog); no public ARR claim - board ranks by mentions",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Udio",
+  "aliases": [
+   "udio.com"
+  ],
+  "category": "generative-media",
+  "subcat": "music",
+  "url": "https://www.udio.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-04-14",
+  "sourceUrl": "https://www.thesaasnews.com/news/udio-raises-10-million-in-seed-round/",
+  "quote": "Udio, a New York-based startup, has launched an AI-powered music-making app with $10 million in seed funding.",
+  "confidence": null,
+  "stale": true,
+  "basis": "raised $10M seed led by a16z (April 2024, The SaaS News); no public ARR claim - board ranks by mentions",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Topaz Labs",
+  "aliases": [
+   "Topaz Photo AI"
+  ],
+  "category": "generative-media",
+  "subcat": "photo-enhancement",
+  "url": "https://www.topazlabs.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2026-07-14",
+  "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-buys-topaz-labs-151455256.html",
+  "quote": "Adobe (NasdaqGS:ADBE) has agreed to acquire Topaz Labs, a specialist in AI-powered creative tools.",
+  "confidence": null,
+  "stale": false,
+  "basis": "Adobe agreed to acquire Topaz Labs (2026-07-14, Yahoo Finance); GetLatka's $4.6M est. 2024 likely understates - kept as Tier 2 on the acquisition",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Aircall",
+  "aliases": [
+   "aircall.io"
+  ],
+  "category": "voice-ai",
+  "subcat": "cloud-phone",
+  "url": "https://aircall.io",
+  "arrUsd": 175000000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/aircall",
+  "quote": "In 2025, Aircall's revenue reached $175M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (April 2025 milestone); $225M funding and 2021 unicorn valuation excluded",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Dialpad",
+  "aliases": [
+   "dialpad.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "ai-communications",
+  "url": "https://www.dialpad.com",
+  "arrUsd": 300000000,
+  "arrUsdReported": null,
+  "asOf": "2024-11-30",
+  "sourceUrl": "https://www.dialpad.com/press/dialpad-surpasses-usd300m-in-annual-recurring-revenue/",
+  "quote": "today announced it has surpassed $300 million in annual recurring revenue (ARR)",
+  "confidence": "high",
+  "stale": true,
+  "basis": "company-stated $300M ARR in official press release (2024-10-15); consistent with GetLatka $300M 2024 - primary source preferred",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Invoca",
+  "aliases": [
+   "invoca.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "call-tracking",
+  "url": "https://www.invoca.com",
+  "arrUsd": 103800000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/invoca",
+  "quote": "In 2024, Invoca's revenue reached $103.8M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024, self-labeled Estimated); $1.1B valuation excluded",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "AssemblyAI",
+  "aliases": [
+   "assemblyai.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "speech-to-text",
+  "url": "https://www.assemblyai.com",
+  "arrUsd": 10400000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/assemblyai",
+  "quote": "In 2024, AssemblyAI's revenue reached $10.4M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024, self-labeled Estimated); no company disclosure",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Deepgram",
+  "aliases": [
+   "deepgram.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "speech-to-text",
+  "url": "https://deepgram.com",
+  "arrUsd": 21800000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/deepgram",
+  "quote": "In 2024, Deepgram's revenue reached $21.8M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024, self-labeled Estimated); $90M+ raise 2023 and $1B+ valuation excluded",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Ada",
+  "aliases": [
+   "ada.cx",
+   "Ada Support"
+  ],
+  "category": "voice-ai",
+  "subcat": "support-automation",
+  "url": "https://www.ada.cx",
+  "arrUsd": 70600000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/ada",
+  "quote": "In 2024, Ada's revenue reached $70.6M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024, self-labeled Estimated); $1.2B valuation excluded",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Parloa",
+  "aliases": [
+   "parloa.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-agents",
+  "url": "https://www.parloa.com",
+  "arrUsd": 50000000,
+  "arrUsdReported": null,
+  "asOf": "2025-11-30",
+  "sourceUrl": "https://getlatka.com/companies/parloa",
+  "quote": "In 2025, Parloa's revenue reached $50M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka milestone ('Parloa Hit $50m revenue in November 2025', sourced to LinkedIn); no company press release",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Krisp",
+  "aliases": [
+   "krisp.ai"
+  ],
+  "category": "voice-ai",
+  "subcat": "noise-cancellation",
+  "url": "https://krisp.ai",
+  "arrUsd": 37700000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/krisp.ai",
+  "quote": "In 2025, Krisp's revenue reached $37.7M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (self-labeled Estimated, updated Aug 10, 2026); bootstrapped, no company disclosure",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Observe.AI",
+  "aliases": [
+   "observe.ai"
+  ],
+  "category": "voice-ai",
+  "subcat": "contact-center-ai",
+  "url": "https://www.observe.ai",
+  "arrUsd": 44200000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/observe.ai",
+  "quote": "In 2024, Observe.AI's revenue reached $44.2M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (2024, self-labeled Estimated); no company disclosure",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Skit.ai",
+  "aliases": [
+   "Skit"
+  ],
+  "category": "voice-ai",
+  "subcat": "collections-voice-agents",
+  "url": "https://skit.ai",
+  "arrUsd": 22400000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/skit.ai",
+  "quote": "In 2024, Skit's revenue reached $22.4M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024, self-labeled Estimated); $28M funding excluded",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Cartesia",
+  "aliases": [
+   "Sonic"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-models",
+  "url": "https://cartesia.ai",
+  "arrUsd": 17000000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/cartesia.ai",
+  "quote": "In 2024, Cartesia's revenue reached $17M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (2024); 2025 raises (seed/Series A) excluded",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "PolyAI",
+  "aliases": [
+   "poly.ai"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-assistants",
+  "url": "https://poly.ai",
+  "arrUsd": 40000000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-15",
+  "sourceUrl": "https://www.forbes.com/sites/iainmartin/2025/12/15/polyai-raises-86-million-as-fight-to-answer-calls-with-ai-heats-up/",
+  "quote": "Mrksic said that he expects annualized recurring revenue (ARR) to double this year to $40 million, while revenues from its U.S.-based clients have nearly tripled.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "CEO-stated $40M ARR in Forbes Dec 2025 profile alongside $86M Series D; conflicts: arr.club $50M (2025-10-26), GetLatka $35M (2025-05) - chose the newest company-stated figure",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "SoundHound AI",
+  "aliases": [
+   "SoundHound",
+   "SOUN"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-assistant",
+  "url": "https://www.soundhound.com",
+  "arrUsd": 168900000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://investors.soundhound.com/news-releases/news-release-details/soundhound-ai-reports-record-annual-revenue-169-million-nearly",
+  "quote": "Full year reported revenue was $168.9 million, an increase of 99% year-over-year.",
+  "confidence": "high",
+  "stale": false,
+  "basis": "audited FY2025 booked revenue from official Q4/FY2025 earnings release (Feb 26, 2026); booked revenue, not an ARR run-rate; supersedes GetLatka's $45.9M for 2024",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Vapi",
+  "aliases": [
+   "vapi.ai"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-agent-infra",
+  "url": "https://vapi.ai",
+  "arrUsd": 8000000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/vapi.ai",
+  "quote": "In 2025, Vapi's revenue reached $8M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate; $50M funding and $500M valuation (2026) excluded",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Voicemod",
+  "aliases": [
+   "voicemod.net"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-effects",
+  "url": "https://www.voicemod.net",
+  "arrUsd": 12100000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/voicemod.net",
+  "quote": "In 2025, Voicemod's revenue reached $12.1M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (self-labeled Estimated); $22M funding excluded",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "WellSaid Labs",
+  "aliases": [
+   "WellSaid"
+  ],
+  "category": "voice-ai",
+  "subcat": "text-to-speech",
+  "url": "https://wellsaidlabs.com",
+  "arrUsd": 8300000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-31",
+  "sourceUrl": "https://getlatka.com/companies/wellsaidlabs.com",
+  "quote": "In 2025, WellSaid Labs's revenue reached $8.3M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (self-labeled Estimated); no company disclosure",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Resemble AI",
+  "aliases": [
+   "Resemble"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-cloning",
+  "url": "https://www.resemble.ai",
+  "arrUsd": 1700000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://getlatka.com/companies/resemble.ai",
+  "quote": "In 2024, Resemble's revenue reached $1.7M.",
+  "confidence": "low",
+  "stale": true,
+  "basis": "third-party GetLatka estimate (October 2024, self-labeled Estimated); floor-value row",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Happyrobot",
+  "aliases": [
+   "HappyRobot"
+  ],
+  "category": "voice-ai",
+  "subcat": "logistics-voice-agents",
+  "url": "https://www.happyrobot.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2026-08-04",
+  "sourceUrl": "https://www.happyrobot.ai/blog/happyrobot-seriesc-fundraising-announcement",
+  "quote": "We're excited to share that we've raised $150 million in Series C funding, led by Prysm Capital and co-led by Eurazeo.",
+  "confidence": null,
+  "stale": true,
+  "basis": "raised $150M Series C at $1.2B post-money (2026-08-04, company blog); no public ARR claim - the GetLatka $1.8M 2024 estimate is stale; board ranks by mentions",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Bland AI",
+  "aliases": [
+   "Bland"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-agents",
+  "url": "https://www.bland.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-02-03",
+  "sourceUrl": "https://www.bland.ai/blog/bland-raises-a-40m-series-b",
+  "quote": "We are pleased to announce the successful closing of our $40 million Series B funding round, bringing total funding to $65 million.",
+  "confidence": null,
+  "stale": true,
+  "basis": "raised $40M Series B led by Emergence Capital (2025-02-03, company blog); no public ARR claim - board ranks by mentions",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Play AI",
+  "aliases": [
+   "PlayHT",
+   "Play.ht"
+  ],
+  "category": "voice-ai",
+  "subcat": "text-to-speech",
+  "url": "https://play.ht",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-07-13",
+  "sourceUrl": "https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/",
+  "quote": "Meta has acquired Play AI, a startup that uses AI to generate human-sounding voices.",
+  "confidence": null,
+  "stale": false,
+  "basis": "acquired by Meta (2025-07-13, TechCrunch); deal value not disclosed - board ranks by mentions",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Cognigy",
+  "aliases": [
+   "cognigy.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "conversational-ai",
+  "url": "https://www.cognigy.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-07-28",
+  "sourceUrl": "https://www.nice.com/press-releases/nice-to-acquire-cognigy-advancing-the-leading-cx-ai-platform-to-accelerate-ai-first-customer-experience",
+  "quote": "NiCE's Board of Directors unanimously approved the agreement to acquire Cognigy in a transaction that values Cognigy at approximately $955 million.",
+  "confidence": null,
+  "stale": false,
+  "basis": "acquired by NICE at ~$955M (announced 2025-07-28, NICE press release) - board ranks by mentions",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Sonantic",
+  "aliases": [
+   "sonantic.io"
+  ],
+  "category": "voice-ai",
+  "subcat": "text-to-speech",
+  "url": "https://www.sonantic.io",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2022-06-13",
+  "sourceUrl": "https://newsroom.spotify.com/2022-06-13/spotify-to-acquire-sonantic-an-ai-voice-platform/",
+  "quote": "So today we're excited to share our intention to acquire Sonantic, a dynamic AI voice platform that creates compelling, nuanced, and stunningly realistic voices from text.",
+  "confidence": null,
+  "stale": true,
+  "basis": "acquired by Spotify (2022-06-13, Spotify newsroom); deal value undisclosed - board ranks by mentions",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Hume AI",
+  "aliases": [
+   "hume.ai"
+  ],
+  "category": "voice-ai",
+  "subcat": "empathic-voice",
+  "url": "https://www.hume.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-03-28",
+  "sourceUrl": "https://www.hume.ai/blog/series-b-evi-announcement",
+  "quote": "Hume Raises $50M Series B and Releases New Empathic Voice Interface",
+  "confidence": null,
+  "stale": true,
+  "basis": "raised $50M Series B led by EQT Ventures (2024-03-28, company blog) - board ranks by mentions",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Cresta",
+  "aliases": [
+   "cresta.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "contact-center-ai",
+  "url": "https://cresta.com",
+  "arrUsd": 100000000,
+  "arrUsdReported": null,
+  "asOf": "2026-04-30",
+  "sourceUrl": "https://cresta.com/press/cresta-names-sequoias-doug-leone-as-board-chair-carl-eschenbach-rejoins-board-as-growth-accelerates",
+  "quote": "These board updates come as Cresta surpasses $100 million in annual recurring revenue and continues its rapid expansion throughout the Fortune 500.",
+  "confidence": "high",
+  "stale": true,
+  "basis": "company-stated ARR above $100M in official press release (2026-04-30); supersedes the funding-only row and GetLatka $52M 2025",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Sarvam AI",
+  "aliases": [
+   "sarvam.ai"
+  ],
+  "category": "voice-ai",
+  "subcat": "indic-voice-ai",
+  "url": "https://www.sarvam.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2023-12-07",
+  "sourceUrl": "https://www.sarvam.ai/blogs/announcing-series-a",
+  "quote": "Sarvam AI, an Indian startup in Generative AI founded by Vivek Raghavan and Pratyush Kumar, has announced that it is raising $41 million in Series A round.",
+  "confidence": null,
+  "stale": true,
+  "basis": "raised $41M Series A led by Lightspeed (2023-12-07, company blog) - board ranks by mentions",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Synthflow AI",
+  "aliases": [
+   "Synthflow"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-agents",
+  "url": "https://synthflow.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-06-25",
+  "sourceUrl": "https://synthflow.ai/news/synthflow-raises-20m-series-a",
+  "quote": "today announced a $20M Series A investment round to drive the next wave of enterprise adoption for AI voice agents.",
+  "confidence": null,
+  "stale": false,
+  "basis": "raised $20M Series A led by Accel (2025-06-25, company news page); GetLatka's $1.1M est. 2025 too small to rank - board ranks by mentions",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Viggle",
+  "aliases": [
+   "Viggle AI"
+  ],
+  "category": "generative-media",
+  "subcat": "character-animation",
+  "url": "https://viggle.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-08-27",
+  "sourceUrl": "https://aithority.com/machine-learning/viggle-ai-secures-19-million-in-series-a-funding-led-by-andreessen-horowitz/",
+  "quote": "Viggle AI, a Canadian start-up revolutionizing character animation through generative artificial intelligence, announced it has raised $19 million USD in Series A funding led by Andreessen Horowitz (a16z).",
+  "confidence": null,
+  "stale": true,
+  "basis": "raised $19M Series A led by a16z (2024-08-27, Business Wire via AiThority); no public ARR claim - board ranks by mentions",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Argil",
+  "aliases": [
+   "Argil.ai"
+  ],
+  "category": "generative-media",
+  "subcat": "ai-avatars",
+  "url": "https://argil.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-11-29",
+  "sourceUrl": "https://seedcamp.com/views/argil-raises-e4-9-million-to-empower-everyone-to-become-a-creator-using-their-own-ai-video-clone/",
+  "quote": "Argil rapid growth is fueled by a new 3.9 million euro seed round led by EQT Ventures.",
+  "confidence": null,
+  "stale": true,
+  "basis": "raised €3.9M seed led by EQT Ventures (part of €4.9M total, 2024-11-29, Seedcamp); no public ARR claim - board ranks by mentions",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Level AI",
+  "aliases": [
+   "thelevel.ai"
+  ],
+  "category": "voice-ai",
+  "subcat": "contact-center-ai",
+  "url": "https://thelevel.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-07-23",
+  "sourceUrl": "https://thelevel.ai/blog/levelai-series-c-funding",
+  "quote": "We are thrilled to take another leap forward in becoming a pioneer in LLM-native customer experience intelligence and service automation with a successful series C funding round of $39.4 million.",
+  "confidence": null,
+  "stale": true,
+  "basis": "raised $39.4M Series C led by Adams Street Partners, total $73.1M (2024-07-23, company blog); no public ARR claim - board ranks by mentions",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Murf",
+  "aliases": [
+   "Murf.ai"
+  ],
+  "category": "voice-ai",
+  "subcat": "text-to-speech",
+  "url": "https://murf.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2022-09-21",
+  "sourceUrl": "https://murf.ai/blog/series-a-announcement",
+  "quote": "We are excited to share with you that Murf AI has raised $10Mn Series A funding led by Matrix Partners India along with participation from existing investor Elevation Capital.",
+  "confidence": null,
+  "stale": true,
+  "basis": "raised $10M Series A (2022-09-21, company blog); no public ARR claim - GetLatka $799K 2024 implausibly low vs claimed 22x growth; board ranks by mentions",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Respeecher",
+  "aliases": [
+   "Respeecher.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-cloning",
+  "url": "https://www.respeecher.com",
+  "arrUsd": 4800000,
+  "arrUsdReported": null,
+  "asOf": "2025-07-01",
+  "sourceUrl": "https://getlatka.com/companies/respeecher",
+  "quote": "In 2025, Respeecher's revenue reached $4.8M.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "third-party GetLatka estimate (Jul 2025); ~$2.5M raised across seed rounds",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
  }
 ]
