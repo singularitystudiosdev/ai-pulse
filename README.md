@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-02 15:06 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-02 15:12 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 304 HF upvotes · v 304 | 304 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
-| [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 301 HF upvotes · v 301 | 301 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
+| [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 302 HF upvotes · v 302 | 302 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
 | [Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://huggingface.co/papers/2608.30821) | Minghan Qin | 97 HF upvotes · v 97 | 97 HF upvotes · "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Mo" · model release |
 | [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://huggingface.co/papers/2608.31106) | Jiashu Zhu | 93 HF upvotes · v 93 | 93 HF upvotes · "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Reso" · model release |
 | [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | Shaowen Wang | 65 HF upvotes · v 65 | 65 HF upvotes · "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers" · model release |
