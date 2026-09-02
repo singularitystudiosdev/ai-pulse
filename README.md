@@ -5,9 +5,11 @@
 > **🏆 Leaderboards** — successful AI products ranked by reported ARR, momentum
 > and newness, across Physical AI (🎖 Military / 📱 Consumer / 🏭 Industrial),
 > Developer SaaS, Normie SaaS, Agents & Automation, Creative & Video AI, Voice AI.
-> Every number carries a dated source link. Seeded from a verified 24-product
-> ledger; the agent keeps it current by scraping X, HN, Reddit, Product Hunt
-> and Google News every 30 minutes. No API keys, no auth, 0 secrets.
+> Every number carries a dated source link. The registry spans 280+ products —
+> a verified claim ledger for the leaders, plus a Physical-AI landscape seed
+> (260+ companies from the YC companies API, Wikipedia robotics lists and
+> Google News coverage); the agent keeps it current by scraping X, HN, Reddit,
+> Product Hunt and Google News every 30 minutes. No API keys, no auth, 0 secrets.
 >
 > **📡 Live feed** — fresh AI posts from X/HN/HF, ranked by velocity.
 
