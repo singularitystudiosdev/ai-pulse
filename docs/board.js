@@ -26,7 +26,7 @@ function fmtArr(usd) {
 }
 
 function platformIcon(p) {
-  return { x: '𝕏', hn: 'Y', reddit: 'R', ph: 'P' }[p] || p;
+  return { x: '𝕏', hn: 'Y', reddit: 'R', ph: 'P', news: 'N' }[p] || p;
 }
 
 function rankProducts() {

@@ -46,9 +46,12 @@ export function seedRegistry(state) {
   }
   const now = new Date().toISOString();
   let added = 0;
+  const now = new Date().toISOString();
+  let added = 0;
   for (const s of seeds) {
     const slug = slugify(s.name.split(' (')[0]); // "Pocket (AI notetaker…)" -> pocket
-    if (state.products[slug]) continue;
+    const existing = state.products[slug];
+    if (existing && (existing.arrUsd || !s.arrUsd)) continue; // ledger never downgrades a live entry
     const basis = String(s.basis || '').toLowerCase();
     // A quarterly net-new-ARR delta is not a run-rate: keep the number for
     // provenance but never let it rank in Top ARR.
