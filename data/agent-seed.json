@@ -3646,5 +3646,782 @@
   "basis": "$20M Series A led by Insight Partners raised 2022-02-10, funding-verified - PRNewswire company release; no public ARR claim - coverage row",
   "sourceType": "press",
   "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Resend",
+  "aliases": [
+   "resend.com"
+  ],
+  "category": "dev-saas",
+  "subcat": "email-api",
+  "url": "https://resend.com",
+  "arrUsd": 25000000,
+  "arrUsdReported": null,
+  "asOf": "2025-12-01",
+  "sourceUrl": "https://startupfounderstories.com/stories/zeno-rocha-resend-email-api",
+  "quote": "$25M ARR Current revenue · as of December 2025",
+  "confidence": "low",
+  "stale": false,
+  "basis": "$25M ARR as of December 2025 per founder-story aggregator stat badge; conflicts with company-reported $5M ARR in June 2024 ('By June 2024: $5M ARR with just 22 people') and $5M-ARR-with-22-person-team headline on the same page - treat $25M as unverified estimate",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "WorkOS",
+  "aliases": [
+   "workos.com"
+  ],
+  "category": "dev-saas",
+  "subcat": "authentication",
+  "url": "https://workos.com",
+  "arrUsd": 30000000,
+  "arrUsdReported": null,
+  "asOf": "2025-10-01",
+  "sourceUrl": "https://siliconvalleyinvestclub.com/companies/workos/",
+  "quote": "WorkOS reached $30M ARR in October 2025 with only ~95 employees, demonstrating exceptional capital efficiency.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "$30M ARR Oct 2025 is a Sacra estimate (up from $20M June 2025) relayed by this profile; funding-verified: $100M Series C led by Meritech and Sapphire announced 2026-03-02 at $2B valuation",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Trigger.dev",
+  "aliases": [],
+  "category": "dev-saas",
+  "subcat": "workflow-automation",
+  "url": "https://trigger.dev",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2023-08-25",
+  "sourceUrl": "https://trigger.dev/blog/3m-dollar-seed-round",
+  "quote": "We're thrilled to announce today that Trigger.dev, the open source background jobs framework, has raised a $3M seed round.",
+  "confidence": "medium",
+  "stale": true,
+  "basis": "$3M seed raised 2023-08-25, funding-verified — company blog",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Inngest",
+  "aliases": [],
+  "category": "dev-saas",
+  "subcat": "workflow-automation",
+  "url": "https://www.inngest.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-09-16",
+  "sourceUrl": "https://www.inngest.com/blog/announcing-inngest-series-a",
+  "quote": "TLDR; we raised a $21M Series A to help companies ship and iterate faster.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$21M Series A led by Altimeter raised 2025-09-16, funding-verified — company blog",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Upstash",
+  "aliases": [
+   "upstash.com"
+  ],
+  "category": "dev-saas",
+  "subcat": "serverless-data",
+  "url": "https://upstash.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-02-14",
+  "sourceUrl": "https://fundediq.co/upstash-upstash-com-funding/",
+  "quote": "Upstash has raised $11.9M across 2 funding rounds on record, the most recent a Series A of $10.0M announced in Feb 2024.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "$10M Series A announced Feb 2024 (a16z investment essay dated 2024-02-14 confirms the round), funding-verified — tracker + a16z announcement",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Turso",
+  "aliases": [
+   "ChiselStrike",
+   "chiselstrike.com"
+  ],
+  "category": "dev-saas",
+  "subcat": "database",
+  "url": "https://turso.tech",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2022-07-28",
+  "sourceUrl": "https://finsmes.com/2022/07/chiselstrike-raises-7m-in-seed-funding.html",
+  "quote": "ChiselStrike, a San Francisco, CA-based provider of an open source backend development platform, raised $7M in Seed funding.",
+  "confidence": "medium",
+  "stale": true,
+  "basis": "$7M seed led by Norwest announced 2022-07-28, funding-verified — FinSMEs; ChiselStrike is the company that built/rebranded to Turso (libSQL); trackers also list an Apr 2025 seed",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Qdrant",
+  "aliases": [
+   "qdrant.tech"
+  ],
+  "category": "dev-saas",
+  "subcat": "vector-database",
+  "url": "https://qdrant.tech",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-01-23",
+  "sourceUrl": "https://techcrunch.com/2024/01/23/qdrant-open-source-vector-database/",
+  "quote": "Qdrant, the company behind the eponymous open source vector database, has raised $28 million in a Series A round of funding led by Spark Capital.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$28M Series A announced 2024-01-23, funding-verified — TechCrunch",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Pinecone",
+  "aliases": [
+   "pinecone.io"
+  ],
+  "category": "dev-saas",
+  "subcat": "vector-database",
+  "url": "https://www.pinecone.io",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2023-04-27",
+  "sourceUrl": "https://www.pinecone.io/newsroom/pinecone-raises-usd100m-in-series-b-funding-to-provide-long-term-memory-for-ai/",
+  "quote": "Pinecone, the vector database company providing long-term memory for AI, announced today it has raised $100M in Series B funding at a $750M valuation.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$100M Series B at $750M valuation announced 2023-04-27 led by a16z, funding-verified — company newsroom (Business Wire)",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Weaviate",
+  "aliases": [
+   "weaviate.io"
+  ],
+  "category": "dev-saas",
+  "subcat": "vector-database",
+  "url": "https://weaviate.io",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2023-04-21",
+  "sourceUrl": "https://www.prnewswire.com/news-releases/weaviate-raises-50-million-series-b-funding-to-meet-soaring-demand-for-ai-native-vector-database-technology-301803296.html",
+  "quote": "Weaviate.io, developer of the AI-native Weaviate vector database, today announced a $50M round of funding led by Index Ventures with participation from Battery Ventures.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$50M Series B announced 2023-04-21, funding-verified — company PR via PRNewswire",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Clerk",
+  "aliases": [
+   "clerk.com"
+  ],
+  "category": "dev-saas",
+  "subcat": "authentication",
+  "url": "https://clerk.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-01-17",
+  "sourceUrl": "https://clerk.com/blog/series-b",
+  "quote": "We're excited to share that Clerk has raised $30M in Series B funding led by CRV, with participation from Stripe, and existing investors Andreessen Horowitz and Madrona.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$30M Series B announced 2024-01-17 (Business Wire), funding-verified — company blog; PitchBook lists $104M total raised",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Deno",
+  "aliases": [
+   "Deno Land",
+   "deno.com"
+  ],
+  "category": "dev-saas",
+  "subcat": "javascript-runtime",
+  "url": "https://deno.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2022-06-21",
+  "sourceUrl": "https://deno.com/blog/series-a",
+  "quote": "The Deno company has raised $21M in an investment round led by Sequoia Capital with participation from Nat Friedman, Four Rivers Ventures, Insight Partners, Long Journey Ventures, Dylan Field, Automattic, Netlify, and Shasta Ventures.",
+  "confidence": "medium",
+  "stale": true,
+  "basis": "$21M Series A led by Sequoia announced 2022-06-21, funding-verified — company blog; Tracxn lists $30.9M total",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Val Town",
+  "aliases": [
+   "val.town"
+  ],
+  "category": "dev-saas",
+  "subcat": "serverless-functions",
+  "url": "https://www.val.town",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-04-09",
+  "sourceUrl": "https://blog.val.town/seed",
+  "quote": "We raised $5.5m in a round led by Accel.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$5.5M seed led by Accel announced 2024-04-09, funding-verified — company blog (follows $1.5M pre-seed Aug 2022)",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Intercom Fin",
+  "aliases": [
+   "Fin",
+   "Fin AI Agent",
+   "fin.ai"
+  ],
+  "category": "agentic-automation",
+  "subcat": "customer-service-agent",
+  "url": "https://www.intercom.com/fin",
+  "arrUsd": 100000000,
+  "arrUsdReported": null,
+  "asOf": "2026-04-29",
+  "sourceUrl": "https://www.arr.club/intercom/intercom-ai-agent-fin-hit-100m-arr",
+  "quote": "Intercom has surpassed $400M in Annual Recurring Revenue (ARR), and its AI Agent, Fin, has reached $100M ARR.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "Fin at $100M ARR per ARR Club (2026-04-29); Business Post (2026-03-03) had CEO saying Intercom surpassed $400M ARR with Fin 'about to pass the $100 million milestone' — slight conflict, both company-stated via press",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Sameday",
+  "aliases": [
+   "Sameday AI",
+   "gosameday.com"
+  ],
+  "category": "agentic-automation",
+  "subcat": "voice-agents",
+  "url": "https://sameday.ai",
+  "arrUsd": 3500000,
+  "arrUsdReported": null,
+  "asOf": "2025-09-01",
+  "sourceUrl": "https://getlatka.com/companies/sameday.ai",
+  "quote": "Sameday generates an estimated $3.5M in annual revenue.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "GetLatka estimate: '$3.5m revenue in September 2025' (Estimated source tag); no funding on record — estimate only",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Tenyx",
+  "aliases": [
+   "tenyx.com"
+  ],
+  "category": "agentic-automation",
+  "subcat": "voice-agents",
+  "url": "https://www.tenyx.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-09-03",
+  "sourceUrl": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-tenyx/",
+  "quote": "Salesforce has signed a definitive agreement to acquire Tenyx, a developer of AI-powered voice agents that create natural and engaging conversational experiences, transforming customer service.",
+  "confidence": "medium",
+  "stale": true,
+  "basis": "Acquired by Salesforce (announced 2024-09-03, completed 2024-09-13); no dated funding round or ARR found — no deal value disclosed; may be a dead-end row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "AirOps",
+  "aliases": [
+   "airops.com"
+  ],
+  "category": "agentic-automation",
+  "subcat": "content-automation",
+  "url": "https://www.airops.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-10-01",
+  "sourceUrl": "https://www.airops.com/blog/airops-raises-15-5m-to-turn-marketers-into-ai-growth-leaders",
+  "quote": "We're excited to announce our $15.5M Series A led by Sandhya Hegde at Unusual Ventures with participation from Wing VC, Founder Collective, Xfund, Alt Capital, Lauryn Motamedi, David Rogier and JD Ross.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$15.5M Series A led by Unusual Ventures (Sacra dates it Oct 2024), funding-verified — company blog; superseded by $40M Series B led by Greylock at $225M valuation (Fortune, 2025-11-10) and a reported $55.5M round May 2026 (Sacra)",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Fixify",
+  "aliases": [
+   "fixify.com"
+  ],
+  "category": "agentic-automation",
+  "subcat": "it-helpdesk",
+  "url": "https://www.fixify.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-10-23",
+  "sourceUrl": "https://www.paladincapgroup.com/fixify-secures-25-million-in-series-a-funding-to-modernize-it-help-desks-by-keeping-humans-in-the-loop/",
+  "quote": "Fixify, an innovative AI-powered IT help desk solution provider, announced today that it has closed a $25 million Series A funding round co-led by Costanoa Ventures, Decibel Partners and Paladin Capital Group with participation from Scale Venture Partners.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$25M Series A announced 2024-10-23 (GlobeNewswire), funding-verified — investor reprint",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Sema4.ai",
+  "aliases": [
+   "Sema4 AI",
+   "sema4.ai"
+  ],
+  "category": "agentic-automation",
+  "subcat": "enterprise-agents",
+  "url": "https://www.sema4.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-06-11",
+  "sourceUrl": "https://pulse2.com/sema4-ai-25-million-series-a-extension-raised-for-enterprise-ai-agent-technology/",
+  "quote": "The company also revealed a $25 million Series A extension round, bringing its total Series A funding to $55.5 million.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$25M Series A extension (total Series A $55.5M) announced 2025-06-11 with Snowflake Ventures, Mayfield, Benchmark, funding-verified — Pulse 2.0",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Pylon",
+  "aliases": [
+   "usepylon.com"
+  ],
+  "category": "agentic-automation",
+  "subcat": "b2b-support",
+  "url": "https://www.usepylon.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-08-20",
+  "sourceUrl": "https://www.builtinsf.com/articles/pylon-raises-31m-series-b-20250820",
+  "quote": "Pylon, a B2B support platform, has raised $31 million in Series B funding, bringing its total funding to $51 million.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$31M Series B co-led by a16z and Bain Capital Ventures announced 2025-08-20 (follows $17M Series A led by a16z), funding-verified — Built In SF",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "TinyFish",
+  "aliases": [
+   "tinyfish.com"
+  ],
+  "category": "agentic-automation",
+  "subcat": "browser-agents",
+  "url": "https://www.tinyfish.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-08-20",
+  "sourceUrl": "https://www.reuters.com/technology/ai-agent-startup-tinyfish-raises-47-million-iconiq-led-round-2025-08-20/",
+  "quote": "AI startup TinyFish has raised $47 million in a Series A funding round led by ICONIQ Capital to scale its platform for building and deploying AI-powered web agents, the company told Reuters.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$47M Series A led by ICONIQ announced 2025-08-20, funding-verified — Reuters",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Cassidy",
+  "aliases": [
+   "Cassidy AI",
+   "cassidyai.com"
+  ],
+  "category": "agentic-automation",
+  "subcat": "workflow-automation",
+  "url": "https://www.cassidyai.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-09-08",
+  "sourceUrl": "https://www.cassidyai.com/blog/announcing-cassidys-10m-series-a",
+  "quote": "Cassidy has raised $10 million in Series A funding, led by HOF Capital with participation from The General Partnership, Neo, Alumni Ventures, Quest Venture Partners and other amazing partners.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$10M Series A announced 2025-09-08 (follows $3.7M seed led by The General Partnership, 2024), funding-verified — company blog; Tracxn total $13.7M",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Automat",
+  "aliases": [
+   "runautomat.com"
+  ],
+  "category": "agentic-automation",
+  "subcat": "workflow-automation",
+  "url": "https://runautomat.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-11-19",
+  "sourceUrl": "https://runautomat.com/blog/automat-raises-15-5m-series-a",
+  "quote": "Today, I'm incredibly excited to share that we've raised a $15.5M Series A for Automat led by Felicis, with participation from Initialized, Khosla Ventures, and Y Combinator, with follow on from K5 Global and Input Capital.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$15.5M Series A led by Felicis announced 2025-11-19, total raised $19.25M, funding-verified — company blog",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Camb.ai",
+  "aliases": [
+   "CAMB.AI",
+   "camb.ai"
+  ],
+  "category": "voice-ai",
+  "subcat": "dubbing",
+  "url": "https://www.camb.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-02-06",
+  "sourceUrl": "https://www.camb.ai/blog-post/announcing-camb-ais-4m-seed-round-led-by-courtside-ventures",
+  "quote": "New York, USA (February 6, 2024) – Camb.ai, the groundbreaking AI speech technology company that specializes in instantaneous dubbing any performance in over 100 languages, dialects, and accents using the original voices with their nuances, announced today that it has raised a $4 million seed round.",
+  "confidence": "medium",
+  "stale": true,
+  "basis": "$4M seed led by Courtside Ventures announced 2024-02-06, funding-verified — company blog; later rounds may exist (unverified)",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Assort Health",
+  "aliases": [
+   "assorthealth.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "healthcare-voice-agents",
+  "url": "https://www.assorthealth.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2026-06-24",
+  "sourceUrl": "https://www.assorthealth.com/blog/assort-health-raises-120-million-series-c-to-scale-largest-deployment-of-ai-agents-for-the-patient-journey",
+  "quote": "SAN FRANCISCO, June 24, 2026 – Assort Health, the most widely-used AI agents platform for the patient journey, today announced a $120 million Series C led by Menlo Ventures at a valuation of $1.2 billion.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$120M Series C at $1.2B valuation announced 2026-06-24, total raised $222M+, funding-verified — company blog (same post: 'revenue has grown 20x' in 15 months, no absolute figure)",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Typecast",
+  "aliases": [
+   "Neosapience",
+   "typecast.ai"
+  ],
+  "category": "voice-ai",
+  "subcat": "text-to-speech",
+  "url": "https://typecast.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-12-11",
+  "sourceUrl": "https://slator.com/neosapience-raises-usd-11-5m-for-ai-voice-technology/",
+  "quote": "On December 11, 2025, Korean AI startup Neosapience, the company behind generative voice platform Typecast, announced that it has closed a USD 11.5m funding round to support development in emotional and conversational AI voice.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$11.5M pre-IPO round announced 2025-12-11, funding-verified — Slator (corroborated by Deadline); Startup Intros lists $33M across 2 rounds",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Hello Patient",
+  "aliases": [
+   "hellopatient.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "healthcare-voice-agents",
+  "url": "https://www.hellopatient.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-09-05",
+  "sourceUrl": "https://medcitynews.com/2025/09/hello-patient-conversational-ai/",
+  "quote": "Hello Patient, a conversational AI company, has raised $22.5 million in Series A funding, which it will use to scale to more healthcare organizations and grow its product, it announced on Thursday.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$22.5M Series A led by Scale Venture Partners announced 2025-09-05, total $30.2M, funding-verified — MedCity News",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Omilia",
+  "aliases": [
+   "omilia.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "contact-center-ai",
+  "url": "https://www.omilia.com",
+  "arrUsd": 60000000,
+  "arrUsdReported": null,
+  "asOf": "2026-08-06",
+  "sourceUrl": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+  "quote": "Since then, it has managed to increase its annual recurring revenue by 10x to $60 million.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "company-stated $60M ARR (10x since 2020) reported by TechCrunch 2026-08-06 alongside a $67M Series B led by Expedition Growth Capital — both tiers in one source",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Hippocratic AI",
+  "aliases": [
+   "hippocraticai.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "healthcare-voice-agents",
+  "url": "https://www.hippocraticai.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-11-03",
+  "sourceUrl": "https://hippocraticai.com/hippocratic-ai-announces-series-c-funding-126-million/",
+  "quote": "Hippocratic AI, the global leader in safety-focused generative AI healthcare agents, today announced the close of its Series C financing, raising $126 million at a $3.5 billion valuation and bringing its total funding to $404 million.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$126M Series C at $3.5B valuation led by Avenir Growth announced 2025-11-03 (follows $141M Series B at $1.64B, 2025-01-09), funding-verified — company blog",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Nabla",
+  "aliases": [
+   "nabla.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "clinical-documentation",
+  "url": "https://www.nabla.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-06-17",
+  "sourceUrl": "https://www.highlandeurope.com/nabla-raises-70m-series-c-to-deliver-agentic-ai-to-the-heart-of-clinical-workflows-bringing-total-funding-to-120m/",
+  "quote": "NEW YORK, June 17, 2025 - Nabla, one of the most widely adopted AI assistants in clinical care, today announced it has raised $70 million in Series C funding.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$70M Series C led by HV Capital announced 2025-06-17, total funding $120M, funding-verified — investor press release",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Smallest.ai",
+  "aliases": [
+   "Smallest AI",
+   "smallest.ai"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-agents",
+  "url": "https://smallest.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2026-07-30",
+  "sourceUrl": "https://www.techpillow.co/blog/smallest-ai-series-a-13-million-voice-india-2026",
+  "quote": "On 30 July 2026, Bengaluru-based AI startup Smallest.ai closed a 13 million dollar Series A funding round led by Seligman Ventures, with participation from Sierra Ventures and 3one4 Capital.",
+  "confidence": "low",
+  "stale": false,
+  "basis": "$13M Series A closed 2026-07-30 per Inc42 report relayed by secondary blogs; total funding $21M+ incl. $8M seed (2025), funding-verified but secondhand",
+  "sourceType": "other",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Willow",
+  "aliases": [
+   "Willow Voice",
+   "willowvoice.com"
+  ],
+  "category": "voice-ai",
+  "subcat": "voice-dictation",
+  "url": "https://willowvoice.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2026-08-01",
+  "sourceUrl": "https://www.thesaasnews.com/news/willow-voice-raises-4-2m-seed/",
+  "quote": "Willow Voice, an AI dictation startup based in the United States, has raised $4.2 million in seed funding.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$4.2M seed led by BoxGroup, funding-verified — The SaaS News (funding date listed as August 2026; total $4.5M)",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Moises",
+  "aliases": [
+   "Music AI",
+   "moises.ai"
+  ],
+  "category": "generative-media",
+  "subcat": "music",
+  "url": "https://moises.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-01-22",
+  "sourceUrl": "https://www.digitalmusicnews.com/2025/01/22/music-ai-raises-40-million-in-series-a-funding/",
+  "quote": "Music AI, a leading player in the field of AI for audio and music, has successfully raised $40 million in a funding round led by Connect Ventures and prominent Brazilian investor, monashees.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$40M Series A led by Connect Ventures (CAA+NEA) and monashees announced 2025-01-22, funding-verified — Digital Music News; Moises at 50M+ users",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Endel",
+  "aliases": [
+   "endel.io"
+  ],
+  "category": "generative-media",
+  "subcat": "music",
+  "url": "https://endel.io",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2022-04-02",
+  "sourceUrl": "https://nordic9.com/news/endel-raised-15-million-in-series-b-funding-led-by-waverley-capital-and-true-ventures/",
+  "quote": "Endel, a Berlin, Germany-based startup building a consumer mobile app designed to generate personalized and adaptive sound environments, raised series B round closed at $15 million.",
+  "confidence": "medium",
+  "stale": true,
+  "basis": "$15M Series B led by Waverley Capital and True Ventures closed ~2022-04-02, funding-verified — Nordic9; Tracxn lists $22.1M total; claim is dated, treat as stale",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Wondershare Filmora",
+  "aliases": [
+   "Wondershare",
+   "Filmora",
+   "300624.SZ"
+  ],
+  "category": "generative-media",
+  "subcat": "video-editing",
+  "url": "https://www.wondershare.com",
+  "arrUsd": 198000000,
+  "arrUsdReported": null,
+  "asOf": "2024-12-31",
+  "sourceUrl": "https://news.futunn.com/en/post/56042394/wondershare-technology-group-300624-sz-2024-annual-report-fully-embrace",
+  "quote": "The report shows that Wondershare Technology Group will continue to deeply cultivate its main business in digital creative software in 2024, fully embracing AIGC from within, focusing on product quality improvement, and actively expanding multiple sources of traffic, exploring external cooperation opportunities, achieving a revenue of 1.44 billion yuan for the year.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "FY2024 audited annual-report revenue of RMB 1.44B (~US$198M at ~7.27 CNY/USD) for the whole listed group (Filmora is its flagship video-creativity line, RMB 0.961B, 67% of software revenue) — annual figure, not ARR",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Artisan",
+  "aliases": [
+   "artisan.co",
+   "Ava the AI BDR"
+  ],
+  "category": "agentic-automation",
+  "subcat": "ai-sdr",
+  "url": "https://www.artisan.co",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-04-09",
+  "sourceUrl": "https://www.artisan.co/blog/artisan-series-a",
+  "quote": "We're excited to announce our $25M Series A, led by Glade Brook Capital, with participation from HubSpot Ventures, Oliver Jung, Day One Ventures, BOND, Soma Capital, Sequoia Scout, and others.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$25M Series A led by Glade Brook Capital announced 2025-04-09, funding-verified - company blog (Forbes same date corroborates); no public ARR claim - coverage row",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Udio",
+  "aliases": [
+   "udio.com",
+   "UdioMusic"
+  ],
+  "category": "generative-media",
+  "subcat": "music",
+  "url": "https://www.udio.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-04-14",
+  "sourceUrl": "https://www.thesaasnews.com/news/udio-raises-10-million-in-seed-round/",
+  "quote": "The round was led by a16z, with participation from angel investors including will.i.am, Common, Kevin Wall, Tay Keith, Steve Stoute's UnitedMasters, Mike Krieger (Cofounder & CTO of Instagram), and Oriol Vinyals.",
+  "confidence": "medium",
+  "stale": true,
+  "basis": "$10M seed led by a16z announced April 2024 at launch, funding-verified - The SaaS News (Music Business Worldwide primary); no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "EvenUp",
+  "aliases": [
+   "evenuplaw.com",
+   "EvenUp Law"
+  ],
+  "category": "agentic-automation",
+  "subcat": "legal-ai-agents",
+  "url": "https://www.evenuplaw.com",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2024-10-08",
+  "sourceUrl": "https://www.evenuplaw.com/blog/evenup-announces-135-million-series-d-and-launches-four-new-groundbreaking-products/",
+  "quote": "Today, we're thrilled to announce $135 million in new funding, which brings our valuation to over $1 billion. This is one of the largest funding rounds in legal AI history, bringing our total funding to $235 million, with $220 million raised over the last 18 months. Our series D was led by Bain Capital Ventures, with participation from Premji Invest, Lightspeed Venture Partners, Bessemer Venture Partners, SignalFire, and B Capital Group.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$135M Series D led by Bain Capital Ventures at >$1B valuation announced 2024-10-08, funding-verified - company blog (PRNewswire + Crunchbase News corroborate); no public ARR claim - coverage row",
+  "sourceType": "company-blog",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Moonvalley",
+  "aliases": [
+   "Marey",
+   "moonvalley.ai"
+  ],
+  "category": "generative-media",
+  "subcat": "video-generation",
+  "url": "https://moonvalley.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-07-14",
+  "sourceUrl": "https://betakit.com/moonvalley-raises-additional-84-million-to-meet-demand-for-its-hollywood-friendly-ai-video-generator/",
+  "quote": "Toronto-based Moonvalley, an artificial intelligence (AI) research company that develops foundational AI video models, has raised an $84-million USD ($115-million CAD) seed extension round as it looks to scale up for demand. The all-equity round was led by General Catalyst, with participation from strategic investors including prominent Hollywood talent agency Creative Artists Agency (CAA), AI cloud computing company CoreWeave, and Comcast Ventures.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$84M seed extension led by General Catalyst announced 2025-07-14 (total $154M), funding-verified - BetaKit (Business Insider same month corroborates); no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Decart",
+  "aliases": [
+   "Decart.AI",
+   "Oasis AI",
+   "MirageLSD"
+  ],
+  "category": "generative-media",
+  "subcat": "real-time-video",
+  "url": "https://www.decart.ai",
+  "arrUsd": null,
+  "arrUsdReported": null,
+  "asOf": "2025-08-07",
+  "sourceUrl": "https://siliconangle.com/2025/08/07/decart-raises-100m-3-1b-valuation-grow-real-time-ai-video-platform/",
+  "quote": "Artificial intelligence developer Decart.AI Inc. today announced that it has raised $100 million in new funding on a $3.1 billion valuation to expand research and development, scale up its infrastructure platform and accelerate go-to-market efforts for its real-time generative AI technologies.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "$100M Series B at $3.1B valuation announced 2025-08-07 (Sequoia, Benchmark, Zeev per Fortune exclusive), funding-verified - SiliconANGLE; multimillion-dollar licensing contracts noted as revenue stream, no public ARR claim - coverage row",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
+ },
+ {
+  "name": "Canva",
+  "aliases": [
+   "Canva Pro",
+   "Canva Teams"
+  ],
+  "category": "generative-media",
+  "subcat": "design-suite",
+  "url": "https://www.canva.com",
+  "arrUsd": 4000000000,
+  "arrUsdReported": null,
+  "asOf": "2026-02-18",
+  "sourceUrl": "https://techcrunch.com/2026/02/18/canva-gets-to-4b-in-revenue-as-llm-referral-traffic-rises/",
+  "quote": "That user base helped push its annual recurring revenue to $4 billion by the end of year, Canva co-founder and COO Cliff Obrecht told TechCrunch on the sidelines of Web Summit Qatar.",
+  "confidence": "medium",
+  "stale": false,
+  "basis": "company-stated $4B ARR for end of 2025 (COO Cliff Obrecht to TechCrunch, 2026-02-18); 31M paid users, $42B valuation; B2B line $500M ARR noted in same interview",
+  "sourceType": "press",
+  "fetchedOn": "2026-09-02"
  }
 ]
