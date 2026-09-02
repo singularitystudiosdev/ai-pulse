@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-02 22:12 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-02 22:18 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | masteranza | 174 HN points · v 322 | 174 HN points · 74 comments · Show HN |
+| [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | masteranza | 175 HN points · v 323 | 175 HN points · 74 comments · Show HN |
 | [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"](https://hnmatchmaker.com/) | all2 | 106 HN points · v 196 | 106 HN points · 45 comments · Show HN |
 | [Show HN: Supafork – Share and Fork Sessions Across Harnesses](https://www.supafork.com) | supafork | 15 HN points · v 33 | 15 HN points · 9 comments · Show HN |
 | [Show HN: Selfship.ai – Surface and fix isues with your agentic applications 24x7](https://selfship.ai/) | pranny | 10 HN points · v 30 | 10 HN points · 10 comments · Show HN |
