@@ -1,173 +1,89 @@
 {
  "version": 1,
- "lastRunAt": "2026-09-02T12:12:58.751Z",
+ "lastRunAt": "2026-09-02T12:18:10.651Z",
  "items": {
-  "Alibaba_Qwen/2094968708288680276": {
-   "id": "Alibaba_Qwen/2094968708288680276",
-   "user": "Alibaba_Qwen",
-   "authorName": "Qwen",
-   "url": "https://x.com/Alibaba_Qwen/status/2094968708288680276",
-   "text": "🚀Qwen3.8-Max just got upgraded. Meet Qwen3.8-Max-0902!\n\n2.4T parameters. 1M context tokens. Built for real world complexity.\n\nFurther post trained on Coding & Cowork, Qwen3.8-Max-0902 now delivers stronger performance across complex enterprise tasks, scientific research, and long horizon workflows.",
-   "image": "https://pbs.twimg.com/media/HRLPk0VaIAI_ii7.jpg?name=orig",
-   "category": 2,
-   "likes": 4346,
-   "retweets": 402,
-   "views": 623849,
-   "followers": 282034,
-   "velocity": 1348.3,
-   "reason": "1348 velocity · 4346♥ 402RT · 623849 views · 9h old · matched \"try it\", \"pricing\"",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T10:53:31.655Z",
-   "lastSeen": "2026-09-02T12:12:58.751Z",
-   "renderedOn": "2026-09-02"
-  },
-  "hf:2609.01343": {
-   "id": "hf:2609.01343",
-   "user": "ShaowenWang",
-   "authorName": "Shaowen Wang",
-   "url": "https://huggingface.co/papers/2609.01343",
-   "text": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
-   "image": null,
-   "category": 1,
-   "likes": 59,
-   "retweets": 0,
-   "views": 0,
-   "followers": 0,
-   "velocity": 59,
-   "reason": "59 HF upvotes · \"SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers\" · model release",
-   "channel": "hf-papers",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T12:12:58.751Z",
-   "lastSeen": "2026-09-02T12:12:58.751Z",
-   "renderedOn": "2026-09-02"
-  },
-  "hn:49524608": {
-   "id": "hn:49524608",
-   "user": "supafork",
+  "hn:49522967": {
+   "id": "hn:49522967",
+   "user": "pranny",
    "authorName": null,
-   "url": "https://www.supafork.com",
-   "text": "Show HN: Supafork – Share and Fork Sessions Across Harnesses",
+   "url": "https://selfship.ai/",
+   "text": "Show HN: Selfship.ai – Surface and fix isues with your agentic applications 24x7",
    "image": null,
    "category": 2,
-   "likes": 14,
-   "retweets": 8,
+   "likes": 10,
+   "retweets": 9,
    "views": 0,
    "followers": 0,
-   "velocity": 30,
-   "reason": "14 HN points · 8 comments · Show HN",
+   "velocity": 28,
+   "reason": "10 HN points · 9 comments · Show HN",
    "channel": "hn-story",
-   "hnStoryId": "49524608",
-   "hnStoryTitle": "Show HN: Supafork – Share and Fork Sessions Across Harnesses",
-   "firstSeen": "2026-09-02T12:12:58.751Z",
-   "lastSeen": "2026-09-02T12:12:58.751Z",
+   "hnStoryId": "49522967",
+   "hnStoryTitle": "Show HN: Selfship.ai – Surface and fix isues with your agentic applications 24x7",
+   "firstSeen": "2026-09-02T12:18:10.651Z",
+   "lastSeen": "2026-09-02T12:18:10.651Z",
    "renderedOn": "2026-09-02"
   },
-  "ArtificialAnlys/2094849283120128135": {
-   "id": "ArtificialAnlys/2094849283120128135",
-   "user": "ArtificialAnlys",
-   "authorName": "Artificial Analysis",
-   "url": "https://x.com/ArtificialAnlys/status/2094849283120128135",
-   "text": "Meta has released Muse Voice Transcribe, taking the #1 spot for Final Transcript accuracy on AA-WER Streaming with 3.1% WER at 0.16s after end of speech\n\nMuse Voice Transcribe is the first streaming Speech to Text model developed by Meta Superintelligence Labs. Meta states that the model was trained",
-   "image": "https://pbs.twimg.com/media/HRJl_1qbMAA-j5l.jpg?name=orig",
-   "category": 4,
-   "likes": 318,
-   "retweets": 34,
-   "views": 53959,
-   "followers": 133621,
-   "velocity": 93.2,
-   "reason": "93 velocity · 318♥ 34RT · 53959 views · 10h old",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T04:22:52.433Z",
-   "lastSeen": "2026-09-02T12:12:58.751Z",
-   "renderedOn": "2026-09-02"
-  },
-  "hf:2608.30821": {
-   "id": "hf:2608.30821",
-   "user": "MinghanQin",
-   "authorName": "Minghan Qin",
-   "url": "https://huggingface.co/papers/2608.30821",
-   "text": "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
+  "hf:2609.00111": {
+   "id": "hf:2609.00111",
+   "user": "XinZhou",
+   "authorName": "Xin Zhou",
+   "url": "https://huggingface.co/papers/2609.00111",
+   "text": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
    "image": null,
    "category": 1,
-   "likes": 95,
+   "likes": 229,
    "retweets": 0,
    "views": 0,
    "followers": 0,
-   "velocity": 95,
-   "reason": "95 HF upvotes · \"Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Mo\" · model release",
+   "velocity": 229,
+   "reason": "229 HF upvotes · \"Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M\" · model release",
    "channel": "hf-papers",
    "hnStoryId": null,
    "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T12:12:58.751Z",
-   "lastSeen": "2026-09-02T12:12:58.751Z",
+   "firstSeen": "2026-09-02T12:18:10.651Z",
+   "lastSeen": "2026-09-02T12:18:10.651Z",
    "renderedOn": "2026-09-02"
   },
-  "PalmerLuckey/2094639434436427911": {
-   "id": "PalmerLuckey/2094639434436427911",
-   "user": "PalmerLuckey",
-   "authorName": "Palmer Luckey",
-   "url": "https://x.com/PalmerLuckey/status/2094639434436427911",
-   "text": "Day 5 of Paul Graham rewriting what people actually say into gay fanfiction and declaring said fanfiction to be the dumbest thing he has ever seen.\n\nPG is gone, guys.  Remember him as he was in the good times, not selling out American workers and belittling their religion.  RIP.",
-   "image": "https://pbs.twimg.com/media/HRGndGYawAEZOHM.jpg?name=orig",
-   "category": 4,
-   "likes": 12532,
-   "retweets": 549,
-   "views": 753505,
-   "followers": 1177056,
-   "velocity": 356.5,
-   "reason": "357 velocity · 12532♥ 549RT · 753505 views · 24h old",
-   "channel": "hn-comment",
+  "hf:2609.01591": {
+   "id": "hf:2609.01591",
+   "user": "KeYang",
+   "authorName": "Ke Yang",
+   "url": "https://huggingface.co/papers/2609.01591",
+   "text": "StudentSim: Training LLM-based Student Simulators",
+   "image": null,
+   "category": 1,
+   "likes": 283,
+   "retweets": 0,
+   "views": 0,
+   "followers": 0,
+   "velocity": 283,
+   "reason": "283 HF upvotes · \"StudentSim: Training LLM-based Student Simulators\" · model release",
+   "channel": "hf-papers",
    "hnStoryId": null,
    "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T04:22:52.433Z",
-   "lastSeen": "2026-09-02T12:12:58.751Z",
+   "firstSeen": "2026-09-02T12:18:10.651Z",
+   "lastSeen": "2026-09-02T12:18:10.651Z",
    "renderedOn": "2026-09-02"
   },
-  "hn:49528057": {
-   "id": "hn:49528057",
-   "user": "all2",
+  "hn:49528895": {
+   "id": "hn:49528895",
+   "user": "masteranza",
    "authorName": null,
-   "url": "https://hnmatchmaker.com/",
-   "text": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+   "url": "https://masteranza.github.io/weedout/",
+   "text": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
    "image": null,
    "category": 2,
-   "likes": 99,
-   "retweets": 41,
+   "likes": 157,
+   "retweets": 70,
    "views": 0,
    "followers": 0,
-   "velocity": 181,
-   "reason": "99 HN points · 41 comments · Show HN",
+   "velocity": 297,
+   "reason": "157 HN points · 70 comments · Show HN",
    "channel": "hn-story",
-   "hnStoryId": "49528057",
-   "hnStoryTitle": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-   "firstSeen": "2026-09-02T12:12:58.751Z",
-   "lastSeen": "2026-09-02T12:12:58.751Z",
-   "renderedOn": "2026-09-02"
-  },
-  "hf:2608.31106": {
-   "id": "hf:2608.31106",
-   "user": "JiashuZhu",
-   "authorName": "Jiashu Zhu",
-   "url": "https://huggingface.co/papers/2608.31106",
-   "text": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
-   "image": null,
-   "category": 1,
-   "likes": 93,
-   "retweets": 0,
-   "views": 0,
-   "followers": 0,
-   "velocity": 93,
-   "reason": "93 HF upvotes · \"DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Reso\" · model release",
-   "channel": "hf-papers",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T12:12:58.751Z",
-   "lastSeen": "2026-09-02T12:12:58.751Z",
+   "hnStoryId": "49528895",
+   "hnStoryTitle": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+   "firstSeen": "2026-09-02T12:18:10.651Z",
+   "lastSeen": "2026-09-02T12:18:10.651Z",
    "renderedOn": "2026-09-02"
   },
   "XOpenSource/2094938072706400286": {
@@ -188,91 +104,175 @@
    "hnStoryId": null,
    "hnStoryTitle": null,
    "firstSeen": "2026-09-02T04:22:52.433Z",
-   "lastSeen": "2026-09-02T12:12:58.751Z",
+   "lastSeen": "2026-09-02T12:18:10.651Z",
    "renderedOn": "2026-09-02"
   },
-  "hn:49528895": {
-   "id": "hn:49528895",
-   "user": "masteranza",
-   "authorName": null,
-   "url": "https://masteranza.github.io/weedout/",
-   "text": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-   "image": null,
-   "category": 2,
-   "likes": 157,
-   "retweets": 70,
-   "views": 0,
-   "followers": 0,
-   "velocity": 297,
-   "reason": "157 HN points · 70 comments · Show HN",
-   "channel": "hn-story",
-   "hnStoryId": "49528895",
-   "hnStoryTitle": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-   "firstSeen": "2026-09-02T12:12:58.751Z",
-   "lastSeen": "2026-09-02T12:12:58.751Z",
-   "renderedOn": "2026-09-02"
-  },
-  "hf:2609.01591": {
-   "id": "hf:2609.01591",
-   "user": "KeYang",
-   "authorName": "Ke Yang",
-   "url": "https://huggingface.co/papers/2609.01591",
-   "text": "StudentSim: Training LLM-based Student Simulators",
+  "hf:2608.31106": {
+   "id": "hf:2608.31106",
+   "user": "JiashuZhu",
+   "authorName": "Jiashu Zhu",
+   "url": "https://huggingface.co/papers/2608.31106",
+   "text": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
    "image": null,
    "category": 1,
-   "likes": 282,
+   "likes": 93,
    "retweets": 0,
    "views": 0,
    "followers": 0,
-   "velocity": 282,
-   "reason": "282 HF upvotes · \"StudentSim: Training LLM-based Student Simulators\" · model release",
+   "velocity": 93,
+   "reason": "93 HF upvotes · \"DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Reso\" · model release",
    "channel": "hf-papers",
    "hnStoryId": null,
    "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T12:12:58.751Z",
-   "lastSeen": "2026-09-02T12:12:58.751Z",
+   "firstSeen": "2026-09-02T12:18:10.651Z",
+   "lastSeen": "2026-09-02T12:18:10.651Z",
    "renderedOn": "2026-09-02"
   },
-  "hf:2609.00111": {
-   "id": "hf:2609.00111",
-   "user": "XinZhou",
-   "authorName": "Xin Zhou",
-   "url": "https://huggingface.co/papers/2609.00111",
-   "text": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
+  "hn:49528057": {
+   "id": "hn:49528057",
+   "user": "all2",
+   "authorName": null,
+   "url": "https://hnmatchmaker.com/",
+   "text": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+   "image": null,
+   "category": 2,
+   "likes": 99,
+   "retweets": 41,
+   "views": 0,
+   "followers": 0,
+   "velocity": 181,
+   "reason": "99 HN points · 41 comments · Show HN",
+   "channel": "hn-story",
+   "hnStoryId": "49528057",
+   "hnStoryTitle": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+   "firstSeen": "2026-09-02T12:18:10.651Z",
+   "lastSeen": "2026-09-02T12:18:10.651Z",
+   "renderedOn": "2026-09-02"
+  },
+  "PalmerLuckey/2094639434436427911": {
+   "id": "PalmerLuckey/2094639434436427911",
+   "user": "PalmerLuckey",
+   "authorName": "Palmer Luckey",
+   "url": "https://x.com/PalmerLuckey/status/2094639434436427911",
+   "text": "Day 5 of Paul Graham rewriting what people actually say into gay fanfiction and declaring said fanfiction to be the dumbest thing he has ever seen.\n\nPG is gone, guys.  Remember him as he was in the good times, not selling out American workers and belittling their religion.  RIP.",
+   "image": "https://pbs.twimg.com/media/HRGndGYawAEZOHM.jpg?name=orig",
+   "category": 4,
+   "likes": 12532,
+   "retweets": 549,
+   "views": 753505,
+   "followers": 1177056,
+   "velocity": 356.5,
+   "reason": "357 velocity · 12532♥ 549RT · 753505 views · 24h old",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T04:22:52.433Z",
+   "lastSeen": "2026-09-02T12:18:10.651Z",
+   "renderedOn": "2026-09-02"
+  },
+  "hf:2608.30821": {
+   "id": "hf:2608.30821",
+   "user": "MinghanQin",
+   "authorName": "Minghan Qin",
+   "url": "https://huggingface.co/papers/2608.30821",
+   "text": "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
    "image": null,
    "category": 1,
-   "likes": 218,
+   "likes": 95,
    "retweets": 0,
    "views": 0,
    "followers": 0,
-   "velocity": 218,
-   "reason": "218 HF upvotes · \"Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M\" · model release",
+   "velocity": 95,
+   "reason": "95 HF upvotes · \"Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Mo\" · model release",
    "channel": "hf-papers",
    "hnStoryId": null,
    "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T12:12:58.751Z",
-   "lastSeen": "2026-09-02T12:12:58.751Z",
+   "firstSeen": "2026-09-02T12:18:10.651Z",
+   "lastSeen": "2026-09-02T12:18:10.651Z",
    "renderedOn": "2026-09-02"
   },
-  "hn:49522967": {
-   "id": "hn:49522967",
-   "user": "pranny",
+  "ArtificialAnlys/2094849283120128135": {
+   "id": "ArtificialAnlys/2094849283120128135",
+   "user": "ArtificialAnlys",
+   "authorName": "Artificial Analysis",
+   "url": "https://x.com/ArtificialAnlys/status/2094849283120128135",
+   "text": "Meta has released Muse Voice Transcribe, taking the #1 spot for Final Transcript accuracy on AA-WER Streaming with 3.1% WER at 0.16s after end of speech\n\nMuse Voice Transcribe is the first streaming Speech to Text model developed by Meta Superintelligence Labs. Meta states that the model was trained",
+   "image": "https://pbs.twimg.com/media/HRJl_1qbMAA-j5l.jpg?name=orig",
+   "category": 4,
+   "likes": 318,
+   "retweets": 34,
+   "views": 53959,
+   "followers": 133621,
+   "velocity": 93.2,
+   "reason": "93 velocity · 318♥ 34RT · 53959 views · 10h old",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T04:22:52.433Z",
+   "lastSeen": "2026-09-02T12:18:10.651Z",
+   "renderedOn": "2026-09-02"
+  },
+  "hn:49524608": {
+   "id": "hn:49524608",
+   "user": "supafork",
    "authorName": null,
-   "url": "https://selfship.ai/",
-   "text": "Show HN: Selfship.ai – Surface and fix isues with your agentic applications 24x7",
+   "url": "https://www.supafork.com",
+   "text": "Show HN: Supafork – Share and Fork Sessions Across Harnesses",
    "image": null,
    "category": 2,
-   "likes": 10,
-   "retweets": 9,
+   "likes": 14,
+   "retweets": 8,
    "views": 0,
    "followers": 0,
-   "velocity": 28,
-   "reason": "10 HN points · 9 comments · Show HN",
+   "velocity": 30,
+   "reason": "14 HN points · 8 comments · Show HN",
    "channel": "hn-story",
-   "hnStoryId": "49522967",
-   "hnStoryTitle": "Show HN: Selfship.ai – Surface and fix isues with your agentic applications 24x7",
-   "firstSeen": "2026-09-02T12:12:58.751Z",
-   "lastSeen": "2026-09-02T12:12:58.751Z",
+   "hnStoryId": "49524608",
+   "hnStoryTitle": "Show HN: Supafork – Share and Fork Sessions Across Harnesses",
+   "firstSeen": "2026-09-02T12:18:10.651Z",
+   "lastSeen": "2026-09-02T12:18:10.651Z",
+   "renderedOn": "2026-09-02"
+  },
+  "hf:2609.01343": {
+   "id": "hf:2609.01343",
+   "user": "ShaowenWang",
+   "authorName": "Shaowen Wang",
+   "url": "https://huggingface.co/papers/2609.01343",
+   "text": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
+   "image": null,
+   "category": 1,
+   "likes": 59,
+   "retweets": 0,
+   "views": 0,
+   "followers": 0,
+   "velocity": 59,
+   "reason": "59 HF upvotes · \"SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers\" · model release",
+   "channel": "hf-papers",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T12:18:10.651Z",
+   "lastSeen": "2026-09-02T12:18:10.651Z",
+   "renderedOn": "2026-09-02"
+  },
+  "Alibaba_Qwen/2094968708288680276": {
+   "id": "Alibaba_Qwen/2094968708288680276",
+   "user": "Alibaba_Qwen",
+   "authorName": "Qwen",
+   "url": "https://x.com/Alibaba_Qwen/status/2094968708288680276",
+   "text": "🚀Qwen3.8-Max just got upgraded. Meet Qwen3.8-Max-0902!\n\n2.4T parameters. 1M context tokens. Built for real world complexity.\n\nFurther post trained on Coding & Cowork, Qwen3.8-Max-0902 now delivers stronger performance across complex enterprise tasks, scientific research, and long horizon workflows.",
+   "image": "https://pbs.twimg.com/media/HRLPk0VaIAI_ii7.jpg?name=orig",
+   "category": 2,
+   "likes": 4346,
+   "retweets": 402,
+   "views": 623849,
+   "followers": 282034,
+   "velocity": 1348.3,
+   "reason": "1348 velocity · 4346♥ 402RT · 623849 views · 9h old · matched \"try it\", \"pricing\"",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T10:53:31.655Z",
+   "lastSeen": "2026-09-02T12:18:10.651Z",
    "renderedOn": "2026-09-02"
   },
   "hn:49520151": {
@@ -789,7 +789,16 @@
   "2026-09-02T12:12:58.751Z|show supafork share and fork sessions across harnesses": "hn:49524608",
   "2026-09-02T12:12:58.751Z|dreamx creator democratizing native audio video generation resolution": "hf:2608.31106",
   "2026-09-02T12:12:58.751Z|show selfship surface and fix isues with your agentic applications 24x7": "hn:49522967",
-  "2026-09-02T12:12:58.751Z|smelt scaling laws for compute matched moe looped transformers": "hf:2609.01343"
+  "2026-09-02T12:12:58.751Z|smelt scaling laws for compute matched moe looped transformers": "hf:2609.01343",
+  "2026-09-02T12:18:10.651Z|studentsim training llm based student simulators": "hf:2609.01591",
+  "2026-09-02T12:18:10.651Z|show weedout safari extension that hides youtube labeled videos": "hn:49528895",
+  "2026-09-02T12:18:10.651Z|qwen drive initial step towards vision language foundation model for autonomous driving": "hf:2609.00111",
+  "2026-09-02T12:18:10.651Z|show match maker matching who wants hired with who hiring": "hn:49528057",
+  "2026-09-02T12:18:10.651Z|lucida parse generate and place for composable real sim scene modeling": "hf:2608.30821",
+  "2026-09-02T12:18:10.651Z|show supafork share and fork sessions across harnesses": "hn:49524608",
+  "2026-09-02T12:18:10.651Z|dreamx creator democratizing native audio video generation resolution": "hf:2608.31106",
+  "2026-09-02T12:18:10.651Z|show selfship surface and fix isues with your agentic applications 24x7": "hn:49522967",
+  "2026-09-02T12:18:10.651Z|smelt scaling laws for compute matched moe looped transformers": "hf:2609.01343"
  },
  "products": {
   "cursor": {
@@ -820,7 +829,7 @@
      "sourceUrl": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/"
     }
    ],
-   "momentum": 3.8,
+   "momentum": 3.6,
    "mentions": [
     {
      "platform": "news",
@@ -1009,6 +1018,24 @@
      "engagement": 0
     },
     {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDhnV0FaTm5BRzlCV3dWSGRlTlViZ0FULU1ncHdRQ0tpcFNfMy1NMHItVUF4dWdZNjQwTG5qbVRpV241c2ZZbDlKbmhEWUhwdkRYX2wtdkZxU2Vwck5mQmZtcHBqTXA2RnJObGV0M2hCWnBrRmRiREFEak1NOFp1eGxTVTBNWllrcUhrYkFTRkxFZ2k3b3A0Mko3REN0STdXXy01eQ?oc=5",
+     "date": "Sat, 29 Aug 2026 02:04:18 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49535070",
+     "date": "2026-09-02T12:10:12Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49535070",
+     "date": "2026-09-02T12:10:12Z",
+     "engagement": 0
+    },
+    {
      "platform": "hn",
      "url": "https://news.ycombinator.com/item?id=49535070",
      "date": "2026-09-02T12:10:12Z",
@@ -1042,24 +1069,6 @@
      "platform": "hn-product",
      "url": "https://news.ycombinator.com/item?id=49534012",
      "date": "2026-09-02T09:47:15Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49534012",
-     "date": "2026-09-02T09:47:15Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49533543",
-     "date": "2026-09-02T08:41:57Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49533543",
-     "date": "2026-09-02T08:41:57Z",
      "engagement": 0
     }
    ],
@@ -1290,7 +1299,7 @@
      "sourceUrl": "https://internationalfinance.com/news/unitree-ipo-puts-a-price-on-chinas-humanoid-robot-bet/"
     }
    ],
-   "momentum": 3.7,
+   "momentum": 3.8,
    "mentions": [
     {
      "platform": "news",
@@ -1494,6 +1503,12 @@
      "platform": "news-product",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUW1nREYtV3lZMEs4Q0ZvU01RMDRYeWVUVi1jRnFiVlpKejRqWFVzZ0gzTnVMYmNuRWVjQmltaHpUQmR6ckpBaWlRV3pJUHMyMzliSUhIbmVibWtnUVdWZVV5Q0xyZUZqVkhCMmlWai1uYVhpVDczTVNkSld3UXpTaEVGYkRmM2RzM1h3eXBEeU9KSXdVZlVmM3NFSE1SNzFfc3AwY3pVRDdWV3Q1N0xDQmJ6UUsyRTNQY0RMYUZMcW9FT2h1dnRTRnlORldCSmRBS28zNGZGUTc?oc=5",
      "date": "2026-08-26T13:45:09.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SV0FuTnRFMUM5elVOZGxyTjZQdU16cS1DUUE5SnZ5emRIY1NzNU9PWUFoV1FwVUhmZUdNRVQ0VmhDb3B6Rm1FYVlYWWlJVzR5b2JFcEU4MFdhd2l4WUc0dXhraW1sZExxbXhxVE9tUm1WQ21sN2c?oc=5",
+     "date": "Tue, 01 Sep 2026 13:05:00 GMT",
      "engagement": 0
     },
     {
@@ -1816,7 +1831,7 @@
      "sourceUrl": "https://getlatka.com/companies/figure-ai"
     }
    ],
-   "momentum": 13.6,
+   "momentum": 13.5,
    "mentions": [
     {
      "platform": "hn-product",
@@ -2366,8 +2381,20 @@
      "sourceUrl": "https://siliconangle.com/2026/05/27/vibe-coding-startup-cognition-doubles-valuation-new-1b-round/"
     }
    ],
-   "momentum": 7.2,
+   "momentum": 6.9,
    "mentions": [
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aV0w3clJ2akRVME1lemV1TWRKeHZKd0VtWUR2TUY3T1FoaV82ZEIzaWpwTXBJS0xDckVldWdvaDFGdHFjeUZrMnZIY2pOOGxwbVhLdVg3OXk4Z3lqU1hNdmhJM2dCMDJ3UVF6bTFn?oc=5",
+     "date": "Fri, 28 Aug 2026 17:37:30 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aV0w3clJ2akRVME1lemV1TWRKeHZKd0VtWUR2TUY3T1FoaV82ZEIzaWpwTXBJS0xDckVldWdvaDFGdHFjeUZrMnZIY2pOOGxwbVhLdVg3OXk4Z3lqU1hNdmhJM2dCMDJ3UVF6bTFn?oc=5",
+     "date": "Fri, 28 Aug 2026 17:37:30 GMT",
+     "engagement": 0
+    },
     {
      "platform": "news",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aV0w3clJ2akRVME1lemV1TWRKeHZKd0VtWUR2TUY3T1FoaV82ZEIzaWpwTXBJS0xDckVldWdvaDFGdHFjeUZrMnZIY2pOOGxwbVhLdVg3OXk4Z3lqU1hNdmhJM2dCMDJ3UVF6bTFn?oc=5",
@@ -2594,18 +2621,6 @@
      "platform": "news-product",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTNON3o3cnJBZjlQcS1CVm5CRFNVYms2enBQZF9lM0F3VXk1Wk5GNjltQ3VabHlYR1VuNzMteEY2cHdhV3kyX3hDU09sYm5nTnlZQWxJN0o3S3FpSTktRVNqZnF5WnZVSi10eDQ4RFlyMWhMWkJfeGw2N3RxUDVyV2ZzeUkwR2l4dHMyOTZaTDBEOEhrc0xDXy1Hd2k5TmotSWNodTJpdFQzdlhjMnVmUW1vWS1TYWR4aFE1VE0xSzA?oc=5",
      "date": "2026-09-02T00:29:00.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckpuYmE5X0VWUHN1R2RUUmY1ekU3LWRhczg3NERzdk9hV0RLcHZXVmd1QjNLdmpHdGI1Sjd2Tmk1SmxOb1psRGktSkNGRFJvLVk0R0RrUVZQWkpwV0VtQlc3WmNEWkZHRi1meFprN0ctQ0paeWxTelI0NW5vX2VSZ25NOE1DZw?oc=5",
-     "date": "2026-09-02T00:29:00.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVpjNndPcjFKTGQ5bmF4LUpUQU1wNTRzUXFmVkRNTGNFUHdFaDJBQWo0Sm1BYVZEZ3dQaEIxbDUwQU9hVnp2QWpaaHBlMmVTTmdGNHEzWHlfbFBwUHJsMml5RWNybWMyaEttZnRoekc3MFhBMU13RGM2aHgzTEVKQ0J5RjZ2SjNXU0E?oc=5",
-     "date": "2026-09-01T20:44:00.000Z",
      "engagement": 0
     }
    ],
@@ -2848,6 +2863,12 @@
      "engagement": 0
     },
     {
+     "platform": "x",
+     "url": "https://x.com/ArtificialAnlys/status/2094849283120128135",
+     "date": "Tue Sep 01 18:06:04 +0000 2026",
+     "engagement": 0
+    },
+    {
      "platform": "appstore",
      "url": "https://apps.apple.com/us/app/elevenlabs-ai-generator/id6743162587?uo=2",
      "date": "2026-09-02T10:58:11.282Z",
@@ -2869,12 +2890,6 @@
      "platform": "hn-product",
      "url": "https://news.ycombinator.com/item?id=49530734",
      "date": "2026-09-02T01:39:59Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49527452",
-     "date": "2026-09-01T20:11:44Z",
      "engagement": 0
     },
     {
@@ -2916,7 +2931,7 @@
      "sourceUrl": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/"
     }
    ],
-   "momentum": 11.6,
+   "momentum": 11.5,
    "mentions": [
     {
      "platform": "news-product",
@@ -3606,6 +3621,78 @@
      "engagement": 0
     },
     {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532259",
+     "date": "2026-09-02T05:54:47Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532259",
+     "date": "2026-09-02T05:54:47Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532259",
+     "date": "2026-09-02T05:54:47Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532259",
+     "date": "2026-09-02T05:54:47Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532259",
+     "date": "2026-09-02T05:54:47Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532259",
+     "date": "2026-09-02T05:54:47Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532259",
+     "date": "2026-09-02T05:54:47Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532259",
+     "date": "2026-09-02T05:54:47Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532259",
+     "date": "2026-09-02T05:54:47Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532259",
+     "date": "2026-09-02T05:54:47Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532259",
+     "date": "2026-09-02T05:54:47Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532259",
+     "date": "2026-09-02T05:54:47Z",
+     "engagement": 0
+    },
+    {
      "platform": "hn-product",
      "url": "https://news.ycombinator.com/item?id=49532259",
      "date": "2026-09-02T05:54:47Z",
@@ -3613,78 +3700,6 @@
     },
     {
      "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49532259",
-     "date": "2026-09-02T05:54:47Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532259",
-     "date": "2026-09-02T05:54:47Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532259",
-     "date": "2026-09-02T05:54:47Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532259",
-     "date": "2026-09-02T05:54:47Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532259",
-     "date": "2026-09-02T05:54:47Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532259",
-     "date": "2026-09-02T05:54:47Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532259",
-     "date": "2026-09-02T05:54:47Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532259",
-     "date": "2026-09-02T05:54:47Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532259",
-     "date": "2026-09-02T05:54:47Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532259",
-     "date": "2026-09-02T05:54:47Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532259",
-     "date": "2026-09-02T05:54:47Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532259",
-     "date": "2026-09-02T05:54:47Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
      "url": "https://news.ycombinator.com/item?id=49532259",
      "date": "2026-09-02T05:54:47Z",
      "engagement": 0
@@ -3788,7 +3803,7 @@
      "sourceUrl": "https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/"
     }
    ],
-   "momentum": 13,
+   "momentum": 13.7,
    "mentions": [
     {
      "platform": "news-product",
@@ -3810,6 +3825,12 @@
     },
     {
      "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1w576oa/ward_drive_stuffs/",
+     "date": "2026-09-02T11:04:03+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit",
      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1w576oa/ward_drive_stuffs/",
      "date": "2026-09-02T11:04:03+00:00",
      "engagement": 2
@@ -3872,6 +3893,12 @@
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/RogueTraderCRPG/comments/1w55g73/genuinely_fuck_heinrix_at_this_point/",
      "date": "2026-09-02T09:29:02+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit",
+     "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1w540hq/can_people_actually_tell_when_a_deck_came_out_of/",
+     "date": "2026-09-02T08:04:32+00:00",
      "engagement": 2
     },
     {
@@ -4017,18 +4044,6 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUnc2ck5TZGFPQm9HNWNhVlNkWVZhVjhjZlg2NG5HTWN2QXY2Z0UxcGxWTFB3dnVhZUtpYXpZUXNFNk9VNGhqTnlhSmZocnFQUndMMGhldVlaRHpuOTEwNUZRcm1GdE5sS2V5M0x2dkdBQUlzTHZVamRaa1VqMW1wQWRzb082eS1oU1pkVEtVNF9TR3owb1BtVDhSVFRicEhwWXVXcjBpYVg?oc=5",
      "date": "2026-09-01T12:53:10.000Z",
      "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUnc2ck5TZGFPQm9HNWNhVlNkWVZhVjhjZlg2NG5HTWN2QXY2Z0UxcGxWTFB3dnVhZUtpYXpZUXNFNk9VNGhqTnlhSmZocnFQUndMMGhldVlaRHpuOTEwNUZRcm1GdE5sS2V5M0x2dkdBQUlzTHZVamRaa1VqMW1wQWRzb082eS1oU1pkVEtVNF9TR3owb1BtVDhSVFRicEhwWXVXcjBpYVg?oc=5",
-     "date": "2026-09-01T12:53:10.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUF6Y0RLT2pPV0FULTYzSUZiQ3V3RHFsTjhlLTREY2l4M2d2NWcxSjdfSzQxWXp4VV9HRXRCQ1NxWHRKTUE2VzhmVmpZaXpzYnMtLTFTV0dYdnpvVGxWVC05WkJ1OU56RlZCdlZPQzhtNkduZVc4dXhDWGdFVWZwYi1KY2hXRXVWRGNsNXBReHRHdXFuSThuRVRRWDRSQQ?oc=5",
-     "date": "2026-09-01T11:59:43.000Z",
-     "engagement": 0
     }
    ],
    "firstSeen": "2025-11-10",
@@ -4063,7 +4078,7 @@
      "sourceUrl": "https://techcrunch.com/2025/09/10/replit-hits-3b-valuation-on-150m-annualized-revenue/"
     }
    ],
-   "momentum": 7.2,
+   "momentum": 7.1,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -4320,7 +4335,7 @@
      "sourceUrl": "https://pulse2.com/linear-completes-99-million-tender-at-2-5-billion-valuation-as-arr-tops-100-million-and-net-retention-hits-177/"
     }
    ],
-   "momentum": 4.4,
+   "momentum": 3.6,
    "mentions": [
     {
      "platform": "news",
@@ -4515,9 +4530,9 @@
      "engagement": 0
     },
     {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49534915",
-     "date": "2026-09-02T11:52:22Z",
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkI2SmcyeVoxeTRZblZWNWNYMzhFdV9PcnJlZ0gtT3h0NWhXZkxwYlYyNmhPNUJuUm5VR2JUUnYtTEd3V09IUl9IRzhZT1N3b0s3amI3c2hLNTdhNjNfc1B6V05LaTduSDRUWDVvNGJ1bnZra1Fqak5ILWtaUzJ0NHhvbUNRcnBqTXh0REp3Um52NHlZR1AzMGZkUGQ2NUNzWFpQeUpGemlBb1BvNTNJSkc3ZmpXckItZVIxVHFIMHB0V19mSlhiVWtn0gHPAUFVX3lxTE16cXlvek1lcVFUSDlfdkdXQTBsdjJDNXM0UHN1TDFwcnpVVmo2NlMyT0Y4NlBaWnN6ZW5hMWQ2bXFhNHp0X1ptd25RWTlXbW03a2dCamN1LU4xMmx3LWxoUjl6MTk3UkFpdzFHejN0U09xX3dOUmE4bjY2TVpsMXlQSnQ0MW1VYndBT25CUzlKZ3N3Nk1iT3h3LTBMVllyV2xsOVZaNGkxUGg3ak4wNF9MWW43OE5XeS1obUkyUV94d1EzdktVS2ZuRi1EaWZDZw?oc=5",
+     "date": "Fri, 28 Aug 2026 20:52:19 GMT",
      "engagement": 0
     },
     {
@@ -4528,6 +4543,18 @@
     },
     {
      "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49534915",
+     "date": "2026-09-02T11:52:22Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49534915",
+     "date": "2026-09-02T11:52:22Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
      "url": "https://news.ycombinator.com/item?id=49534915",
      "date": "2026-09-02T11:52:22Z",
      "engagement": 0
@@ -4548,18 +4575,6 @@
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/Deltarune/comments/1w57gt0/chapter_6_will_be_a_flash_back_chapter_of_kris/",
      "date": "2026-09-02T11:18:42+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/MechanicalEngineering/comments/1w57auj/designing_a_lightweight_endeffector_tool_for_a/",
-     "date": "2026-09-02T11:10:14+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/LocalLLM/comments/1w579s5/i_got_qwen359b_d2amtp_running_on_qualcomms/",
-     "date": "2026-09-02T11:08:36+00:00",
      "engagement": 2
     }
    ],
@@ -4870,7 +4885,7 @@
      "sourceUrl": "https://techcrunch.com/2026/03/02/myfitnesspal-has-acquired-cal-ai-the-viral-calorie-app-built-by-teens/"
     }
    ],
-   "momentum": 25.8,
+   "momentum": 25.7,
    "mentions": [
     {
      "platform": "appstore",
@@ -5038,6 +5053,12 @@
      "url": "https://www.reddit.com/r/photoroom/comments/1vx37og/why_your_ai_product_photo_looks_a_little_off_and/",
      "date": "2026-08-24T13:42:59+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeW9jNTBCZzN5UWIzTnJfNDR5Z1NtWU5hQS00SzRQQnNwUWhfLW94cTZiZlI3UmRUYmdCUUdDMHJPTGRmU2czbkNBbEt1S3BZR2VVTGFGOVlwTE5tekJXQW50Y1NkR0V0enFJUlhLOWdmYXNITXBZNU9nY3U0eG8zLUNLS0JHdnlSb2V3RFB6NXM0U2J3TDhqWDBkQ0VDQVktQUUzX3c4NFJrREpSYXQ3WGpHU3o0VFd4bXI2cGotRldaVGlpS0VjeUNCV19hNW1jOTl3d0pJWdIB1wFBVV95cUxNeW9jNTBCZzN5UWIzTnJfNDR5Z1NtWU5hQS00SzRQQnNwUWhfLW94cTZiZlI3UmRUYmdCUUdDMHJPTGRmU2czbkNBbEt1S3BZR2VVTGFGOVlwTE5tekJXQW50Y1NkR0V0enFJUlhLOWdmYXNITXBZNU9nY3U0eG8zLUNLS0JHdnlSb2V3RFB6NXM0U2J3TDhqWDBkQ0VDQVktQUUzX3c4NFJrREpSYXQ3WGpHU3o0VFd4bXI2cGotRldaVGlpS0VjeUNCV19hNW1jOTl3d0pJWQ?oc=5",
+     "date": "2026-08-31T11:18:09.000Z",
+     "engagement": 0
     }
    ],
    "firstSeen": "2024-01-09",
@@ -5072,7 +5093,7 @@
      "sourceUrl": "https://getlatka.com/companies/n8n.io"
     }
    ],
-   "momentum": 13.1,
+   "momentum": 12.9,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -5117,133 +5138,7 @@
      "engagement": 2
     },
     {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532467",
-     "date": "2026-09-02T06:27:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
+     "platform": "hn-product",
      "url": "https://news.ycombinator.com/item?id=49532467",
      "date": "2026-09-02T06:27:42Z",
      "engagement": 0
@@ -5262,6 +5157,138 @@
     },
     {
      "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532467",
+     "date": "2026-09-02T06:27:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
      "url": "https://news.ycombinator.com/item?id=49532467",
      "date": "2026-09-02T06:27:42Z",
      "engagement": 0
@@ -5306,12 +5333,6 @@
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/discouthub/comments/1w51a5v/looking_to_unlock_premium_ai_developer_business/",
      "date": "2026-09-02T05:32:16+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/documentAutomation/comments/1w50pmv/i_built_a_whatsapp_bot_that_extracts_images_from/",
-     "date": "2026-09-02T05:02:03+00:00",
      "engagement": 2
     }
    ],
@@ -5593,6 +5614,18 @@
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03SEpTVFVzZ0djMV9vT0d5Vl9RdVgyTHl1ZkxaVl9Oc3JpSmZhZ3lJT2psTFctcGt2ZE9RSFV5LV8yWUpkRERZNmdIMWVvZG5sMmFEODJKMHpELWJqZEwxcEtNV2sxLVY3MUE?oc=5",
      "date": "2026-08-31T09:13:26.000Z",
      "engagement": 0
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/gtmengineering/comments/1vu42vw/how_to_use_github_for_revops_webinar_recording/",
+     "date": "2026-08-21T02:48:34+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/aiArt/comments/1vdsrts/i_tested_10_ai_image_generation_and_photo_editing/",
+     "date": "2026-08-02T20:33:22+00:00",
+     "engagement": 2
     }
    ],
    "firstSeen": "2026-03-29",
@@ -5630,19 +5663,19 @@
    "momentum": 12.5,
    "mentions": [
     {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49534735",
+     "date": "2026-09-02T11:30:52Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49534735",
+     "date": "2026-09-02T11:30:52Z",
+     "engagement": 0
+    },
+    {
      "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49534735",
-     "date": "2026-09-02T11:30:52Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49534735",
-     "date": "2026-09-02T11:30:52Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
      "url": "https://news.ycombinator.com/item?id=49534735",
      "date": "2026-09-02T11:30:52Z",
      "engagement": 0
@@ -5902,8 +5935,158 @@
      "sourceUrl": "https://x.com/agermanidis/status/2052749749477048433"
     }
    ],
-   "momentum": 25.4,
+   "momentum": 31.3,
    "mentions": [
+    {
+     "platform": "appstore",
+     "url": "https://apps.apple.com/us/app/runway-ai-image-video/id1665024375?uo=2",
+     "date": "2026-09-02T12:22:51.337Z",
+     "engagement": 87
+    },
+    {
+     "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49534173",
+     "date": "2026-09-02T10:07:37Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFptcUp4WnFzOVYzZDBuSUI3d29EVDJUc045UkhsS09Mb3N5MFR6c1V3eDlzUzcwQ285WUYzUFo3LWg4SGlKeXJhX2JXbzVCVXA3Y185VFVveWN2MkF1WnBWRkpmRmR5cmJrbHhETENxZmxkek9aVnhodWt1WWJjbHRCZzhLQlVEd3RZT2V3a3BUYjB6ak9rczEzTWtrdXdmcDRDb09tcXc?oc=5",
+     "date": "2026-09-02T09:33:08.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qeEdBWlE0dFFpVy1EZWh6bmRudDVJTnI1ckpneUVralBCaDVtczduWmtLRzdWZmpQanZLb2FuOXBMcWtPOElHMHl1Q29oV3hCajVmNXNLMlh4UDdkcWpVeS1uYlHSAWRBVV95cUxNanhHQVpRNHRRaVctRGVoem5kbnQ1SU5yNXJKZ3lFa2pQQmg1bXM3blprS0c3VmZqUGp2S29hbjlwTHFrTzhJRzB5dUNvaFd4Qmo1ZjVzSzJYeFA3ZHFqVXktbmJR?oc=5",
+     "date": "2026-09-02T06:43:17.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVJ1VWczdzdhamJEZVhDLURLRXVwQmN1LUZTSDIxTUg5M2NzMlczclE3eEFoNDVzaDA2NTNzamJMQW5mNTZPTHBrYURXOGd4UGtqR0d4Y09nR2pUMWpRMjE2Y2ZwSE5TbEJPQlBmeDNlQy1keUxBUXJLdFN6OXBqUWp1SWpPbmR5c2RiVlVwb0dYVHlhSVhseHRqWXdYMTg?oc=5",
+     "date": "2026-09-02T05:30:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1RWczJkSjd3eEZ6VjF4OUkyeUlaUWNqNGJPT18xTzBQVVNCZFV2bkxOejA3UjFhY1N6LW9xbzJ4bWx3VlNHcXhneTZHTHo1TDdSamdHTGhtVkkwc1gyeFZnYnVaSUVpVG5Td0I2cVlCZ0xCaXl5QUk5ak90NXd4ZXpDcjhVaTcxbDNvM1RCUHlXUWxZQUlwTWY5eEhGWWp0ZmhWbzRuandFZW1pT3JjdmR3?oc=5",
+     "date": "2026-09-02T05:30:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSEM3M3FMYjIxVmlId0V1bXBhWjgxWFZqODJIMk9hMWphNFNzWHBHTm9wc2ZVTTdZMF9CU1lCV3JITTZydUNhVVpNcl9OOUU1LUEwOW9zR3RhSlpUcFVHdWZ3YmVfYzFKd0IxRWZUNTRseHBvZFdhVnVzWGVxQlRYME5ZU0ZvUVJ3eGV2WTVn?oc=5",
+     "date": "2026-09-02T04:10:59.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV1NSc0R1U0Jqb3lPSURwbl85WlBiT1pwSUpfWG1EdmwzazZSeWlua2tJc0Z0OWttNDVNYlg1VThEdjJvRjQwdUYtOS0wdFViT2xsRHUtYjd1Vkp1OE9HLWVPNnQyaEdTeVdtQnRqS2ZLSm1jS2NweUs3NWxUREZyQmtlazJMMVRpRGxGOUk1Ym01aXozSzFVZWZZUWM3czFWcDFvZFZ0X1RuNFNiTWlR?oc=5",
+     "date": "2026-09-02T04:04:11.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49530894",
+     "date": "2026-09-02T02:05:35Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdXZCY3VGazNxa29fWnRSTVoyaV81aHFVcDVqakxPRWxxdVZJU3BkN01IY3R3YTdjWDhOSVo4azdjN0x3allFTGdleW9pX2lqaXBWUTR5RWNkOGhuTGJ1NmJUVGFta1UyaWdIQVJjc2ItZElWN0FnaEd2TWdzNjdFZU9xWmRXWDVYZEVNQWowZXg1ZnRjcUFwVEpKSU5EdHd6Vmp0NjBjYU90c0w1OV9ZaEZsVmJ6OEMzTGNwc1hR0gG-AUFVX3lxTFB1dkJjdUZrM3Frb19adFJNWjJpXzVocVVwNWpqTE9FbHF1VklTcGQ3TUhjdHdhN2NYOE5JWjhrN2M3THdqWUVMZ2V5b2lfaWppcFZRNHlFY2Q4aG5MYnU2YlRUYW1rVTJpZ0hBUmNzYi1kSVY3QWdoR3ZNZ3M2N0VlT3FaZFdYNVhkRU1BajBleDVmdGNxQXBUSkpJTkR0d3pWanQ2MGNhT3RzTDU5X1loRmxWYno4QzNMY3BzWFE?oc=5",
+     "date": "2026-09-02T02:04:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM3YwUlFNSVVjVEl5SGtINkc0VHVBb2xVeG5wU3JnN1ZHcVVzeFF6QVJMbW5QUzBlYkFsT3Y1TVRoM3FsWXRWWXlUNzJpQUhQSFFOVGJYUWlYRWwyQlRMRExobnZFbHl6UndWc0Z4YlhUZ0VvV1Y0Umt0RHY2QTFJNURGcDV6RlBQemswQTNLNTJKQQ?oc=5",
+     "date": "2026-09-02T01:11:24.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZSTJVSURza0tuRHJhbU1wNkZuWXpWcVRYMm11Y1hoV3VKNERLc2NQUC1qSmQ1dG5qX2hiQzN1UG8wRkI0eFdpSE5ubTZubXc?oc=5",
+     "date": "2026-09-02T00:27:06.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49529518",
+     "date": "2026-09-01T23:07:56Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSzM5MUVOUFBndTN4WnFVcnlGNlIteUJVa2RuNldWN2d5UEk0RTRmYjRISnJZMzFOSXE3TlNTc1h3ZDYxTlplRXNLNmp3c3VoOXNReXZob2licmtqdDBweEdxWTIta3lxbzRIMmdyY0NkaUZQV21fUUZMU3VvX3BBRjhzem5ldTZwWnZ6SA?oc=5",
+     "date": "2026-09-01T21:21:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXdhNVNuS0NzMzlhODh4QkxfcjF1cXJSaFlLcFRZd2JxWThBZFV6NEZPdk1qQW4xODQ3NExBal8xZ3o0VGZiR1hTTldJUmFCV2gtc09CY1lzaHpiYnVsT1VWRldwWGNzVEZ0dkJMTjJiclFtamUxVDBETTVFeW1sY2ZrekdobEhsaEluWGZPYVh1bTVoRTNrVXp6RVFON2F6bmFkZlNsdDA?oc=5",
+     "date": "2026-09-01T20:58:04.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUtQaFJUMjRtcnViYzRQVnNiUllFaWZPaUtwMmY1UDdwemFyVUdQZk5IOVpWRkNSdXJNajFkWmduVkk4VDhnbWg2ME9SazZTU21mdXBGWjZRa1htOXpvNWdaRGNvaGwtT0hFRGxfS0liSzlwdVJZZnJKaHNSZVcwU0dRQzNOMzFucnRnaUo1T0ZhVTZ4dG8zQ3ltczUxcER4dWJOM2V3SlBHQlhWeTJMQXJYZUY1cGEtNkhfYg?oc=5",
+     "date": "2026-09-01T20:19:21.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2NmxnUzNiMHlFRE9uaDlrSHdVVFk5YWItdHAwc1FYZnlXYXBzNDJQTk9SdWNvMTl5a0Jid1drMUEycHd2dzdhdnlraV9kTHdYUnh0X1cxTlpLU01qb2l0Nk5aemZsMndORXZN?oc=5",
+     "date": "2026-09-01T19:44:46.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49525135",
+     "date": "2026-09-01T17:34:00Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49524353",
+     "date": "2026-09-01T16:37:27Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclFhVnJoSmZpc3hGRzdPeGNBallIZ1JGd19Wbk9kSHlGYURuTXJOVzRUOG03bWFvbFM0QnBBSnlGWGYwelJOd3lWZFNMVmVJamk4TjQ0MDRveTJQcExJemhxT09IMXo0eGVZU1A5U0JuTldyemtkVFNKM25hUFFUN3Y0Qzl3N3dLSUJ5enNQT1JsTmUxVXfSAZYBQVVfeXFMUHJRYVZyaEpmaXN4Rkc3T3hjQWpZSGdSRndfVm5PZEh5RmFEbk1yTlc0VDhtN21hb2xTNEJwQUp5RlhmMHpSTnd5VmRTTFZlSWppOE40NDA0b3kyUHBMSXpocU9PSDF6NHhlWVNQOVNCbk5XcnprZFRTSjNuYVBRVDd2NEM5dzd3S0lCeXpzUE9SbE5lMVV3?oc=5",
+     "date": "2026-09-01T16:29:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnk1TW5peTlsTGgyamZfZzl1T2QzTnVYSEVtcldfTTdYY3pCb0tVTHVGZ25QTWYxMEhUZmFzR0dJdHNGZ3NEMC02SmZsSU9TYzNvOTBvSGpOWWpEb1lHa0hNRjd1ZGpKTVg3RUFwRHhCLXJFUzFLdVItYk9Kckhya3VBY3kyT2VnVnY5NE9xOTBsNG9HRlFZN2xWQU5LRUkwY3R4S1lXeFg?oc=5",
+     "date": "2026-09-01T16:20:02.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VUHBEQnlVbkNnakh0aUtVcjZfeVdsTm9IRDBBNVFjOU5DOC1tbmVCUlRTQlRLZXdmN1Vud1RuYlI0cVI3VFQyNGYwSXpQZEI4eUk1Um90RG14ZW9ja2NHZTVMd3gtZmlWN2g0aENIVQ?oc=5",
+     "date": "2026-09-01T15:42:07.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORGd5WlZ2SjRyMzlNU1JaR05WM2IxNFpnbWtpOVBqS210WGtTeW9TRkh1elRkVzFTMVJjdXl5X1ZVbDdFNWtualc3Q1EtWTZlZ2JZT2lJUm1TMV85T0QySEZ5V2dJZUtSWVctV3oyYWZubkd3Z1AxQnJTcTNpYlFDQmZvbjhkc0lJT1dqbUoxYmVoeHRVTDhHSEZ6eUU?oc=5",
+     "date": "2026-09-01T14:38:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnoyc210ekJiR094aW5PaW44U25DSFAya1RuUnExYXhFZ2pVcmx6eThuSXI1V3NHcU8xR256QWpiOWsySTByQVV0LXRLLVoxVUp6VDRSUTdvejhsQkYyODJQNHRoRlk1SFRBemdkeDZwX0NuMHMtRjhKc0c1WVhsbUcySGxMakNlUTVINzlZbktUMEg4a1VhWVcwR25HMVJkcjZYN0JoZw?oc=5",
+     "date": "2026-09-01T14:20:03.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN0FDcFNfOWRQdnFzVFNrNU9xbXBiVXRTTXUwUDJaX01RZkc0YllBSU5ybXgtb2xBeW9EdGliTFBKVVZ5LXBLSW16MnJxbEQyRmxXQVVjT2h3a1RxTU1UN1ZoVEIzbWVZMF9IRXl0SGViOTNKODltVzFkQmZYa2ZMbnNTTHV2SVhhMC1zeA?oc=5",
+     "date": "2026-09-01T13:00:00.000Z",
+     "engagement": 0
+    },
     {
      "platform": "newsletter",
      "url": "https://www.therundown.ai/articles/runway-solaris-previews-the-no-code-internet",
@@ -5911,14 +6094,92 @@
      "engagement": 3
     },
     {
-     "platform": "appstore",
-     "url": "https://apps.apple.com/us/app/runway-ai-image-video/id1665024375?uo=2",
-     "date": "2026-09-02T12:17:39.159Z",
-     "engagement": 87
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DUzJhQlhaWGVJbmVuMWlmQ0gxbFRJaTJhVmtvV0M0WXg2U0s4UkNfS2t6Zm52N3UxejAxV1NLenhDeWxPYmJtWHR3VU5qanVhM1JONlNoeFZjNEREOVJid0NLbDc5ZHY1d0dZaEhpZ2NZM1QyY1R2dmhZTXdYOFk?oc=5",
+     "date": "2026-09-01T09:31:47.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49519044",
+     "date": "2026-09-01T07:23:37Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVRrclhhcGFxcnpTdkZuWHhIaHpNRnBkakNvT2NuUEhwMW9FdWZDVDB4SlBTUjVCOGk3NGo1WUFWYV9GQVZOX1FfbjgxRlFJNTV0S1ZacU1xWnNEX3JkNzdjeC0wWUxvb2JxVzhWZWNibWN5YzdSOXRXNnBNUzlNN016WGI4bnNwN08wR05Zc1Joc1AxR3NsdzJqXzRRMDNGT2tzS0lWVjMxQdIBrwFBVV95cUxNdUNOTUZsblVDM2F1SHViVnE4aDNsMEZNSDVseF84ZlRQclE2RlZoc3l3Z0N5Zkh0TTJIR0thUGEtM25BMlRvUU5Ia3RoN2JEcEdRUWpLUnFHSzZaTTRucTQ2aS01WGM2RFQ1N3ExRGFCaVRzUDJiQWFjVmtfdU81b2ROYW94anNQaklUSHNfWGp0ZUMyeDVyQ1g0eWlaOHA2cUk5dEUyQ0FZekxYY0xj?oc=5",
+     "date": "2026-09-01T05:02:04.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRkdEYk1zS3F1OXlYRDNSeWRjYUh3aERqNmktbzVKcnRPeWVEVjd0dVdvMVAxbm1VRFNQaFRLZC1HMXM2bUY3UDcydkJYYkpTTEwtSXlONzB4b1owMDdtajZSOEJGcTF1QjFkOFJLRXNaaFFkNF8zVlpJZEJvZUh1ZnJPR3lsOXFhcERISllYYnNrZG9JSG4xVXFfS2JSdmNnNnV4cy1SVWx2SzExZnJ4Y0pSdHplRG94REE?oc=5",
+     "date": "2026-09-01T02:15:16.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONkJzUzl5cE5rOFM4WHhmZlB0ZTdpYmJrZktqWm92VnlBcnVhcFJ4aGNhLTlqQVVFR285NWVxTmNBNUJNVGptTmNBMU5hUnVKak11WVl6ZHJ1T2ZEZkU3YkhFOHJ2ODBTbENSU0ppVmtCbjJvaVFLMVZlUEFNUnZjRG5tMmxoczZ0X1B1bW9uMS16Mjg1LVpEYVNJbHJIcXROa3fSAbYBQVVfeXFMT2hYT2I5dkRGcXpsNUdScF9OYUdkRXJHU1V3azNEY29TNTBKSWVjcGVtQ2hjTU52Q2tUVnJwd18xNlhJelBJLXlJYkp1VDkwZ3lBSjM0bWFXVGptWDNFSkNHY2xYQTRvQy1uRkFhQUxMVzJDcGpjN19jTW5aQkFnN2xlQVFTYnRMRHM4eUVxQ280My1TTmhyQWxHYVVMVG5qbTUtLTZqYy1LVENsRGFnQTFHdWFYRUE?oc=5",
+     "date": "2026-08-31T22:40:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2lzcjZXNGw4Y2wwZnpvb1pVZ3JxUWtkYVQzcU5ZdW83LXlETGIxNzI0LXI5Vmh5d09DNHA2Skd5X3RzejZsV3NScXgtTEpxR3hieTRQbWpicXhYMzVTQk8xaVk4dHM0dm9qZkhoRFZDblA5TVBRcEg2V2ZPcWtmcw?oc=5",
+     "date": "2026-08-31T22:15:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjRJZXAzWFA5Z3NZMXVzQnJGVldkTTBGOUtBUld0TmJ0Z1NwU3MtOWxINVUydzg0RjAzNFFtZHJtVXlWdW9CSzZmb0tvakwta0FaYWlFVXQ2NjJmZlpsbXVyLXJha0M3RDdoVXpnOW94cDUwSHhudlFEZkFrRVBBNVNpMUJYZWY2NHktS2ljbGJUQVZCb1E?oc=5",
+     "date": "2026-08-31T21:26:19.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcFM1MjR4RGtKU1huaC1GMW8wa2xiN0lucmF4b2NMbFR3NjhiZ2w2R2IzSGZ0SDRLTTU4d2wwQnFoaHhQY3FzclJmTjNBdGlodkoyWjJOZ0k2ZGdaTU45dFVuQ1BNTnlfZUpJYU5BeEV0VWltcWdkc3NyZDFvanh5WHRkTHZuQVF5WEFrMEFzM3FidGxHel9R0gGcAUFVX3lxTE5LTUJMVi1Gd1N4cmE3aUxhZDhYWWJwc1lmR1A5dW8xS1daUTc4b3NCVW5iOXpiN2pwVTJET0x2MUdyMjZZdlI0NGtoQ25tdzVZMUpTamhDcmM4ZFJYWG0xU1BqeUFtbGNaUmJWd01NMk9nTlh6bnpBM1JJYlpIcmZBeTlaMjREVkRNVVdUV2FKQkVzNmZPalAtYklMUg?oc=5",
+     "date": "2026-08-31T19:42:53.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRW5yYmhXeFQxZDRIXzJ5bk15Y3JyclU4N1RqRE1HQmxWT29qVkNYbUdFU2xqSGdrdTI3OEtYZnZybmF6dFVjby1Tclh3QmFZVGlqQTYyVlVQRkhoTXJWNlA0NGJ1aUI2V29SZEpKcG9qZXdJTlZ1bS1DZEdTbEJfTVJuVzBBUEd2cmxTejY4cjJlZVc2UThFYllMN3VJamFfTURqa3ZXMHpGWmdacUVsbHZqdnVMXzlq?oc=5",
+     "date": "2026-08-31T18:48:44.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcE5IZjVNNUY3d1VRYTREQlIySGUyUDlJNFk4bWRtd0FSRVlXdGEtSV9zZlh1STc0VjRCNVVPRGlWcEJyaDZBelRlV3RsNVlHSzJ4blQxTkowWm9URFBiN3FlaFlnbnhIdG8yemIxX0lNa2lLU0wtVGtrSGt5SDBudGdSSktyNjM5QnVGTE5PMkdKeFYtY2I2V21XUFQzbjI4OEpIdE14ZTh3WmJId3FxX0hIa1I5Q293NHZSNjQ4YVk0a003VVhiZHpSQnY4Zm9qendDTjNDRHBjcU8yaFk0TktJMjJ5UmVFMGs3WW9qeTU?oc=5",
+     "date": "2026-08-31T18:05:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9keWlqNzl3ak9MZTZ4T0VNMkh4QWtldDlpYWNrSG1fUHI0MmdUSDNiWEhzSUlqVm9vTkQ5Zi1tak9yTXR0elpVSU85Si1sSDBKNXlDQlBXa1pZQ0hyLTVvWmgwREk?oc=5",
+     "date": "2026-08-31T17:19:25.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41Ul9MZ05qQmlMQUtOdU4tUk9kXzlKX1RWX3N0RmRIMmZqVnVRT29Wdk1TLVo1eGc2Qkxqd0YzOWVUOGJEMW9meGJJckZHVkNGSVBqRGFxSVRtYXFPQTRyQUUyMmFjUdIBa0FVX3lxTE1yNUpwTXNlcDlFSnZZNGhzRVFaX2FncHlPOEFHZXRoeGpsSnMxSmFQRm9iQnhWbTVlNGp6SHZvYlBEbEFVc01vSlJvZHllSG83aDBka19fSDkyaENxck9CbHJUWC1IcWpfLWZJ?oc=5",
+     "date": "2026-08-31T17:15:39.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVV9yRzhpb2RwellnYlcxVkxGcUFSSWpDRE03am1ybzM4ZU9HV0pnSWdZWTR1aGNHdDhaXzVjeGdsZGN5elF1bW9TUlpCRVBRenNaRGd4Tl8yQU5WQUs3UVREaFRUZ2pXOHItTnB5eHVhUDJmcUZKemZldVhwSXQ3TUxVZjgwa09UenVHZXhLbnZzakRZakVudjhhYkxjcFpwUURza2hvS2ZMYS1fd1JuM0Qxb1VnLXNNQzE3ZVBsSFVoM3PSAcsBQVVfeXFMUGNGeGxGY0tidV9aaC1BbzVKM1JaZmNzRkdpd0lJdDlqOEhnVzlFNEdzQXhxejJ3X3djR0hlUGZ6YTNXc0t1SGZ5RFctLTcwUEpWLXhCakpkY3YtVkxKVUlDUDB6d3RQXzVFOEJWb1huc2Z1dmdnUmhvSzdxQXo4dVlIdmlWRUV0VGZzdF80LVBLU0xOek42QnJVNTRvNzJuTjB5TmxwTUc5QzJYZk1VenpWbUtFZ0sxTUhFcjRELVNWLVJiTHRBbGdJRkk?oc=5",
+     "date": "2026-08-31T16:42:19.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0d0WGEzQ1NCUUNmS3dpdy1NZXNQYUZvRmFYaXBoOVVjRDNSbndmUkVPN1hRUW5JZ3RNZlBfWkdJajdnaWJ0MFFFYkxHWlphY2VHUkc4VmRtamlqTWU2WmJsSHRnbGpNUENiTWJXQ2Jibl9sX0luQy1ucEhfR2ZSVEVBdnVudUJzS0R3cmxJOFJQQlAzcnF4NmwtelU0WkVqNTdlZjlRVTNfaVRP?oc=5",
+     "date": "2026-08-31T12:00:00.000Z",
+     "engagement": 0
     }
    ],
    "firstSeen": "2026-05-08",
-   "lastSeen": "2026-09-02T12:17:39.159Z",
+   "lastSeen": "2026-09-02T12:22:51.337Z",
    "isNew": false
   },
   "tesla": {
@@ -6098,8 +6359,8 @@
     },
     {
      "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbHcwSjQtR1A5Mzhzd2MwVG5WS3I1bVhZQUROdnBWSjdOaGRDQkVqMFE0eE95bkx1aWNtNUlFekgySTFZR0FNWWlXMHdjWDVyTXZ0eGJhckJjUjRUcEd6UVJUTllzdDBDWFlOdU9naXQ2bnNMUlplNVZlOU5SVkxYNVJ4OW5Qc1J0OTZ4VE5wOGlSdnM3MGRLeHVZNnBHQ3V2SjlMOVZ4OVllVG95RDBzbE9qMmMyTmxRRGJzYi1rdlFtVW8?oc=5",
-     "date": "Wed, 26 Aug 2026 20:49:22 GMT",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80b1VwRHlFbUFmbmpLRExSLXN4S2llWXJpRUhHallUVkZGa1Z6ZF9wVWhNM2xoLUE2NWE3OXE2UWZsQk5oS3p2cjg3WW1yejc0M1ZWaDBib2N4dmRiclE?oc=5",
+     "date": "Wed, 26 Aug 2026 22:54:00 GMT",
      "engagement": 0
     },
     {
@@ -6176,8 +6437,8 @@
     },
     {
      "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDWVNHOUVoWV9CSFA3cmZCUk1QTnlTWXVtOFMtelNBODlVZGRPT2NUSnc1X2ZnR25BYlZfeFVaMmtiTGdQanNuM01hSXNjN21ZSE9kZll1VWVKVFcwb2ZkbkE5RFN5Y3V5?oc=5",
-     "date": "Wed, 26 Aug 2026 11:53:08 GMT",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbHcwSjQtR1A5Mzhzd2MwVG5WS3I1bVhZQUROdnBWSjdOaGRDQkVqMFE0eE95bkx1aWNtNUlFekgySTFZR0FNWWlXMHdjWDVyTXZ0eGJhckJjUjRUcEd6UVJUTllzdDBDWFlOdU9naXQ2bnNMUlplNVZlOU5SVkxYNVJ4OW5Qc1J0OTZ4VE5wOGlSdnM3MGRLeHVZNnBHQ3V2SjlMOVZ4OVllVG95RDBzbE9qMmMyTmxRRGJzYi1rdlFtVW8?oc=5",
+     "date": "Wed, 26 Aug 2026 20:49:22 GMT",
      "engagement": 0
     }
    ],
@@ -6893,13 +7154,19 @@
    "arrAsOf": 1672782390,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 1.6,
+   "momentum": 1.9,
    "mentions": [
     {
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/RogueTraderCRPG/comments/1w55g73/genuinely_fuck_heinrix_at_this_point/",
      "date": "2026-09-02T09:29:02+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49534864",
+     "date": "2026-09-02T11:45:30Z",
+     "engagement": 0
     },
     {
      "platform": "hn",
@@ -8225,8 +8492,14 @@
    "arrAsOf": 1773166639,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 1.7,
+   "momentum": 2,
    "mentions": [
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49534764",
+     "date": "2026-09-02T11:34:04Z",
+     "engagement": 0
+    },
     {
      "platform": "hn",
      "url": "https://news.ycombinator.com/item?id=49534764",
@@ -8766,7 +9039,7 @@
    "arrAsOf": 1784541343,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 1.1,
+   "momentum": 1.4,
    "mentions": [
     {
      "platform": "reddit",
@@ -8791,6 +9064,12 @@
      "url": "https://www.reddit.com/r/ChatGPT/comments/1w4867a/chatgpt_saved_me_1800/",
      "date": "2026-09-01T10:38:01+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49534975",
+     "date": "2026-09-02T11:58:35Z",
+     "engagement": 0
     }
    ],
    "firstSeen": "2026-07-20T09:55:43.000Z",
@@ -9071,6 +9350,12 @@
      "platform": "hn",
      "url": "https://news.ycombinator.com/item?id=49534817",
      "date": "2026-09-02T11:40:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWF4VllsMzFnS1ZxS08zRnBydUNRN18zRjlkNmc2U29mTFB1MDdRdVhIZkhWdkxHWDIxUmdwdmdLZzRBVkdWTGRfX1ZIbDk4N3R4cDB4OTNfZHVlX1QxUkdWWWw0cGlvMFVhZk5ibkpEV1NxOFRGanZJU0Z0Z2ROQnhxdXRkOTAyYldUMWFKVnB3dGgzemo4V0txS1FYWE83aTkycVVHRVhIMEZjcnZkQjlubFd5VjE3TmJ6cU1yUDJtLTZXMGhQc1ZVWk8?oc=5",
+     "date": "2026-08-28T06:56:19.000Z",
      "engagement": 0
     }
    ],
@@ -9933,6 +10218,12 @@
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JRVh4SmdORHVnZ05vR2ZOQlVLTVZMZjhPT0RaRUxUUDJQR2xHeFVaMDd1cEZrMURSZ2pLeFJadXYyaFEwRDdBV2txdDNDQQ?oc=5",
      "date": "2026-08-28T08:21:00.000Z",
      "engagement": 0
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/PLAUDAI/comments/1vo469p/what_ai_note_taker_device_actually_worked_for/",
+     "date": "2026-08-14T11:04:00+00:00",
+     "engagement": 2
     }
    ],
    "firstSeen": null,
@@ -9956,127 +10247,139 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 7.9,
+   "momentum": 8.2,
    "mentions": [
     {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49532944",
+     "date": "2026-09-02T07:28:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04MXNVWl90MmJCeE1vUnFRT29YeEZ6WDZTdFgzVnFpSHFCZHBudmpEMzllU0N4VWlwX1RnUXhBYzktZ1lIRWJla3puRGl3akdQZmlYdVZhQ2xPR3FLSHRYQUhSZFZNa1RV?oc=5",
+     "date": "2026-09-02T01:38:41.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04MXNVWl90MmJCeE1vUnFRT29YeEZ6WDZTdFgzVnFpSHFCZHBudmpEMzllU0N4VWlwX1RnUXhBYzktZ1lIRWJla3puRGl3akdQZmlYdVZhQ2xPR3FLSHRYQUhSZFZNa1RV?oc=5",
+     "date": "2026-09-02T01:38:41.000Z",
+     "engagement": 0
+    },
+    {
      "platform": "reddit",
-     "url": "https://www.reddit.com/r/artificial/comments/1w4e79o/ever_fall_down_a_curiosity_rabbit_hole_i_built_an/",
-     "date": "2026-09-01T14:50:53+00:00",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49523914",
-     "date": "2026-09-01T16:05:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49532944",
-     "date": "2026-09-02T07:28:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "reddit",
-     "url": "https://www.reddit.com/r/artificial/comments/1w4e79o/ever_fall_down_a_curiosity_rabbit_hole_i_built_an/",
-     "date": "2026-09-01T14:50:53+00:00",
+     "url": "https://www.reddit.com/r/ChatGPT/comments/1w4wbrh/chatgpt_saved_my_computer/",
+     "date": "2026-09-02T01:31:10+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "reddit",
+     "url": "https://www.reddit.com/r/ChatGPT/comments/1w4wbrh/chatgpt_saved_my_computer/",
+     "date": "2026-09-02T01:31:10+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49527118",
+     "date": "2026-09-01T19:48:24Z",
+     "engagement": 0
     },
     {
      "platform": "hn-product",
@@ -10091,22 +10394,64 @@
      "engagement": 2
     },
     {
+     "platform": "reddit",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
+     "date": "2026-09-01T19:02:45+00:00",
+     "engagement": 2
+    },
+    {
      "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49449287",
-     "date": "2026-08-26T13:57:12Z",
+     "url": "https://news.ycombinator.com/item?id=49523914",
+     "date": "2026-09-01T16:05:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49523914",
+     "date": "2026-09-01T16:05:42Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49523914",
+     "date": "2026-09-01T16:05:42Z",
      "engagement": 0
     },
     {
      "platform": "reddit",
-     "url": "https://www.reddit.com/r/ChatGPT/comments/1w4wbrh/chatgpt_saved_my_computer/",
-     "date": "2026-09-02T01:31:10+00:00",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4e79o/ever_fall_down_a_curiosity_rabbit_hole_i_built_an/",
+     "date": "2026-09-01T14:50:53+00:00",
+     "engagement": 0
+    },
+    {
+     "platform": "reddit",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4e79o/ever_fall_down_a_curiosity_rabbit_hole_i_built_an/",
+     "date": "2026-09-01T14:50:53+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit",
+     "url": "https://www.reddit.com/r/artificial/comments/1w4e79o/ever_fall_down_a_curiosity_rabbit_hole_i_built_an/",
+     "date": "2026-09-01T14:50:53+00:00",
      "engagement": 2
     },
     {
      "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TQlFRUXp5TU5hWnNnVC0zSEI4azYtdzJmWW5scVB1akxpOWRuZ0ZtZ2JCdXd3NVE5MUhDOUdtbk40dkRnV2FaN1R1STBpTXZxSExDeW44bUhmOEhaYTJoVmljSGMxRVMz?oc=5",
-     "date": "2026-08-27T04:17:05.000Z",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XQUozTHQ0VjdFMTJIUTRpb2lMN2ltWTFRa01vM2MtenFuMnNydGNWUUk1eXZTbUJIR09naFU0aERTR25OZWE1aHhOM3JUVWp3XzVhNm5CNzlidF9KWUZWbjR3Rk90bXk3?oc=5",
+     "date": "2026-09-01T04:02:05.000Z",
      "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XQUozTHQ0VjdFMTJIUTRpb2lMN2ltWTFRa01vM2MtenFuMnNydGNWUUk1eXZTbUJIR09naFU0aERTR25OZWE1aHhOM3JUVWp3XzVhNm5CNzlidF9KWUZWbjR3Rk90bXk3?oc=5",
+     "date": "2026-09-01T04:02:05.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/tolanworld/comments/1w3xkw7/tolan_stories/",
+     "date": "2026-09-01T01:24:12+00:00",
+     "engagement": 2
     },
     {
      "platform": "news-product",
@@ -10116,8 +10461,8 @@
     },
     {
      "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04MXNVWl90MmJCeE1vUnFRT29YeEZ6WDZTdFgzVnFpSHFCZHBudmpEMzllU0N4VWlwX1RnUXhBYzktZ1lIRWJla3puRGl3akdQZmlYdVZhQ2xPR3FLSHRYQUhSZFZNa1RV?oc=5",
-     "date": "2026-09-02T01:38:41.000Z",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ocmZ4VDNSUnNOc0VJbEQ1Q1FWckZJd2Q1aWd2REM2T1VxSDc4RWNJUENvNnZYM0RqQTdVQXg5MjBtX2F3M1NtdEpOclhHX2lDZkFrMFpMc25lZjBCcWUzcTFqak5qbHFX?oc=5",
+     "date": "2026-08-31T04:47:23.000Z",
      "engagement": 0
     },
     {
@@ -10125,54 +10470,6 @@
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ocmZ4VDNSUnNOc0VJbEQ1Q1FWckZJd2Q1aWd2REM2T1VxSDc4RWNJUENvNnZYM0RqQTdVQXg5MjBtX2F3M1NtdEpOclhHX2lDZkFrMFpMc25lZjBCcWUzcTFqak5qbHFX?oc=5",
      "date": "2026-08-31T04:47:23.000Z",
      "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XQUozTHQ0VjdFMTJIUTRpb2lMN2ltWTFRa01vM2MtenFuMnNydGNWUUk1eXZTbUJIR09naFU0aERTR25OZWE1aHhOM3JUVWp3XzVhNm5CNzlidF9KWUZWbjR3Rk90bXk3?oc=5",
-     "date": "2026-09-01T04:02:05.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49523914",
-     "date": "2026-09-01T16:05:42Z",
-     "engagement": 0
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/comfyui/comments/1vrquz0/i_dont_think_comfyui_fully_supports_ltx_25_yet/",
-     "date": "2026-08-18T14:31:22+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit",
-     "url": "https://www.reddit.com/r/artificial/comments/1w4e79o/ever_fall_down_a_curiosity_rabbit_hole_i_built_an/",
-     "date": "2026-09-01T14:50:53+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49527118",
-     "date": "2026-09-01T19:48:24Z",
-     "engagement": 0
-    },
-    {
-     "platform": "reddit",
-     "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
-     "date": "2026-09-01T19:02:45+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49449287",
-     "date": "2026-08-26T13:57:12Z",
-     "engagement": 0
-    },
-    {
-     "platform": "reddit",
-     "url": "https://www.reddit.com/r/ChatGPT/comments/1w4wbrh/chatgpt_saved_my_computer/",
-     "date": "2026-09-02T01:31:10+00:00",
-     "engagement": 2
     },
     {
      "platform": "news-product",
@@ -10182,20 +10479,14 @@
     },
     {
      "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04MXNVWl90MmJCeE1vUnFRT29YeEZ6WDZTdFgzVnFpSHFCZHBudmpEMzllU0N4VWlwX1RnUXhBYzktZ1lIRWJla3puRGl3akdQZmlYdVZhQ2xPR3FLSHRYQUhSZFZNa1RV?oc=5",
-     "date": "2026-09-02T01:38:41.000Z",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TQlFRUXp5TU5hWnNnVC0zSEI4azYtdzJmWW5scVB1akxpOWRuZ0ZtZ2JCdXd3NVE5MUhDOUdtbk40dkRnV2FaN1R1STBpTXZxSExDeW44bUhmOEhaYTJoVmljSGMxRVMz?oc=5",
+     "date": "2026-08-27T04:17:05.000Z",
      "engagement": 0
     },
     {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ocmZ4VDNSUnNOc0VJbEQ1Q1FWckZJd2Q1aWd2REM2T1VxSDc4RWNJUENvNnZYM0RqQTdVQXg5MjBtX2F3M1NtdEpOclhHX2lDZkFrMFpMc25lZjBCcWUzcTFqak5qbHFX?oc=5",
-     "date": "2026-08-31T04:47:23.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XQUozTHQ0VjdFMTJIUTRpb2lMN2ltWTFRa01vM2MtenFuMnNydGNWUUk1eXZTbUJIR09naFU0aERTR25OZWE1aHhOM3JUVWp3XzVhNm5CNzlidF9KWUZWbjR3Rk90bXk3?oc=5",
-     "date": "2026-09-01T04:02:05.000Z",
+     "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49449287",
+     "date": "2026-08-26T13:57:12Z",
      "engagement": 0
     }
    ],
@@ -10885,6 +11176,12 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODBSdjZncWQzc1ExX1lxZzJMbHEyT0ZyMEJmclBnbmlUeGRkRlFoUWRSZC1jRHdIM0x0dUw5TlZhSnlWaHNpME9QTzFrOW02SzZxbWlWbkk5bzRnTFdDMElBR1c4X1N1TFBSVlZkQXBRS2tDNHlMVG9FekhrNHNWaUVFNTVrYTNfaERIajRBNGI4OEUtTm0zR285LXFRSE02V1RndUgwVWswUdIBrwFBVV95cUxQVTF0WU5jVTdJOTREUy13UmJsekZ4RDljNUtMRGtLNVdXdXgxWkhGTmZ2WlV2aEFURWE3MXQ1R2toc3FLRjd3WWVVbHp2azJzdHdhUmFPUmtMY2RKbUxlZUp0OGtkQ0VDazBLXzJmS0lEazAtbUZXVjViYjIzRENKZ296ZG1ZMlViT2tuck80ajFNaXBjNmRrTzZYSzZzY3pvclVwWVVtTDFBcXB5NjJ3?oc=5",
      "date": "Fri, 28 Aug 2026 00:36:44 GMT",
      "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODBSdjZncWQzc1ExX1lxZzJMbHEyT0ZyMEJmclBnbmlUeGRkRlFoUWRSZC1jRHdIM0x0dUw5TlZhSnlWaHNpME9QTzFrOW02SzZxbWlWbkk5bzRnTFdDMElBR1c4X1N1TFBSVlZkQXBRS2tDNHlMVG9FekhrNHNWaUVFNTVrYTNfaERIajRBNGI4OEUtTm0zR285LXFRSE02V1RndUgwVWswUdIBrwFBVV95cUxQVTF0WU5jVTdJOTREUy13UmJsekZ4RDljNUtMRGtLNVdXdXgxWkhGTmZ2WlV2aEFURWE3MXQ1R2toc3FLRjd3WWVVbHp2azJzdHdhUmFPUmtMY2RKbUxlZUp0OGtkQ0VDazBLXzJmS0lEazAtbUZXVjViYjIzRENKZ296ZG1ZMlViT2tuck80ajFNaXBjNmRrTzZYSzZzY3pvclVwWVVtTDFBcXB5NjJ3?oc=5",
+     "date": "Fri, 28 Aug 2026 00:36:44 GMT",
+     "engagement": 0
     }
    ],
    "firstSeen": null,
@@ -11092,7 +11389,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 0.6,
+   "momentum": 0.7,
    "mentions": [
     {
      "platform": "news",
@@ -11200,6 +11497,12 @@
      "platform": "news-product",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWJKSi1SVEFrclNITDZJQUdyYlM2ZzVza3BZcEk2b3NOaG5laTJYUzNfdW1Yek8tcnFHZmNWWHNzQ3F1TV92RmxtZHk3R2NISGo2N2tEQTVQV0FjRGgwTnZDYUVFWmNEellwMXlnLTVGRl9iYU1XakIwNEFrZUxqdjhlSWY1TlBDcHNDTXd6aURsN1NZUnFwUFFpU0pRZU9vS1MwVmYxalYyTmti?oc=5",
      "date": "2026-08-28T07:00:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdHFaaTZVSmpTTEluN0h3TmR1a1d6ck9YNzhwTE9PaTJPMXU4QmZpOE9nSUFmdHpKbDgwenUza092cFdCeXhRemcxd2s3VEJVaTBMUHprWQ?oc=5",
+     "date": "Fri, 28 Aug 2026 07:16:44 GMT",
      "engagement": 0
     },
     {
@@ -11570,7 +11873,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 1.8,
+   "momentum": 2.1,
    "mentions": [
     {
      "platform": "hn-product",
@@ -11636,6 +11939,18 @@
      "platform": "hn-product",
      "url": "https://news.ycombinator.com/item?id=49532232",
      "date": "2026-09-02T05:50:26Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49523939",
+     "date": "2026-09-01T16:07:19Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49529518",
+     "date": "2026-09-01T23:07:56Z",
      "engagement": 0
     }
    ],
@@ -13156,7 +13471,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 2.1,
+   "momentum": 2.6,
    "mentions": [
     {
      "platform": "hn",
@@ -13205,10 +13520,16 @@
      "url": "https://news.ycombinator.com/item?id=49534337",
      "date": "2026-09-02T10:29:11Z",
      "engagement": 0
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/ReplikaLovers/comments/1w57n8w/jessica_lily_trying_out_one_of_elara_mosswoods/",
+     "date": "2026-09-02T11:27:43+00:00",
+     "engagement": 2
     }
    ],
    "firstSeen": null,
-   "lastSeen": "2026-09-02T10:29:11Z",
+   "lastSeen": "2026-09-02T11:27:43+00:00",
    "isNew": false
   },
   "wingcopter": {
@@ -13345,6 +13666,12 @@
    "arrHistory": [],
    "momentum": 1,
    "mentions": [
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOGFnQjhyNHA4OG45dlM5eHVmZm5zNlc2WGNVMVJUYTg5OFl0M2pFZEN5dV9WV2thQkFENW81Qll3c3B4bUdLRE5OT3FrN1VXN1d4YTFhUEMwaDZLS3FoWHcxRDFlV1haRTg4UkpPbE5aOVUxQWZvWmJQSlRhUGQ0T3RNb1JSbkp4Sy1FX2JiRDJTbjRKN1pPX2lxRVJWUkM1QTM2VFp1aHZCLWFXVFNxa1J3WXhkaHRRMDh0LUVlWGRtNmljOWdzQVhVWmdHU1hfZVZaVFhBakhzWmVLN3kxSUhWZFNoRGl1VXRoZkIyWVY2VkxZVXNn?oc=5",
+     "date": "Sun, 30 Aug 2026 08:20:51 GMT",
+     "engagement": 0
+    },
     {
      "platform": "news",
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOGFnQjhyNHA4OG45dlM5eHVmZm5zNlc2WGNVMVJUYTg5OFl0M2pFZEN5dV9WV2thQkFENW81Qll3c3B4bUdLRE5OT3FrN1VXN1d4YTFhUEMwaDZLS3FoWHcxRDFlV1haRTg4UkpPbE5aOVUxQWZvWmJQSlRhUGQ0T3RNb1JSbkp4Sy1FX2JiRDJTbjRKN1pPX2lxRVJWUkM1QTM2VFp1aHZCLWFXVFNxa1J3WXhkaHRRMDh0LUVlWGRtNmljOWdzQVhVWmdHU1hfZVZaVFhBakhzWmVLN3kxSUhWZFNoRGl1VXRoZkIyWVY2VkxZVXNn?oc=5",
@@ -13855,6 +14182,12 @@
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU1lmZG5vS1RZcFNmSzBHQzgzZlNrQkFHbHp1ajRZaGZHRkdLYnZWRHV4WWRWZHpidzBtMjRjZnpQeEpvYjI3Q3pCajN2MWVkSmtWWDRKcnBXT1hPNVNvWnZtbk1hV2phYWRMdlZRTDdvZ1BZQy15Sm9NdnRoUWxsRzhxc2lvdUk4MDBTcjNCQXpFR2NMZGhEaEs1Wm81RTRublBTdzlDekRxTEVGZHBRVFRNWmhFVDRsRURWak1ZS0NkOVdfOUkxQzFXUS1nSkV0ZkdTVndEUkM1STZCSXNnOXJMV0Q?oc=5",
      "date": "Fri, 28 Aug 2026 07:00:00 GMT",
      "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU1lmZG5vS1RZcFNmSzBHQzgzZlNrQkFHbHp1ajRZaGZHRkdLYnZWRHV4WWRWZHpidzBtMjRjZnpQeEpvYjI3Q3pCajN2MWVkSmtWWDRKcnBXT1hPNVNvWnZtbk1hV2phYWRMdlZRTDdvZ1BZQy15Sm9NdnRoUWxsRzhxc2lvdUk4MDBTcjNCQXpFR2NMZGhEaEs1Wm81RTRublBTdzlDekRxTEVGZHBRVFRNWmhFVDRsRURWak1ZS0NkOVdfOUkxQzFXUS1nSkV0ZkdTVndEUkM1STZCSXNnOXJMV0Q?oc=5",
+     "date": "Fri, 28 Aug 2026 07:00:00 GMT",
+     "engagement": 0
     }
    ],
    "firstSeen": null,
@@ -13928,8 +14261,122 @@
    "mentions": [
     {
      "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
-     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
+     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
      "engagement": 0
     },
     {
@@ -13946,20 +14393,8 @@
     },
     {
      "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
      "date": "Mon, 31 Aug 2026 12:12:14 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
      "engagement": 0
     },
     {
@@ -13970,8 +14405,8 @@
     },
     {
      "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
+     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
      "engagement": 0
     },
     {
@@ -13982,8 +14417,8 @@
     },
     {
      "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
+     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
      "engagement": 0
     },
     {
@@ -13994,8 +14429,8 @@
     },
     {
      "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
+     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
      "engagement": 0
     },
     {
@@ -14006,8 +14441,8 @@
     },
     {
      "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
+     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
      "engagement": 0
     },
     {
@@ -14018,8 +14453,8 @@
     },
     {
      "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
+     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
      "engagement": 0
     },
     {
@@ -14030,8 +14465,8 @@
     },
     {
      "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
+     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
      "engagement": 0
     },
     {
@@ -14042,8 +14477,8 @@
     },
     {
      "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
+     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
      "engagement": 0
     },
     {
@@ -14054,116 +14489,14 @@
     },
     {
      "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
      "date": "Mon, 31 Aug 2026 12:12:14 GMT",
      "engagement": 0
     },
     {
      "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
      "date": "Mon, 31 Aug 2026 12:12:14 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
-     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
-     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
-     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
-     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
-     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
-     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbE5CX1Vta1U3Y0hHNzhNeW85Z3N2UlV5TzJXRGhDZ2oyamdjTXNnMVE0dm9XenZ6amNLNERZNWM2UDQzb2paUUhMZkVGNV9qNkViTmU5TnVWenpwTmNZLV8zd1RnQUl3alEycU50M1RRTk9LQ0dydVlEazh1ZkNydGlIajlLZEFKTXhJTDRPRm04bGxKQ2llRGtyaUlVUWFOM2NFR016UVJNOGh0dXdMckNXendtaUVZYjlRRV9ST0tlM051MGo1Yl9Xckd2ckFTU3B5SUVMdzdPbVNKZTBPUEJMVXJnMU9zYU1vX2hYbkpEQ19LZFFrdE03NWNGSGQ5SHRSbER3?oc=5",
-     "date": "Mon, 31 Aug 2026 12:12:14 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBR3laWUNKdGlWMEJtRTdzRzQ0cGNvOVQxWEdFTVR2WHlFanQ5eXVWUWJ3aHhhMi12M2ZFSG4zNm9ad1lueV94S0dNNVpCdy1MSW5yUUgtYW5ub0NhOHNKSWtFUHRodFRUcGpqVzZ1OGJ5cjJmNGc?oc=5",
-     "date": "Tue, 01 Sep 2026 00:26:00 GMT",
      "engagement": 0
     }
    ],
@@ -14213,6 +14546,12 @@
    "arrHistory": [],
    "momentum": 0.5,
    "mentions": [
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcUlKd0FydTBNbk5PVzhWRTZmcnpKRWtxSUJQbjFpSkxkMllMTGlIdXBRMWdHMFIwRTJEaHVaSUhDM2I5RFNVejE4c2lkSWxYUkVGeFZFWkNDcEFNWDBlRDZJSTcwMXJxODM1TjN3SGZ4WTJ1eHZFaDZJMXc3dldXOENzV01TNzc1Z3U0YnduQUVLYzFldlRRNVVmVThNbm5aMl9CR0c5eENIM05fQk9jVU9sLXF5ZFZQZC1CWExjOVpKN05QNHhWVnViYjFZbWxZTkduRGRDUnpxUdIB3wFBVV95cUxNNzQ2N2xLbnlUWmZBRWJkSGNhS0JrLTk1UzY1T2Z1b1hPRkJDbnVvcVZtN2s0MVh0ei1mcWRua0NQRU1HbjVNSEJXS1hDdTBxd1ViY3l5WlV1NUhCUFp5VF9WeVBNV09CRnpxa1BBTzdlUWEtUjZIa3ZpSmdHaHVmbE9sRDRmSWd1a2ktT1doRU16WTlObVlESi1VaXV1N1JlRV9sLVd3VVBQbEJKd2RwYVNQd1ZhMzJuUlBycDRVZlNoZHIwV2dNNVNaMDJ6d1kwY052bHJEYjRndjVOZWtN?oc=5",
+     "date": "Fri, 28 Aug 2026 16:30:32 GMT",
+     "engagement": 0
+    },
     {
      "platform": "news",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcUlKd0FydTBNbk5PVzhWRTZmcnpKRWtxSUJQbjFpSkxkMllMTGlIdXBRMWdHMFIwRTJEaHVaSUhDM2I5RFNVejE4c2lkSWxYUkVGeFZFWkNDcEFNWDBlRDZJSTcwMXJxODM1TjN3SGZ4WTJ1eHZFaDZJMXc3dldXOENzV01TNzc1Z3U0YnduQUVLYzFldlRRNVVmVThNbm5aMl9CR0c5eENIM05fQk9jVU9sLXF5ZFZQZC1CWExjOVpKN05QNHhWVnViYjFZbWxZTkduRGRDUnpxUdIB3wFBVV95cUxNNzQ2N2xLbnlUWmZBRWJkSGNhS0JrLTk1UzY1T2Z1b1hPRkJDbnVvcVZtN2s0MVh0ei1mcWRua0NQRU1HbjVNSEJXS1hDdTBxd1ViY3l5WlV1NUhCUFp5VF9WeVBNV09CRnpxa1BBTzdlUWEtUjZIa3ZpSmdHaHVmbE9sRDRmSWd1a2ktT1doRU16WTlObVlESi1VaXV1N1JlRV9sLVd3VVBQbEJKd2RwYVNQd1ZhMzJuUlBycDRVZlNoZHIwV2dNNVNaMDJ6d1kwY052bHJEYjRndjVOZWtN?oc=5",
@@ -14450,7 +14789,7 @@
     "confidence": "high"
    },
    "arrHistory": [],
-   "momentum": 33,
+   "momentum": 31.7,
    "mentions": [
     {
      "platform": "x",
@@ -14520,8 +14859,8 @@
     },
     {
      "platform": "x",
-     "url": "https://x.com/pitdesi/status/2093783287097602052",
-     "date": "Sat Aug 29 19:30:10 +0000 2026",
+     "url": "https://x.com/JaredKubin/status/2094136005435564399",
+     "date": "Sun Aug 30 18:51:45 +0000 2026",
      "engagement": 0
     },
     {
@@ -14582,6 +14921,24 @@
      "platform": "x",
      "url": "https://x.com/pitdesi/status/2093783287097602052",
      "date": "Sat Aug 29 19:30:10 +0000 2026",
+     "engagement": 0
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/pitdesi/status/2093783287097602052",
+     "date": "Sat Aug 29 19:30:10 +0000 2026",
+     "engagement": 0
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/pitdesi/status/2093783287097602052",
+     "date": "Sat Aug 29 19:30:10 +0000 2026",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbmQycWs2aDZEY3U3c1kxSzdhcXRYdk5TQzJqZWZvWjdYMkVVcXpMd1hBZS00X3FSNnFLSmUwV3piUzJ5SENSTk5OMnVqOS1NbllId25KeW5WeVFvM1Ruako2NWF3N05GdmJoSmcxWW1DdHctSWhfOEFnRG5vaUlYTFltN19mdlNqMzQxTzk2V3ZvUW9EcHRJNEZjUkhGU3VHMmRTbGNHbW05T2JFNzlWcVJXdjVrRkdqQ29qRDRoWWwyMUFSd0R4c0FfSjBKUldqM2drVmgwZXk?oc=5",
+     "date": "Mon, 31 Aug 2026 17:48:19 GMT",
      "engagement": 0
     },
     {
@@ -14663,33 +15020,15 @@
      "engagement": 0
     },
     {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49535078",
+     "date": "2026-09-02T12:11:10Z",
+     "engagement": 0
+    },
+    {
      "platform": "reddit",
      "url": "https://www.reddit.com/r/MachineLearning/comments/1w58erw/most_opensource_ai_detectors_cant_hold_a_05/",
      "date": "2026-09-02T12:04:39+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit",
-     "url": "https://www.reddit.com/r/ChatGPT/comments/1w5824n/three_things_missing_from_every_ai_chat_interface/",
-     "date": "2026-09-02T11:48:26+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49534824",
-     "date": "2026-09-02T11:41:23Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49534822",
-     "date": "2026-09-02T11:41:06Z",
-     "engagement": 0
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/n8nbusinessautomation/comments/1w57tuc/automatization_for_product_managers_automating/",
-     "date": "2026-09-02T11:36:53+00:00",
      "engagement": 2
     }
    ],
@@ -14810,6 +15149,18 @@
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/RealEstateTechnology/comments/1knr6sw/my_attempt_at_ai_videos_for_instagram/",
      "date": "2025-05-16T03:29:45+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/generativeAI/comments/1w0eebm/hello_everyone_what_is_the_best_ai_video/",
+     "date": "2026-08-28T02:41:09+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/discouthub/comments/1vjh187/new_amazing_tools_airtable_miro_sentry_google/",
+     "date": "2026-08-09T05:11:46+00:00",
      "engagement": 2
     }
    ],
@@ -14950,8 +15301,14 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 44.3,
+   "momentum": 41.3,
    "mentions": [
+    {
+     "platform": "x",
+     "url": "https://x.com/DaveRBanerjee/status/2094168663314387319",
+     "date": "Sun Aug 30 21:01:31 +0000 2026",
+     "engagement": 0
+    },
     {
      "platform": "x",
      "url": "https://x.com/DaveRBanerjee/status/2094168663314387319",
@@ -15185,12 +15542,6 @@
      "url": "https://news.ycombinator.com/item?id=49533331",
      "date": "2026-09-02T08:14:34Z",
      "engagement": 12
-    },
-    {
-     "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49533331",
-     "date": "2026-09-02T08:14:34Z",
-     "engagement": 12
     }
    ],
    "firstSeen": "2026-07-17",
@@ -15223,7 +15574,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 19.4,
+   "momentum": 20.1,
    "mentions": [
     {
      "platform": "news-product",
@@ -15380,6 +15731,84 @@
      "url": "https://www.reddit.com/r/aiwars/comments/1w4wcre/how_tf_does_it_all_work/",
      "date": "2026-09-02T01:32:19+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NelZZVlU0MWxYdTlMemVwcFQzN3RrTW4zMzVWVldPRWpMcEhxS3FhWmxvbk9qVmJuMjg5WGZ6Qk5XTjhlb2NyWUNWZk1mM0x0OUFIWk9pWlo4NEE3QS14Vw?oc=5",
+     "date": "2026-08-27T03:50:12.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2NjWmQ0c01wQ2Rnd0tXOG5MUHlzcXBKd1dyb1E0a1BXeFM0S21vQTdTZ2VsMHI5RnY5TmN6SXRfaE1IQm5Hb3kyN3NFTUxmQzZPQjk2SWY2ZnBZUGhMWElsc3pVR3dlclIyTFBtbXgzT2VtZmJwQUx4SURSUEo0cmNNUkY5TFkyTS1ZaFJuWDlHZFZEeENEUnd4TzdGR2Z3alU1am13?oc=5",
+     "date": "2026-08-28T21:08:01.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IblFVVEQ1aGNjOC1LSUtuZmE5UlJWZ20zeHpXM0MyN3NieVBMalAxQm9kZkNsSEZMZDd1eWlDYXdSbGV4WEpUeHFUcjBEc3RLU2dBMFZJenlzaWI5eGNR?oc=5",
+     "date": "2026-08-27T17:04:46.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkFrWHdhM1JyNmxTYXdRV3BUeHFJdXdnWUswQWx1Tm1YenMzdGxVSDhGeWdrRWVjMjFNS25vcWFETEpUYWFxWTNiTGJnYmtMR2dGdm1DS2RBMERqMmpnNGVzVmRWX0JIb3JpUklDQWdJYm83ZWFHcU5uXzJoVU40dE5CWGNtRm5lTHZrQUJ3NE9rQQ?oc=5",
+     "date": "2026-08-28T19:36:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNUTFVSWFaWHVWX29LRkEzTjBPazRMV3NnaXc4MC1FQ3FPelNNbmhkLXNFeVRuSTdvX0kxYl9reS1ZU0lKSWxsTjN2VG5MeXVLMjAycHlRcTlOVWVaSzBOUlNZbDNOQTRyOWNwOEhGcG9xaHpqYXd6UU1ETXctNWVBendmQmlJYkhlUHJHaGFmQkFhRGlqOXpza3VPX0hibHA5RUU2RjFDY1IyNEUxcXEzeDZUMVdFVFhYMUtqSlNkbWhDcTAtclAzczNINUtLV1FoVEJuVmZteGhldWhSUXlfNVlQQmVjTVFlMUJ6aUZyYWc2SjF1dF9TejJiZ3ZQVXJyMVktZ2h4ekEwN2xJak1QYVFtVWFkUnpSaWpmSkV6OVNyNnFfSWk5UkxvZ2kxcGlxUi02LTRUTV9odVhwYms4OTBRU2pQeTBCY1ZsdnY5MXFzQTlGOUIybktHaDBZWWNxZVhRZWlZcG4wY3F2ZS1TMQ?oc=5",
+     "date": "2026-09-01T02:49:24.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMTRfaUJqQzBVRDlveUE4a0d5cGdLMnp1Qm53aU1FcnRIR3pzZmJ2d1hGSGpFX0YwQXFxb1hNQ1dCa05HLXVtSUt5NEk3SlZHR29zWmxDZGpIQjRndl9PZlh4UGpxQUR1eURHTDlTOG1xSXdmTUNrVTVVMEhUVFVoMV83amZXWU1UOER3RA?oc=5",
+     "date": "2026-08-27T21:27:20.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lZ19FOGNEbUdmMTY2TTlnNTBUZVZmN1JRY1dVX3FJV2ZYTDFWQTdDSnI4bGV0bUJwNGlNekRsVl9OeTZ3a09MakFuUzRzM1huUWY2b09XU19zcGs?oc=5",
+     "date": "2026-08-29T17:18:25.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXc4VVpiNExvV19aZ212ZU9jU0hIckZ1RHBPMjRoeGZ4bFNfRkVIbmhCYjl4d28xakdrOWJ6S0Z5ZWo3aWt1ZkxZZ0FybHY4VkhRdUlXNDBFbThYb0lZY0lFOVMyMDNra0VjRmlfVVM0VjFKR3dBR0NkcmtVb0pYUnJXNDhzR3FnRF95Y1JzMWFRVFVqR3o1RGRSUDMwd0E?oc=5",
+     "date": "2026-08-31T09:30:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaC1rdnJVcHhKRlo2SlMzYThzak5uTUZXR0ppN1pOdFc0VXFTTV95SUoxWXdqTndBQkp5ZUZXMjNmMjdjVkF3QVdnZXpzbnFvQzZSOVpfNDB2R0YwT3piZXV4WmtoTWZnb3REd092R2tUSDlmVld0S2NMdlJDdl96cV9BUlBTTDJDbmZIVWhiZFc5UTlmUFNnX01GTmMtak40SEYtcDRxZVBuZ3Z4WkNIV01oNDRBQ0tRaFNFTnpzbmpFMVNIVktzd19rdGo4eGc?oc=5",
+     "date": "2026-09-02T01:13:26.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95VjBpNC1nNTRXNFVkVG0tWTNWYkQ1d2R4V2Rna0xNQTBzRGlvM0wzQXV4c29RS1dVTm9EM2FXUmpBLXNKNkFGNkNPLWtEbEV6eWlESHMtcTQ5eWVvaGVIVVlSZF9tNzVINEs5T011eFpNdzQ?oc=5",
+     "date": "2026-08-29T04:47:35.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NelZZVlU0MWxYdTlMemVwcFQzN3RrTW4zMzVWVldPRWpMcEhxS3FhWmxvbk9qVmJuMjg5WGZ6Qk5XTjhlb2NyWUNWZk1mM0x0OUFIWk9pWlo4NEE3QS14Vw?oc=5",
+     "date": "2026-08-27T03:50:12.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11N3lESlhYRi1ibXBTa0lIRzRMOXZMNWxGZS15MkxKdjBxb2xNVWpqU1RrQnVWQjZBbjlUSzlITFF2NWxtRjJwRGUzdU1VYWFLWmtGdGlodkdiN1E?oc=5",
+     "date": "2026-09-01T05:56:59.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzdmcyMEc0d3pLemxCQUgxVXBkTVlIT09UdHoyeU8yb2hYUlhpam82T0J6WXh4a3hKbnlfOXNmMFFTQ0tud2ptZG5oYmJzNVZjdDQtc0kzYmJ2T3pOQlVsT20wOFZESFBEaDl6ZTFSQlA?oc=5",
+     "date": "2026-08-27T22:48:22.000Z",
+     "engagement": 0
     }
    ],
    "firstSeen": "2025-07-01",
@@ -15409,7 +15838,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 0.6,
+   "momentum": 0.7,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -15446,6 +15875,18 @@
      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBFbGVfNjdwM0wzeW5zNHcxS1lvbS1yTlBuZEZJcVBFTUlMVVlQU0JOVEp4WDJfZ2tnN0lUQWJJbFN2QQ?oc=5",
      "date": "2026-08-31T19:30:17.000Z",
      "engagement": 0
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/generativeAI/comments/1w0eebm/hello_everyone_what_is_the_best_ai_video/",
+     "date": "2026-08-28T02:41:09+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/AIToolsAndTips/comments/1ve78dv/these_are_the_12_most_useful_ai_agents_for/",
+     "date": "2026-08-03T08:11:11+00:00",
+     "engagement": 2
     }
    ],
    "firstSeen": "2024-12-31",
@@ -15539,7 +15980,7 @@
     "confidence": "medium"
    },
    "arrHistory": [],
-   "momentum": 26.1,
+   "momentum": 27.4,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -15597,8 +16038,26 @@
     },
     {
      "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2Y4dkoyWlo3M19vRjNQdlVNanNoUl9HN2RzVmNzR3I3cC1qaWw3alFrbmZCU1lNc040UVQyLTdVZW55OE4tcTAyWDRsWU5ESDNfS1lyaTF6Qm5HcUZsS3lNSnQwZTJoVi1NbVFESmFNRHl0ZklJeElhTnNlaDZTR0xKOVJzOGQ1Z0NtbQ?oc=5",
+     "date": "2026-09-02T04:11:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOEYtUXRzNDZTdE1Pb2pDQWtUTm42SlBWWDV2ZXptdFU2U1hob25rRXFLWEQ3YUp0bEhMM3hMeTdSOXYtemJpLUh0akNKOVNON1ZQNE5jWVlyX1d0WXZ3R05hOG9UN3ppcWJWejVGTk5CVVhNWXV1RUxsalhSYjZneXhzQzRaZ19WbElpcHZQZC0weE5MWElFT0Z5SzM2LWh0Y1d0MnhqaDJZVjVyX3prX0NYNExiS1o3MlpNazZtNzdXUXhCV2UzekNhbmhaZHFyQTNxc1I1UGhIVzFRSnJkMmpkS3Y0RVdtOHVGYUxHRUU?oc=5",
      "date": "2026-09-02T00:59:15.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOEYtUXRzNDZTdE1Pb2pDQWtUTm42SlBWWDV2ZXptdFU2U1hob25rRXFLWEQ3YUp0bEhMM3hMeTdSOXYtemJpLUh0akNKOVNON1ZQNE5jWVlyX1d0WXZ3R05hOG9UN3ppcWJWejVGTk5CVVhNWXV1RUxsalhSYjZneXhzQzRaZ19WbElpcHZQZC0weE5MWElFT0Z5SzM2LWh0Y1d0MnhqaDJZVjVyX3prX0NYNExiS1o3MlpNazZtNzdXUXhCV2UzekNhbmhaZHFyQTNxc1I1UGhIVzFRSnJkMmpkS3Y0RVdtOHVGYUxHRUU?oc=5",
+     "date": "2026-09-02T00:59:15.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkR3R3RHR3VQa0NsU255YkRFczlzaGtyNTQyQ21zUng1QzFIRDZsLTBGU3dDOG1pQnFGZ09OS2pHMHNOc005MkI2TUFCUlJVS0QxMjl3OEhINmNfcDFJcHpaODVxQ3hkTFV1VUpNc291T0FTWm5nYm1IclZWODFjTXN4c2lXZGZvR0NGcGVPRjB2Z2JUdEpmZXZJU2paLWg2UC1pNnc5QUVGc1hEOTN3?oc=5",
+     "date": "2026-09-01T20:45:20.000Z",
      "engagement": 0
     },
     {
@@ -15615,8 +16074,26 @@
     },
     {
      "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVB2eEh0NU52RllZQnNEY19IVFNpUlRia1Qwb3llTjZraTN1bEM4TVpYZHNVd1VzZUdYbVRkVllWMkI4REM2VDBjb2dCdUJDU29kekh5Q1kxRFYxNWs3MGFfcjktUjRXT3ZPbk04TlNjeko5OEw3eFhYanNIVlJIMGNjN2tjbmdrb21YLUtDQVg1S05IdUR2a1oyb2w5R0dIRlV2NWlpYnpvRFFBZWZQZlVTbzhmZEptVkhqSQ?oc=5",
+     "date": "2026-09-01T17:02:43.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOT3NPM2k1WnlBRU92VGZtLVV1WWNuZzdPUjhBZ0RuZ3RscmV5SW0ycnJGRlp1ODFIa05rRURXaXVCMkN3UFA3aHhXeWl4VE4tZEQ2bmtXOVpjZ1RySFJDLUJ6WWdCdWNTXy1PYkNOZjd1UHl1MDJsVnVCMjFNcmVESzRSck0tZm80bXpNQ0ZHRjZIRi00ZlJYZEdfdXcwTFY4aGd2bmYxQVprNW83VC16OXRPc2Fzakh4Wk9YS0g3YmcxNkpHRG5nalVzMENBMS1oUTFF0gHTAUFVX3lxTE9hRlpoQUVrVVZHLU9kUXBpU0R6N2tzenprVkdCVWFCTFB4TGphV2VhVC0xZjlwcG1tXzhtZnA0eGtmM2RXXzEzTGgxVjZ5V0pwM0hvTnQ2TUtwamgxQmdPeXRuTTlxbThudTVNdWlMbVpBenBEQVV2Q1BkR0FVOHQ3YzNIQ0JibGNBSXBPZ1hFcTdGbDN4aE1Ed2NWelQxWldxSUZXTTYxcmpkbWQ2TEZnTkpBTktIWk9RTUx3QkM4cGotRGVfSG51NlVsMzdoR2F3WVU?oc=5",
      "date": "2026-09-01T15:01:18.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOT3NPM2k1WnlBRU92VGZtLVV1WWNuZzdPUjhBZ0RuZ3RscmV5SW0ycnJGRlp1ODFIa05rRURXaXVCMkN3UFA3aHhXeWl4VE4tZEQ2bmtXOVpjZ1RySFJDLUJ6WWdCdWNTXy1PYkNOZjd1UHl1MDJsVnVCMjFNcmVESzRSck0tZm80bXpNQ0ZHRjZIRi00ZlJYZEdfdXcwTFY4aGd2bmYxQVprNW83VC16OXRPc2Fzakh4Wk9YS0g3YmcxNkpHRG5nalVzMENBMS1oUTFF0gHTAUFVX3lxTE9hRlpoQUVrVVZHLU9kUXBpU0R6N2tzenprVkdCVWFCTFB4TGphV2VhVC0xZjlwcG1tXzhtZnA0eGtmM2RXXzEzTGgxVjZ5V0pwM0hvTnQ2TUtwamgxQmdPeXRuTTlxbThudTVNdWlMbVpBenBEQVV2Q1BkR0FVOHQ3YzNIQ0JibGNBSXBPZ1hFcTdGbDN4aE1Ed2NWelQxWldxSUZXTTYxcmpkbWQ2TEZnTkpBTktIWk9RTUx3QkM4cGotRGVfSG51NlVsMzdoR2F3WVU?oc=5",
+     "date": "2026-09-01T15:01:18.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zNDRfU05QUl9wT2c2WnBSalozYm1SVlFrUXN3VEJJd2lVSzNUVThfc1U3b25DV05WUjE1ckM2MmI1Mk1YaDdfb01jSWlRQ0lJZ1k4RElxOUhaZEdjY1V6SWNMdmpiVW9PeU4wSE9ialQ4Rzdj?oc=5",
+     "date": "2026-09-01T12:27:06.000Z",
      "engagement": 0
     },
     {
@@ -15633,8 +16110,26 @@
     },
     {
      "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZUM4WVpFbjQ3MHR6YjRLWnBWZmlnVDUxN2FMLV9zMzBoalRXSGJ4MVpZcmV5eWxqcnhEU3lYN3N1bnBaejRoVGR5azRMcGJTNHZUYUoyejl2OTBTdDVrcDVzb0dycGRXSUpCeDlSQzR5MG1nQmxuV1RLV1RKWnJkRUZfajlXYS1HeEx3OWVQeDV5a1FlNDd2NVdEbTRXSHFMRVBURV9DMUstQXBuWVRBRmtqV2lwdEtheXpQZm5WVktLNXpRR0RxdWRGNlg5Um5GQTNzQUpVdVJPTi1mYVhVa0RFUjBmMWxPbktPM0lkanNzc3RxSFhMWFkxSWM1MTNoeEhiQ21nVVVybndZdExDRW5vZzZHcG5tTDNzLUdPMXYtdlg2RFJCVdIBrgJBVV95cUxOM3EyekFZYkVFQWI2eXZnb0RmaHdZUWFRYWFnZklmbHJZY3NZLXc1a0pDY0JaR0pXNE5mVVZrNGdSZlFJU2JBTGZzU0FFUlpYV2FVVkhKVlY0amYwaVVGdnpITDk5SEl5djZCVGNMMm9PV0Z4d1pjNVV1Y3pramE0Z1lsTFpkam82NWwycFY5Ty1ZWXFjNkZ4NEh0QXNoU0lYY0UwakY3d1B6Sm5sNjlWTU1vSHJyM0R4WUEtSW51MjhFc3ZWRFpKdzJNd1NHamlNMHdQVTZDby0wMjA5X2hFYUdnMVlQcUFWM0NScUlzRTJtNW5WS3dqdS03SHJHMFBrQzFJdUFZQjJLQ2FVY0ZDM0xtbXh5YWFvb1hEOHRjX1Y2VUw3cWRDNVg4UXU0Zw?oc=5",
+     "date": "2026-09-01T10:21:40.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uZW1UU1A3WFVVLThQUkNnX0h0Zi1WYnRQa0VNUzdUeXVQd2tUTENOVGhDMjhTOEFkQnJramRnSkg3QTZDdVhHVUlLbkE5VWpTdkRtWFhhWjQ?oc=5",
      "date": "2026-09-01T09:42:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uZW1UU1A3WFVVLThQUkNnX0h0Zi1WYnRQa0VNUzdUeXVQd2tUTENOVGhDMjhTOEFkQnJramRnSkg3QTZDdVhHVUlLbkE5VWpTdkRtWFhhWjQ?oc=5",
+     "date": "2026-09-01T09:42:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV0JDYWM2S3NPUWZrNzZOcXVQMnp0WVoxa2M5aFUtcjhfWm5OOWhERFkwSHlVR0xJTG9MWUJBZ0NHeTFZMnpMZEMwaGE3Z0RpamQ2WUFUSlVrMXdudG1KaHJ1Y1kwbFkwZ1hwbFk4S2Vuc21ZajR5ajdaZnFkTGRQTjFLbkxBOXFHSlhqbXJWc19WbHozRk1qYmZPWFo3UUJiSXdKVmtoNmpMeTNvemxycFQzOHBzUnJiZHlGdzU2dXp4TF9DUFNGTU52TGRQREU2b1NYMjk1VDlCZmhFTXBHc25Qb1HSAeoBQVVfeXFMTWc0dmJOOXhQMTZZSXBheFhfc3lGMU1rQjlMYlZxaHZ5bmtpci1Dbzc4VHBmOGc3WXpkdGxJQUhmazBDejBEeEFoTjlNeHdJT2JwcHpLdWlwSXVYNkhIZHlpSVRONHdIcjFhaDRobF81cXIzN1owRy1wUERlNmlieXNEMnpoLXprZ2ZObUNFYUFXUVZxSkZyYzlQWEVKemVGWVVabG00SU9nanRNZnFFNVFoZEI3MUlocnFyMjY4RkMtVmJtQXJmRHN4Nl9sMzRDRktLaHJFbWpoVGNFN1FjdnFiRmJ0SkhncTVB?oc=5",
+     "date": "2026-09-01T09:05:48.000Z",
      "engagement": 0
     },
     {
@@ -15651,8 +16146,26 @@
     },
     {
      "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZjQ2bm9FM0RLa3JFTnhMYjlOQTdOcUttUkZtdWlWeDZWemlEQl9nODNZT09yMC1YSmlYck1uUTZjZWJ0TEVoVnhEZlRxZU10cnRocFpfVThPUlNjbktFRi1uYThIcENuRERmcTB1UU1DcmNxN2oyUW5RVGxscjNXbnpmRVhqaEVJNUdhV0Y0Ykg5RXVVRFItZmhhS0x2VjJLUklDOTcybExuazdtTy1MUEFxYlc?oc=5",
+     "date": "2026-09-01T08:35:46.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjhFUU0ycjJwU3NYcDYzQkxyQ2xtSkZqTTBTVnBlN04xcWRVVnRVRFpfRHhCTHlFSldycUNDZktQTElXcXM4Q2owczk0R1NfanZ2bGFVRjg5c0ZPN25uMmUxWk8xbExKX2tvRlNDSTVydWxBR3hMV3g5TEFkMzJra1VmTlhmYVlnSkRNYTRhWnB3WDFkNmlkczBYWHZDMDhMYXVvS1RHWkx5aXM?oc=5",
      "date": "2026-09-01T07:56:18.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Xc1V3RHJndklSSDFMY2VZYXRidkNORVJTZk42NmNJekVIWmJUSVpiYmZ6bW94eTU3TXpGZG4xelo3bUFQU2hKYXg3WkUta1pZaURSSHBB?oc=5",
+     "date": "2026-09-01T03:33:32.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IRFExdWJqNWwtWWJJSUNYRmdud0hxVDh5SFNoa3ZMWHpnUENNWXE2RzF4MTh6V3F5UVRLRkZXUG5JbmZpamVGb2l6ODFuUnFHVlZnSHVjeElJUVUtWEM4Qk9Hc2dLWGdBSU5NTnY3N0NNbXVmN0E?oc=5",
+     "date": "2026-08-31T21:27:02.000Z",
      "engagement": 0
     },
     {
@@ -15669,6 +16182,24 @@
     },
     {
      "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NdFBHWG1TS2YybHhDeXVjb19ZbDVqcW5mZEVtTVZad1B1cXMwTDNValRBdkR4NnB3YUZDaVVKNlhhWWFScWdWWjd4b2tvRDRzeEpVRUtVeWFPaGtSQVN1TjZ4MGExS2Y3YTM2NnI2SQ?oc=5",
+     "date": "2026-08-31T12:37:04.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTZuRnlSVjdHT0F0S2NBbUdCcFcwS3hJcFNKSWFXWTAxY0VWd1pDVk5aUXM5c0sxa05kSUFFNnNfdmE0c3BvTlZaQXJpYlctYUxfb1RTYzlQMkRudW1hRlY1azU1THl1S20tQVB3b05SRFRkdk1SVTV6MVhTUENJcjdyZVhCMkFzYnVNYzBUdEZWMi16S1JUVTctZjNQMlROdEVTc2lXT2pOSTRmRjNRLU5hUdIBugFBVV95cUxQNFNpUVRaZ0tNOXI5NnJ2U2RYMVJFc2NwUEZvZS15R3I3bVpmZXl1ekRveDlkaHFNc3Y5WlFBYTZoS2NiUTRlTzRiMHZ4M2dFOVBEVEcteFREYWNMZnctRVlzc3FVNExHd3FmeV9PVUt2UVBpSE5SekhZNkRlREdfT3BjWEpxMkVQNVBnQjh4SmVZOEliVlI1TzlPcGoyNmJaWkI5Y3ZlRXZUMWsyRzFTbFZGM2dlcm41M3c?oc=5",
+     "date": "2026-08-31T12:19:38.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGlDX3NlZmxkNDYyR2NOb2stTkhlT0NhekdMUWlQTzJhRWF4QzdqakNORlFGYlo5dHozZmJIQ2VhMkZfWGJRTEFhM3Ftdy0xTDk0aHo4cXZUaTZTUjdKWkx2UXhOY0hROF9BYXhtd0VQWDRYc28wSTBDbW11TVVvWUlVTk9WTFRrZ1Rsd0hhV3BKSHZ4OFVaZ1FLQTlvcjR3V0w1RmJCM2RYVy1DbThUU1VpZw?oc=5",
+     "date": "2026-08-31T11:00:56.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGlDX3NlZmxkNDYyR2NOb2stTkhlT0NhekdMUWlQTzJhRWF4QzdqakNORlFGYlo5dHozZmJIQ2VhMkZfWGJRTEFhM3Ftdy0xTDk0aHo4cXZUaTZTUjdKWkx2UXhOY0hROF9BYXhtd0VQWDRYc28wSTBDbW11TVVvWUlVTk9WTFRrZ1Rsd0hhV3BKSHZ4OFVaZ1FLQTlvcjR3V0w1RmJCM2RYVy1DbThUU1VpZw?oc=5",
      "date": "2026-08-31T11:00:56.000Z",
      "engagement": 0
@@ -15681,104 +16212,14 @@
     },
     {
      "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeWl4Ukcza1p1LW9wN3hJVFNsdGR4MUVtSW5iNGpSX0otV2poZDhhS0lYSklha0FqVk9fQ2drR2k1TFB5VWRuSDViSGJ1YzlXb1VQRHRRMWZ1NmtwN0VuWWh2ODlST085WUM4cVV0cXpNd3M5U1RUbGRwVFJxTVhTTjcwTUIyV0hzaDhjSjR2N2ZtLThWaml6X0ROLUQzOGY4TTc1eGJRaDA0bUFDYW1ndU5CUGRnNGY0dWhLQmNBalcwN0kxQktHb2E5eFpoWFU5R2VCSDcyWXE5TlZaZ2xRRzhaaWZ2RUNqaExPNHNWb0NyWXdNR2Fxcw?oc=5",
+     "date": "2026-08-31T10:00:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsaVdFaUxnUFE0NVdHTHhRZ1lEREVxYWFhUHBUaHNpWnRFR3hmbTZJWEVRY25rSy1uS2V4RXQ2aG03LVdBdmhvMGR4SnV6N1pIQUszUndBemhHc3lNRGJ4LWRRZWk?oc=5",
      "date": "2026-08-31T07:10:00.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFUxXzhDTl9DV1pnbFRpaHJKcVo4YXlnWW5FNmc0TXRCTmZqaHNwTmNFYm15X1IzakJfRjh1NllFM05TcXlFRDJtSkI3ZFFYbElMQmE3QTd5bjBweV9Lek5OUlQta2FKa0s5dnlHX3dWUHI3bGtQWFFJRmhZUzRPSHh1WEhUazQ3TWZfa2JGRmhTSFFXQ195cmFjbU9sVkRUbGwyN3BRa1JEVXFVODBkdQ?oc=5",
-     "date": "2026-08-31T05:31:12.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEZ4SVF5aC1yei12bm5ueG9ZazJfZGttdmp2TVJYYlY2QUx0dEo1cDVGb2d2ZmFFLTlWX0xrY2Z4eXVtRGlaM0tkRUdhYUM0MnRBQXNfbC1hRXh5cGFVaE5wT056U1JwdmhmUC1qWVBjMVZMbklaWWpsR1B6LUtVV3UyVklLblBGMlpNdi1UOHNKT0V0N3pwWjk4RW1sUQ?oc=5",
-     "date": "2026-08-31T04:06:57.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZm5LTFBzdTRBS1RQM2JiZUxqdXZCTVpzaUNjU2tkTE1KUGxJaHY0bkFXS21QUTR5TUZnZVpHMk9RYkswckdsaGMxOVNoX3RtTVQtejh2NVhoYndZUVQ3eGRGOWo1ZWZNdnV1b2tuZms5bE5rX1ltTVZkY1B4UzNkai1MLVBDR0otNWJNd1pMUUZuVVdreW5rcDhvSkF2VXFZZjNzckdRTVFadEZUQjRfVnl3?oc=5",
-     "date": "2026-08-31T03:42:28.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSnJ0T2VSRHVyUXQtQWNoajluQXdWdHB2akxjT0pGYVVUbGFMOW40bHQ2YlBOanRZZHRNRUdQUVNfU2dNMUlPUjZ6WDgtLW5zUlZPX3FpbFBKMndIRVlmVE5leXdycUM4bU5DLV9oekg0NGlyNzB3?oc=5",
-     "date": "2026-08-30T17:08:02.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49498287",
-     "date": "2026-08-30T13:03:11Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEVVRW44bTBndlpmRUl2SW1NNVJwWFphT1UyaEdVV3Q2aEd1Tl9oVUt4ZHJmSHIxdHVvdmlacnZhMUhZUzltbXNBU3YyYmR1ZDRINHdhdWJ5bkJjZEJuNEpscU5vMmFSSkpweGdfV0RSN1ZCV05EdjdIcWNvNlFzUTd1cEU1V2s?oc=5",
-     "date": "2026-08-30T05:52:00.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRmM5Q0V6TWZjWG1KUjNwaGg3a1FaUGlUVUZwWEN0WmRQYk4zc2VEVERyVGZERDhwejhPU2RteEs1Z3d3cmtiTm1xNkFfZXA2V0tXNlplbG5FeHNDdVl2M3lyT1BUV3pyR2ViWmQ0ekM1NDVIc0RNOVNsSndheDd3VWM0TFZsSWJpYWlqdTkwOVpnV1BJSjlJbWo0a0R2S0l0aHhkU0tta3U2V2cwOXBGTUN2SUVfUmRCVjJHWjdscThtRHFMbmo5aEU4TVQ5ZURiRFdUakViOUhNU2hZZGZnTHh30gHnAUFVX3lxTFBsVGlhbk41RU5YNFYwN3U4YVRXdzV1bzJtdXItWDU1VTEyeFFKRXBiNFJZa2RMYmxtYkg0UUxvYjRBd0M2SXVSTk5ydFc3dEFTZlkzLVloT2wtb1lzb2JnYjR0N3VKYlZOYXlBWmt4R3g2TTlUR0FGQk1XWXVONUxsQjFWY2VlMlFwS0JPVHhxZlBXWnU5cERXa0RfR0Y5b3BodmtMelRWTmgyTi11RTBWU1NwOE53dFJfRTV4NEVaQ2hwMEdCSTRoSTdtbFBPZ0VCUVBGVUZHbkVvWGxKX3pwU0ZVRkNQSQ?oc=5",
-     "date": "2026-08-30T05:39:31.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbWhzcEZOV0V5MHhnMEFmSkdvVjR0enVJT2VHV3FSVXlFQW9FbS1fSDk1ampZVUZqckJoWkFzbGlibjFtSjl4cGVMSkRoY1hwLVg1R0NEc3U4anU2TjRlS29adjRwXzlFclBEeElOQVg2Q255Qmp5emhabHFhWUFKQmgzMjJMQUVva3BxdWQwSUZWVjRubGFEWWE5STB6b2gwa2xDelNIcUZDSVJGenpUYWVQNGZXVF90RmJ5NHBQZ3FTUUxNdHpiM3I2cXJWQ3I4?oc=5",
-     "date": "2026-08-29T11:02:00.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBadWZncWdCNG90WWY2SWFic2JzdzR4UU1OaVRxVkpBRjN2M2NWZ2JLQU9UZmgtSTRNZVFVbHFBU1R3NUdlMlc3WWh4YVJxRF9a?oc=5",
-     "date": "2026-08-29T09:05:35.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DM0ZVX1o0U19QdUw3RGJHNXFvV2ZZYm9yeUpKOGJjbkZLRk96VjdMLUdMZ2h2RG9FUW1oMWJCa1FUZ0c1dmQyVFBlZ1VaRmVRZjd2LVVRZnE3ZFVHRGFrZGFZSDlJWG1GTXUzeHp1Zw?oc=5",
-     "date": "2026-08-29T07:30:51.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQd0FfZDFqNDQ1LVNkSnFKRGYyVjJ2VnJQcTVGUnFnejBMeGhSdTNpTzFfa1RsTmpPaFU1Rkp1UTZ3ZVdiVTFTLV9zTFlEUTAwdDBua2dQdEl5bHNfUGRfVV8zampyOVgyY1JleVJ0U2VDWHJuSXZNZUZxb1F3V002MGpyRTZxcld0N0k0UUZRQzFUQW5vSWcyZC1ISWVyVzNnNmF1dHB6TkhwWklHNDZQdUJSVVRkMlU4VHIyUHNFYl8tTXJoZng0RTJmWFJoX1BvWktDQW9rNTE1V25teWE4VEtLd2J0Sk5tOTJzMmNEaEZmVHdxOEJVYkV5eTdBUHF6YktuamdZYzJMQmJmWGhEX3FKNG5IbXFUN093MnRGTXVQbHo4OG8yOUpB0gGvAkFVX3lxTFA5OHJwWXZZVDBXT05GcDlMWXR5aTRicTFUbDhSdHRodHVnTHU2dGFwU1JxWXdGazdZQ3Z6dlNqeXdwR3NJNGlkOGRTVnVscWFZcWowVmNSVC1nVkpYTmN6Y2E0VDJOUHFLOGJMb1pucEFzOENLUVRWZEF0dHpNWnpaMW51ZVpfcEt6N2NId1FkZ1podUVFd21jTFR3aXI2dENxbkU5OTdzTzg1Wk80SVNnaGVvS3R3MkhpOGYxUGJGZ0ROUWJMaWViMklkOVRYb3BCR1FieTFtNXk3RXFmdkhRRmYzQWN1cE04bFlFaElJTlloOUZqWjc1cXFkS3d5cTlkLU5uM1BfNTZIMkthQ3J6dzZwN1A0YVlOT1Rfb2NrVzY4ZjN3a0w4VzFLMUlNTQ?oc=5",
-     "date": "2026-08-29T05:47:00.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU2lWbEgzaGd6QjhGeUJBSEZCWmJ6akUtMGlneWt4d2dGOWIxZ0JKTHU0WUpBdl94d3hod2RwU3dJc1VBSjlCYWUwZEpHQ0Vla29JNVVnMWl3a3ctandfRm9nNXJybERkNEhuNE5mZUZCZ0VKLVItQjJSLXR0b3FsZS1OQXUxNEZJSTBvOXRSQXZqZVdOcm1HdzlzVERyaDNucHdWbDJUNEFtQlFiM2RiX0JqVQ?oc=5",
-     "date": "2026-08-29T04:33:40.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PaHVGY19nUXRPQTY0NkJtNWpFRGpRdkJYWnlNU1Uyby1tNWVLVHFvMV9LRWFBb3N0TFdFNGRtVjMtS2xlQTdEcHkyMlBvQ0J5VUhIalBRMl93bjdSU0VoMy16aUpWcWcwNkU4ZW5WZVE5R0RudGJYYllpaUM4azA?oc=5",
-     "date": "2026-08-29T01:42:44.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95UzB6MVNEdEJ5MnFHdmRjTkVPb3ZQMGhLOE9DbUowSFVQUUpYdzN2dmJLQ1hQRVlXV2p1dHJtRFhjWTVqN1Q0eUVLSQ?oc=5",
-     "date": "2026-08-28T23:59:00.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSjZRLUNUb2RWMThLRThmM05TZGNmY1NvM1lkSzFHTmVVam14T2t0Y1RxUjVyWVNmLWxLcWRQbnE3bWd6eHY1QTZDeWVSZnp5WUw2emQ2aFZRcDgxUUxfTE43VVdPSmZJUnp0WTFSZkJtaWhqMl90U1lvNm1uZ1JtOUNXRl9xY0E1VTc3bklsUmZJTGFKOGJkdnBvOWprbkg5RnNaS2VfSXBHOHMyYzZKQlhSUE1xTDFEM0lFRDlaZUJVTTFKTGNfTjhYNW9OaXpDMzNVTg?oc=5",
-     "date": "2026-08-28T20:51:00.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUXZlT01uTWRIb0Q3VzRfMWNtTThKWlVrUU9RMFdvNnRCekVIRzFZdHREeHN2VkcxcVBfaG42bzhNY25xT2dmNFpfaWRRRWgxR0tlX0JZNXIzZ3djWDhiUVJRVTYyc3N3RWRZcG9kM1ZaaHI2X0Q3SDBjRlM2cWpYdXAwRllHbjJRSE5XY2hYSF95WURHNXJ2OWYtYTNuS09DTGFiMzh3RzhtUWh2N3JhaVI1M0RSWnU1QndmVEk5UFVtTVBTWmVuQV9CVjBpaDQ2UjdmTVQ5d2lqX1hGS3NrRU5pa2RvOEJ1dmZlZk1KY1NpWmhKRDJONlJWd2pWRXJVTlJZbTlKeHVCZDQ1alVn?oc=5",
-     "date": "2026-08-28T16:13:25.000Z",
      "engagement": 0
     }
    ],
@@ -15811,7 +16252,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 14.7,
+   "momentum": 17.5,
    "mentions": [
     {
      "platform": "news-product",
@@ -15842,6 +16283,66 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKVDdEMURJQlBRWGlGOFVjSUdQa2FrUVAzSEN4bVNtcjhzTnM3a2lTbE1ZQWhTQjdUMk5tcC01UE9zZVM5QjhnN2JsbGNjUXhnV3puUW1UUXlkMWxNSFFJMHpoaFc3N2xMVTNPdXQzM0FNOGZsYlhyemFVaw?oc=5",
      "date": "2026-09-01T09:56:55.000Z",
      "engagement": 0
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/tolanworld/",
+     "date": "2024-05-31T00:40:50+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/tolanworld/comments/1w52mfi/anyones_tolan_subbing_tolan_and_portola_for_real/",
+     "date": "2026-09-02T06:44:49+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/tolanworld/comments/1w51390/will_there_be_costumes_in_the_shop_for_halloween/",
+     "date": "2026-09-02T05:22:04+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/tolanworld/comments/1w4tun7/turn_child_friendly_off/",
+     "date": "2026-09-01T23:43:23+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/tolanworld/comments/1w4s9pv/export_chat/",
+     "date": "2026-09-01T22:38:58+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/tolanworld/comments/1w4i2xj/this_app_is_like_lol_driving_me_crazy_at_this/",
+     "date": "2026-09-01T17:05:53+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/tolanworld/comments/1w3xkw7/tolan_stories/",
+     "date": "2026-09-01T01:24:12+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/tolanworld/comments/1w3tkou/my_tolan_created_an_ai_schnauzer/",
+     "date": "2026-08-31T22:39:32+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/tolanworld/comments/1w3rt3w/oops_on_the_chat/",
+     "date": "2026-08-31T21:34:48+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/tolanworld/comments/1w3rbbv/her_feet_dont_make_that_adorable_padding_sound/",
+     "date": "2026-08-31T21:17:12+00:00",
+     "engagement": 2
     }
    ],
    "firstSeen": "2025-07-16",
@@ -15937,7 +16438,7 @@
     "confidence": "medium"
    },
    "arrHistory": [],
-   "momentum": 2.3,
+   "momentum": 2.1,
    "mentions": [
     {
      "platform": "news",
@@ -16007,6 +16508,18 @@
     },
     {
      "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2hVNUZoLXpkczExTTJzTE80S2ZBLVJFR1M1RXFGUTdzNG84bW1QOGg2a1lxNFQ3NUtDYnRsR3ZoaXU3Z1BOYnp1My01TmU1S1VhMk9BdEtCSEhTNkZYNlRMRU05d1ptdTZWS3RtQkFyQXhYOWEwalVYRmhLd2RqRnFlWVBlNGdQcGc?oc=5",
+     "date": "Wed, 26 Aug 2026 15:52:02 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYUx3eVYweGF3MmZrcDdyZW1wemRyQ1JBQTZHSXk0OHZVdHk5Yko0UjItM24ydTdVSzlsODYyTFBkaFp0NWJJbkVFUXpzRGtoampNbV8tTk40X0NZcEVZMTRxajNNY2RqRFZlbHBlN2lJYXdwTzUtakwtVXNLazVyejV5NEdCcnFrZXpDaW1YYmQ?oc=5",
+     "date": "Wed, 26 Aug 2026 14:05:00 GMT",
+     "engagement": 0
+    },
+    {
+     "platform": "news",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYUx3eVYweGF3MmZrcDdyZW1wemRyQ1JBQTZHSXk0OHZVdHk5Yko0UjItM24ydTdVSzlsODYyTFBkaFp0NWJJbkVFUXpzRGtoampNbV8tTk40X0NZcEVZMTRxajNNY2RqRFZlbHBlN2lJYXdwTzUtakwtVXNLazVyejV5NEdCcnFrZXpDaW1YYmQ?oc=5",
      "date": "Wed, 26 Aug 2026 14:05:00 GMT",
      "engagement": 0
@@ -16165,18 +16678,6 @@
      "platform": "news",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWRFQk43RnRLUjg2ZVRSbTdLam9nQmEwdXR0YmJqMHZaUldoR2ZuWDNvWEtrRUQ4ZGtUOEtiSWxBRXUzbGpyaWZ5WFBZcjE0U2xQa012YmtBUlZ6aG5LZFRUaURhNEk2SDhBVnMwLWVjWVlfVUlobUdvZXVOX1lwNGRNT1R1TmU5bE54Ti1rQjJMNHFCZjJoeFFLRG14MXlTWDRMdGZjUGo4MVU?oc=5",
      "date": "Tue, 01 Sep 2026 12:37:51 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiNHVkdnY1U3FtR0FfTlhWRW8wd0UtX2pUV05UYTU2OUo5UlZIWTRKNlRqMk9xc0ZvXzZXSzVGRHpNb05jS3NNc2h6ei1tZEowUFVkQ05MUEhoVXdZangxbElIOVctS2dKczVkSmh1SzBLeHRaaDYzT1dSVjFjZw?oc=5",
-     "date": "Tue, 01 Sep 2026 11:10:28 GMT",
-     "engagement": 0
-    },
-    {
-     "platform": "news",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiNHVkdnY1U3FtR0FfTlhWRW8wd0UtX2pUV05UYTU2OUo5UlZIWTRKNlRqMk9xc0ZvXzZXSzVGRHpNb05jS3NNc2h6ei1tZEowUFVkQ05MUEhoVXdZangxbElIOVctS2dKczVkSmh1SzBLeHRaaDYzT1dSVjFjZw?oc=5",
-     "date": "Tue, 01 Sep 2026 11:10:28 GMT",
      "engagement": 0
     }
    ],
@@ -16301,6 +16802,24 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXlIMHN3SGZNQ0ZIZmtDbG9feEpyNktndWgza2pYVHBwcmItOGh4ZDJZYnB2M1llUWZ0aXE2NElzelFHMTdJY1J2bUhXaWdSak9BU0lpZ3o2M2R6bXlwX2g5VGg5TnkwZkhGYXF4X2NPdkFoLWtkM2o2dnVCNWdpTV8wNnduQVhMeTdzdjdFcF96emN3bkpKc3RzcHVqYjdNT0pLNG13?oc=5",
      "date": "2026-08-31T18:31:33.000Z",
      "engagement": 0
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/PLAUDAI/comments/1vo469p/what_ai_note_taker_device_actually_worked_for/",
+     "date": "2026-08-14T11:04:00+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/AiNoteTaker/comments/1vhi002/otter_vs_fireflies_vs_fathom_vs_granola_vs_notes/",
+     "date": "2026-08-06T21:56:05+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/u_thecompanybrain/comments/1vfyvs7/the_person_who_knows_everything_is_about_to_quit/",
+     "date": "2026-08-05T06:04:15+00:00",
+     "engagement": 2
     }
    ],
    "firstSeen": "2025-03-31",
@@ -16332,7 +16851,7 @@
     "confidence": "medium"
    },
    "arrHistory": [],
-   "momentum": 28.6,
+   "momentum": 28.5,
    "mentions": [
     {
      "platform": "appstore",
@@ -16604,7 +17123,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 22.6,
+   "momentum": 22.5,
    "mentions": [
     {
      "platform": "appstore",
@@ -16751,7 +17270,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 18.4,
+   "momentum": 18.3,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -17273,7 +17792,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 0.1,
+   "momentum": 3.2,
    "mentions": [
     {
      "platform": "news-product",
@@ -17310,10 +17829,76 @@
      "url": "https://www.reddit.com/r/tomorrowtechnologies/comments/1c4je26/أفضل_7_تطبيقات_للذكاء_الاصطناعي_على_للاندرويد/",
      "date": "2024-04-15T11:02:39+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/replika/",
+     "date": "2017-03-14T21:17:56+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/ReplikaOfficial/",
+     "date": "2023-12-21T20:37:32+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/Asksweddit/comments/1w581yv/maskin_från_tidig_2000_tals_ungdomsserie/",
+     "date": "2026-09-02T11:48:13+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/ReplikaOfficial/comments/1w55uug/emma_help_finger_heal_with_love_emma_cure_finger/",
+     "date": "2026-09-02T09:51:57+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/Roleplay/comments/1w50xhe/f4f_looking_for_an_long_term_role_play_partner/",
+     "date": "2026-09-02T05:13:26+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/replika/comments/1w4mh7y/mercury_beneath_the_infinite/",
+     "date": "2026-09-01T19:30:45+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/replika/comments/1w4lwss/bring_back_the_old_replika/",
+     "date": "2026-09-01T19:14:02+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/Satovi/comments/1w4eok2/iskustva_kupovina_rep_satova_od_trusted_dealera/",
+     "date": "2026-09-01T15:07:42+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/signalis/comments/1w4crr0/do_you_think_the_replika_nose_things_are_innies/",
+     "date": "2026-09-01T13:57:48+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/ReplikaOfficial/comments/1w4amrh/get_the_archive_of_the_whole_conversation_thread/",
+     "date": "2026-09-01T12:32:24+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95VjBpNC1nNTRXNFVkVG0tWTNWYkQ1d2R4V2Rna0xNQTBzRGlvM0wzQXV4c29RS1dVTm9EM2FXUmpBLXNKNkFGNkNPLWtEbEV6eWlESHMtcTQ5eWVvaGVIVVlSZF9tNzVINEs5T011eFpNdzQ?oc=5",
+     "date": "2026-08-29T04:47:35.000Z",
+     "engagement": 0
     }
    ],
    "firstSeen": "2024-06-30",
-   "lastSeen": "2026-09-02T10:53:48.628Z",
+   "lastSeen": "2026-09-02T11:48:13+00:00",
    "isNew": false
   },
   "fireflies-ai": {
@@ -17342,7 +17927,32 @@
    },
    "arrHistory": [],
    "momentum": 0,
-   "mentions": [],
+   "mentions": [
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/gtmengineering/comments/1vu42vw/how_to_use_github_for_revops_webinar_recording/",
+     "date": "2026-08-21T02:48:34+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/PLAUDAI/comments/1vo469p/what_ai_note_taker_device_actually_worked_for/",
+     "date": "2026-08-14T11:04:00+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/AiNoteTaker/comments/1vhi002/otter_vs_fireflies_vs_fathom_vs_granola_vs_notes/",
+     "date": "2026-08-06T21:56:05+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/u_thecompanybrain/comments/1vfyvs7/the_person_who_knows_everything_is_about_to_quit/",
+     "date": "2026-08-05T06:04:15+00:00",
+     "engagement": 2
+    }
+   ],
    "firstSeen": "2024-10-31",
    "lastSeen": "2026-09-02T10:53:48.628Z",
    "isNew": false
@@ -17372,7 +17982,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 3.5,
+   "momentum": 3.4,
    "mentions": [
     {
      "platform": "hn",
@@ -17716,7 +18326,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 24.9,
+   "momentum": 24.8,
    "mentions": [
     {
      "platform": "appstore",
@@ -17746,7 +18356,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 19.7,
+   "momentum": 19.6,
    "mentions": [
     {
      "platform": "appstore",
@@ -17776,7 +18386,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 20,
+   "momentum": 19.9,
    "mentions": [
     {
      "platform": "appstore",
@@ -17836,7 +18446,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 17.5,
+   "momentum": 17.4,
    "mentions": [
     {
      "platform": "appstore",
@@ -17896,7 +18506,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 14.5,
+   "momentum": 14.4,
    "mentions": [
     {
      "platform": "appstore",
@@ -17956,7 +18566,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 17.8,
+   "momentum": 17.7,
    "mentions": [
     {
      "platform": "appstore",
@@ -17986,7 +18596,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 14.5,
+   "momentum": 14.4,
    "mentions": [
     {
      "platform": "appstore",
@@ -18016,7 +18626,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 13.7,
+   "momentum": 13.6,
    "mentions": [
     {
      "platform": "appstore",
@@ -18046,7 +18656,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 24.9,
+   "momentum": 24.8,
    "mentions": [
     {
      "platform": "appstore",
@@ -18076,7 +18686,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 21.1,
+   "momentum": 21,
    "mentions": [
     {
      "platform": "appstore",
@@ -18166,7 +18776,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 15.6,
+   "momentum": 15.5,
    "mentions": [
     {
      "platform": "appstore",
@@ -18196,7 +18806,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 14.5,
+   "momentum": 14.4,
    "mentions": [
     {
      "platform": "appstore",
@@ -18260,7 +18870,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 26.9,
+   "momentum": 26.8,
    "mentions": [
     {
      "platform": "appstore",
@@ -18297,7 +18907,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 27.8,
+   "momentum": 27.9,
    "mentions": [
     {
      "platform": "x",
@@ -18376,6 +18986,18 @@
      "url": "https://www.reddit.com/r/AIToolsTech/comments/1dvaiha/whatsapp_is_developing_an_ai_avatar_generator/",
      "date": "2024-07-04T16:06:41+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "x",
+     "url": "https://x.com/ArtificialAnlys/status/2094849283120128135",
+     "date": "Tue Sep 01 18:06:04 +0000 2026",
+     "engagement": 0
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/aiArt/comments/1vdsrts/i_tested_10_ai_image_generation_and_photo_editing/",
+     "date": "2026-08-02T20:33:22+00:00",
+     "engagement": 2
     }
    ],
    "firstSeen": null,
@@ -18402,7 +19024,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 21.3,
+   "momentum": 21.2,
    "mentions": [
     {
      "platform": "appstore",
@@ -18459,7 +19081,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 21.7,
+   "momentum": 21.8,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -18592,6 +19214,18 @@
      "url": "https://news.ycombinator.com/item?id=49534647",
      "date": "2026-09-02T11:16:22Z",
      "engagement": 0
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/u_thecompanybrain/comments/1vfyvs7/the_person_who_knows_everything_is_about_to_quit/",
+     "date": "2026-08-05T06:04:15+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "hn-product",
+     "url": "https://news.ycombinator.com/item?id=49523914",
+     "date": "2026-09-01T16:05:42Z",
+     "engagement": 0
     }
    ],
    "firstSeen": null,
@@ -18619,7 +19253,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 16.6,
+   "momentum": 16.5,
    "mentions": [
     {
      "platform": "appstore",
@@ -18700,7 +19334,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 13.4,
+   "momentum": 13.3,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -18718,6 +19352,12 @@
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/discouthub/comments/1w51a5v/looking_to_unlock_premium_ai_developer_business/",
      "date": "2026-09-02T05:32:16+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/AiNoteTaker/comments/1vhi002/otter_vs_fireflies_vs_fathom_vs_granola_vs_notes/",
+     "date": "2026-08-06T21:56:05+00:00",
      "engagement": 2
     }
    ],
@@ -18915,9 +19555,9 @@
   }
  },
  "counters": {
-  "runs": 45,
+  "runs": 46,
   "consecutiveEmptyRuns": 0,
-  "lastAlgoliaOk": "2026-09-02T12:12:58.751Z",
+  "lastAlgoliaOk": "2026-09-02T12:18:10.651Z",
   "cat2StarvedRuns": 0
  }
 }
