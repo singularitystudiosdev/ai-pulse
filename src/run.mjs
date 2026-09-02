@@ -6,6 +6,7 @@ import { gate, select } from './rank.mjs';
 import { loadState, saveState, prune } from './state.mjs';
 import { writeReadme, writeArchive } from './render.mjs';
 import { exportFeed } from './feed.mjs';
+import { updateProducts } from './leaderboard.mjs';
 import { fetchJSON, tokenize, sleep } from './util.mjs';
 
 const now = Date.now();
@@ -61,10 +62,14 @@ async function main() {
   saveState(state);
 
   // 5. Render: archive first so the README's archive section sees it; then the
-  // JSON export the Pages site reads.
+  // JSON exports the Pages site reads (feed + product leaderboard).
   writeArchive(picks);
   writeReadme(picks, state);
   exportFeed(state);
+  const products = await updateProducts(state, candidates);
+  saveState(state);
+
+  console.log(`products: seeded=${products.seeded} corpus=${products.corpusSize} matched=${products.matched} claims=${products.claims} exported=${products.exported}`);
 
   console.log(`runs=${state.counters.runs} candidates=${candidates.length} gated=${gated.length} picks=${picks.length} found=${counts[1]}/${counts[2]}/${counts[3]}/${counts[4]} drops=${drops.length}`);
   if (drops.length) console.log(`drop sample: ${drops.slice(0, 8).join(' | ')}`);

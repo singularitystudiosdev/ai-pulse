@@ -375,8 +375,34 @@ function wire() {
   });
 }
 
+// ----- view switching: Leaderboards (board.js) vs Live feed (this file) -----
+let boardLoaded = false;
+
+function setView(v) {
+  const board = v === 'board';
+  $('tab-board').classList.toggle('is-active', board);
+  $('tab-feed').classList.toggle('is-active', !board);
+  $('tab-board').setAttribute('aria-selected', String(board));
+  $('tab-feed').setAttribute('aria-selected', String(!board));
+  $('view-board').hidden = !board;
+  $('feed-controls').hidden = board;
+  $('feed-view').hidden = board;
+  const fav = $('favbar');
+  fav.hidden = board || Object.keys(store.favs).length === 0;
+  const pill = $('view-pill');
+  const active = board ? $('tab-board') : $('tab-feed');
+  pill.style.left = active.offsetLeft + 'px';
+  pill.style.width = active.offsetWidth + 'px';
+  if (board && !boardLoaded) { boardLoaded = true; loadBoard(); }
+}
+
 async function boot() {
   wire();
+  wireBoard();
+  $('tab-board').addEventListener('click', () => setView('board'));
+  $('tab-feed').addEventListener('click', () => setView('feed'));
+  setView('board');
+  requestAnimationFrame(() => setView('board')); // pill geometry after layout
   try {
     const res = await fetch(`data/feed.json?t=${Date.now()}`, { cache: 'no-store' });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);

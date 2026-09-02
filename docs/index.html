@@ -15,7 +15,51 @@
       <h1>ai<span class="accent">-</span>pulse</h1>
     </div>
     <p class="tagline">AI on X, ranked. <span id="updated">loading…</span></p>
-    <nav class="controls" aria-label="Feed controls">
+
+    <nav class="views" aria-label="View">
+      <div class="tabs fx-tabs" role="tablist" aria-label="Views">
+        <span class="fx-pill" id="view-pill" aria-hidden="true"></span>
+        <button class="tab is-active" id="tab-board" role="tab" aria-selected="true">🏆 Leaderboards</button>
+        <button class="tab" id="tab-feed" role="tab" aria-selected="false">📡 Live feed</button>
+      </div>
+    </nav>
+
+    <section id="view-board">
+      <nav class="controls" aria-label="Category">
+        <div class="chips" role="group" aria-label="Category filter">
+          <button class="chip active" data-bcat="all">All</button>
+          <button class="chip" data-bcat="physical">🦾 Physical AI</button>
+          <button class="chip" data-bcat="dev">🛠 Dev SaaS</button>
+          <button class="chip" data-bcat="normie">🧑‍💻 Normie SaaS</button>
+          <button class="chip" data-bcat="agents">🤖 Agents</button>
+          <button class="chip" data-bcat="creative">🎨 Creative</button>
+          <button class="chip" data-bcat="voice">🗣️ Voice</button>
+        </div>
+      </nav>
+      <nav class="subrow" id="subrow-physical" hidden aria-label="Physical AI subcategory">
+        <span class="subrow-label">field:</span>
+        <button class="chip sub" data-bsub="military">🎖 Military</button>
+        <button class="chip" data-bsub="consumer">📱 Consumer devices</button>
+        <button class="chip" data-bsub="industrial">🏭 Industrial & robotics</button>
+      </nav>
+      <nav class="controls" aria-label="Sort">
+        <div class="tabs fx-tabs" role="tablist" aria-label="Sort">
+          <span class="fx-pill" id="sort-pill"></span>
+          <button class="fx-tab is-active" data-bsort="arr" role="tab" aria-selected="true">🏆 Top ARR</button>
+          <button class="fx-tab" data-bsort="momentum" aria-selected="false">🔥 Momentum</button>
+          <button class="fx-tab" data-bsort="new" aria-selected="false">✨ New</button>
+        </div>
+        <span class="board-count" id="board-count"></span>
+        <span class="board-updated" id="board-updated"></span>
+      </nav>
+      <div id="board-rows" class="rows"></div>
+      <div id="board-empty" class="empty" hidden>
+        <p>No products in this view yet.</p>
+        <p class="sub">The agent scrapes every 30 minutes — click ▶ Run agent now to pull sooner.</p>
+      </div>
+    </section>
+
+    <nav class="controls" id="feed-controls" hidden aria-label="Feed controls">
       <div class="tabs" role="tablist" aria-label="Sort">
         <button class="tab active" id="tab-velocity" role="tab" aria-selected="true">⚡ Velocity</button>
         <button class="tab" id="tab-foryou" role="tab" aria-selected="false">✨ For You</button>
@@ -44,6 +88,7 @@
   </div>
 
   <main>
+    <div id="feed-view" hidden>
     <div id="learn-hint" class="hint" hidden>
       ✨ <strong>For You</strong> learns from what you ★ and open — star a few posts and it starts shaping this order.
     </div>
@@ -51,6 +96,7 @@
     <div id="empty" class="empty" hidden>
       <p>Nothing here right now.</p>
       <p class="sub">The agent runs every 30 minutes — <span id="empty-refresh">try refreshing in a bit</span>.</p>
+    </div>
     </div>
   </main>
 
@@ -65,6 +111,7 @@
     <p class="note">Everything you ★ or open stays in <em>your browser</em> — it never leaves this device.</p>
   </footer>
 
+  <script src="board.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

@@ -10,6 +10,7 @@ export function emptyState() {
     items: {},
     digests: {},
     seenTexts: {},
+    products: {},
     counters: { runs: 0, consecutiveEmptyRuns: 0, lastAlgoliaOk: null, cat2StarvedRuns: 0 },
   };
 }
