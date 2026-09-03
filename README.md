@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-03 04:15 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-03 04:20 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 472 HF upvotes · v 472 | 472 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
 | [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 349 HF upvotes · v 349 | 349 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
-| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 90 HF upvotes · v 90 | 90 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
+| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 91 HF upvotes · v 91 | 91 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
 | [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | Shaowen Wang | 79 HF upvotes · v 79 | 79 HF upvotes · "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers" · model release |
 | [UI-Venus-2 Technical Report](https://huggingface.co/papers/2609.00028) | Venus Team | 56 HF upvotes · v 56 | 56 HF upvotes · "UI-Venus-2 Technical Report" · model release |
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Same experience here.  Blew through each session limit in like 30 minutes, and my weekly Fable usage in just …](https://x.com/mattshumer_/status/2095175841227346037) | [@mattshumer_](https://x.com/mattshumer_) | 399♥ 21RT · v 100.1 | 100 velocity · 399♥ 21RT · 79473 views · 13h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
