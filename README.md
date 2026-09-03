@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-03 17:47 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-03 17:53 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
+| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 360 HF upvotes · v 360 | 360 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
 | [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 360 HF upvotes · v 360 | 360 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
-| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 359 HF upvotes · v 359 | 359 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
-| [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 131 HF upvotes · v 131 | 131 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
-| [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://huggingface.co/papers/2609.02886) | Junchao Huang | 130 HF upvotes · v 130 | 130 HF upvotes · "SolarWM: Open Data and Scalable Training for Long-Horizon Video World " · model release |
-| [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | Yuhao Wu | 111 HF upvotes · v 111 | 111 HF upvotes · "Aspire: Can Models Self-Evolve from Vague Goals?" · model release |
+| [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 132 HF upvotes · v 132 | 132 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
+| [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://huggingface.co/papers/2609.02886) | Junchao Huang | 131 HF upvotes · v 131 | 131 HF upvotes · "SolarWM: Open Data and Scalable Training for Long-Horizon Video World " · model release |
+| [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | Yuhao Wu | 113 HF upvotes · v 113 | 113 HF upvotes · "Aspire: Can Models Self-Evolve from Vague Goals?" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
