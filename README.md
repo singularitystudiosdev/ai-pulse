@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-03 20:28 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-03 20:33 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 423 HF upvotes · v 423 | 423 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
+| [GPT-6 Astra has set a new ECI record, with a score of 169. This is a substantial jump from the prior best (16…](https://x.com/EpochAIResearch/status/2095602754282783108)<br>![card](https://pbs.twimg.com/media/HRUTmX-aUAAymEX.jpg?name=orig) | [@EpochAIResearch](https://x.com/EpochAIResearch) | 431♥ 70RT · v 1057.1 | 1057 velocity · 431♥ 70RT · 34107 views · <1h old · matched "benchmark" |
+| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 426 HF upvotes · v 426 | 426 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
 | [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 361 HF upvotes · v 361 | 361 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
-| [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 186 HF upvotes · v 186 | 186 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
-| [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | Yuhao Wu | 151 HF upvotes · v 151 | 151 HF upvotes · "Aspire: Can Models Self-Evolve from Vague Goals?" · model release |
-| [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://huggingface.co/papers/2609.02886) | Junchao Huang | 133 HF upvotes · v 133 | 133 HF upvotes · "SolarWM: Open Data and Scalable Training for Long-Horizon Video World " · model release |
+| [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 187 HF upvotes · v 187 | 187 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
+| [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | Yuhao Wu | 153 HF upvotes · v 153 | 153 HF upvotes · "Aspire: Can Models Self-Evolve from Vague Goals?" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
