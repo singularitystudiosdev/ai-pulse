@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-03 00:22 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-03 00:27 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | masteranza | 175 HN points · v 325 | 175 HN points · 75 comments · Show HN |
+| [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | masteranza | 176 HN points · v 326 | 176 HN points · 75 comments · Show HN |
 | [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"](https://hnmatchmaker.com/) | all2 | 106 HN points · v 196 | 106 HN points · 45 comments · Show HN |
 | [Show HN: Supafork – Share and Fork Sessions Across Harnesses](https://www.supafork.com) | supafork | 15 HN points · v 33 | 15 HN points · 9 comments · Show HN |
 | [Show HN: I built a version of Omarchy that runs on Apple Silicon](https://github.com/themartiano/try-omarchy) | martiano | 17 HN points · v 27 | 17 HN points · 5 comments · Show HN |
