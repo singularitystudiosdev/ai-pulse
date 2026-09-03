@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-03 00:48 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-03 04:15 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 464 HF upvotes · v 464 | 464 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
-| [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 338 HF upvotes · v 338 | 338 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
-| [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://huggingface.co/papers/2608.31106) | Jiashu Zhu | 93 HF upvotes · v 93 | 93 HF upvotes · "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Reso" · model release |
-| [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | Shaowen Wang | 75 HF upvotes · v 75 | 75 HF upvotes · "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers" · model release |
-| [UI-Venus-2 Technical Report](https://huggingface.co/papers/2609.00028) | Venus Team | 55 HF upvotes · v 55 | 55 HF upvotes · "UI-Venus-2 Technical Report" · model release |
+| [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 472 HF upvotes · v 472 | 472 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
+| [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 349 HF upvotes · v 349 | 349 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
+| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 90 HF upvotes · v 90 | 90 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
+| [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://huggingface.co/papers/2609.01343) | Shaowen Wang | 79 HF upvotes · v 79 | 79 HF upvotes · "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers" · model release |
+| [UI-Venus-2 Technical Report](https://huggingface.co/papers/2609.00028) | Venus Team | 56 HF upvotes · v 56 | 56 HF upvotes · "UI-Venus-2 Technical Report" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | masteranza | 176 HN points · v 326 | 176 HN points · 75 comments · Show HN |
+| [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | masteranza | 176 HN points · v 332 | 176 HN points · 78 comments · Show HN |
 | [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"](https://hnmatchmaker.com/) | all2 | 106 HN points · v 196 | 106 HN points · 45 comments · Show HN |
 | [Show HN: Supafork – Share and Fork Sessions Across Harnesses](https://www.supafork.com) | supafork | 15 HN points · v 33 | 15 HN points · 9 comments · Show HN |
-| [Show HN: I built a version of Omarchy that runs on Apple Silicon](https://github.com/themartiano/try-omarchy) | martiano | 17 HN points · v 27 | 17 HN points · 5 comments · Show HN |
+| [Show HN: I built a version of Omarchy that runs on Apple Silicon](https://github.com/themartiano/try-omarchy) | martiano | 19 HN points · v 31 | 19 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Same experience here.  Blew through each session limit in like 30 minutes, and my weekly Fable usage in just …](https://x.com/mattshumer_/status/2095175841227346037) | [@mattshumer_](https://x.com/mattshumer_) | 399♥ 21RT · v 100.1 | 100 velocity · 399♥ 21RT · 79473 views · 13h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
