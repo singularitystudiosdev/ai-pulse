@@ -1,488 +1,47 @@
 {
  "version": 1,
- "lastRunAt": "2026-09-03T00:32:45.488Z",
+ "lastRunAt": "2026-09-03T00:37:57.104Z",
  "items": {
-  "hn:49539913": {
-   "id": "hn:49539913",
-   "user": "martiano",
-   "authorName": null,
-   "url": "https://github.com/themartiano/try-omarchy",
-   "text": "Show HN: I built a version of Omarchy that runs on Apple Silicon",
-   "image": null,
-   "category": 2,
-   "likes": 17,
-   "retweets": 5,
-   "views": 0,
-   "followers": 0,
-   "velocity": 27,
-   "reason": "17 HN points · 5 comments · Show HN",
-   "channel": "hn-story",
-   "hnStoryId": "49539913",
-   "hnStoryTitle": "Show HN: I built a version of Omarchy that runs on Apple Silicon",
-   "firstSeen": "2026-09-03T00:32:45.488Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-03"
-  },
-  "GergelyOrosz/2095256757178188113": {
-   "id": "GergelyOrosz/2095256757178188113",
-   "user": "GergelyOrosz",
-   "authorName": "Gergely Orosz",
-   "url": "https://x.com/GergelyOrosz/status/2095256757178188113",
-   "text": "Ok, THIS is wild, never expected anything like this:\n\nUber exited Nigeria… no warning, just shut down the app, on the spot. When riders were mid-trip ?!!\n\nThis is what a startup that just went bankrupt would do, not a $150B corporation. Uber operated in Nigeria since 2014 (!!)",
-   "image": null,
-   "category": 4,
-   "likes": 3734,
-   "retweets": 284,
-   "views": 261674,
-   "followers": 352433,
-   "velocity": 4439.4,
-   "reason": "4439 velocity · 3734♥ 284RT · 261674 views · 2h old",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T22:38:58.432Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "ArtificialAnlys/2095247787277553929": {
-   "id": "ArtificialAnlys/2095247787277553929",
-   "user": "ArtificialAnlys",
-   "authorName": "Artificial Analysis",
-   "url": "https://x.com/ArtificialAnlys/status/2095247787277553929",
-   "text": "Meta has released Muse Spark 1.3, their fourth Muse Spark model release in five months. Muse Spark 1.3 (max), which is in limited preview for Meta’s partners, scores 62 on the Artificial Analysis Intelligence Index, behind only Claude Fable 5.1 and Claude Opus 5. The variant available now, Muse Spar",
-   "image": "https://pbs.twimg.com/media/HRPNDv3aoAA3EDU.jpg?name=orig",
-   "category": 1,
-   "likes": 975,
-   "retweets": 109,
-   "views": 272878,
-   "followers": 134856,
-   "velocity": 4507.7,
-   "reason": "4508 velocity · 975♥ 109RT · 272878 views · 1h old · matched \"claude\", \"grok\"",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T21:57:07.060Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "QwenDevs/2095157452904018263": {
-   "id": "QwenDevs/2095157452904018263",
-   "user": "QwenDevs",
-   "authorName": "Qwen Developers",
-   "url": "https://x.com/QwenDevs/status/2095157452904018263",
-   "text": "Alibaba’s Zvec team open-sourced zg, a local search tool for developers and AI agents.\n\n• Local-first\n• Works out of the box with popular agents\n• Semantic, BM25, hybrid, and rg search in one tool\n\nWhy they built it and how it works: https://x.com/i/article/2094685765620113408",
+  "hf:2609.00028": {
+   "id": "hf:2609.00028",
+   "user": "VenusTeam",
+   "authorName": "Venus Team",
+   "url": "https://huggingface.co/papers/2609.00028",
+   "text": "UI-Venus-2 Technical Report",
    "image": null,
    "category": 1,
-   "likes": 1364,
-   "retweets": 143,
-   "views": 76085,
-   "followers": 11139,
-   "velocity": 350,
-   "reason": "350 velocity · 1364♥ 143RT · 76085 views · 6h old · matched \"open-sourced\"",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T20:01:07.917Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "kimmonismus/2094896358008442960": {
-   "id": "kimmonismus/2094896358008442960",
-   "user": "kimmonismus",
-   "authorName": "Chubby♨️",
-   "url": "https://x.com/kimmonismus/status/2094896358008442960",
-   "text": "Literally unusable. The rate limits are absurd. Oh, and by the way, Fable’s automatic continuation is bugged and doesn’t even work.\n\nI honestly don’t know why I still bother using Claude at this point. 5.6 is simply better overall anyway.\n\nGive me GPT-Astra and im fine. its so frustrating. seriously",
-   "image": "https://pbs.twimg.com/media/HRKQuSFWoAARwQK.jpg?name=orig",
-   "category": 1,
-   "likes": 1828,
-   "retweets": 71,
-   "views": 195306,
-   "followers": 139011,
-   "velocity": 100.6,
-   "reason": "101 velocity · 1828♥ 71RT · 195306 views · 22h old · matched \"claude\"",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T19:29:29.175Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "deanwball/2094788634729660906": {
-   "id": "deanwball/2094788634729660906",
-   "user": "deanwball",
-   "authorName": "Dean W. Ball",
-   "url": "https://x.com/deanwball/status/2094788634729660906",
-   "text": "I want to explain something to you: \n\nPeople often quote tweet me and say \"can you believe that an OPENAI EXECUTIVE is so dumb that he thinks tweeting like THIS is the way to fix AI's image problem?!?!?!\"\n\nI was not hired by OpenAI to \"fix AI's image problem,\" and I do not get out of bed every day t",
-   "image": null,
-   "category": 4,
-   "likes": 830,
-   "retweets": 33,
-   "views": 70098,
-   "followers": 73091,
-   "velocity": 23.1,
-   "reason": "23 velocity · 830♥ 33RT · 70098 views · 29h old",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T19:29:29.175Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "bridgemindai/2095085317367762983": {
-   "id": "bridgemindai/2095085317367762983",
-   "user": "bridgemindai",
-   "authorName": "BridgeMind",
-   "url": "https://x.com/bridgemindai/status/2095085317367762983",
-   "text": "I HIT MY CLAUDE CODE LIMITS IN UNDER 30 MINUTES.\n\nFable 5.1 on the $200 Claude Max plan.\n\nAnthropic says Fable 5.1 is more cost efficient than Fable 5. \n\nMy experience says it is MORE expensive.\n\nClaude Max users are so cooked.\n\nAm I the only one?",
-   "image": "https://pbs.twimg.com/media/HRM8m-zXUAA62-w.jpg?name=orig",
-   "category": 1,
-   "likes": 1227,
-   "retweets": 44,
-   "views": 66704,
-   "followers": 53692,
-   "velocity": 134.4,
-   "reason": "134 velocity · 1227♥ 44RT · 66704 views · 10h old · matched \"claude\"",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T19:29:29.175Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "ChrisCroy/2094867317163540937": {
-   "id": "ChrisCroy/2094867317163540937",
-   "user": "ChrisCroy",
-   "authorName": "Chris Croy",
-   "url": "https://x.com/ChrisCroy/status/2094867317163540937",
-   "text": "One of the big differences between Twitter and Bluesky is that if you mention using AI on Bluesky for any reason you will often get yelled at by dozens of frothing Butlerian Jihadis. I am not nutpicking, the majority of replies and QTs to him over there are like this.",
-   "image": "https://pbs.twimg.com/media/HRJ2tdfaEAAgR2Z.jpg?name=orig",
-   "category": 4,
-   "likes": 2061,
-   "retweets": 130,
-   "views": 122740,
-   "followers": 1592,
-   "velocity": 58.4,
-   "reason": "58 velocity · 2061♥ 130RT · 122740 views · 24h old",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T19:29:29.175Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "Im_IrushiK/2095163052543062192": {
-   "id": "Im_IrushiK/2095163052543062192",
-   "user": "Im_IrushiK",
-   "authorName": "Irushi",
-   "url": "https://x.com/Im_IrushiK/status/2095163052543062192",
-   "text": "Since when is one 5 hour window 20% of weekly usage in the 20x max plan?\n\nUsers need answers @AnthropicAI",
-   "image": "https://pbs.twimg.com/media/HRODsDSbcAECeBe.jpg?name=orig",
-   "category": 4,
-   "likes": 403,
-   "retweets": 12,
-   "views": 32250,
-   "followers": 8132,
-   "velocity": 175.9,
-   "reason": "176 velocity · 403♥ 12RT · 32250 views · 5h old",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T19:29:29.175Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "hf:2609.00111": {
-   "id": "hf:2609.00111",
-   "user": "XinZhou",
-   "authorName": "Xin Zhou",
-   "url": "https://huggingface.co/papers/2609.00111",
-   "text": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
-   "image": null,
-   "category": 1,
-   "likes": 337,
+   "likes": 55,
    "retweets": 0,
    "views": 0,
    "followers": 0,
-   "velocity": 337,
-   "reason": "337 HF upvotes · \"Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M\" · model release",
+   "velocity": 55,
+   "reason": "55 HF upvotes · \"UI-Venus-2 Technical Report\" · model release",
    "channel": "hf-papers",
    "hnStoryId": null,
    "hnStoryTitle": null,
-   "firstSeen": "2026-09-03T00:32:45.488Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
+   "firstSeen": "2026-09-03T00:37:57.104Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
    "renderedOn": "2026-09-03"
   },
-  "hf:2609.01591": {
-   "id": "hf:2609.01591",
-   "user": "KeYang",
-   "authorName": "Ke Yang",
-   "url": "https://huggingface.co/papers/2609.01591",
-   "text": "StudentSim: Training LLM-based Student Simulators",
-   "image": null,
-   "category": 1,
-   "likes": 462,
-   "retweets": 0,
-   "views": 0,
-   "followers": 0,
-   "velocity": 462,
-   "reason": "462 HF upvotes · \"StudentSim: Training LLM-based Student Simulators\" · model release",
-   "channel": "hf-papers",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-03T00:32:45.488Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-03"
-  },
-  "hn:49528895": {
-   "id": "hn:49528895",
-   "user": "masteranza",
-   "authorName": null,
-   "url": "https://masteranza.github.io/weedout/",
-   "text": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-   "image": null,
-   "category": 2,
-   "likes": 176,
-   "retweets": 75,
-   "views": 0,
-   "followers": 0,
-   "velocity": 326,
-   "reason": "176 HN points · 75 comments · Show HN",
-   "channel": "hn-story",
-   "hnStoryId": "49528895",
-   "hnStoryTitle": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-   "firstSeen": "2026-09-03T00:32:45.488Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-03"
-  },
-  "XOpenSource/2094938072706400286": {
-   "id": "XOpenSource/2094938072706400286",
-   "user": "XOpenSource",
-   "authorName": "X Open Source",
-   "url": "https://x.com/XOpenSource/status/2094938072706400286",
-   "text": "Today marks 2+ weeks of daily updates to the open-source X algorithm.\n\nWe’ve also integrated a first public contribution — a small update based on a Pull Request submitted to our GitHub repository, now live on X: https://github.com/xai-org/x-algorithm/pull/55\n\nThank you to everyone submitting PRs.",
-   "image": null,
+  "loktar00/2095192155086057978": {
+   "id": "loktar00/2095192155086057978",
+   "user": "loktar00",
+   "authorName": "Loktar 🇺🇸",
+   "url": "https://x.com/loktar00/status/2095192155086057978",
+   "text": "Fable 5.1 Warcraft III Menu test. \n\nI think it's the best so far, the UI items look fantastic, and it did a great job adding a moon and what it thought was a skull on the flag",
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2095191996914597888/img/Olp6xsY-oDe8Uev5.jpg",
    "category": 4,
-   "likes": 760,
-   "retweets": 63,
-   "views": 581298,
-   "followers": 42225,
-   "velocity": 3116.5,
-   "reason": "3117 velocity · 760♥ 63RT · 581298 views · 4h old",
+   "likes": 57,
+   "retweets": 2,
+   "views": 3987,
+   "followers": 4233,
+   "velocity": 37.1,
+   "reason": "37 velocity · 57♥ 2RT · 3987 views · 3h old",
    "channel": "hn-comment",
    "hnStoryId": null,
    "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T04:22:52.433Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "hf:2608.31106": {
-   "id": "hf:2608.31106",
-   "user": "JiashuZhu",
-   "authorName": "Jiashu Zhu",
-   "url": "https://huggingface.co/papers/2608.31106",
-   "text": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
-   "image": null,
-   "category": 1,
-   "likes": 93,
-   "retweets": 0,
-   "views": 0,
-   "followers": 0,
-   "velocity": 93,
-   "reason": "93 HF upvotes · \"DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Reso\" · model release",
-   "channel": "hf-papers",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-03T00:32:45.488Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-03"
-  },
-  "hn:49528057": {
-   "id": "hn:49528057",
-   "user": "all2",
-   "authorName": null,
-   "url": "https://hnmatchmaker.com/",
-   "text": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-   "image": null,
-   "category": 2,
-   "likes": 106,
-   "retweets": 45,
-   "views": 0,
-   "followers": 0,
-   "velocity": 196,
-   "reason": "106 HN points · 45 comments · Show HN",
-   "channel": "hn-story",
-   "hnStoryId": "49528057",
-   "hnStoryTitle": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-   "firstSeen": "2026-09-03T00:32:45.488Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-03"
-  },
-  "PalmerLuckey/2094639434436427911": {
-   "id": "PalmerLuckey/2094639434436427911",
-   "user": "PalmerLuckey",
-   "authorName": "Palmer Luckey",
-   "url": "https://x.com/PalmerLuckey/status/2094639434436427911",
-   "text": "Day 5 of Paul Graham rewriting what people actually say into gay fanfiction and declaring said fanfiction to be the dumbest thing he has ever seen.\n\nPG is gone, guys.  Remember him as he was in the good times, not selling out American workers and belittling their religion.  RIP.",
-   "image": "https://pbs.twimg.com/media/HRGndGYawAEZOHM.jpg?name=orig",
-   "category": 4,
-   "likes": 12532,
-   "retweets": 549,
-   "views": 753505,
-   "followers": 1177056,
-   "velocity": 356.5,
-   "reason": "357 velocity · 12532♥ 549RT · 753505 views · 24h old",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T04:22:52.433Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "ArtificialAnlys/2094849283120128135": {
-   "id": "ArtificialAnlys/2094849283120128135",
-   "user": "ArtificialAnlys",
-   "authorName": "Artificial Analysis",
-   "url": "https://x.com/ArtificialAnlys/status/2094849283120128135",
-   "text": "Meta has released Muse Voice Transcribe, taking the #1 spot for Final Transcript accuracy on AA-WER Streaming with 3.1% WER at 0.16s after end of speech\n\nMuse Voice Transcribe is the first streaming Speech to Text model developed by Meta Superintelligence Labs. Meta states that the model was trained",
-   "image": "https://pbs.twimg.com/media/HRJl_1qbMAA-j5l.jpg?name=orig",
-   "category": 4,
-   "likes": 318,
-   "retweets": 34,
-   "views": 53959,
-   "followers": 133621,
-   "velocity": 93.2,
-   "reason": "93 velocity · 318♥ 34RT · 53959 views · 10h old",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T04:22:52.433Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "hn:49524608": {
-   "id": "hn:49524608",
-   "user": "supafork",
-   "authorName": null,
-   "url": "https://www.supafork.com",
-   "text": "Show HN: Supafork – Share and Fork Sessions Across Harnesses",
-   "image": null,
-   "category": 2,
-   "likes": 15,
-   "retweets": 9,
-   "views": 0,
-   "followers": 0,
-   "velocity": 33,
-   "reason": "15 HN points · 9 comments · Show HN",
-   "channel": "hn-story",
-   "hnStoryId": "49524608",
-   "hnStoryTitle": "Show HN: Supafork – Share and Fork Sessions Across Harnesses",
-   "firstSeen": "2026-09-03T00:32:45.488Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-03"
-  },
-  "Alibaba_Qwen/2094968708288680276": {
-   "id": "Alibaba_Qwen/2094968708288680276",
-   "user": "Alibaba_Qwen",
-   "authorName": "Qwen",
-   "url": "https://x.com/Alibaba_Qwen/status/2094968708288680276",
-   "text": "🚀Qwen3.8-Max just got upgraded. Meet Qwen3.8-Max-0902!\n\n2.4T parameters. 1M context tokens. Built for real world complexity.\n\nFurther post trained on Coding & Cowork, Qwen3.8-Max-0902 now delivers stronger performance across complex enterprise tasks, scientific research, and long horizon workflows.",
-   "image": "https://pbs.twimg.com/media/HRLPk0VaIAI_ii7.jpg?name=orig",
-   "category": 2,
-   "likes": 4346,
-   "retweets": 402,
-   "views": 623849,
-   "followers": 282034,
-   "velocity": 1348.3,
-   "reason": "1348 velocity · 4346♥ 402RT · 623849 views · 9h old · matched \"try it\", \"pricing\"",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T10:53:31.655Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "hf:2609.01343": {
-   "id": "hf:2609.01343",
-   "user": "ShaowenWang",
-   "authorName": "Shaowen Wang",
-   "url": "https://huggingface.co/papers/2609.01343",
-   "text": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
-   "image": null,
-   "category": 1,
-   "likes": 75,
-   "retweets": 0,
-   "views": 0,
-   "followers": 0,
-   "velocity": 75,
-   "reason": "75 HF upvotes · \"SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers\" · model release",
-   "channel": "hf-papers",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-03T00:32:45.488Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-03"
-  },
-  "matthias_mrc/2094929947454300390": {
-   "id": "matthias_mrc/2094929947454300390",
-   "user": "matthias_mrc",
-   "authorName": "Matt",
-   "url": "https://x.com/matthias_mrc/status/2094929947454300390",
-   "text": "I literally hit 100% of my 5hr quota with Fable 5.1 in 4 minutes... I'm so annoyed! 😡",
-   "image": "https://pbs.twimg.com/media/HRKvoEfXEAAU7id.png?name=orig",
-   "category": 4,
-   "likes": 461,
-   "retweets": 16,
-   "views": 22066,
-   "followers": 1526,
-   "velocity": 14.5,
-   "reason": "14 velocity · 461♥ 16RT · 22066 views · 20h old",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T19:34:45.120Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "Layton_Gott/2094916813205176493": {
-   "id": "Layton_Gott/2094916813205176493",
-   "user": "Layton_Gott",
-   "authorName": "Layton Gott",
-   "url": "https://x.com/Layton_Gott/status/2094916813205176493",
-   "text": "Fable 5.1 is borderline not usable...\n\nThe cache problem was fixed which should make it much more token efficient but it's just not. \n\nI burned through my usage limit after a hour, not to mention that was only on high effort.\n\nBecause of this Astra will have a chance to walk in right through the fro",
-   "image": "https://pbs.twimg.com/media/HRKiSqdXwAA9tUl.png?name=orig",
-   "category": 4,
-   "likes": 193,
-   "retweets": 7,
-   "views": 9953,
-   "followers": 2853,
-   "velocity": 6,
-   "reason": "6.0 velocity · 193♥ 7RT · 9953 views · 21h old",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T19:34:45.120Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
-   "renderedOn": "2026-09-02"
-  },
-  "alexandrekerner/2094919778074841088": {
-   "id": "alexandrekerner/2094919778074841088",
-   "user": "alexandrekerner",
-   "authorName": "Alex D Kerner",
-   "url": "https://x.com/alexandrekerner/status/2094919778074841088",
-   "text": "Fable 5.1 is a VERY intelligent model\n\nThe issue is that it's UNUSABLE. Reaching the usage limits so fast...",
-   "image": null,
-   "category": 4,
-   "likes": 101,
-   "retweets": 4,
-   "views": 2306,
-   "followers": 253,
-   "velocity": 1.6,
-   "reason": "1.6 velocity · 101♥ 4RT · 2306 views · 21h old",
-   "channel": "hn-comment",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T19:34:45.120Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
+   "firstSeen": "2026-09-02T19:45:17.261Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
    "renderedOn": "2026-09-02"
   },
   "ClaudeDevs/2095226982644830648": {
@@ -503,49 +62,490 @@
    "hnStoryId": null,
    "hnStoryTitle": null,
    "firstSeen": "2026-09-02T19:45:17.261Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
    "renderedOn": "2026-09-02"
   },
-  "loktar00/2095192155086057978": {
-   "id": "loktar00/2095192155086057978",
-   "user": "loktar00",
-   "authorName": "Loktar 🇺🇸",
-   "url": "https://x.com/loktar00/status/2095192155086057978",
-   "text": "Fable 5.1 Warcraft III Menu test. \n\nI think it's the best so far, the UI items look fantastic, and it did a great job adding a moon and what it thought was a skull on the flag",
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2095191996914597888/img/Olp6xsY-oDe8Uev5.jpg",
+  "alexandrekerner/2094919778074841088": {
+   "id": "alexandrekerner/2094919778074841088",
+   "user": "alexandrekerner",
+   "authorName": "Alex D Kerner",
+   "url": "https://x.com/alexandrekerner/status/2094919778074841088",
+   "text": "Fable 5.1 is a VERY intelligent model\n\nThe issue is that it's UNUSABLE. Reaching the usage limits so fast...",
+   "image": null,
    "category": 4,
-   "likes": 57,
-   "retweets": 2,
-   "views": 3987,
-   "followers": 4233,
-   "velocity": 37.1,
-   "reason": "37 velocity · 57♥ 2RT · 3987 views · 3h old",
+   "likes": 101,
+   "retweets": 4,
+   "views": 2306,
+   "followers": 253,
+   "velocity": 1.6,
+   "reason": "1.6 velocity · 101♥ 4RT · 2306 views · 21h old",
    "channel": "hn-comment",
    "hnStoryId": null,
    "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T19:45:17.261Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
+   "firstSeen": "2026-09-02T19:34:45.120Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
    "renderedOn": "2026-09-02"
   },
-  "hf:2609.00028": {
-   "id": "hf:2609.00028",
-   "user": "VenusTeam",
-   "authorName": "Venus Team",
-   "url": "https://huggingface.co/papers/2609.00028",
-   "text": "UI-Venus-2 Technical Report",
+  "Layton_Gott/2094916813205176493": {
+   "id": "Layton_Gott/2094916813205176493",
+   "user": "Layton_Gott",
+   "authorName": "Layton Gott",
+   "url": "https://x.com/Layton_Gott/status/2094916813205176493",
+   "text": "Fable 5.1 is borderline not usable...\n\nThe cache problem was fixed which should make it much more token efficient but it's just not. \n\nI burned through my usage limit after a hour, not to mention that was only on high effort.\n\nBecause of this Astra will have a chance to walk in right through the fro",
+   "image": "https://pbs.twimg.com/media/HRKiSqdXwAA9tUl.png?name=orig",
+   "category": 4,
+   "likes": 193,
+   "retweets": 7,
+   "views": 9953,
+   "followers": 2853,
+   "velocity": 6,
+   "reason": "6.0 velocity · 193♥ 7RT · 9953 views · 21h old",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T19:34:45.120Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "matthias_mrc/2094929947454300390": {
+   "id": "matthias_mrc/2094929947454300390",
+   "user": "matthias_mrc",
+   "authorName": "Matt",
+   "url": "https://x.com/matthias_mrc/status/2094929947454300390",
+   "text": "I literally hit 100% of my 5hr quota with Fable 5.1 in 4 minutes... I'm so annoyed! 😡",
+   "image": "https://pbs.twimg.com/media/HRKvoEfXEAAU7id.png?name=orig",
+   "category": 4,
+   "likes": 461,
+   "retweets": 16,
+   "views": 22066,
+   "followers": 1526,
+   "velocity": 14.5,
+   "reason": "14 velocity · 461♥ 16RT · 22066 views · 20h old",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T19:34:45.120Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "hf:2609.01343": {
+   "id": "hf:2609.01343",
+   "user": "ShaowenWang",
+   "authorName": "Shaowen Wang",
+   "url": "https://huggingface.co/papers/2609.01343",
+   "text": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
    "image": null,
    "category": 1,
-   "likes": 55,
+   "likes": 75,
    "retweets": 0,
    "views": 0,
    "followers": 0,
-   "velocity": 55,
-   "reason": "55 HF upvotes · \"UI-Venus-2 Technical Report\" · model release",
+   "velocity": 75,
+   "reason": "75 HF upvotes · \"SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers\" · model release",
    "channel": "hf-papers",
    "hnStoryId": null,
    "hnStoryTitle": null,
-   "firstSeen": "2026-09-03T00:32:45.488Z",
-   "lastSeen": "2026-09-03T00:32:45.488Z",
+   "firstSeen": "2026-09-03T00:37:57.104Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-03"
+  },
+  "Alibaba_Qwen/2094968708288680276": {
+   "id": "Alibaba_Qwen/2094968708288680276",
+   "user": "Alibaba_Qwen",
+   "authorName": "Qwen",
+   "url": "https://x.com/Alibaba_Qwen/status/2094968708288680276",
+   "text": "🚀Qwen3.8-Max just got upgraded. Meet Qwen3.8-Max-0902!\n\n2.4T parameters. 1M context tokens. Built for real world complexity.\n\nFurther post trained on Coding & Cowork, Qwen3.8-Max-0902 now delivers stronger performance across complex enterprise tasks, scientific research, and long horizon workflows.",
+   "image": "https://pbs.twimg.com/media/HRLPk0VaIAI_ii7.jpg?name=orig",
+   "category": 2,
+   "likes": 4346,
+   "retweets": 402,
+   "views": 623849,
+   "followers": 282034,
+   "velocity": 1348.3,
+   "reason": "1348 velocity · 4346♥ 402RT · 623849 views · 9h old · matched \"try it\", \"pricing\"",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T10:53:31.655Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "hn:49524608": {
+   "id": "hn:49524608",
+   "user": "supafork",
+   "authorName": null,
+   "url": "https://www.supafork.com",
+   "text": "Show HN: Supafork – Share and Fork Sessions Across Harnesses",
+   "image": null,
+   "category": 2,
+   "likes": 15,
+   "retweets": 9,
+   "views": 0,
+   "followers": 0,
+   "velocity": 33,
+   "reason": "15 HN points · 9 comments · Show HN",
+   "channel": "hn-story",
+   "hnStoryId": "49524608",
+   "hnStoryTitle": "Show HN: Supafork – Share and Fork Sessions Across Harnesses",
+   "firstSeen": "2026-09-03T00:37:57.104Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-03"
+  },
+  "ArtificialAnlys/2094849283120128135": {
+   "id": "ArtificialAnlys/2094849283120128135",
+   "user": "ArtificialAnlys",
+   "authorName": "Artificial Analysis",
+   "url": "https://x.com/ArtificialAnlys/status/2094849283120128135",
+   "text": "Meta has released Muse Voice Transcribe, taking the #1 spot for Final Transcript accuracy on AA-WER Streaming with 3.1% WER at 0.16s after end of speech\n\nMuse Voice Transcribe is the first streaming Speech to Text model developed by Meta Superintelligence Labs. Meta states that the model was trained",
+   "image": "https://pbs.twimg.com/media/HRJl_1qbMAA-j5l.jpg?name=orig",
+   "category": 4,
+   "likes": 318,
+   "retweets": 34,
+   "views": 53959,
+   "followers": 133621,
+   "velocity": 93.2,
+   "reason": "93 velocity · 318♥ 34RT · 53959 views · 10h old",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T04:22:52.433Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "PalmerLuckey/2094639434436427911": {
+   "id": "PalmerLuckey/2094639434436427911",
+   "user": "PalmerLuckey",
+   "authorName": "Palmer Luckey",
+   "url": "https://x.com/PalmerLuckey/status/2094639434436427911",
+   "text": "Day 5 of Paul Graham rewriting what people actually say into gay fanfiction and declaring said fanfiction to be the dumbest thing he has ever seen.\n\nPG is gone, guys.  Remember him as he was in the good times, not selling out American workers and belittling their religion.  RIP.",
+   "image": "https://pbs.twimg.com/media/HRGndGYawAEZOHM.jpg?name=orig",
+   "category": 4,
+   "likes": 12532,
+   "retweets": 549,
+   "views": 753505,
+   "followers": 1177056,
+   "velocity": 356.5,
+   "reason": "357 velocity · 12532♥ 549RT · 753505 views · 24h old",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T04:22:52.433Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "hn:49528057": {
+   "id": "hn:49528057",
+   "user": "all2",
+   "authorName": null,
+   "url": "https://hnmatchmaker.com/",
+   "text": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+   "image": null,
+   "category": 2,
+   "likes": 106,
+   "retweets": 45,
+   "views": 0,
+   "followers": 0,
+   "velocity": 196,
+   "reason": "106 HN points · 45 comments · Show HN",
+   "channel": "hn-story",
+   "hnStoryId": "49528057",
+   "hnStoryTitle": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+   "firstSeen": "2026-09-03T00:37:57.104Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-03"
+  },
+  "hf:2608.31106": {
+   "id": "hf:2608.31106",
+   "user": "JiashuZhu",
+   "authorName": "Jiashu Zhu",
+   "url": "https://huggingface.co/papers/2608.31106",
+   "text": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
+   "image": null,
+   "category": 1,
+   "likes": 93,
+   "retweets": 0,
+   "views": 0,
+   "followers": 0,
+   "velocity": 93,
+   "reason": "93 HF upvotes · \"DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Reso\" · model release",
+   "channel": "hf-papers",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-03T00:37:57.104Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-03"
+  },
+  "XOpenSource/2094938072706400286": {
+   "id": "XOpenSource/2094938072706400286",
+   "user": "XOpenSource",
+   "authorName": "X Open Source",
+   "url": "https://x.com/XOpenSource/status/2094938072706400286",
+   "text": "Today marks 2+ weeks of daily updates to the open-source X algorithm.\n\nWe’ve also integrated a first public contribution — a small update based on a Pull Request submitted to our GitHub repository, now live on X: https://github.com/xai-org/x-algorithm/pull/55\n\nThank you to everyone submitting PRs.",
+   "image": null,
+   "category": 4,
+   "likes": 760,
+   "retweets": 63,
+   "views": 581298,
+   "followers": 42225,
+   "velocity": 3116.5,
+   "reason": "3117 velocity · 760♥ 63RT · 581298 views · 4h old",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T04:22:52.433Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "hn:49528895": {
+   "id": "hn:49528895",
+   "user": "masteranza",
+   "authorName": null,
+   "url": "https://masteranza.github.io/weedout/",
+   "text": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+   "image": null,
+   "category": 2,
+   "likes": 176,
+   "retweets": 75,
+   "views": 0,
+   "followers": 0,
+   "velocity": 326,
+   "reason": "176 HN points · 75 comments · Show HN",
+   "channel": "hn-story",
+   "hnStoryId": "49528895",
+   "hnStoryTitle": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+   "firstSeen": "2026-09-03T00:37:57.104Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-03"
+  },
+  "hf:2609.01591": {
+   "id": "hf:2609.01591",
+   "user": "KeYang",
+   "authorName": "Ke Yang",
+   "url": "https://huggingface.co/papers/2609.01591",
+   "text": "StudentSim: Training LLM-based Student Simulators",
+   "image": null,
+   "category": 1,
+   "likes": 463,
+   "retweets": 0,
+   "views": 0,
+   "followers": 0,
+   "velocity": 463,
+   "reason": "463 HF upvotes · \"StudentSim: Training LLM-based Student Simulators\" · model release",
+   "channel": "hf-papers",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-03T00:37:57.104Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-03"
+  },
+  "hf:2609.00111": {
+   "id": "hf:2609.00111",
+   "user": "XinZhou",
+   "authorName": "Xin Zhou",
+   "url": "https://huggingface.co/papers/2609.00111",
+   "text": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
+   "image": null,
+   "category": 1,
+   "likes": 337,
+   "retweets": 0,
+   "views": 0,
+   "followers": 0,
+   "velocity": 337,
+   "reason": "337 HF upvotes · \"Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M\" · model release",
+   "channel": "hf-papers",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-03T00:37:57.104Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-03"
+  },
+  "Im_IrushiK/2095163052543062192": {
+   "id": "Im_IrushiK/2095163052543062192",
+   "user": "Im_IrushiK",
+   "authorName": "Irushi",
+   "url": "https://x.com/Im_IrushiK/status/2095163052543062192",
+   "text": "Since when is one 5 hour window 20% of weekly usage in the 20x max plan?\n\nUsers need answers @AnthropicAI",
+   "image": "https://pbs.twimg.com/media/HRODsDSbcAECeBe.jpg?name=orig",
+   "category": 4,
+   "likes": 403,
+   "retweets": 12,
+   "views": 32250,
+   "followers": 8132,
+   "velocity": 175.9,
+   "reason": "176 velocity · 403♥ 12RT · 32250 views · 5h old",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T19:29:29.175Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "ChrisCroy/2094867317163540937": {
+   "id": "ChrisCroy/2094867317163540937",
+   "user": "ChrisCroy",
+   "authorName": "Chris Croy",
+   "url": "https://x.com/ChrisCroy/status/2094867317163540937",
+   "text": "One of the big differences between Twitter and Bluesky is that if you mention using AI on Bluesky for any reason you will often get yelled at by dozens of frothing Butlerian Jihadis. I am not nutpicking, the majority of replies and QTs to him over there are like this.",
+   "image": "https://pbs.twimg.com/media/HRJ2tdfaEAAgR2Z.jpg?name=orig",
+   "category": 4,
+   "likes": 2061,
+   "retweets": 130,
+   "views": 122740,
+   "followers": 1592,
+   "velocity": 58.4,
+   "reason": "58 velocity · 2061♥ 130RT · 122740 views · 24h old",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T19:29:29.175Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "bridgemindai/2095085317367762983": {
+   "id": "bridgemindai/2095085317367762983",
+   "user": "bridgemindai",
+   "authorName": "BridgeMind",
+   "url": "https://x.com/bridgemindai/status/2095085317367762983",
+   "text": "I HIT MY CLAUDE CODE LIMITS IN UNDER 30 MINUTES.\n\nFable 5.1 on the $200 Claude Max plan.\n\nAnthropic says Fable 5.1 is more cost efficient than Fable 5. \n\nMy experience says it is MORE expensive.\n\nClaude Max users are so cooked.\n\nAm I the only one?",
+   "image": "https://pbs.twimg.com/media/HRM8m-zXUAA62-w.jpg?name=orig",
+   "category": 1,
+   "likes": 1227,
+   "retweets": 44,
+   "views": 66704,
+   "followers": 53692,
+   "velocity": 134.4,
+   "reason": "134 velocity · 1227♥ 44RT · 66704 views · 10h old · matched \"claude\"",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T19:29:29.175Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "deanwball/2094788634729660906": {
+   "id": "deanwball/2094788634729660906",
+   "user": "deanwball",
+   "authorName": "Dean W. Ball",
+   "url": "https://x.com/deanwball/status/2094788634729660906",
+   "text": "I want to explain something to you: \n\nPeople often quote tweet me and say \"can you believe that an OPENAI EXECUTIVE is so dumb that he thinks tweeting like THIS is the way to fix AI's image problem?!?!?!\"\n\nI was not hired by OpenAI to \"fix AI's image problem,\" and I do not get out of bed every day t",
+   "image": null,
+   "category": 4,
+   "likes": 830,
+   "retweets": 33,
+   "views": 70098,
+   "followers": 73091,
+   "velocity": 23.1,
+   "reason": "23 velocity · 830♥ 33RT · 70098 views · 29h old",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T19:29:29.175Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "kimmonismus/2094896358008442960": {
+   "id": "kimmonismus/2094896358008442960",
+   "user": "kimmonismus",
+   "authorName": "Chubby♨️",
+   "url": "https://x.com/kimmonismus/status/2094896358008442960",
+   "text": "Literally unusable. The rate limits are absurd. Oh, and by the way, Fable’s automatic continuation is bugged and doesn’t even work.\n\nI honestly don’t know why I still bother using Claude at this point. 5.6 is simply better overall anyway.\n\nGive me GPT-Astra and im fine. its so frustrating. seriously",
+   "image": "https://pbs.twimg.com/media/HRKQuSFWoAARwQK.jpg?name=orig",
+   "category": 1,
+   "likes": 1828,
+   "retweets": 71,
+   "views": 195306,
+   "followers": 139011,
+   "velocity": 100.6,
+   "reason": "101 velocity · 1828♥ 71RT · 195306 views · 22h old · matched \"claude\"",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T19:29:29.175Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "QwenDevs/2095157452904018263": {
+   "id": "QwenDevs/2095157452904018263",
+   "user": "QwenDevs",
+   "authorName": "Qwen Developers",
+   "url": "https://x.com/QwenDevs/status/2095157452904018263",
+   "text": "Alibaba’s Zvec team open-sourced zg, a local search tool for developers and AI agents.\n\n• Local-first\n• Works out of the box with popular agents\n• Semantic, BM25, hybrid, and rg search in one tool\n\nWhy they built it and how it works: https://x.com/i/article/2094685765620113408",
+   "image": null,
+   "category": 1,
+   "likes": 1364,
+   "retweets": 143,
+   "views": 76085,
+   "followers": 11139,
+   "velocity": 350,
+   "reason": "350 velocity · 1364♥ 143RT · 76085 views · 6h old · matched \"open-sourced\"",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T20:01:07.917Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "ArtificialAnlys/2095247787277553929": {
+   "id": "ArtificialAnlys/2095247787277553929",
+   "user": "ArtificialAnlys",
+   "authorName": "Artificial Analysis",
+   "url": "https://x.com/ArtificialAnlys/status/2095247787277553929",
+   "text": "Meta has released Muse Spark 1.3, their fourth Muse Spark model release in five months. Muse Spark 1.3 (max), which is in limited preview for Meta’s partners, scores 62 on the Artificial Analysis Intelligence Index, behind only Claude Fable 5.1 and Claude Opus 5. The variant available now, Muse Spar",
+   "image": "https://pbs.twimg.com/media/HRPNDv3aoAA3EDU.jpg?name=orig",
+   "category": 1,
+   "likes": 975,
+   "retweets": 109,
+   "views": 272878,
+   "followers": 134856,
+   "velocity": 4507.7,
+   "reason": "4508 velocity · 975♥ 109RT · 272878 views · 1h old · matched \"claude\", \"grok\"",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T21:57:07.060Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "GergelyOrosz/2095256757178188113": {
+   "id": "GergelyOrosz/2095256757178188113",
+   "user": "GergelyOrosz",
+   "authorName": "Gergely Orosz",
+   "url": "https://x.com/GergelyOrosz/status/2095256757178188113",
+   "text": "Ok, THIS is wild, never expected anything like this:\n\nUber exited Nigeria… no warning, just shut down the app, on the spot. When riders were mid-trip ?!!\n\nThis is what a startup that just went bankrupt would do, not a $150B corporation. Uber operated in Nigeria since 2014 (!!)",
+   "image": null,
+   "category": 4,
+   "likes": 3734,
+   "retweets": 284,
+   "views": 261674,
+   "followers": 352433,
+   "velocity": 4439.4,
+   "reason": "4439 velocity · 3734♥ 284RT · 261674 views · 2h old",
+   "channel": "hn-comment",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T22:38:58.432Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
+   "renderedOn": "2026-09-02"
+  },
+  "hn:49539913": {
+   "id": "hn:49539913",
+   "user": "martiano",
+   "authorName": null,
+   "url": "https://github.com/themartiano/try-omarchy",
+   "text": "Show HN: I built a version of Omarchy that runs on Apple Silicon",
+   "image": null,
+   "category": 2,
+   "likes": 17,
+   "retweets": 5,
+   "views": 0,
+   "followers": 0,
+   "velocity": 27,
+   "reason": "17 HN points · 5 comments · Show HN",
+   "channel": "hn-story",
+   "hnStoryId": "49539913",
+   "hnStoryTitle": "Show HN: I built a version of Omarchy that runs on Apple Silicon",
+   "firstSeen": "2026-09-03T00:37:57.104Z",
+   "lastSeen": "2026-09-03T00:37:57.104Z",
    "renderedOn": "2026-09-03"
   },
   "hn:49522967": {
@@ -569,27 +569,6 @@
    "lastSeen": "2026-09-02T22:44:07.388Z",
    "renderedOn": "2026-09-02"
   },
-  "hf:2608.30821": {
-   "id": "hf:2608.30821",
-   "user": "MinghanQin",
-   "authorName": "Minghan Qin",
-   "url": "https://huggingface.co/papers/2608.30821",
-   "text": "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
-   "image": null,
-   "category": 1,
-   "likes": 97,
-   "retweets": 0,
-   "views": 0,
-   "followers": 0,
-   "velocity": 97,
-   "reason": "97 HF upvotes · \"Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Mo\" · model release",
-   "channel": "hf-papers",
-   "hnStoryId": null,
-   "hnStoryTitle": null,
-   "firstSeen": "2026-09-02T15:48:33.230Z",
-   "lastSeen": "2026-09-02T15:48:33.230Z",
-   "renderedOn": "2026-09-02"
-  },
   "synthwavedd/2095166019010494891": {
    "id": "synthwavedd/2095166019010494891",
    "user": "synthwavedd",
@@ -608,6 +587,27 @@
    "hnStoryId": null,
    "hnStoryTitle": null,
    "firstSeen": "2026-09-02T15:37:06.291Z",
+   "lastSeen": "2026-09-02T15:48:33.230Z",
+   "renderedOn": "2026-09-02"
+  },
+  "hf:2608.30821": {
+   "id": "hf:2608.30821",
+   "user": "MinghanQin",
+   "authorName": "Minghan Qin",
+   "url": "https://huggingface.co/papers/2608.30821",
+   "text": "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
+   "image": null,
+   "category": 1,
+   "likes": 97,
+   "retweets": 0,
+   "views": 0,
+   "followers": 0,
+   "velocity": 97,
+   "reason": "97 HF upvotes · \"Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Mo\" · model release",
+   "channel": "hf-papers",
+   "hnStoryId": null,
+   "hnStoryTitle": null,
+   "firstSeen": "2026-09-02T15:48:33.230Z",
    "lastSeen": "2026-09-02T15:48:33.230Z",
    "renderedOn": "2026-09-02"
   },
@@ -1506,7 +1506,16 @@
   "2026-09-03T00:32:45.488Z|show supafork share and fork sessions across harnesses": "hn:49524608",
   "2026-09-03T00:32:45.488Z|smelt scaling laws for compute matched moe looped transformers": "hf:2609.01343",
   "2026-09-03T00:32:45.488Z|show built version omarchy that runs apple silicon": "hn:49539913",
-  "2026-09-03T00:32:45.488Z|venus technical report": "hf:2609.00028"
+  "2026-09-03T00:32:45.488Z|venus technical report": "hf:2609.00028",
+  "2026-09-03T00:37:57.104Z|studentsim training llm based student simulators": "hf:2609.01591",
+  "2026-09-03T00:37:57.104Z|show weedout safari extension that hides youtube labeled videos": "hn:49528895",
+  "2026-09-03T00:37:57.104Z|qwen drive initial step towards vision language foundation model for autonomous driving": "hf:2609.00111",
+  "2026-09-03T00:37:57.104Z|show match maker matching who wants hired with who hiring": "hn:49528057",
+  "2026-09-03T00:37:57.104Z|dreamx creator democratizing native audio video generation resolution": "hf:2608.31106",
+  "2026-09-03T00:37:57.104Z|show supafork share and fork sessions across harnesses": "hn:49524608",
+  "2026-09-03T00:37:57.104Z|smelt scaling laws for compute matched moe looped transformers": "hf:2609.01343",
+  "2026-09-03T00:37:57.104Z|show built version omarchy that runs apple silicon": "hn:49539913",
+  "2026-09-03T00:37:57.104Z|venus technical report": "hf:2609.00028"
  },
  "products": {
   "cursor": {
@@ -2583,8 +2592,14 @@
      "sourceUrl": "https://www.businessinsider.com/pockets-ai-notetaker-launched-8-months-ago-revenue-is-soaring-2026-8"
     }
    ],
-   "momentum": 19.2,
+   "momentum": 19.4,
    "mentions": [
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/u_costikeke/comments/1w5rsql/the_two_towers_bk_3_ch_12_costasnarrativexp/",
+     "date": "2026-09-03T00:11:15+00:00",
+     "engagement": 2
+    },
     {
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/u_costikeke/comments/1w5rsql/the_two_towers_bk_3_ch_12_costasnarrativexp/",
@@ -2599,13 +2614,13 @@
     },
     {
      "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/SteamDeck/comments/1w5ptcp/artifacts_in_rayman_using_swanstation/",
+     "url": "https://www.reddit.com/r/IVF/comments/1w5ptcz/progyny_i_have_coverage_my_partner_doesnt/",
      "date": "2026-09-02T22:47:01+00:00",
      "engagement": 2
     },
     {
      "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/IVF/comments/1w5ptcz/progyny_i_have_coverage_my_partner_doesnt/",
+     "url": "https://www.reddit.com/r/SteamDeck/comments/1w5ptcp/artifacts_in_rayman_using_swanstation/",
      "date": "2026-09-02T22:47:01+00:00",
      "engagement": 2
     },
@@ -2818,12 +2833,6 @@
      "url": "https://news.ycombinator.com/item?id=49541208",
      "date": "2026-09-02T19:30:45Z",
      "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49541208",
-     "date": "2026-09-02T19:30:45Z",
-     "engagement": 0
     }
    ],
    "firstSeen": null,
@@ -2858,7 +2867,7 @@
      "sourceUrl": "https://getlatka.com/companies/figure-ai"
     }
    ],
-   "momentum": 13.8,
+   "momentum": 13.6,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -2880,6 +2889,18 @@
     },
     {
      "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544453",
+     "date": "2026-09-03T00:27:31Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544418",
+     "date": "2026-09-03T00:22:36Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
      "url": "https://news.ycombinator.com/item?id=49544418",
      "date": "2026-09-03T00:22:36Z",
      "engagement": 0
@@ -2895,6 +2916,12 @@
      "url": "https://www.reddit.com/r/language_exchange/comments/1w5regn/offering_eng_kor_jpn_seeking_mandarin_vietnamese/",
      "date": "2026-09-02T23:54:40+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544178",
+     "date": "2026-09-02T23:49:15Z",
+     "engagement": 0
     },
     {
      "platform": "hn",
@@ -3081,24 +3108,6 @@
      "url": "https://news.ycombinator.com/item?id=49543385",
      "date": "2026-09-02T22:20:53Z",
      "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49543385",
-     "date": "2026-09-02T22:20:53Z",
-     "engagement": 0
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/lifeinsurancesales/comments/1w5optz/help_with_booking_appointments/",
-     "date": "2026-09-02T22:03:06+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49543121",
-     "date": "2026-09-02T21:56:22Z",
-     "engagement": 0
     }
    ],
    "firstSeen": null,
@@ -3133,7 +3142,7 @@
      "sourceUrl": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/"
     }
    ],
-   "momentum": 16.7,
+   "momentum": 16.6,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -3958,12 +3967,78 @@
      "sourceUrl": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/"
     }
    ],
-   "momentum": 15,
+   "momentum": 17.8,
    "mentions": [
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/aiMusic/comments/1w5s3qj/rock_ballad_no_heart_in_the_code_human_lyrics/",
+     "date": "2026-09-03T00:25:07+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/HybridProduction/comments/1w5rtvs/folk_rock_a_song_about_getting_the_stink_eye_no/",
+     "date": "2026-09-03T00:12:45+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/SunoAI/comments/1w5rt09/folk_rock_a_song_about_getting_the_stink_eye_no/",
+     "date": "2026-09-03T00:11:35+00:00",
+     "engagement": 2
+    },
     {
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/u_costikeke/comments/1w5rsql/the_two_towers_bk_3_ch_12_costasnarrativexp/",
      "date": "2026-09-03T00:11:15+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/u_costikeke/comments/1w5rsql/the_two_towers_bk_3_ch_12_costasnarrativexp/",
+     "date": "2026-09-03T00:11:15+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/aiMusic/comments/1w5rsbn/folk_rock_a_song_about_getting_the_stink_eye_no/",
+     "date": "2026-09-03T00:10:48+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/Suno/comments/1w5rpss/folk_rock_a_song_about_getting_the_stink_eye_no/",
+     "date": "2026-09-03T00:07:39+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/Suno/comments/1w5rg78/additionalcorgi5995/",
+     "date": "2026-09-02T23:56:44+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/SunoAI/comments/1w5rb0c/what_do_you_plan_on_doing_after_suno_enshittifies/",
+     "date": "2026-09-02T23:50:26+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/SunoAI/comments/1w5r36q/rock_download_it_now_by_fusefocus/",
+     "date": "2026-09-02T23:41:11+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/SunoAI/comments/1w5r01s/a_slight_bug_in_the_ui/",
+     "date": "2026-09-02T23:37:29+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/SunoAI/comments/1w5qnfa/how_many_voices_does_suno_actually_have/",
+     "date": "2026-09-02T23:22:19+00:00",
      "engagement": 2
     },
     {
@@ -4133,76 +4208,10 @@
      "url": "https://www.reddit.com/r/aigamedev/comments/1w5i4hd/building_with_ai_a_ccg_rpg_game_for_mobile/",
      "date": "2026-09-02T18:08:12+00:00",
      "engagement": 2
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBV3EyTk5MOXlmSW9xeEhlU3JTN0NwQ2h5Tk9JbTBOUGVRZDgwc0N2bjBFQVVWVTdoVU9QYWhsSk5lZU5wTUdmeXdFV1BXVHR4ZEw0LUxYY3NGc3BobXlGaFMxR0ZHR0E?oc=5",
-     "date": "2026-09-02T17:12:18.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBV3EyTk5MOXlmSW9xeEhlU3JTN0NwQ2h5Tk9JbTBOUGVRZDgwc0N2bjBFQVVWVTdoVU9QYWhsSk5lZU5wTUdmeXdFV1BXVHR4ZEw0LUxYY3NGc3BobXlGaFMxR0ZHR0E?oc=5",
-     "date": "2026-09-02T17:12:18.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBV3EyTk5MOXlmSW9xeEhlU3JTN0NwQ2h5Tk9JbTBOUGVRZDgwc0N2bjBFQVVWVTdoVU9QYWhsSk5lZU5wTUdmeXdFV1BXVHR4ZEw0LUxYY3NGc3BobXlGaFMxR0ZHR0E?oc=5",
-     "date": "2026-09-02T17:12:18.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBV3EyTk5MOXlmSW9xeEhlU3JTN0NwQ2h5Tk9JbTBOUGVRZDgwc0N2bjBFQVVWVTdoVU9QYWhsSk5lZU5wTUdmeXdFV1BXVHR4ZEw0LUxYY3NGc3BobXlGaFMxR0ZHR0E?oc=5",
-     "date": "2026-09-02T17:12:18.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/GeminiAI/comments/1w5g808/oc_i_used_google_flow_omni_11_instead_of_seedance/",
-     "date": "2026-09-02T17:02:15+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/Crappy_Art_With_Audio/comments/1w5g3t6/junkyard_pulse_suno_v55/",
-     "date": "2026-09-02T16:58:13+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/Suno/comments/1w5g3o7/russian_language_song_about_relationships/",
-     "date": "2026-09-02T16:58:06+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2RaNF9HMlMxWExDWG84c2QxNjFYZUc1SG5ibXdKa3ZfR2xnVm56b3cyVFhwZm9kdm55RXNWNTFfU1Z0bEFDZ1JfaGhOcnF4bUpUcXB6Qjh1aU9Rb2pPTTc4VjM3Tlk0ZzJzcWp3dlJPY0gtbUNPS2tSbVlVeWZNUHBwRzdUNDUtZ0E5OGFhOUZ0M1pqM1ZqTkk2cmNJOUNMd2MxbmVlbk1yQV9OY2gyZkkyMlhOWVJraFpOUTJMTC1qQTdwLXFtSFdaUnNla3FhOF93b2JwT0ZoV3VQSHAwTVlWRWtJRDZlWHFhbk5WRk8?oc=5",
-     "date": "2026-09-02T16:57:13.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2RaNF9HMlMxWExDWG84c2QxNjFYZUc1SG5ibXdKa3ZfR2xnVm56b3cyVFhwZm9kdm55RXNWNTFfU1Z0bEFDZ1JfaGhOcnF4bUpUcXB6Qjh1aU9Rb2pPTTc4VjM3Tlk0ZzJzcWp3dlJPY0gtbUNPS2tSbVlVeWZNUHBwRzdUNDUtZ0E5OGFhOUZ0M1pqM1ZqTkk2cmNJOUNMd2MxbmVlbk1yQV9OY2gyZkkyMlhOWVJraFpOUTJMTC1qQTdwLXFtSFdaUnNla3FhOF93b2JwT0ZoV3VQSHAwTVlWRWtJRDZlWHFhbk5WRk8?oc=5",
-     "date": "2026-09-02T16:57:13.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "news-product",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2RaNF9HMlMxWExDWG84c2QxNjFYZUc1SG5ibXdKa3ZfR2xnVm56b3cyVFhwZm9kdm55RXNWNTFfU1Z0bEFDZ1JfaGhOcnF4bUpUcXB6Qjh1aU9Rb2pPTTc4VjM3Tlk0ZzJzcWp3dlJPY0gtbUNPS2tSbVlVeWZNUHBwRzdUNDUtZ0E5OGFhOUZ0M1pqM1ZqTkk2cmNJOUNMd2MxbmVlbk1yQV9OY2gyZkkyMlhOWVJraFpOUTJMTC1qQTdwLXFtSFdaUnNla3FhOF93b2JwT0ZoV3VQSHAwTVlWRWtJRDZlWHFhbk5WRk8?oc=5",
-     "date": "2026-09-02T16:57:13.000Z",
-     "engagement": 0
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/SunoAI/comments/1w5g1uc/blues_gospel_house_late_have_i_loved_you_tribute/",
-     "date": "2026-09-02T16:56:22+00:00",
-     "engagement": 2
     }
    ],
    "firstSeen": "2026-02-27",
-   "lastSeen": "2026-09-03T00:11:15+00:00",
+   "lastSeen": "2026-09-03T00:25:07+00:00",
    "isNew": false
   },
   "higgsfield-ai": {
@@ -4352,7 +4361,7 @@
      "sourceUrl": "https://www.trendingtopics.eu/meta-acquires-ai-agent-startup-manus-which-recently-reached-100-million-arr/"
     }
    ],
-   "momentum": 15.4,
+   "momentum": 15.3,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -5727,7 +5736,7 @@
      "sourceUrl": "https://getlatka.com/companies/supabase"
     }
    ],
-   "momentum": 17.3,
+   "momentum": 17.2,
    "mentions": [
     {
      "platform": "reddit",
@@ -6043,7 +6052,7 @@
      "sourceUrl": "https://techcrunch.com/2024/01/09/sources-photoroom-the-ai-photo-editing-app-is-raising-50m-60m-at-a-500m-600m-valuation/"
     }
    ],
-   "momentum": 14.5,
+   "momentum": 14.4,
    "mentions": [
     {
      "platform": "appstore",
@@ -6943,7 +6952,7 @@
      "sourceUrl": "https://x.com/agermanidis/status/2052749749477048433"
     }
    ],
-   "momentum": 24.1,
+   "momentum": 23.8,
    "mentions": [
     {
      "platform": "newsletter",
@@ -6952,20 +6961,14 @@
      "engagement": 3
     },
     {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/WorldDefenseNews/comments/1w4a7fz/taiwan_prepares_largest_order_of_us_vbat_drones/",
-     "date": "2026-09-01T12:13:46+00:00",
-     "engagement": 2
-    },
-    {
      "platform": "appstore",
      "url": "https://apps.apple.com/us/app/runway-ai-image-video/id1665024375?uo=2",
-     "date": "2026-09-03T00:37:31.238Z",
+     "date": "2026-09-03T00:42:44.904Z",
      "engagement": 82
     }
    ],
    "firstSeen": "2026-05-08",
-   "lastSeen": "2026-09-03T00:37:31.238Z",
+   "lastSeen": "2026-09-03T00:42:44.904Z",
    "isNew": false
   },
   "tesla": {
@@ -7249,7 +7252,7 @@
    "arrAsOf": 1538509310,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 11.1,
+   "momentum": 11,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -8089,7 +8092,7 @@
    "arrAsOf": 1672782390,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 6.3,
+   "momentum": 6.2,
    "mentions": [
     {
      "platform": "hn",
@@ -9631,7 +9634,7 @@
    "arrAsOf": 1773166639,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 1,
+   "momentum": 1.2,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -9661,6 +9664,18 @@
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/GrokBot/comments/1w5qh35/i_give_grok_bot_a_phone_to_do_linkedin_outreach/",
      "date": "2026-09-02T23:14:45+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/hiringpakistan/comments/1w2wxxv/for_hire_customer_support_va_parttime_3_years/",
+     "date": "2026-08-30T23:33:13+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/B2BForHire/comments/1w2wvwd/for_hire_customer_support_va_parttime_3_years/",
+     "date": "2026-08-30T23:30:50+00:00",
      "engagement": 2
     }
    ],
@@ -12229,7 +12244,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 1.6,
+   "momentum": 1.7,
    "mentions": [
     {
      "platform": "news-product",
@@ -12337,6 +12352,18 @@
      "platform": "news-product",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUFRVVzBFazUzem1RSWtrVTVwRUdVVUU5RnRmSkR0MjR4S2JIdmlDWFEyN1VGV3Rfdm9vMjRPZjdJYndPblgxMHktQlM3SWFOTHdpaTN6M0tqU3BIYlNadzg4TlJGSTd4YXFBLXBiVm1nYmI0YjBXSHdiZXFzemJ5Nw?oc=5",
      "date": "2026-09-02T16:36:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kZTc5N05SVW1xRFNfUEFiX2FxOTItNFlpTEtyeWFicUVzaFp5OHBlQzBaU0laSFJYVl81Y0RrTDBvYUw2TFBlWU9rRzdfSFNFMl9B?oc=5",
+     "date": "2026-09-01T05:12:01.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BWm4zSU9seXprQmFIZXowOG9aNUM5Sy1sdk1vSVlPTWNQM01ybTIwV043VVJyczFGTEZ6cHRuS1ZQbk0yLW5maGNIeThDY3czcVVz?oc=5",
+     "date": "2026-08-27T10:20:25.000Z",
      "engagement": 0
     }
    ],
@@ -15400,7 +15427,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 7.4,
+   "momentum": 7.7,
    "mentions": [
     {
      "platform": "hn",
@@ -15581,10 +15608,22 @@
      "url": "https://www.reddit.com/r/thatswhatihear/comments/1w5pruf/punk_rock_chameleon/",
      "date": "2026-09-02T22:45:19+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544538",
+     "date": "2026-09-03T00:38:06Z",
+     "engagement": 0
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/jobhuntify/comments/1w37xjz/remote_job_wing_sales_development_representative/",
+     "date": "2026-08-31T08:45:47+00:00",
+     "engagement": 2
     }
    ],
    "firstSeen": null,
-   "lastSeen": "2026-09-02T22:45:19+00:00",
+   "lastSeen": "2026-09-03T00:38:06Z",
    "isNew": false
   },
   "wingcopter": {
@@ -15629,6 +15668,12 @@
    "arrHistory": [],
    "momentum": 0.1,
    "mentions": [
+    {
+     "platform": "news",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMExIUW9sdXVIUms2NS1NdEw0ZE5wVGJhTEVDYXl3RFY2b2c0N3QwcDB4SzRXemhNZEY5R0U0UGdfdTliUjhBd2NKWXgzVG9kODhB?oc=5",
+     "date": "Fri, 28 Aug 2026 09:20:41 GMT",
+     "engagement": 0
+    },
     {
      "platform": "news",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMExIUW9sdXVIUms2NS1NdEw0ZE5wVGJhTEVDYXl3RFY2b2c0N3QwcDB4SzRXemhNZEY5R0U0UGdfdTliUjhBd2NKWXgzVG9kODhB?oc=5",
@@ -17536,7 +17581,7 @@
     "confidence": "high"
    },
    "arrHistory": [],
-   "momentum": 20.9,
+   "momentum": 20.8,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -17806,7 +17851,7 @@
     "confidence": "high"
    },
    "arrHistory": [],
-   "momentum": 6.1,
+   "momentum": 6.2,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -17861,6 +17906,12 @@
      "url": "https://www.reddit.com/r/genspark_ai/comments/1w4wv78/inquiry_regarding_the_business_rationality_of_the/",
      "date": "2026-09-02T01:55:53+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlhXdGhNMTJMTk16Q1ZjcG1Gd1JSbWtxOWxpcHo5M2xCcmtaVjNPMVFqOFJaN0FQZ1MzM2hTcEdHMnhXSHN2UFRINFVRTExKVFhSSHJJNXdwWVlSb08yejktd3NlTU5rLXVFUFY1cGxJcWYxNFZpSk9QZEp2Q3pJa3Y4V3NfSndteFNQaVhzejE3dy1Pek8xYmdEMzZZZFRseUs4VzI0YXdoV1p5VUVvaUFRd0syZVVvYWJ3TA?oc=5",
+     "date": "2026-09-02T01:14:36.000Z",
+     "engagement": 0
     },
     {
      "platform": "news-product",
@@ -18041,12 +18092,6 @@
      "url": "https://www.reddit.com/r/genspark_ai/",
      "date": "2024-06-13T09:46:44+00:00",
      "engagement": 2
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/genspark_ai/",
-     "date": "2024-06-13T09:46:44+00:00",
-     "engagement": 2
     }
    ],
    "firstSeen": "2026-06-17",
@@ -18078,7 +18123,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 4.2,
+   "momentum": 4.4,
    "mentions": [
     {
      "platform": "x",
@@ -18184,8 +18229,8 @@
     },
     {
      "platform": "x",
-     "url": "https://x.com/newsystems_/status/1904577550690771050",
-     "date": "Tue Mar 25 16:54:08 +0000 2025",
+     "url": "https://x.com/ArtificialAnlys/status/2095247787277553929",
+     "date": "Wed Sep 02 20:29:34 +0000 2026",
      "engagement": 0
     },
     {
@@ -18399,7 +18444,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 1.4,
+   "momentum": 1.9,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -18429,6 +18474,12 @@
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/generativeAI/comments/1w4joap/what_are_the_best_ai_video_tools_for_corporate/",
      "date": "2026-09-01T18:00:15+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/u_costikeke/comments/1w5rsql/the_two_towers_bk_3_ch_12_costasnarrativexp/",
+     "date": "2026-09-03T00:11:15+00:00",
      "engagement": 2
     },
     {
@@ -19082,7 +19133,7 @@
     "confidence": "medium"
    },
    "arrHistory": [],
-   "momentum": 37.1,
+   "momentum": 37,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -19354,7 +19405,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 13.2,
+   "momentum": 13.1,
    "mentions": [
     {
      "platform": "appstore",
@@ -19423,7 +19474,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 15.1,
+   "momentum": 15,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -20380,7 +20431,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 16.7,
+   "momentum": 16.6,
    "mentions": [
     {
      "platform": "appstore",
@@ -20410,7 +20461,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 13.2,
+   "momentum": 13.1,
    "mentions": [
     {
      "platform": "appstore",
@@ -20440,7 +20491,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 13.4,
+   "momentum": 13.3,
    "mentions": [
     {
      "platform": "appstore",
@@ -20470,7 +20521,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 12.1,
+   "momentum": 12,
    "mentions": [
     {
      "platform": "appstore",
@@ -20710,7 +20761,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 16.7,
+   "momentum": 16.6,
    "mentions": [
     {
      "platform": "appstore",
@@ -20924,7 +20975,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 23.7,
+   "momentum": 23.6,
    "mentions": [
     {
      "platform": "appstore",
@@ -21324,7 +21375,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 17.5,
+   "momentum": 17.4,
    "mentions": [
     {
      "platform": "appstore",
@@ -21417,7 +21468,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 19.1,
+   "momentum": 19,
    "mentions": [
     {
      "platform": "hn",
@@ -21685,7 +21736,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 22.8,
+   "momentum": 22.7,
    "mentions": [
     {
      "platform": "news",
@@ -22259,7 +22310,7 @@
    "arrAsOf": null,
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 13.6,
+   "momentum": 13.5,
    "mentions": [
     {
      "platform": "appstore",
@@ -22943,7 +22994,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 14.2,
+   "momentum": 14.1,
    "mentions": [
     {
      "platform": "hn-product",
@@ -23215,10 +23266,52 @@
     "confidence": "medium"
    },
    "arrHistory": [],
-   "momentum": 12.3,
+   "momentum": 13.4,
    "mentions": [
     {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/taobao/comments/1w5sdvx/sensory_friendly_fashion/",
+     "date": "2026-09-03T00:37:54+00:00",
+     "engagement": 2
+    },
+    {
      "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544280",
+     "date": "2026-09-03T00:04:20Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544280",
+     "date": "2026-09-03T00:04:20Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544280",
+     "date": "2026-09-03T00:04:20Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544280",
+     "date": "2026-09-03T00:04:20Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544280",
+     "date": "2026-09-03T00:04:20Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544280",
+     "date": "2026-09-03T00:04:20Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn-product",
      "url": "https://news.ycombinator.com/item?id=49544280",
      "date": "2026-09-03T00:04:20Z",
      "engagement": 0
@@ -23266,34 +23359,10 @@
      "engagement": 0
     },
     {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49544280",
-     "date": "2026-09-03T00:04:20Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49544280",
-     "date": "2026-09-03T00:04:20Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49544280",
-     "date": "2026-09-03T00:04:20Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn",
-     "url": "https://news.ycombinator.com/item?id=49544280",
-     "date": "2026-09-03T00:04:20Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49544280",
-     "date": "2026-09-03T00:04:20Z",
-     "engagement": 0
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/generativeAI/comments/1w5qfrh/ragtime_rainbow_rag/",
+     "date": "2026-09-02T23:13:09+00:00",
+     "engagement": 2
     },
     {
      "platform": "hn-product",
@@ -23318,6 +23387,30 @@
      "url": "https://news.ycombinator.com/item?id=49543853",
      "date": "2026-09-02T23:09:44Z",
      "engagement": 0
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/indonesia/comments/1w5qcua/rant_pubdok_anjg/",
+     "date": "2026-09-02T23:09:43+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/askphilosophy/comments/1w5q700/are_theistic_philosophers_in_theologyreligion/",
+     "date": "2026-09-02T23:02:45+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/CameraLenses/comments/1w5pb1b/sigma_1614_5614_or_other/",
+     "date": "2026-09-02T22:26:09+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/Nujabes/comments/1w5p0x7/which_nujabes_album_would_you_have_wanted_signed/",
+     "date": "2026-09-02T22:15:14+00:00",
+     "engagement": 2
     },
     {
      "platform": "hn-product",
@@ -23414,52 +23507,10 @@
      "url": "https://www.reddit.com/r/PaseoAI/comments/1w5lxwj/plugin_links_for_workspaces/",
      "date": "2026-09-02T20:21:02+00:00",
      "engagement": 2
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/sharepoint/comments/1w5jv73/how_can_i_open_a_sharepoint_video_with_written/",
-     "date": "2026-09-02T19:08:35+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit",
-     "url": "https://www.reddit.com/r/MachineLearning/comments/1w5gynb/where_can_i_find_legally_usable_datasets_for/",
-     "date": "2026-09-02T17:27:32+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit",
-     "url": "https://www.reddit.com/r/MachineLearning/comments/1w5gynb/where_can_i_find_legally_usable_datasets_for/",
-     "date": "2026-09-02T17:27:32+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/capawesome/comments/1w5g8vi/fixing_the_invisible_camera_preview_in_capacitor/",
-     "date": "2026-09-02T17:03:07+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49538420",
-     "date": "2026-09-02T16:10:21Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49538420",
-     "date": "2026-09-02T16:10:21Z",
-     "engagement": 0
-    },
-    {
-     "platform": "hn-product",
-     "url": "https://news.ycombinator.com/item?id=49538420",
-     "date": "2026-09-02T16:10:21Z",
-     "engagement": 0
     }
    ],
    "firstSeen": "2026-05-21",
-   "lastSeen": "2026-09-03T00:04:20Z",
+   "lastSeen": "2026-09-03T00:37:54+00:00",
    "isNew": false
   },
   "together-ai": {
@@ -23997,7 +24048,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 15,
+   "momentum": 14.9,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -24267,7 +24318,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 14.1,
+   "momentum": 14,
    "mentions": [
     {
      "platform": "hn-product",
@@ -25183,7 +25234,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 3.2,
+   "momentum": 3.5,
    "mentions": [
     {
      "platform": "hn-product",
@@ -25363,6 +25414,12 @@
      "platform": "news-product",
      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORnBMaFNsOUliZkhES1lmNUtXS1pkc1hDdnlrSUJIVFpXRFhfdWduamh0QXA1UDVDMHZ5TTZTczQ4Q2JvQTBvbVRjdGhFeVN0TVJPNEI0eEN4VDhPdEV1NWRyWHN2aGYtanpkcWdHdWNlcWlqM0FrdExHUVBPcnBjLXl4VDVUOWtyaUg4VFB3Mk5Jalhad3lONTQ3MEp0a3JvQzVYSHoxZmFfU29MLWcxcnQ1eERCcnV6Q1hwLWFYUVI0WXg1OWZsNnd1eXB4TWMyT3RfV1gwU212Q19EVm5tal9uZXJyUXYzWWV6aXZZNDlFc05EeEJfYldDOGNFNWpTNWc?oc=5",
      "date": "2026-08-27T15:10:00.000Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544402",
+     "date": "2026-09-03T00:20:44Z",
      "engagement": 0
     }
    ],
@@ -25847,6 +25904,12 @@
      "platform": "hn-product",
      "url": "https://news.ycombinator.com/item?id=49527118",
      "date": "2026-09-01T19:48:24Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44SWZRQ0FYeUc5NFlicTFsRHhtaEFpY2ZFcmZid0dmd3V5UmZSamxGRnJhUG1xR3VmQVczcDJWNk5MUWpVdjhMaml4bjRuZF9QX3hfMXZ1bml3b2NKQnF3?oc=5",
+     "date": "2026-08-27T17:52:52.000Z",
      "engagement": 0
     }
    ],
@@ -26417,7 +26480,7 @@
     "confidence": "medium"
    },
    "arrHistory": [],
-   "momentum": 14.6,
+   "momentum": 14.5,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -26687,7 +26750,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 14,
+   "momentum": 13.9,
    "mentions": [
     {
      "platform": "news-product",
@@ -27113,6 +27176,12 @@
      "platform": "hn-product",
      "url": "https://news.ycombinator.com/item?id=49525463",
      "date": "2026-09-01T17:59:13Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWJmTUpMeDJwWnEzUDNLU2VObWppNW1Xc3RXU2RGMkQ5WWZ0cjZLdjJpb3JtQlNoQTNyanh4NkQ2SzRRRVZwMWdZdEVPUF9ILWFicDZKU2xiVDdlZWg2UmhiZnZ1OWFuX2tIWDlNYU5Uc3N1VEZIa3BFOTFhRExDbG1vT3pEMjZuZHpQc1RVc18tRkZmZ0xwdHZOT3ZnWVlQV0UwcmRHTjFwRjh2RldTQXFMVlNueVJv?oc=5",
+     "date": "2026-08-29T06:55:37.000Z",
      "engagement": 0
     }
    ],
@@ -27611,8 +27680,8 @@
     },
     {
      "platform": "x",
-     "url": "https://x.com/deanwball/status/2094788634729660906",
-     "date": "Tue Sep 01 14:05:04 +0000 2026",
+     "url": "https://x.com/Layton_Gott/status/2094916813205176493",
+     "date": "Tue Sep 01 22:34:24 +0000 2026",
      "engagement": 0
     },
     {
@@ -28433,7 +28502,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 5.2,
+   "momentum": 5.1,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -28709,7 +28778,7 @@
    "arrAsOf": "2025-09-16",
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 1.2,
+   "momentum": 1.1,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -28952,7 +29021,7 @@
     "confidence": "medium"
    },
    "arrHistory": [],
-   "momentum": 3.1,
+   "momentum": 3.2,
    "mentions": [
     {
      "platform": "news-product",
@@ -29163,6 +29232,12 @@
      "url": "https://www.reddit.com/r/notebookcheck_net/comments/1w1l11g/comfyui_with_minimax_h3_better_than_kling_ai/",
      "date": "2026-08-29T12:16:41+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVHdCYzVqcE5wNjNuT1BVdWlJR3NNYkcyeS1vWkNpUXdYdmMxVVVtNDl1d0pJNWxRYmd1Zm91azBfMkhBR0ZKb1F1b3NEU3BZNWhpSUtiZFp0NzZ4dlhISmMwTGdtT1NJVEgtX0xtMGltSUN5eWVUNmI2bV8yakkzNA?oc=5",
+     "date": "2026-09-01T06:04:27.000Z",
+     "engagement": 0
     },
     {
      "platform": "news-product",
@@ -29441,7 +29516,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 1.1,
+   "momentum": 1,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -30624,7 +30699,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 4.2,
+   "momentum": 4.4,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -30805,6 +30880,12 @@
      "url": "https://www.reddit.com/r/FounderOperations/comments/1vx6tv0/the_best_voip_for_uk_sales_teams/",
      "date": "2026-08-24T15:58:34+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/Sales_India/comments/1w4a4v3/for_people_doing_us_sales_from_india_what_are_you/",
+     "date": "2026-09-01T12:10:33+00:00",
+     "engagement": 2
     }
    ],
    "firstSeen": "2025-12-31",
@@ -30836,8 +30917,14 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 7.8,
+   "momentum": 8.6,
    "mentions": [
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/lifeinsurancesales/comments/1w5optz/help_with_booking_appointments/",
+     "date": "2026-09-02T22:03:06+00:00",
+     "engagement": 2
+    },
     {
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/lifeinsurancesales/comments/1w5optz/help_with_booking_appointments/",
@@ -30966,6 +31053,18 @@
     },
     {
      "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/sysadmin/comments/1w4ipyq/dialpad_down/",
+     "date": "2026-09-01T17:27:47+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/buhaydigital/comments/1w4gepy/how_do_i_get_a_us_phone_number/",
+     "date": "2026-09-01T16:08:50+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
      "url": "https://www.reddit.com/r/buhaydigital/comments/1w4gepy/how_do_i_get_a_us_phone_number/",
      "date": "2026-09-01T16:08:50+00:00",
      "engagement": 2
@@ -30986,6 +31085,18 @@
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/RVC_Jobs/comments/1w4g5zu/remote_us_jobs_digest_beaconbiosignals_zoom/",
      "date": "2026-09-01T16:00:27+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/RVC_Jobs/comments/1w4g5zu/remote_us_jobs_digest_beaconbiosignals_zoom/",
+     "date": "2026-09-01T16:00:27+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/Sales_India/comments/1w4a4v3/for_people_doing_us_sales_from_india_what_are_you/",
+     "date": "2026-09-01T12:10:33+00:00",
      "engagement": 2
     },
     {
@@ -31046,36 +31157,6 @@
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/jobhuntify/comments/1w37xjz/remote_job_wing_sales_development_representative/",
      "date": "2026-08-31T08:45:47+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/jobhuntify/comments/1w37xjz/remote_job_wing_sales_development_representative/",
-     "date": "2026-08-31T08:45:47+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/jobhuntify/comments/1w334gb/remote_job_hearth_inbound_account_executive/",
-     "date": "2026-08-31T04:21:23+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/jobhuntify/comments/1w334gb/remote_job_hearth_inbound_account_executive/",
-     "date": "2026-08-31T04:21:23+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/hiringpakistan/comments/1w2wxxv/for_hire_customer_support_va_parttime_3_years/",
-     "date": "2026-08-30T23:33:13+00:00",
-     "engagement": 2
-    },
-    {
-     "platform": "reddit-search",
-     "url": "https://www.reddit.com/r/hiringpakistan/comments/1w2wxxv/for_hire_customer_support_va_parttime_3_years/",
-     "date": "2026-08-30T23:33:13+00:00",
      "engagement": 2
     }
    ],
@@ -31613,7 +31694,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 2.9,
+   "momentum": 4,
    "mentions": [
     {
      "platform": "x",
@@ -31836,6 +31917,18 @@
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCelc5Zmw4Qy1YNzdkU3BCc0tpOFFrZWtoenJZTmtKWnZhbUw3NHMtUWpBTzIyYXRfQW8ySFlIX0ZRLXhSTU9yMWl5c0xGODJRUkJMaFU1bWtEZXBUb1A2eQ?oc=5",
      "date": "2026-08-27T01:26:39.000Z",
      "engagement": 0
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/indonesia/comments/1w5qcua/rant_pubdok_anjg/",
+     "date": "2026-09-02T23:09:43+00:00",
+     "engagement": 2
+    },
+    {
+     "platform": "reddit-search",
+     "url": "https://www.reddit.com/r/CameraLenses/comments/1w5pb1b/sigma_1614_5614_or_other/",
+     "date": "2026-09-02T22:26:09+00:00",
+     "engagement": 2
     }
    ],
    "firstSeen": "2024-12-31",
@@ -32320,7 +32413,7 @@
     "confidence": "high"
    },
    "arrHistory": [],
-   "momentum": 11.2,
+   "momentum": 11.1,
    "mentions": [
     {
      "platform": "news-product",
@@ -33261,7 +33354,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 13.6,
+   "momentum": 13.5,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -33629,7 +33722,7 @@
    "arrAsOf": "2025-05-14",
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 4.1,
+   "momentum": 4.2,
    "mentions": [
     {
      "platform": "hn",
@@ -33749,6 +33842,12 @@
      "platform": "hn-product",
      "url": "https://news.ycombinator.com/item?id=49533476",
      "date": "2026-09-02T08:34:13Z",
+     "engagement": 0
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjNDV0JrbnBJOEVkNnZVaGZnY2EyY0hDUW1VSjRSc0swQy1KOHpDYmE4MWQzSUVNdy1qejBMY1ZUaUNELTQ4dTRLOVRRMU9POGpLbktUYzBPZy11dC1DTlVtMXZOVUpxcUFaX1NnSWpOSW80RHhVZ3JCTWkwS3JGdlJuVHV4bDRJUUxCOHBvM2hRYlJ2RkhZbjlqeng2eWY5ZnRTeV95WDluWDg?oc=5",
+     "date": "2026-08-31T11:30:15.000Z",
      "engagement": 0
     }
    ],
@@ -34736,7 +34835,7 @@
    "arrAsOf": "2025-08-19",
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 32.2,
+   "momentum": 32.1,
    "mentions": [
     {
      "platform": "reddit-search",
@@ -35598,7 +35697,7 @@
    "arrAsOf": "2024-10-22",
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 4.1,
+   "momentum": 4,
    "mentions": [
     {
      "platform": "hn-product",
@@ -36040,7 +36139,7 @@
     "confidence": "low"
    },
    "arrHistory": [],
-   "momentum": 3.8,
+   "momentum": 4.4,
    "mentions": [
     {
      "platform": "hn",
@@ -36076,6 +36175,18 @@
      "platform": "hn",
      "url": "https://news.ycombinator.com/item?id=49542898",
      "date": "2026-09-02T21:35:10Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544371",
+     "date": "2026-09-03T00:16:38Z",
+     "engagement": 0
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544371",
+     "date": "2026-09-03T00:16:38Z",
      "engagement": 0
     },
     {
@@ -36433,13 +36544,19 @@
    "arrAsOf": "2022-07-28",
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 0.8,
+   "momentum": 1.1,
    "mentions": [
     {
      "platform": "reddit-search",
      "url": "https://www.reddit.com/r/hermesagent/comments/1w5rnz2/picking_a_library_by_star_count_is_a_gamble_so_i/",
      "date": "2026-09-03T00:05:30+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "hn",
+     "url": "https://news.ycombinator.com/item?id=49544472",
+     "date": "2026-09-03T00:29:46Z",
+     "engagement": 0
     },
     {
      "platform": "hn",
@@ -36713,6 +36830,12 @@
      "url": "https://www.reddit.com/r/Rag/comments/1w2ke62/flexible_graphrag_v080_optional_integrations/",
      "date": "2026-08-30T15:21:54+00:00",
      "engagement": 2
+    },
+    {
+     "platform": "news-product",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWExFV1ZWTS1WZzlHVURpMXZoYkNwZE1DZ0xDVFFmc3ZmSE85LWlSRzFVdnhQVG5IbjF0Tkk2eEJac3lvLTdNZENMS3VIdWZMaDZFYnhxbk9pei1CRF84a01zWTB1Z3JGWG4xRWRpVjFfV1JRYVhTdUlvMl9PLWctMHo3Rkk2WlBSS3VTUTFBc2xYeUtERzExQTRhczFfRXBpa0oxcS0xSS1CeVMxUm1Id2kwZjRRenZSWEVxWDBQai1rX2dCdGZ1Si1CaVJIS28?oc=5",
+     "date": "2026-08-27T07:00:00.000Z",
+     "engagement": 0
     }
    ],
    "firstSeen": "2023-04-21",
@@ -37335,7 +37458,7 @@
    "arrAsOf": "2025-11-19",
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 0.7,
+   "momentum": 0.6,
    "mentions": [
     {
      "platform": "hn",
@@ -37676,7 +37799,7 @@
    "arrAsOf": "2022-04-02",
    "arrSource": null,
    "arrHistory": [],
-   "momentum": 9.9,
+   "momentum": 9.8,
    "mentions": [
     {
      "platform": "appstore",
@@ -38121,9 +38244,9 @@
   }
  },
  "counters": {
-  "runs": 86,
+  "runs": 87,
   "consecutiveEmptyRuns": 0,
-  "lastAlgoliaOk": "2026-09-03T00:32:45.488Z",
+  "lastAlgoliaOk": "2026-09-03T00:37:57.104Z",
   "cat2StarvedRuns": 0
  }
 }
