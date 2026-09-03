@@ -15,16 +15,16 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-03 20:38 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-03 22:06 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 427 HF upvotes · v 427 | 427 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
-| [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 361 HF upvotes · v 361 | 361 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
-| [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 190 HF upvotes · v 190 | 190 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
-| [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | Yuhao Wu | 154 HF upvotes · v 154 | 154 HF upvotes · "Aspire: Can Models Self-Evolve from Vague Goals?" · model release |
+| [We are sorry for the issues you may have experienced with Grok following an outage at our Memphis compute cen…](https://x.com/SpaceXAI/status/2095597264043717014) | [@SpaceXAI](https://x.com/SpaceXAI) | 9369♥ 463RT · v 12024 | 12024 velocity · 9369♥ 463RT · 1114986 views · 2h old · matched "grok" |
+| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 456 HF upvotes · v 456 | 456 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
+| [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 216 HF upvotes · v 216 | 216 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
+| [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | Yuhao Wu | 169 HF upvotes · v 169 | 169 HF upvotes · "Aspire: Can Models Self-Evolve from Vague Goals?" · model release |
 | [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://huggingface.co/papers/2609.02886) | Junchao Huang | 133 HF upvotes · v 133 | 133 HF upvotes · "SolarWM: Open Data and Scalable Training for Long-Horizon Video World " · model release |
 
 ### 🚀 AI SaaS launches (4)
