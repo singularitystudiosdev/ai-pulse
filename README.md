@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-03 09:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-03 09:31 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,8 +24,8 @@
 | [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | Ke Yang | 477 HF upvotes · v 477 | 477 HF upvotes · "StudentSim: Training LLM-based Student Simulators" · model release |
 | [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | Xin Zhou | 356 HF upvotes · v 356 | 356 HF upvotes · "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation M" · model release |
 | [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 336 HF upvotes · v 336 | 336 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
-| [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://huggingface.co/papers/2609.02886) | Junchao Huang | 105 HF upvotes · v 105 | 105 HF upvotes · "SolarWM: Open Data and Scalable Training for Long-Horizon Video World " · model release |
-| [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](https://huggingface.co/papers/2609.02783) | Yuling Shi | 85 HF upvotes · v 85 | 85 HF upvotes · "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction" · model release |
+| [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://huggingface.co/papers/2609.02886) | Junchao Huang | 106 HF upvotes · v 106 | 106 HF upvotes · "SolarWM: Open Data and Scalable Training for Long-Horizon Video World " · model release |
+| [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](https://huggingface.co/papers/2609.02783) | Yuling Shi | 86 HF upvotes · v 86 | 86 HF upvotes · "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
