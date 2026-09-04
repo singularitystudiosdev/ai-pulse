@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-04 22:17 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-04 22:23 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 248 HF upvotes · v 248 | 248 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
+| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 250 HF upvotes · v 250 | 250 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
 | [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 236 HF upvotes · v 236 | 236 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
 | [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | Jie Wu | 213 HF upvotes · v 213 | 213 HF upvotes · "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal E" · model release |
 | [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | Chuyan Chen | 190 HF upvotes · v 190 | 190 HF upvotes · "LLaDA-Image: Building Strong Image Generators with Fully Open Training" · model release |
