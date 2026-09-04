@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-04 09:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-04 09:09 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Reactor Atlas](https://reactoratlas.com) | fedecaccia | 25 HN points · v 51 | 25 HN points · 13 comments · Show HN |
+| [Show HN: Reactor Atlas](https://reactoratlas.com) | fedecaccia | 26 HN points · v 54 | 26 HN points · 14 comments · Show HN |
 | [Show HN: Real-time AI news aggregator with daily digest](https://aibriefs.news) | michelmi | 10 HN points · v 38 | 10 HN points · 14 comments · Show HN |
 | [Show HN: I built my first MCP to manage Google Ads](https://adchestra.com/) | MichalKrk | 15 HN points · v 35 | 15 HN points · 10 comments · Show HN |
 | [Show HN: Ardent, a code-first agent for non-engineering work](https://ardent.ai/) | nkohari | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
