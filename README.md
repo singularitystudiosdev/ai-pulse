@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-04 00:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-04 00:08 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 494 HF upvotes · v 494 | 494 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
+| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 495 HF upvotes · v 495 | 495 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
 | [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 224 HF upvotes · v 224 | 224 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
-| [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | Yuhao Wu | 175 HF upvotes · v 175 | 175 HF upvotes · "Aspire: Can Models Self-Evolve from Vague Goals?" · model release |
+| [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | Yuhao Wu | 183 HF upvotes · v 183 | 183 HF upvotes · "Aspire: Can Models Self-Evolve from Vague Goals?" · model release |
 | [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://huggingface.co/papers/2609.02886) | Junchao Huang | 133 HF upvotes · v 133 | 133 HF upvotes · "SolarWM: Open Data and Scalable Training for Long-Horizon Video World " · model release |
 | [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](https://huggingface.co/papers/2609.02783) | Yuling Shi | 110 HF upvotes · v 110 | 110 HF upvotes · "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction" · model release |
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Another fun demo of Astra, I realized like 3.5 hours ago I didn't have a cool enough demo   In 75 minutes, I …](https://x.com/mweinbach/status/2095596867081916653) | [@mweinbach](https://x.com/mweinbach) | 1586♥ 69RT · v 2183 | 2183 velocity · 1586♥ 69RT · 405392 views · 4h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
