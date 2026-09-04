@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-04 21:51 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-04 21:56 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 243 HF upvotes · v 243 | 243 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
+| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 245 HF upvotes · v 245 | 245 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
 | [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 236 HF upvotes · v 236 | 236 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
 | [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | Jie Wu | 213 HF upvotes · v 213 | 213 HF upvotes · "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal E" · model release |
 | [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | Chuyan Chen | 187 HF upvotes · v 187 | 187 HF upvotes · "LLaDA-Image: Building Strong Image Generators with Fully Open Training" · model release |
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | stingrae | 184 HN points · v 304 | 184 HN points · 60 comments · Show HN |
+| [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | stingrae | 185 HN points · v 305 | 185 HN points · 60 comments · Show HN |
 | [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | gioscarab | 72 HN points · v 122 | 72 HN points · 25 comments · Show HN |
 | [Show HN: Real-time AI news aggregator with daily digest](https://aibriefs.news) | michelmi | 12 HN points · v 46 | 12 HN points · 17 comments · Show HN |
 | [Show HN: Ardent, a code-first agent for non-engineering work](https://ardent.ai/) | nkohari | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
