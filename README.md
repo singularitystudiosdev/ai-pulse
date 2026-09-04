@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-04 00:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-04 00:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 495 HF upvotes · v 495 | 495 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
+| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 496 HF upvotes · v 496 | 496 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
 | [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 224 HF upvotes · v 224 | 224 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
-| [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | Yuhao Wu | 183 HF upvotes · v 183 | 183 HF upvotes · "Aspire: Can Models Self-Evolve from Vague Goals?" · model release |
+| [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | Yuhao Wu | 189 HF upvotes · v 189 | 189 HF upvotes · "Aspire: Can Models Self-Evolve from Vague Goals?" · model release |
 | [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://huggingface.co/papers/2609.02886) | Junchao Huang | 133 HF upvotes · v 133 | 133 HF upvotes · "SolarWM: Open Data and Scalable Training for Long-Horizon Video World " · model release |
 | [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](https://huggingface.co/papers/2609.02783) | Yuling Shi | 110 HF upvotes · v 110 | 110 HF upvotes · "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction" · model release |
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [@adonis_singh Same as previously  - Bigger number = Better - Bigger celestial object = Better  and the scale …](https://x.com/thsottiaux/status/2095600295808283073) | [@thsottiaux](https://x.com/thsottiaux) | 1148♥ 17RT · v 428.5 | 428 velocity · 1148♥ 17RT · 72771 views · 4h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
