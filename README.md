@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-04 17:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-04 17:08 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,14 +24,14 @@
 | [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 236 HF upvotes · v 236 | 236 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
 | [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | Yuhao Wu | 210 HF upvotes · v 210 | 210 HF upvotes · "Aspire: Can Models Self-Evolve from Vague Goals?" · model release |
 | [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | Jie Wu | 182 HF upvotes · v 182 | 182 HF upvotes · "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal E" · model release |
-| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 172 HF upvotes · v 172 | 172 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
-| [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | Chuyan Chen | 144 HF upvotes · v 144 | 144 HF upvotes · "LLaDA-Image: Building Strong Image Generators with Fully Open Training" · model release |
+| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 179 HF upvotes · v 179 | 179 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
+| [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | Chuyan Chen | 145 HF upvotes · v 145 | 145 HF upvotes · "LLaDA-Image: Building Strong Image Generators with Fully Open Training" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Reactor Atlas](https://reactoratlas.com) | fedecaccia | 57 HN points · v 101 | 57 HN points · 22 comments · Show HN |
+| [Show HN: Reactor Atlas](https://reactoratlas.com) | fedecaccia | 58 HN points · v 102 | 58 HN points · 22 comments · Show HN |
 | [Show HN: Real-time AI news aggregator with daily digest](https://aibriefs.news) | michelmi | 12 HN points · v 42 | 12 HN points · 15 comments · Show HN |
 | [Show HN: Ardent, a code-first agent for non-engineering work](https://ardent.ai/) | nkohari | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
 | [Show HN: A searchable, timestamped index of 1,124 AI Engineer talks](https://aietalks.com/) | strickvl | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
