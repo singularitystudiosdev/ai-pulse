@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-04 04:23 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-04 04:28 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Real-time AI news aggregator with daily digest](https://aibriefs.news) | michelmi | 9 HN points · v 35 | 9 HN points · 13 comments · Show HN |
+| [Show HN: Real-time AI news aggregator with daily digest](https://aibriefs.news) | michelmi | 10 HN points · v 36 | 10 HN points · 13 comments · Show HN |
 | [Show HN: I built my first MCP to manage Google Ads](https://adchestra.com/) | MichalKrk | 15 HN points · v 35 | 15 HN points · 10 comments · Show HN |
 | [Show HN: Every AI agrees with you. This writes your startup's obituary instead](https://theyfell.com/) | kyleclouthier | 9 HN points · v 23 | 9 HN points · 7 comments · Show HN |
 | [Show HN: Ardent, a code-first agent for non-engineering work](https://ardent.ai/) | nkohari | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [We will give one banked reset for every day you don't have access to Astra on your paid ChatGPT plan, startin…](https://x.com/thsottiaux/status/2095651088502591861) | [@thsottiaux](https://x.com/thsottiaux) | 32442♥ 2651RT · v 16672.9 | 16673 velocity · 32442♥ 2651RT · 3613231 views · 5h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
