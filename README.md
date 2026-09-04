@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-04 08:58 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-04 09:03 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 509 HF upvotes · v 509 | 509 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
+| [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 510 HF upvotes · v 510 | 510 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
 | [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 231 HF upvotes · v 231 | 231 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
 | [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | Yuhao Wu | 209 HF upvotes · v 209 | 209 HF upvotes · "Aspire: Can Models Self-Evolve from Vague Goals?" · model release |
 | [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](https://huggingface.co/papers/2609.02783) | Yuling Shi | 113 HF upvotes · v 113 | 113 HF upvotes · "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction" · model release |
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Reactor Atlas](https://reactoratlas.com) | fedecaccia | 24 HN points · v 50 | 24 HN points · 13 comments · Show HN |
+| [Show HN: Reactor Atlas](https://reactoratlas.com) | fedecaccia | 25 HN points · v 51 | 25 HN points · 13 comments · Show HN |
 | [Show HN: Real-time AI news aggregator with daily digest](https://aibriefs.news) | michelmi | 10 HN points · v 38 | 10 HN points · 14 comments · Show HN |
 | [Show HN: I built my first MCP to manage Google Ads](https://adchestra.com/) | MichalKrk | 15 HN points · v 35 | 15 HN points · 10 comments · Show HN |
 | [Show HN: Ardent, a code-first agent for non-engineering work](https://ardent.ai/) | nkohari | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
