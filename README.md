@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-04 05:05 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-04 05:10 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://huggingface.co/papers/2609.02749) | Jianlyu Chen | 504 HF upvotes · v 504 | 504 HF upvotes · "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills" · model release |
-| [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 228 HF upvotes · v 228 | 228 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
+| [HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://huggingface.co/papers/2609.01437) | Yuhao Wu | 229 HF upvotes · v 229 | 229 HF upvotes · "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?" · model release |
 | [Aspire: Can Models Self-Evolve from Vague Goals?](https://huggingface.co/papers/2608.31111) | Yuhao Wu | 207 HF upvotes · v 207 | 207 HF upvotes · "Aspire: Can Models Self-Evolve from Vague Goals?" · model release |
 | [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](https://huggingface.co/papers/2609.02783) | Yuling Shi | 112 HF upvotes · v 112 | 112 HF upvotes · "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction" · model release |
 | [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | Chuyan Chen | 63 HF upvotes · v 63 | 63 HF upvotes · "LLaDA-Image: Building Strong Image Generators with Fully Open Training" · model release |
