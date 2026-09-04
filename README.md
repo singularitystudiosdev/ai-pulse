@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-04 14:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-04 14:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Reactor Atlas](https://reactoratlas.com) | fedecaccia | 46 HN points · v 88 | 46 HN points · 21 comments · Show HN |
+| [Show HN: Reactor Atlas](https://reactoratlas.com) | fedecaccia | 47 HN points · v 89 | 47 HN points · 21 comments · Show HN |
 | [Show HN: Real-time AI news aggregator with daily digest](https://aibriefs.news) | michelmi | 11 HN points · v 41 | 11 HN points · 15 comments · Show HN |
 | [Show HN: Ardent, a code-first agent for non-engineering work](https://ardent.ai/) | nkohari | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
 | [Show HN: A searchable, timestamped index of 1,124 AI Engineer talks](https://aietalks.com/) | strickvl | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
