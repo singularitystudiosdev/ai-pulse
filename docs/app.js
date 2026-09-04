@@ -312,10 +312,13 @@ function wire() {
 
   $('hide-seen').addEventListener('change', (e) => { hideSeen = e.target.checked; render(); });
 
-  // Run button: opens the workflow's dispatch page (GitHub's own Run button —
-  // dispatching needs an auth token, so we can't do it from a static page),
-  // then polls feed.json until the agent's fresh commit lands.
-  const ACTIONS_URL = 'https://github.com/singularitystudiosdev/ai-pulse/actions/workflows/feed.yml';
+  // Run button: dispatches the workflow straight through the GitHub API so the
+  // agent starts immediately. A dispatch needs a token with Actions:write, so
+  // it's asked for once and kept in localStorage — afterwards every click is
+  // instant. The button then polls feed.json until the fresh commit lands.
+  const DISPATCH_URL = 'https://api.github.com/repos/singularitystudiosdev/ai-pulse/actions/workflows/feed.yml/dispatches';
+  const PAT_URL = 'https://github.com/settings/personal-access-tokens/new';
+  const TOKEN_KEY = 'ai-pulse.gh-token';
   const POLL_MS = 30_000;
   const POLL_MAX_MS = 12 * 60_000;
   let baseline = null;
@@ -348,15 +351,45 @@ function wire() {
     return false;
   }
 
-  $('run-btn').addEventListener('click', () => {
-    if (watchTimer) return; // already watching
-    // capture the current generatedAt as the "before" snapshot
-    fetch(`data/feed.json?t=${Date.now()}`, { cache: 'no-store' })
-      .then((r) => r.json())
-      .then((d) => { baseline = d.generatedAt || null; })
-      .catch(() => {});
-    setRun('busy');
-    window.open(ACTIONS_URL, '_blank', 'noopener');
+  // POST the workflow_dispatch. Resolves true when a run is on its way
+  // (204) and false when the user bailed or GitHub refused.
+  async function dispatchAgent() {
+    let token = (localStorage.getItem(TOKEN_KEY) || '').trim();
+    if (!token) {
+      const entered = window.prompt(
+        'One-time setup: paste a GitHub token with "Actions: write" on singularitystudiosdev/ai-pulse, so this button can start the agent. It stays in this browser.\n\nCreate one at:\n' + PAT_URL
+      );
+      if (!entered) return false;
+      token = entered.trim();
+      localStorage.setItem(TOKEN_KEY, token);
+    }
+    let res;
+    try {
+      res = await fetch(DISPATCH_URL, {
+        method: 'POST',
+        headers: {
+          Authorization: `Bearer ${token}`,
+          Accept: 'application/vnd.github+json',
+          'X-GitHub-Api-Version': '2022-11-28',
+        },
+        body: JSON.stringify({ ref: 'main' }),
+      });
+    } catch (e) {
+      console.error('dispatch failed:', e);
+      window.alert(`Couldn't reach GitHub (${e.message}) — the agent was not started.`);
+      return false;
+    }
+    if (res.status === 204) return true;
+    if (res.status === 401 || res.status === 403) {
+      localStorage.removeItem(TOKEN_KEY);
+      window.alert(`GitHub rejected the saved token (HTTP ${res.status}). You'll be asked for a fresh one next click.`);
+    } else {
+      window.alert(`GitHub refused the dispatch (HTTP ${res.status}) — the agent was not started.`);
+    }
+    return false;
+  }
+
+  function watchForFresh() {
     const started = Date.now();
     watchTimer = setInterval(async () => {
       if (Date.now() - started > POLL_MAX_MS) {
@@ -366,6 +399,18 @@ function wire() {
       }
       if (await pollForFresh()) { clearInterval(watchTimer); watchTimer = null; }
     }, POLL_MS);
+  }
+
+  $('run-btn').addEventListener('click', async () => {
+    if (watchTimer) return; // already watching
+    // capture the current generatedAt as the "before" snapshot
+    fetch(`data/feed.json?t=${Date.now()}`, { cache: 'no-store' })
+      .then((r) => r.json())
+      .then((d) => { baseline = d.generatedAt || null; })
+      .catch(() => {});
+    setRun('busy');
+    if (await dispatchAgent()) watchForFresh();
+    else setRun('idle');
   });
 
   $('reset').addEventListener('click', () => {
