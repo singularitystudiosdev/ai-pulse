@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-05 13:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-05 16:00 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 274 HF upvotes · v 274 | 274 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
-| [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | Jie Wu | 225 HF upvotes · v 225 | 225 HF upvotes · "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal E" · model release |
-| [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | Chuyan Chen | 205 HF upvotes · v 205 | 205 HF upvotes · "LLaDA-Image: Building Strong Image Generators with Fully Open Training" · model release |
-| [Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning](https://huggingface.co/papers/2609.03430) | Heng Wang | 158 HF upvotes · v 158 | 158 HF upvotes · "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning" · model release |
+| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 276 HF upvotes · v 276 | 276 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
+| [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | Jie Wu | 227 HF upvotes · v 227 | 227 HF upvotes · "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal E" · model release |
+| [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | Chuyan Chen | 207 HF upvotes · v 207 | 207 HF upvotes · "LLaDA-Image: Building Strong Image Generators with Fully Open Training" · model release |
+| [Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning](https://huggingface.co/papers/2609.03430) | Heng Wang | 159 HF upvotes · v 159 | 159 HF upvotes · "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning" · model release |
 | [Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training](https://huggingface.co/papers/2608.26730) | Tingyun Li | 149 HF upvotes · v 149 | 149 HF upvotes · "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomo" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | stingrae | 321 HN points · v 537 | 321 HN points · 108 comments · Show HN |
-| [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | gioscarab | 157 HN points · v 237 | 157 HN points · 40 comments · Show HN |
+| [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | stingrae | 342 HN points · v 564 | 342 HN points · 111 comments · Show HN |
+| [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | gioscarab | 164 HN points · v 248 | 164 HN points · 42 comments · Show HN |
 | [Show HN: Ardent, a code-first agent for non-engineering work](https://ardent.ai/) | nkohari | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
 | [Show HN: A searchable, timestamped index of 1,124 AI Engineer talks](https://aietalks.com/) | strickvl | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
 
