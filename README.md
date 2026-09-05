@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-05 10:04 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-05 10:09 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | stingrae | 288 HN points · v 492 | 288 HN points · 102 comments · Show HN |
-| [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | gioscarab | 133 HN points · v 203 | 133 HN points · 35 comments · Show HN |
+| [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | gioscarab | 134 HN points · v 204 | 134 HN points · 35 comments · Show HN |
 | [Show HN: Real-time AI news aggregator with daily digest](https://aibriefs.news) | michelmi | 12 HN points · v 48 | 12 HN points · 18 comments · Show HN |
 | [Show HN: Ardent, a code-first agent for non-engineering work](https://ardent.ai/) | nkohari | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
 
