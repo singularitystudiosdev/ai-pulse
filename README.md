@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-06 17:39 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-06 17:44 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | stingrae | 406 HN points · v 662 | 406 HN points · 128 comments · Show HN |
-| [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | gioscarab | 203 HN points · v 293 | 203 HN points · 45 comments · Show HN |
+| [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | gioscarab | 205 HN points · v 295 | 205 HN points · 45 comments · Show HN |
 | [Show HN: Ardent, a code-first agent for non-engineering work](https://ardent.ai/) | nkohari | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
 | [Show HN: A searchable, timestamped index of 1,124 AI Engineer talks](https://aietalks.com/) | strickvl | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Astra built this three.js game with gorgeous graphics, then recreated every scene in Blender and made the tra…](https://x.com/MengTo/status/2096213835460084184)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2096211412188352512/img/O-XH2WuJE7Stlyzf.jpg) | [@MengTo](https://x.com/MengTo) | 1719♥ 101RT · v 38.9 | 39 velocity · 1719♥ 101RT · 113372 views · 29h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
