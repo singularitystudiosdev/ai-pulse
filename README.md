@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-06 23:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-06 23:38 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | stingrae | 408 HN points · v 668 | 408 HN points · 130 comments · Show HN |
 | [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | gioscarab | 209 HN points · v 299 | 209 HN points · 45 comments · Show HN |
-| [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/) | coopernusbaum | 30 HN points · v 40 | 30 HN points · 5 comments · Show HN |
+| [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/) | coopernusbaum | 31 HN points · v 41 | 31 HN points · 5 comments · Show HN |
 | [Show HN: Ardent, a code-first agent for non-engineering work](https://ardent.ai/) | nkohari | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
