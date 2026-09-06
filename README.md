@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-06 23:12 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-06 23:17 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 316 HF upvotes · v 316 | 316 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
+| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 317 HF upvotes · v 317 | 317 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
 | [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | Jie Wu | 272 HF upvotes · v 272 | 272 HF upvotes · "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal E" · model release |
 | [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | Chuyan Chen | 227 HF upvotes · v 227 | 227 HF upvotes · "LLaDA-Image: Building Strong Image Generators with Fully Open Training" · model release |
 | [Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning](https://huggingface.co/papers/2609.03430) | Heng Wang | 163 HF upvotes · v 163 | 163 HF upvotes · "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning" · model release |
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | stingrae | 408 HN points · v 668 | 408 HN points · 130 comments · Show HN |
 | [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | gioscarab | 209 HN points · v 299 | 209 HN points · 45 comments · Show HN |
-| [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/) | coopernusbaum | 29 HN points · v 39 | 29 HN points · 5 comments · Show HN |
+| [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/) | coopernusbaum | 30 HN points · v 40 | 30 HN points · 5 comments · Show HN |
 | [Show HN: Ardent, a code-first agent for non-engineering work](https://ardent.ai/) | nkohari | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
