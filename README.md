@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-06 18:21 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-06 18:26 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,9 +40,12 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (2)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Took a little detour: FPGA z486 + Voodoo 1 running Tomb Raider!🎆 Only ~10 FPS for now, but it works. This is…](https://x.com/nand2mario/status/2096133116066992568)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2096131576732303360/img/Ne8EgKs_0dkxaE7a.jpg) | [@nand2mario](https://x.com/nand2mario) | 199♥ 26RT · v 3.9 | 3.9 velocity · 199♥ 26RT · 15720 views · 35h old |
+| [#z486_XL 20260906 is out 🚀  z486 + Voodoo 1-compatible 3D graphics on Xilinx KV260. To my knowledge, this is…](https://x.com/nand2mario/status/2096454368929485184)<br>![card](https://pbs.twimg.com/media/HRgZjf1bYAATTbh.jpg?name=orig) | [@nand2mario](https://x.com/nand2mario) | 69♥ 12RT · v 3.6 | 3.6 velocity · 69♥ 12RT · 2804 views · 14h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
