@@ -170,12 +170,29 @@ function momentumPct(p) {
   return Math.max(3, Math.min(100, ((p.momentum || 0) / max) * 100));
 }
 
+// fx reveal (IO stagger): rows ship at opacity:0 (.row) and only .is-in shows
+// them. Re-created per render since renderBoard rebuilds the whole grid.
+function revealRows(grid) {
+  const rows = grid.querySelectorAll('.row');
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (reduce) { rows.forEach((r) => r.classList.add('is-in')); return; }
+  const io = new IntersectionObserver((es) => {
+    for (const e of es) {
+      if (!e.isIntersecting) continue;
+      e.target.classList.add('is-in');
+      io.unobserve(e.target);
+    }
+  }, { threshold: 0.05, rootMargin: '0px 0px -5% 0px' });
+  rows.forEach((r) => io.observe(r));
+}
+
 function renderBoard() {
   const grid = b$('board-rows');
   grid.textContent = '';
   const list = rankProducts();
   document.getElementById('board-empty').hidden = list.length > 0;
   list.forEach((p, i) => grid.append(row(p, i)));
+  revealRows(grid);
   document.getElementById('board-count').textContent =
     `${list.length} product${list.length === 1 ? '' : 's'}`;
   // The field row only filters within Physical AI — hide it for every other
