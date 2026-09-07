@@ -15,25 +15,25 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-07 13:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-07 17:48 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 356 HF upvotes · v 356 | 356 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
-| [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | Jie Wu | 276 HF upvotes · v 276 | 276 HF upvotes · "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal E" · model release |
-| [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | Chuyan Chen | 228 HF upvotes · v 228 | 228 HF upvotes · "LLaDA-Image: Building Strong Image Generators with Fully Open Training" · model release |
+| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 374 HF upvotes · v 374 | 374 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
 | [Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning](https://huggingface.co/papers/2609.03430) | Heng Wang | 166 HF upvotes · v 166 | 166 HF upvotes · "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning" · model release |
 | [Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training](https://huggingface.co/papers/2608.26730) | Tingyun Li | 149 HF upvotes · v 149 | 149 HF upvotes · "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomo" · model release |
+| [RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning](https://huggingface.co/papers/2609.03199) | Howard Qian | 116 HF upvotes · v 116 | 116 HF upvotes · "RoboTok: An Internet-Scale Data Engine for Human Demonstration Retriev" · model release |
+| [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://huggingface.co/papers/2609.02750) | Yihang Chen | 91 HF upvotes · v 91 | 91 HF upvotes · "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Age" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | stingrae | 412 HN points · v 674 | 412 HN points · 131 comments · Show HN |
-| [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | gioscarab | 213 HN points · v 303 | 213 HN points · 45 comments · Show HN |
-| [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim) | timgordontg | 52 HN points · v 86 | 52 HN points · 17 comments · Show HN |
+| [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | stingrae | 415 HN points · v 679 | 415 HN points · 132 comments · Show HN |
+| [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | gioscarab | 216 HN points · v 306 | 216 HN points · 45 comments · Show HN |
+| [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim) | timgordontg | 77 HN points · v 165 | 77 HN points · 44 comments · Show HN |
 | [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/) | coopernusbaum | 37 HN points · v 61 | 37 HN points · 12 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
