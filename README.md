@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-07 01:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-07 01:19 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 317 HF upvotes · v 317 | 317 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
+| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 319 HF upvotes · v 319 | 319 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
 | [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | Jie Wu | 272 HF upvotes · v 272 | 272 HF upvotes · "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal E" · model release |
 | [LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://huggingface.co/papers/2609.03796) | Chuyan Chen | 228 HF upvotes · v 228 | 228 HF upvotes · "LLaDA-Image: Building Strong Image Generators with Fully Open Training" · model release |
 | [Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning](https://huggingface.co/papers/2609.03430) | Heng Wang | 164 HF upvotes · v 164 | 164 HF upvotes · "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning" · model release |
