@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-07 12:52 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-07 12:57 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | stingrae | 412 HN points · v 674 | 412 HN points · 131 comments · Show HN |
 | [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md) | gioscarab | 213 HN points · v 303 | 213 HN points · 45 comments · Show HN |
-| [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim) | timgordontg | 50 HN points · v 80 | 50 HN points · 15 comments · Show HN |
+| [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim) | timgordontg | 51 HN points · v 81 | 51 HN points · 15 comments · Show HN |
 | [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/) | coopernusbaum | 37 HN points · v 61 | 37 HN points · 12 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
