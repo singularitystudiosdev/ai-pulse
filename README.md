@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-07 20:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-07 20:54 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning](https://huggingface.co/papers/2609.03430) | Heng Wang | 166 HF upvotes · v 166 | 166 HF upvotes · "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning" · model release |
 | [Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training](https://huggingface.co/papers/2608.26730) | Tingyun Li | 149 HF upvotes · v 149 | 149 HF upvotes · "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomo" · model release |
 | [RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning](https://huggingface.co/papers/2609.03199) | Howard Qian | 116 HF upvotes · v 116 | 116 HF upvotes · "RoboTok: An Internet-Scale Data Engine for Human Demonstration Retriev" · model release |
-| [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://huggingface.co/papers/2609.02750) | Yihang Chen | 91 HF upvotes · v 91 | 91 HF upvotes · "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Age" · model release |
+| [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://huggingface.co/papers/2609.02750) | Yihang Chen | 92 HF upvotes · v 92 | 92 HF upvotes · "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Age" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Never gonna give you up Never gonna let you down Never gonna run around and desert you Never gonna make you c…](https://x.com/thsottiaux/status/2097043464538264003) | [@thsottiaux](https://x.com/thsottiaux) | 13548♥ 637RT · v 9363 | 9363 velocity · 13548♥ 637RT · 466430 views · 1h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
