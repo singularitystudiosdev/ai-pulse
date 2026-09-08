@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-08 22:13 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-08 23:35 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://huggingface.co/papers/2609.02750) | Yihang Chen | 129 HF upvotes · v 129 | 129 HF upvotes · "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Age" · model release |
-| [Dr. Claw: An AI Scientist Workspace for Vibe Research](https://huggingface.co/papers/2609.00365) | Dingjie Song | 124 HF upvotes · v 124 | 124 HF upvotes · "Dr. Claw: An AI Scientist Workspace for Vibe Research" · model release |
+| [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://huggingface.co/papers/2609.02750) | Yihang Chen | 130 HF upvotes · v 130 | 130 HF upvotes · "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Age" · model release |
+| [Dr. Claw: An AI Scientist Workspace for Vibe Research](https://huggingface.co/papers/2609.00365) | Dingjie Song | 125 HF upvotes · v 125 | 125 HF upvotes · "Dr. Claw: An AI Scientist Workspace for Vibe Research" · model release |
 | [RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning](https://huggingface.co/papers/2609.03199) | Howard Qian | 116 HF upvotes · v 116 | 116 HF upvotes · "RoboTok: An Internet-Scale Data Engine for Human Demonstration Retriev" · model release |
-| [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 86 HF upvotes · v 86 | 86 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
-| [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | Zixun Huang | 68 HF upvotes · v 68 | 68 HF upvotes · "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoni" · model release |
+| [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 101 HF upvotes · v 101 | 101 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
+| [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | Zixun Huang | 78 HF upvotes · v 78 | 78 HF upvotes · "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoni" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
