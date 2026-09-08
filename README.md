@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-08 21:46 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-08 21:52 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [Dr. Claw: An AI Scientist Workspace for Vibe Research](https://huggingface.co/papers/2609.00365) | Dingjie Song | 124 HF upvotes · v 124 | 124 HF upvotes · "Dr. Claw: An AI Scientist Workspace for Vibe Research" · model release |
 | [RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning](https://huggingface.co/papers/2609.03199) | Howard Qian | 116 HF upvotes · v 116 | 116 HF upvotes · "RoboTok: An Internet-Scale Data Engine for Human Demonstration Retriev" · model release |
 | [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 85 HF upvotes · v 85 | 85 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
-| [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | Zixun Huang | 65 HF upvotes · v 65 | 65 HF upvotes · "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoni" · model release |
+| [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | Zixun Huang | 66 HF upvotes · v 66 | 66 HF upvotes · "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoni" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
