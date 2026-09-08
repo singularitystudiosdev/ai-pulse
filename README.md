@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-08 18:44 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-08 18:50 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://huggingface.co/papers/2609.04199) | Yuntian Deng | 377 HF upvotes · v 377 | 377 HF upvotes · "Compile by Training: Turning Natural-Language Specifications into Loca" · model release |
+| [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://huggingface.co/papers/2609.02750) | Yihang Chen | 124 HF upvotes · v 124 | 124 HF upvotes · "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Age" · model release |
 | [Dr. Claw: An AI Scientist Workspace for Vibe Research](https://huggingface.co/papers/2609.00365) | Dingjie Song | 123 HF upvotes · v 123 | 123 HF upvotes · "Dr. Claw: An AI Scientist Workspace for Vibe Research" · model release |
-| [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://huggingface.co/papers/2609.02750) | Yihang Chen | 123 HF upvotes · v 123 | 123 HF upvotes · "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Age" · model release |
 | [RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning](https://huggingface.co/papers/2609.03199) | Howard Qian | 116 HF upvotes · v 116 | 116 HF upvotes · "RoboTok: An Internet-Scale Data Engine for Human Demonstration Retriev" · model release |
 | [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 64 HF upvotes · v 64 | 64 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
 
@@ -40,13 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (3)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [I was an intern under Seb in 2020. Unfortunately, the allegations of unscrupulous behavior is 100% believable…](https://x.com/dheeraj_nagaraj/status/2097266146445774924) | [@dheeraj_nagaraj](https://x.com/dheeraj_nagaraj) | 3617♥ 176RT · v 1365 | 1365 velocity · 3617♥ 176RT · 607849 views · 9h old |
-| [tristan buckmaster just published a statement that is, if accurate, one of the ugliest things i’ve read out o…](https://x.com/rynorhn/status/2097223532438487463)<br>![card](https://pbs.twimg.com/media/HRrVq5dbAAAQ78M.jpg?name=orig) | [@rynorhn](https://x.com/rynorhn) | 4290♥ 567RT · v 604 | 604 velocity · 4290♥ 567RT · 390449 views · 11h old |
-| [i recreated adobe lightroom with astra and it’s at full feature parity (for the features i use)](https://x.com/sharifshameem/status/2097213330507403711)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2097212042407247872/img/fCJs-mpAp_VwhQnD.jpg) | [@sharifshameem](https://x.com/sharifshameem) | 316♥ 16RT · v 32.4 | 32 velocity · 316♥ 16RT · 22760 views · 12h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
