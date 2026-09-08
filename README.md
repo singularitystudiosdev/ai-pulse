@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-08 15:07 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-08 15:12 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,12 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [levent is a really sweet guy with great intentions, am so happy for him that his year long collaboration with…](https://x.com/_sholtodouglas/status/2097218331690578000) | [@_sholtodouglas](https://x.com/_sholtodouglas) | 568♥ 20RT · v 383.6 | 384 velocity · 568♥ 20RT · 160890 views · 8h old |
-| [Seb is a really sweet guy with great intentions, am so happy for him that his week long collaboration with my…](https://x.com/polynoamial/status/2097215233119211902) | [@polynoamial](https://x.com/polynoamial) | 754♥ 32RT · v 328.4 | 328 velocity · 754♥ 32RT · 140857 views · 8h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
