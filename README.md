@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-08 19:11 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-08 19:17 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://huggingface.co/papers/2609.02750) | Yihang Chen | 125 HF upvotes · v 125 | 125 HF upvotes · "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Age" · model release |
 | [Dr. Claw: An AI Scientist Workspace for Vibe Research](https://huggingface.co/papers/2609.00365) | Dingjie Song | 123 HF upvotes · v 123 | 123 HF upvotes · "Dr. Claw: An AI Scientist Workspace for Vibe Research" · model release |
 | [RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning](https://huggingface.co/papers/2609.03199) | Howard Qian | 116 HF upvotes · v 116 | 116 HF upvotes · "RoboTok: An Internet-Scale Data Engine for Human Demonstration Retriev" · model release |
-| [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 64 HF upvotes · v 64 | 64 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
+| [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 65 HF upvotes · v 65 | 65 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
