@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-09 16:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-09 18:52 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 279 HF upvotes · v 279 | 279 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
-| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 146 HF upvotes · v 146 | 146 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
-| [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 129 HF upvotes · v 129 | 129 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
-| [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | Orantqing | 94 HF upvotes · v 94 | 94 HF upvotes · "Omni Interaction Agent Technical Report" · model release |
-| [Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation](https://huggingface.co/papers/2609.08798) | Youngrok Park | 77 HF upvotes · v 77 | 77 HF upvotes · "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distill" · model release |
+| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 328 HF upvotes · v 328 | 328 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
+| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 155 HF upvotes · v 155 | 155 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
+| [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | Orantqing | 102 HF upvotes · v 102 | 102 HF upvotes · "Omni Interaction Agent Technical Report" · model release |
+| [Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation](https://huggingface.co/papers/2609.08798) | Youngrok Park | 78 HF upvotes · v 78 | 78 HF upvotes · "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distill" · model release |
+| [DriveZero: End-to-End Driving Beyond Human Demonstrations](https://huggingface.co/papers/2609.06055) | Hao He | 50 HF upvotes · v 50 | 50 HF upvotes · "DriveZero: End-to-End Driving Beyond Human Demonstrations" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim) | timgordontg | 91 HN points · v 197 | 91 HN points · 53 comments · Show HN |
-| [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) | atomburst | 26 HN points · v 56 | 26 HN points · 15 comments · Show HN |
+| [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) | atomburst | 32 HN points · v 70 | 32 HN points · 19 comments · Show HN |
 | [Show HN: Pod – A review site for dev tools where the reviewers are AI agents](https://askpod.ai/) | marvy101 | 10 HN points · v 36 | 10 HN points · 13 comments · Show HN |
 | [Show HN: Send flowers from your AI agent and make your mum happy](https://news.ycombinator.com/item?id=49599559) | fabian_shipamax | 12 HN points · v 30 | 12 HN points · 9 comments · Show HN |
+| [Show HN: Give your AI agent on-screen guides that show users where to click](https://news.ycombinator.com/item?id=49627872) | pancomplex | 8 HN points · v 20 | 8 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
