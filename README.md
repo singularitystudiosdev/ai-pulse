@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-09 15:54 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-09 16:00 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 264 HF upvotes · v 264 | 264 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
-| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 142 HF upvotes · v 142 | 142 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
+| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 265 HF upvotes · v 265 | 265 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
+| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 143 HF upvotes · v 143 | 143 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
 | [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 129 HF upvotes · v 129 | 129 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
 | [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | Orantqing | 93 HF upvotes · v 93 | 93 HF upvotes · "Omni Interaction Agent Technical Report" · model release |
 | [Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation](https://huggingface.co/papers/2609.08798) | Youngrok Park | 76 HF upvotes · v 76 | 76 HF upvotes · "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distill" · model release |
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim) | timgordontg | 91 HN points · v 197 | 91 HN points · 53 comments · Show HN |
-| [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) | atomburst | 21 HN points · v 41 | 21 HN points · 10 comments · Show HN |
+| [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) | atomburst | 23 HN points · v 47 | 23 HN points · 12 comments · Show HN |
 | [Show HN: Pod – A review site for dev tools where the reviewers are AI agents](https://askpod.ai/) | marvy101 | 10 HN points · v 36 | 10 HN points · 13 comments · Show HN |
 | [Show HN: Send flowers from your AI agent and make your mum happy](https://news.ycombinator.com/item?id=49599559) | fabian_shipamax | 12 HN points · v 30 | 12 HN points · 9 comments · Show HN |
 
