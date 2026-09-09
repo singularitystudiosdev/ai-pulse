@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-09 19:42 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-09 21:29 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 349 HF upvotes · v 349 | 349 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
-| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 162 HF upvotes · v 162 | 162 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
-| [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | Orantqing | 103 HF upvotes · v 103 | 103 HF upvotes · "Omni Interaction Agent Technical Report" · model release |
+| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 365 HF upvotes · v 365 | 365 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
+| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 167 HF upvotes · v 167 | 167 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
+| [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | Orantqing | 109 HF upvotes · v 109 | 109 HF upvotes · "Omni Interaction Agent Technical Report" · model release |
 | [Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation](https://huggingface.co/papers/2609.08798) | Youngrok Park | 78 HF upvotes · v 78 | 78 HF upvotes · "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distill" · model release |
 | [DriveZero: End-to-End Driving Beyond Human Demonstrations](https://huggingface.co/papers/2609.06055) | Hao He | 50 HF upvotes · v 50 | 50 HF upvotes · "DriveZero: End-to-End Driving Beyond Human Demonstrations" · model release |
 
@@ -31,18 +31,20 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) | atomburst | 33 HN points · v 71 | 33 HN points · 19 comments · Show HN |
+| [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) | atomburst | 39 HN points · v 77 | 39 HN points · 19 comments · Show HN |
+| [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock) | dimitrismrtzs | 25 HN points · v 39 | 25 HN points · 7 comments · Show HN |
 | [Show HN: Send flowers from your AI agent and make your mum happy](https://news.ycombinator.com/item?id=49599559) | fabian_shipamax | 13 HN points · v 31 | 13 HN points · 9 comments · Show HN |
-| [Show HN: Give your AI agent on-screen guides that show users where to click](https://news.ycombinator.com/item?id=49627872) | pancomplex | 9 HN points · v 23 | 9 HN points · 7 comments · Show HN |
-| [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock) | dimitrismrtzs | 16 HN points · v 22 | 16 HN points · 3 comments · Show HN |
+| [Show HN: Give your AI agent on-screen guides that show users where to click](https://news.ycombinator.com/item?id=49627872) | pancomplex | 12 HN points · v 26 | 12 HN points · 7 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [To add a bit of clarity about who proved what.  Tristan + Levent: 3d incompressible Euler with forcing OpenAI…](https://x.com/IlinVasily29521/status/2097554700321329393) | [@IlinVasily29521](https://x.com/IlinVasily29521) | 1660♥ 135RT · v 96.5 | 97 velocity · 1660♥ 135RT · 105849 views · 16h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
