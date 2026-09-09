@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-09 06:53 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-09 06:58 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,9 +23,9 @@
 |---|---|---|---|
 | [Dr. Claw: An AI Scientist Workspace for Vibe Research](https://huggingface.co/papers/2609.00365) | Dingjie Song | 126 HF upvotes · v 126 | 126 HF upvotes · "Dr. Claw: An AI Scientist Workspace for Vibe Research" · model release |
 | [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 122 HF upvotes · v 122 | 122 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
-| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 101 HF upvotes · v 101 | 101 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
+| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 103 HF upvotes · v 103 | 103 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
 | [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | Zixun Huang | 84 HF upvotes · v 84 | 84 HF upvotes · "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoni" · model release |
-| [Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation](https://huggingface.co/papers/2609.08798) | Youngrok Park | 47 HF upvotes · v 47 | 47 HF upvotes · "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distill" · model release |
+| [Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation](https://huggingface.co/papers/2609.08798) | Youngrok Park | 48 HF upvotes · v 48 | 48 HF upvotes · "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distill" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
