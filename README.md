@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-09 07:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-09 11:52 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Dr. Claw: An AI Scientist Workspace for Vibe Research](https://huggingface.co/papers/2609.00365) | Dingjie Song | 126 HF upvotes · v 126 | 126 HF upvotes · "Dr. Claw: An AI Scientist Workspace for Vibe Research" · model release |
-| [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 122 HF upvotes · v 122 | 122 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
-| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 113 HF upvotes · v 113 | 113 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
-| [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | Zixun Huang | 84 HF upvotes · v 84 | 84 HF upvotes · "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoni" · model release |
-| [Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation](https://huggingface.co/papers/2609.08798) | Youngrok Park | 50 HF upvotes · v 50 | 50 HF upvotes · "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distill" · model release |
+| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 193 HF upvotes · v 193 | 193 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
+| [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 127 HF upvotes · v 127 | 127 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
+| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 114 HF upvotes · v 114 | 114 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
+| [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | Zixun Huang | 86 HF upvotes · v 86 | 86 HF upvotes · "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoni" · model release |
+| [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | Orantqing | 78 HF upvotes · v 78 | 78 HF upvotes · "Omni Interaction Agent Technical Report" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim) | timgordontg | 90 HN points · v 196 | 90 HN points · 53 comments · Show HN |
+| [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim) | timgordontg | 91 HN points · v 197 | 91 HN points · 53 comments · Show HN |
 | [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/) | coopernusbaum | 38 HN points · v 64 | 38 HN points · 13 comments · Show HN |
 | [Show HN: Pod – A review site for dev tools where the reviewers are AI agents](https://askpod.ai/) | marvy101 | 10 HN points · v 36 | 10 HN points · 13 comments · Show HN |
 | [Show HN: Send flowers from your AI agent and make your mum happy](https://news.ycombinator.com/item?id=49599559) | fabian_shipamax | 12 HN points · v 30 | 12 HN points · 9 comments · Show HN |
@@ -40,9 +40,12 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (2)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [@__alpoge__ Did you use any nonpublic Ant model during any of this?](https://x.com/giffmana/status/2097560503581069585) | [@giffmana](https://x.com/giffmana) | 174♥ 2RT · v 53 | 53 velocity · 174♥ 2RT · 14446 views · 6h old |
+| [As recently as April this year, prediction markets gave AI less than a 40% chance of solving any Millennium P…](https://x.com/dioscuri/status/2097418466571485272)<br>![card](https://pbs.twimg.com/media/HRuG-gyb0AArMy6.jpg?name=orig) | [@dioscuri](https://x.com/dioscuri) | 1125♥ 96RT · v 51.2 | 51 velocity · 1125♥ 96RT · 50344 views · 16h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
