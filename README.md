@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-09 12:40 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-09 15:48 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 195 HF upvotes · v 195 | 195 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
-| [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 127 HF upvotes · v 127 | 127 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
-| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 121 HF upvotes · v 121 | 121 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
-| [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | Zixun Huang | 87 HF upvotes · v 87 | 87 HF upvotes · "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoni" · model release |
-| [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | Orantqing | 83 HF upvotes · v 83 | 83 HF upvotes · "Omni Interaction Agent Technical Report" · model release |
+| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 262 HF upvotes · v 262 | 262 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
+| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 142 HF upvotes · v 142 | 142 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
+| [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 129 HF upvotes · v 129 | 129 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
+| [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | Orantqing | 93 HF upvotes · v 93 | 93 HF upvotes · "Omni Interaction Agent Technical Report" · model release |
+| [Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation](https://huggingface.co/papers/2609.08798) | Youngrok Park | 76 HF upvotes · v 76 | 76 HF upvotes · "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distill" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim) | timgordontg | 91 HN points · v 197 | 91 HN points · 53 comments · Show HN |
-| [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/) | coopernusbaum | 38 HN points · v 64 | 38 HN points · 13 comments · Show HN |
+| [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) | atomburst | 19 HN points · v 39 | 19 HN points · 10 comments · Show HN |
 | [Show HN: Pod – A review site for dev tools where the reviewers are AI agents](https://askpod.ai/) | marvy101 | 10 HN points · v 36 | 10 HN points · 13 comments · Show HN |
 | [Show HN: Send flowers from your AI agent and make your mum happy](https://news.ycombinator.com/item?id=49599559) | fabian_shipamax | 12 HN points · v 30 | 12 HN points · 9 comments · Show HN |
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [The people building AI earnestly believe that it could kill us all by the end of the decade. This is not a ma…](https://x.com/hilbertspaess/status/2097476203863224394) | [@hilbertspaess](https://x.com/hilbertspaess) | 80302♥ 8888RT · v 14222.1 | 14222 velocity · 80302♥ 8888RT · 16074797 views · 16h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
