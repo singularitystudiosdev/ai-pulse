@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-09 11:57 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-09 12:02 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,9 +23,9 @@
 |---|---|---|---|
 | [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 193 HF upvotes · v 193 | 193 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
 | [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 127 HF upvotes · v 127 | 127 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
-| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 114 HF upvotes · v 114 | 114 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
+| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 115 HF upvotes · v 115 | 115 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
 | [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | Zixun Huang | 86 HF upvotes · v 86 | 86 HF upvotes · "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoni" · model release |
-| [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | Orantqing | 79 HF upvotes · v 79 | 79 HF upvotes · "Omni Interaction Agent Technical Report" · model release |
+| [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | Orantqing | 80 HF upvotes · v 80 | 80 HF upvotes · "Omni Interaction Agent Technical Report" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
