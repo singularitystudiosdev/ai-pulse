@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-09 21:29 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-09 21:34 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 365 HF upvotes · v 365 | 365 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
+| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 366 HF upvotes · v 366 | 366 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
 | [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 167 HF upvotes · v 167 | 167 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
 | [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | Orantqing | 109 HF upvotes · v 109 | 109 HF upvotes · "Omni Interaction Agent Technical Report" · model release |
 | [Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation](https://huggingface.co/papers/2609.08798) | Youngrok Park | 78 HF upvotes · v 78 | 78 HF upvotes · "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distill" · model release |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [To add a bit of clarity about who proved what.  Tristan + Levent: 3d incompressible Euler with forcing OpenAI…](https://x.com/IlinVasily29521/status/2097554700321329393) | [@IlinVasily29521](https://x.com/IlinVasily29521) | 1660♥ 135RT · v 96.5 | 97 velocity · 1660♥ 135RT · 105849 views · 16h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
