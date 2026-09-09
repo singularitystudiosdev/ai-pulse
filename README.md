@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-09 00:22 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-09 01:31 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://huggingface.co/papers/2609.02750) | Yihang Chen | 130 HF upvotes · v 130 | 130 HF upvotes · "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Age" · model release |
 | [Dr. Claw: An AI Scientist Workspace for Vibe Research](https://huggingface.co/papers/2609.00365) | Dingjie Song | 125 HF upvotes · v 125 | 125 HF upvotes · "Dr. Claw: An AI Scientist Workspace for Vibe Research" · model release |
 | [RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning](https://huggingface.co/papers/2609.03199) | Howard Qian | 116 HF upvotes · v 116 | 116 HF upvotes · "RoboTok: An Internet-Scale Data Engine for Human Demonstration Retriev" · model release |
-| [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 111 HF upvotes · v 111 | 111 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
+| [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 115 HF upvotes · v 115 | 115 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
 | [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | Zixun Huang | 81 HF upvotes · v 81 | 81 HF upvotes · "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoni" · model release |
 
 ### 🚀 AI SaaS launches (4)
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [This vial contains a new drug called PAC-3310. It was designed by ChatGPT, and I synthesized it in a chemistr…](https://x.com/DouglasYaoDY/status/2097377733466800489)<br>![card](https://pbs.twimg.com/media/HRth7ssaAAAr9AQ.jpg?name=orig) | [@DouglasYaoDY](https://x.com/DouglasYaoDY) | 6444♥ 403RT · v 3657.5 | 3658 velocity · 6444♥ 403RT · 1479701 views · 8h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
