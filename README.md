@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-09 06:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-09 06:43 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](https://huggingface.co/papers/2609.02750) | Yihang Chen | 132 HF upvotes · v 132 | 132 HF upvotes · "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Age" · model release |
 | [Dr. Claw: An AI Scientist Workspace for Vibe Research](https://huggingface.co/papers/2609.00365) | Dingjie Song | 126 HF upvotes · v 126 | 126 HF upvotes · "Dr. Claw: An AI Scientist Workspace for Vibe Research" · model release |
 | [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://huggingface.co/papers/2609.04010) | Subham Sekhar Sahoo | 122 HF upvotes · v 122 | 122 HF upvotes · "Unlocking Lossless Speedups in LLMs via Discrete Diffusion" · model release |
-| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 96 HF upvotes · v 96 | 96 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
-| [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | Zixun Huang | 83 HF upvotes · v 83 | 83 HF upvotes · "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoni" · model release |
+| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 97 HF upvotes · v 97 | 97 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
+| [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) | Zixun Huang | 84 HF upvotes · v 84 | 84 HF upvotes · "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoni" · model release |
+| [Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation](https://huggingface.co/papers/2609.08798) | Youngrok Park | 46 HF upvotes · v 46 | 46 HF upvotes · "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distill" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -40,12 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [wtf is this way to handle mathematicians work and scientific communication  TLDR: Leven and Tristan worked ov…](https://x.com/Thom_Wolf/status/2097215782484607029)<br>![card](https://pbs.twimg.com/media/HRrOoxqbYAA5y5X.jpg?name=orig) | [@Thom_Wolf](https://x.com/Thom_Wolf) | 2649♥ 337RT · v 277.8 | 278 velocity · 2649♥ 337RT · 619466 views · 24h old |
-| [@PI010101 it is exceptionally unlikely that anything they ever did made it into any part of training, and the…](https://x.com/tszzl/status/2097393423808377173) | [@tszzl](https://x.com/tszzl) | 665♥ 31RT · v 50.4 | 50 velocity · 665♥ 31RT · 34016 views · 12h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
