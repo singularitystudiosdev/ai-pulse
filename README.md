@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-09 19:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-09 19:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 336 HF upvotes · v 336 | 336 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
-| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 157 HF upvotes · v 157 | 157 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
+| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 339 HF upvotes · v 339 | 339 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
+| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 158 HF upvotes · v 158 | 158 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
 | [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | Orantqing | 103 HF upvotes · v 103 | 103 HF upvotes · "Omni Interaction Agent Technical Report" · model release |
 | [Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation](https://huggingface.co/papers/2609.08798) | Youngrok Park | 78 HF upvotes · v 78 | 78 HF upvotes · "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distill" · model release |
 | [DriveZero: End-to-End Driving Beyond Human Demonstrations](https://huggingface.co/papers/2609.06055) | Hao He | 50 HF upvotes · v 50 | 50 HF upvotes · "DriveZero: End-to-End Driving Beyond Human Demonstrations" · model release |
