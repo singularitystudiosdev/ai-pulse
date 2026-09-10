@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-10 11:39 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-10 11:44 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,17 +34,15 @@
 | [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) | atomburst | 45 HN points · v 89 | 45 HN points · 22 comments · Show HN |
 | [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock) | dimitrismrtzs | 45 HN points · v 69 | 45 HN points · 12 comments · Show HN |
 | [Show HN: Give your AI agent on-screen guides that show users where to click](https://news.ycombinator.com/item?id=49627872) | pancomplex | 18 HN points · v 34 | 18 HN points · 8 comments · Show HN |
-| [Show HN: Send flowers from your AI agent and make your mum happy](https://news.ycombinator.com/item?id=49599559) | fabian_shipamax | 13 HN points · v 33 | 13 HN points · 10 comments · Show HN |
+| [Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI](https://sparrow2.tavuslabs.org/) | code_brian | 11 HN points · v 21 | 11 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Worth clarifying that this is flatly false and the two options are just two independent ways to opt-out.  We …](https://x.com/thsottiaux/status/2097746417012166816) | [@thsottiaux](https://x.com/thsottiaux) | 3709♥ 158RT · v 543.6 | 544 velocity · 3709♥ 158RT · 746801 views · 18h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
