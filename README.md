@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-10 21:30 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-10 21:35 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | Yanzhe Chen | 106 HF upvotes · v 106 | 106 HF upvotes · "Show-Harness: Just a VLM Agent Can Play Robots" · model release |
-| [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 70 HF upvotes · v 70 | 70 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
-| [Programmable World Model](https://huggingface.co/papers/2609.10540) | Zheng-Hui Huang | 66 HF upvotes · v 66 | 66 HF upvotes · "Programmable World Model" · model release |
+| [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | Yanzhe Chen | 107 HF upvotes · v 107 | 107 HF upvotes · "Show-Harness: Just a VLM Agent Can Play Robots" · model release |
+| [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 71 HF upvotes · v 71 | 71 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
+| [Programmable World Model](https://huggingface.co/papers/2609.10540) | Zheng-Hui Huang | 67 HF upvotes · v 67 | 67 HF upvotes · "Programmable World Model" · model release |
 | [OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining](https://huggingface.co/papers/2609.07398) | Yuran Wang | 59 HF upvotes · v 59 | 59 HF upvotes · "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action " · model release |
 | [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](https://huggingface.co/papers/2609.08084) | Igor Pavlovic | 48 HF upvotes · v 48 | 48 HF upvotes · "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Est" · model release |
 
