@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-10 19:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-10 19:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | Yanzhe Chen | 90 HF upvotes · v 90 | 90 HF upvotes · "Show-Harness: Just a VLM Agent Can Play Robots" · model release |
+| [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | Yanzhe Chen | 91 HF upvotes · v 91 | 91 HF upvotes · "Show-Harness: Just a VLM Agent Can Play Robots" · model release |
 | [Programmable World Model](https://huggingface.co/papers/2609.10540) | Zheng-Hui Huang | 62 HF upvotes · v 62 | 62 HF upvotes · "Programmable World Model" · model release |
 | [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 59 HF upvotes · v 59 | 59 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
 | [OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining](https://huggingface.co/papers/2609.07398) | Yuran Wang | 59 HF upvotes · v 59 | 59 HF upvotes · "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action " · model release |
