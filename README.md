@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-10 15:44 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-10 15:49 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | Yanzhe Chen | 67 HF upvotes · v 67 | 67 HF upvotes · "Show-Harness: Just a VLM Agent Can Play Robots" · model release |
+| [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | Yanzhe Chen | 68 HF upvotes · v 68 | 68 HF upvotes · "Show-Harness: Just a VLM Agent Can Play Robots" · model release |
 | [OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining](https://huggingface.co/papers/2609.07398) | Yuran Wang | 59 HF upvotes · v 59 | 59 HF upvotes · "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action " · model release |
 | [Programmable World Model](https://huggingface.co/papers/2609.10540) | Zheng-Hui Huang | 52 HF upvotes · v 52 | 52 HF upvotes · "Programmable World Model" · model release |
 | [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](https://huggingface.co/papers/2609.08084) | Igor Pavlovic | 48 HF upvotes · v 48 | 48 HF upvotes · "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Est" · model release |
