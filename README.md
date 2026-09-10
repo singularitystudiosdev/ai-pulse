@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-10 18:31 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-10 18:36 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | Yanzhe Chen | 85 HF upvotes · v 85 | 85 HF upvotes · "Show-Harness: Just a VLM Agent Can Play Robots" · model release |
 | [Programmable World Model](https://huggingface.co/papers/2609.10540) | Zheng-Hui Huang | 62 HF upvotes · v 62 | 62 HF upvotes · "Programmable World Model" · model release |
 | [OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining](https://huggingface.co/papers/2609.07398) | Yuran Wang | 59 HF upvotes · v 59 | 59 HF upvotes · "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action " · model release |
-| [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 56 HF upvotes · v 56 | 56 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
+| [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 57 HF upvotes · v 57 | 57 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
 | [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](https://huggingface.co/papers/2609.08084) | Igor Pavlovic | 48 HF upvotes · v 48 | 48 HF upvotes · "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Est" · model release |
 
 ### 🚀 AI SaaS launches (4)
@@ -34,17 +34,15 @@
 | [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) | atomburst | 47 HN points · v 95 | 47 HN points · 24 comments · Show HN |
 | [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock) | dimitrismrtzs | 46 HN points · v 74 | 46 HN points · 14 comments · Show HN |
 | [Show HN: Give your AI agent on-screen guides that show users where to click](https://news.ycombinator.com/item?id=49627872) | pancomplex | 18 HN points · v 34 | 18 HN points · 8 comments · Show HN |
-| [@tinrab one of the guys behind vitess he also hasn't touched it since 2021 perfectly coincides with actual su…](https://x.com/samlambert/status/2098075451373834681) | [@samlambert](https://x.com/samlambert) | 38♥ 0RT · v 19.3 | 19 velocity · 38♥ 0RT · 1887 views · 3h old · matched "shipped" |
+| [Show HN: MultiMatte, a Promptable Image Background Removal Model](https://usefeyn.com/blog/multimatte/) | snyy | 10 HN points · v 18 | 10 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [I love posts like this "petabyte scale" it doesn't even exist. Neki is done and one of the first workloads is…](https://x.com/samlambert/status/2098069474205470970)<br>![card](https://pbs.twimg.com/media/HR3WPSJbAAAlCou.png?name=orig) | [@samlambert](https://x.com/samlambert) | 173♥ 0RT · v 123.4 | 123 velocity · 173♥ 0RT · 14631 views · 3h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
