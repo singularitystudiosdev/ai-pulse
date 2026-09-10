@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-10 00:17 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-10 01:23 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) | atomburst | 44 HN points · v 84 | 44 HN points · 20 comments · Show HN |
-| [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock) | dimitrismrtzs | 37 HN points · v 55 | 37 HN points · 9 comments · Show HN |
+| [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock) | dimitrismrtzs | 41 HN points · v 61 | 41 HN points · 10 comments · Show HN |
 | [Show HN: Give your AI agent on-screen guides that show users where to click](https://news.ycombinator.com/item?id=49627872) | pancomplex | 17 HN points · v 33 | 17 HN points · 8 comments · Show HN |
 | [Show HN: Send flowers from your AI agent and make your mum happy](https://news.ycombinator.com/item?id=49599559) | fabian_shipamax | 13 HN points · v 31 | 13 HN points · 9 comments · Show HN |
 
