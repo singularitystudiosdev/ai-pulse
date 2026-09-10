@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-10 12:16 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-10 12:21 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 187 HF upvotes · v 187 | 187 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
+| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 188 HF upvotes · v 188 | 188 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
 | [OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining](https://huggingface.co/papers/2609.07398) | Yuran Wang | 59 HF upvotes · v 59 | 59 HF upvotes · "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action " · model release |
 | [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | Yanzhe Chen | 51 HF upvotes · v 51 | 51 HF upvotes · "Show-Harness: Just a VLM Agent Can Play Robots" · model release |
 | [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](https://huggingface.co/papers/2609.08084) | Igor Pavlovic | 48 HF upvotes · v 48 | 48 HF upvotes · "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Est" · model release |
