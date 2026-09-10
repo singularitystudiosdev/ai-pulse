@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-10 02:06 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-10 02:11 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness](https://huggingface.co/papers/2609.08183) | NeoHorse Team | 377 HF upvotes · v 377 | 377 HF upvotes · "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Traini" · model release |
 | [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 179 HF upvotes · v 179 | 179 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
 | [Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977) | Orantqing | 116 HF upvotes · v 116 | 116 HF upvotes · "Omni Interaction Agent Technical Report" · model release |
 | [Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation](https://huggingface.co/papers/2609.08798) | Youngrok Park | 80 HF upvotes · v 80 | 80 HF upvotes · "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distill" · model release |
 | [OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining](https://huggingface.co/papers/2609.07398) | Yuran Wang | 50 HF upvotes · v 50 | 50 HF upvotes · "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action " · model release |
+| [GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation](https://huggingface.co/papers/2609.05588) | AgiBot Research Team | 46 HF upvotes · v 46 | 46 HF upvotes · "GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic M" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
