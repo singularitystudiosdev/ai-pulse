@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-10 12:26 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-10 15:11 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936) | Ziyang Ma | 188 HF upvotes · v 188 | 188 HF upvotes · "AuK Technical Report: An Open-Source Foundational Model for Speech Gen" · model release |
+| [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | Yanzhe Chen | 64 HF upvotes · v 64 | 64 HF upvotes · "Show-Harness: Just a VLM Agent Can Play Robots" · model release |
 | [OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining](https://huggingface.co/papers/2609.07398) | Yuran Wang | 59 HF upvotes · v 59 | 59 HF upvotes · "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action " · model release |
-| [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | Yanzhe Chen | 51 HF upvotes · v 51 | 51 HF upvotes · "Show-Harness: Just a VLM Agent Can Play Robots" · model release |
+| [Programmable World Model](https://huggingface.co/papers/2609.10540) | Zheng-Hui Huang | 50 HF upvotes · v 50 | 50 HF upvotes · "Programmable World Model" · model release |
 | [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](https://huggingface.co/papers/2609.08084) | Igor Pavlovic | 48 HF upvotes · v 48 | 48 HF upvotes · "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Est" · model release |
-| [Programmable World Model](https://huggingface.co/papers/2609.10540) | Zheng-Hui Huang | 39 HF upvotes · v 39 | 39 HF upvotes · "Programmable World Model" · model release |
+| [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 45 HF upvotes · v 45 | 45 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) | atomburst | 45 HN points · v 89 | 45 HN points · 22 comments · Show HN |
-| [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock) | dimitrismrtzs | 45 HN points · v 69 | 45 HN points · 12 comments · Show HN |
+| [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) | atomburst | 46 HN points · v 94 | 46 HN points · 24 comments · Show HN |
+| [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock) | dimitrismrtzs | 46 HN points · v 70 | 46 HN points · 12 comments · Show HN |
 | [Show HN: Give your AI agent on-screen guides that show users where to click](https://news.ycombinator.com/item?id=49627872) | pancomplex | 18 HN points · v 34 | 18 HN points · 8 comments · Show HN |
 | [Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI](https://sparrow2.tavuslabs.org/) | code_brian | 11 HN points · v 21 | 11 HN points · 5 comments · Show HN |
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Never thought I'd live to see the day when OpenAI gov affairs claims to have supported all the bills they lob…](https://x.com/AlexBores/status/2097846545408262403)<br>![card](https://pbs.twimg.com/media/HR0MTrjaAAAmBnc.jpg?name=orig) | [@AlexBores](https://x.com/AlexBores) | 583♥ 83RT · v 69.1 | 69 velocity · 583♥ 83RT · 66858 views · 15h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
