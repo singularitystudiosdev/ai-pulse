@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-11 01:18 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-11 01:23 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | Yanzhe Chen | 127 HF upvotes · v 127 | 127 HF upvotes · "Show-Harness: Just a VLM Agent Can Play Robots" · model release |
 | [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 86 HF upvotes · v 86 | 86 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
 | [Programmable World Model](https://huggingface.co/papers/2609.10540) | Zheng-Hui Huang | 81 HF upvotes · v 81 | 81 HF upvotes · "Programmable World Model" · model release |
-| [OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining](https://huggingface.co/papers/2609.07398) | Yuran Wang | 60 HF upvotes · v 60 | 60 HF upvotes · "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action " · model release |
+| [OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining](https://huggingface.co/papers/2609.07398) | Yuran Wang | 61 HF upvotes · v 61 | 61 HF upvotes · "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action " · model release |
 | [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](https://huggingface.co/papers/2609.08084) | Igor Pavlovic | 49 HF upvotes · v 49 | 49 HF upvotes · "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Est" · model release |
 
 ### 🚀 AI SaaS launches (4)
