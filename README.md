@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-11 01:28 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-11 01:34 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) | atomburst | 47 HN points · v 95 | 47 HN points · 24 comments · Show HN |
 | [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock) | dimitrismrtzs | 46 HN points · v 74 | 46 HN points · 14 comments · Show HN |
-| [Show HN: MultiMatte, a Promptable Image Background Removal Model](https://usefeyn.com/blog/multimatte/) | snyy | 41 HN points · v 57 | 41 HN points · 8 comments · Show HN |
+| [Show HN: MultiMatte, a Promptable Image Background Removal Model](https://usefeyn.com/blog/multimatte/) | snyy | 42 HN points · v 58 | 42 HN points · 8 comments · Show HN |
 | [Show HN: Give your AI agent on-screen guides that show users where to click](https://news.ycombinator.com/item?id=49627872) | pancomplex | 19 HN points · v 35 | 19 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
