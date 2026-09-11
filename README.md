@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-11 06:04 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-11 06:09 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [Scaling Automatic Research Agents via World Models](https://huggingface.co/papers/2608.12564) | Xiyuan Yang | 431 HF upvotes · v 431 | 431 HF upvotes · "Scaling Automatic Research Agents via World Models" · model release |
 | [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | Yanzhe Chen | 131 HF upvotes · v 131 | 131 HF upvotes · "Show-Harness: Just a VLM Agent Can Play Robots" · model release |
-| [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 93 HF upvotes · v 93 | 93 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
+| [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 94 HF upvotes · v 94 | 94 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
 | [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 88 HF upvotes · v 88 | 88 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
 | [Programmable World Model](https://huggingface.co/papers/2609.10540) | Zheng-Hui Huang | 81 HF upvotes · v 81 | 81 HF upvotes · "Programmable World Model" · model release |
 
