@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-11 15:06 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-11 15:11 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [Scaling Automatic Research Agents via World Models](https://huggingface.co/papers/2608.12564) | Xiyuan Yang | 434 HF upvotes · v 434 | 434 HF upvotes · "Scaling Automatic Research Agents via World Models" · model release |
 | [Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522) | Yanzhe Chen | 134 HF upvotes · v 134 | 134 HF upvotes · "Show-Harness: Just a VLM Agent Can Play Robots" · model release |
-| [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 127 HF upvotes · v 127 | 127 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
+| [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 129 HF upvotes · v 129 | 129 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
 | [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 99 HF upvotes · v 99 | 99 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
 | [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 89 HF upvotes · v 89 | 89 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
 
