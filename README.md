@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-11 11:19 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-11 11:24 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,9 +40,12 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (2)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [I gave the fly brain $100 to trade bitcoin.  Dopamine neurons are stimulated when the fly makes profit. Neuro…](https://x.com/nftechie_/status/2098012107652391357)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2097893699925458948/img/LOeUzu35T_s5f70k.jpg) | [@nftechie_](https://x.com/nftechie_) | 26940♥ 1892RT · v 1361.4 | 1361 velocity · 26940♥ 1892RT · 2945995 views · 24h old |
+| [I wireheaded the fly and forced it to doomscroll flytok.  Dopamine neurons are measured and artificially enha…](https://x.com/mattyhempstead/status/2098106361355841816)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2098105485014745088/img/NXYTdvZEFU5mty2d.jpg) | [@mattyhempstead](https://x.com/mattyhempstead) | 20259♥ 1611RT · v 574.1 | 574 velocity · 20259♥ 1611RT · 643790 views · 18h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
