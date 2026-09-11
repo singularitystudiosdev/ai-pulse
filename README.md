@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-11 18:51 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-11 18:56 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,15 +25,15 @@
 | [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 151 HF upvotes · v 151 | 151 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
 | [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 120 HF upvotes · v 120 | 120 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
 | [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 89 HF upvotes · v 89 | 89 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
-| [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 52 HF upvotes · v 52 | 52 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
+| [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 53 HF upvotes · v 53 | 53 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude) | postalcoder | 116 HN points · v 248 | 116 HN points · 66 comments · Show HN |
-| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 69 HN points · v 133 | 69 HN points · 32 comments · Show HN |
-| [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | 1nv1n | 56 HN points · v 124 | 56 HN points · 34 comments · Show HN |
+| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 75 HN points · v 139 | 75 HN points · 32 comments · Show HN |
+| [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | 1nv1n | 56 HN points · v 126 | 56 HN points · 35 comments · Show HN |
 | [Show HN: MultiMatte, a Promptable Image Background Removal Model](https://usefeyn.com/blog/multimatte/) | snyy | 53 HN points · v 69 | 53 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
