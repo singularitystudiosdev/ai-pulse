@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-12 01:51 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-12 01:56 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude) | postalcoder | 175 HN points · v 341 | 175 HN points · 83 comments · Show HN |
-| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 173 HN points · v 321 | 173 HN points · 74 comments · Show HN |
+| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 174 HN points · v 322 | 174 HN points · 74 comments · Show HN |
 | [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | 1nv1n | 81 HN points · v 165 | 81 HN points · 42 comments · Show HN |
 | [Show HN: MultiMatte, a Promptable Image Background Removal Model](https://usefeyn.com/blog/multimatte/) | snyy | 54 HN points · v 70 | 54 HN points · 8 comments · Show HN |
 
