@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-12 21:47 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-12 22:58 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude) | postalcoder | 197 HN points · v 369 | 197 HN points · 86 comments · Show HN |
-| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 191 HN points · v 351 | 191 HN points · 80 comments · Show HN |
+| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 192 HN points · v 352 | 192 HN points · 80 comments · Show HN |
 | [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | 1nv1n | 91 HN points · v 185 | 91 HN points · 47 comments · Show HN |
 | [Show HN: Clawfight.ai MCP-driven agentic game play](https://clawfight.ai/agents.md) | wesleyhales | 13 HN points · v 43 | 13 HN points · 15 comments · Show HN |
 
