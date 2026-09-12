@@ -15,25 +15,25 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-12 14:26 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-12 16:30 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Scaling Automatic Research Agents via World Models](https://huggingface.co/papers/2608.12564) | Xiyuan Yang | 442 HF upvotes · v 442 | 442 HF upvotes · "Scaling Automatic Research Agents via World Models" · model release |
-| [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 196 HF upvotes · v 196 | 196 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
-| [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 155 HF upvotes · v 155 | 155 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
-| [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 91 HF upvotes · v 91 | 91 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
-| [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 79 HF upvotes · v 79 | 79 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
+| [Scaling Automatic Research Agents via World Models](https://huggingface.co/papers/2608.12564) | Xiyuan Yang | 444 HF upvotes · v 444 | 444 HF upvotes · "Scaling Automatic Research Agents via World Models" · model release |
+| [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 202 HF upvotes · v 202 | 202 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
+| [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 166 HF upvotes · v 166 | 166 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
+| [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 92 HF upvotes · v 92 | 92 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
+| [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 84 HF upvotes · v 84 | 84 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude) | postalcoder | 193 HN points · v 365 | 193 HN points · 86 comments · Show HN |
-| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 189 HN points · v 347 | 189 HN points · 79 comments · Show HN |
-| [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | 1nv1n | 89 HN points · v 181 | 89 HN points · 46 comments · Show HN |
+| [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude) | postalcoder | 196 HN points · v 368 | 196 HN points · 86 comments · Show HN |
+| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 191 HN points · v 351 | 191 HN points · 80 comments · Show HN |
+| [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | 1nv1n | 90 HN points · v 182 | 90 HN points · 46 comments · Show HN |
 | [Show HN: Clawfight.ai MCP-driven agentic game play](https://clawfight.ai/agents.md) | wesleyhales | 13 HN points · v 43 | 13 HN points · 15 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
