@@ -15,25 +15,25 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-12 02:01 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-12 05:55 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Scaling Automatic Research Agents via World Models](https://huggingface.co/papers/2608.12564) | Xiyuan Yang | 437 HF upvotes · v 437 | 437 HF upvotes · "Scaling Automatic Research Agents via World Models" · model release |
-| [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 177 HF upvotes · v 177 | 177 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
-| [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 140 HF upvotes · v 140 | 140 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
-| [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 89 HF upvotes · v 89 | 89 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
-| [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 68 HF upvotes · v 68 | 68 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
+| [Scaling Automatic Research Agents via World Models](https://huggingface.co/papers/2608.12564) | Xiyuan Yang | 439 HF upvotes · v 439 | 439 HF upvotes · "Scaling Automatic Research Agents via World Models" · model release |
+| [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 189 HF upvotes · v 189 | 189 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
+| [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 150 HF upvotes · v 150 | 150 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
+| [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 90 HF upvotes · v 90 | 90 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
+| [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 78 HF upvotes · v 78 | 78 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude) | postalcoder | 175 HN points · v 341 | 175 HN points · 83 comments · Show HN |
-| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 174 HN points · v 322 | 174 HN points · 74 comments · Show HN |
-| [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | 1nv1n | 81 HN points · v 165 | 81 HN points · 42 comments · Show HN |
+| [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude) | postalcoder | 180 HN points · v 348 | 180 HN points · 84 comments · Show HN |
+| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 180 HN points · v 334 | 180 HN points · 77 comments · Show HN |
+| [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | 1nv1n | 85 HN points · v 171 | 85 HN points · 43 comments · Show HN |
 | [Show HN: MultiMatte, a Promptable Image Background Removal Model](https://usefeyn.com/blog/multimatte/) | snyy | 54 HN points · v 70 | 54 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
