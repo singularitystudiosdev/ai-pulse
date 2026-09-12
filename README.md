@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-12 16:46 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-12 16:51 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [Scaling Automatic Research Agents via World Models](https://huggingface.co/papers/2608.12564) | Xiyuan Yang | 444 HF upvotes · v 444 | 444 HF upvotes · "Scaling Automatic Research Agents via World Models" · model release |
 | [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 205 HF upvotes · v 205 | 205 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
-| [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 166 HF upvotes · v 166 | 166 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
+| [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 167 HF upvotes · v 167 | 167 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
 | [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 92 HF upvotes · v 92 | 92 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
 | [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 84 HF upvotes · v 84 | 84 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [I love this and really hope we can come together as an industry and make it happen.](https://x.com/karpathy/status/2098811935114551617)<br>![card](https://pbs.twimg.com/media/HSB1FkpboAAyGr5.png?name=orig) | [@karpathy](https://x.com/karpathy) | 554♥ 61RT · v 1393.8 | 1394 velocity · 554♥ 61RT · 37569 views · <1h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
