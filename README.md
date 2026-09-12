@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-12 01:45 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-12 01:51 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [Scaling Automatic Research Agents via World Models](https://huggingface.co/papers/2608.12564) | Xiyuan Yang | 437 HF upvotes · v 437 | 437 HF upvotes · "Scaling Automatic Research Agents via World Models" · model release |
 | [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 177 HF upvotes · v 177 | 177 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
-| [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 139 HF upvotes · v 139 | 139 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
+| [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 140 HF upvotes · v 140 | 140 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
 | [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 89 HF upvotes · v 89 | 89 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
 | [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 68 HF upvotes · v 68 | 68 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
 
@@ -31,8 +31,8 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude) | postalcoder | 174 HN points · v 340 | 174 HN points · 83 comments · Show HN |
-| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 172 HN points · v 320 | 172 HN points · 74 comments · Show HN |
+| [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude) | postalcoder | 175 HN points · v 341 | 175 HN points · 83 comments · Show HN |
+| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 173 HN points · v 321 | 173 HN points · 74 comments · Show HN |
 | [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | 1nv1n | 81 HN points · v 165 | 81 HN points · 42 comments · Show HN |
 | [Show HN: MultiMatte, a Promptable Image Background Removal Model](https://usefeyn.com/blog/multimatte/) | snyy | 54 HN points · v 70 | 54 HN points · 8 comments · Show HN |
 
