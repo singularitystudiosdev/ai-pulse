@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-13 05:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-13 05:42 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [safety cartel /ˈseɪf.ti kɑrˈtɛl/ noun  A coalition of dominant firms that invokes safety to justify coordinat…](https://x.com/alexwg/status/2098793433275985932) | [@alexwg](https://x.com/alexwg) | 843♥ 156RT · v 52.3 | 52 velocity · 843♥ 156RT · 44900 views · 14h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
