@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-13 15:29 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-13 17:41 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,10 +31,10 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 193 HN points · v 353 | 193 HN points · 80 comments · Show HN |
+| [Show HN: Hacker News, Without AI](https://www.unslop.news/) | otherayden | 194 HN points · v 358 | 194 HN points · 82 comments · Show HN |
 | [Show HN: Liniora – Ever thought about replacing your project manager?](https://liniora.com) | omarammura | 9 HN points · v 25 | 9 HN points · 8 comments · Show HN |
 | [Show HN: Extension to filter LLM written articles](https://hnslop.nilsherzig.com/) | nilsherzig | 16 HN points · v 22 | 16 HN points · 3 comments · Show HN |
-| [Show HN: Don't Hit Send – the model answers while you type](https://github.com/scalattice/dont-hit-send) | RomulusHill | 7 HN points · v 11 | 7 HN points · 2 comments · Show HN |
+| [Show HN: Don't Hit Send – the model answers while you type](https://github.com/scalattice/dont-hit-send) | RomulusHill | 7 HN points · v 13 | 7 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
