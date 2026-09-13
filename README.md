@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-13 19:51 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-13 19:57 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [We'll be able to tell if this is regulatory capture or not by whether the pace of progress at the frontier ac…](https://x.com/DKokotajlo/status/2099185129533186438) | [@DKokotajlo](https://x.com/DKokotajlo) | 211♥ 15RT · v 115.7 | 116 velocity · 211♥ 15RT · 10404 views · 3h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
