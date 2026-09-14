@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-14 16:40 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-14 16:45 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 304 HF upvotes · v 304 | 304 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
 | [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 248 HF upvotes · v 248 | 248 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
 | [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 134 HF upvotes · v 134 | 134 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
-| [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](https://huggingface.co/papers/2609.06107) | Hao Liang | 94 HF upvotes · v 94 | 94 HF upvotes · "DataFlex-RL: An Evaluation Platform for RLVR Data Policies" · model release |
+| [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](https://huggingface.co/papers/2609.06107) | Hao Liang | 95 HF upvotes · v 95 | 95 HF upvotes · "DataFlex-RL: An Evaluation Platform for RLVR Data Policies" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
