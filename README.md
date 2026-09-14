@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-14 20:35 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-14 20:40 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost](https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/) | toebee | 36 HN points · v 56 | 36 HN points · 10 comments · Show HN |
+| [Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost](https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/) | toebee | 37 HN points · v 57 | 37 HN points · 10 comments · Show HN |
 | [Show HN: Liniora – Ever thought about replacing your project manager?](https://liniora.com) | omarammura | 9 HN points · v 25 | 9 HN points · 8 comments · Show HN |
 | [Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly](https://stemjson.com/) | vkrychun | 8 HN points · v 18 | 8 HN points · 5 comments · Show HN |
 | [Show HN: I built my own knowledge graph from the code AI writes](https://github.com/aeroscissorz/learnlance/) | aeroscissorz1 | 8 HN points · v 16 | 8 HN points · 4 comments · Show HN |
