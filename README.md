@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-14 23:19 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-14 23:25 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Dan Selsam is a current OpenAI capabilities researcher. (since 2022) He was my boss for a while. He doesn't h…](https://x.com/DKokotajlo/status/2099600298855829616) | [@DKokotajlo](https://x.com/DKokotajlo) | 1473♥ 276RT · v 2116.7 | 2117 velocity · 1473♥ 276RT · 203691 views · 3h old · matched "benchmark" |
 | [Scaling Automatic Research Agents via World Models](https://huggingface.co/papers/2608.12564) | Xiyuan Yang | 452 HF upvotes · v 452 | 452 HF upvotes · "Scaling Automatic Research Agents via World Models" · model release |
 | [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 304 HF upvotes · v 304 | 304 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
 | [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 248 HF upvotes · v 248 | 248 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
 | [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 134 HF upvotes · v 134 | 134 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
+| [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](https://huggingface.co/papers/2609.06107) | Hao Liang | 96 HF upvotes · v 96 | 96 HF upvotes · "DataFlex-RL: An Evaluation Platform for RLVR Data Policies" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
