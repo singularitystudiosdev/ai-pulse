@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-14 05:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-14 05:38 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Liniora – Ever thought about replacing your project manager?](https://liniora.com) | omarammura | 9 HN points · v 25 | 9 HN points · 8 comments · Show HN |
 | [Show HN: Extension to filter LLM written articles](https://hnslop.nilsherzig.com/) | nilsherzig | 16 HN points · v 22 | 16 HN points · 3 comments · Show HN |
-| [Show HN: I built my own knowledge graph from the code AI writes](https://github.com/aeroscissorz/learnlance/) | aeroscissorz1 | 7 HN points · v 15 | 7 HN points · 4 comments · Show HN |
+| [Show HN: I built my own knowledge graph from the code AI writes](https://github.com/aeroscissorz/learnlance/) | aeroscissorz1 | 8 HN points · v 16 | 8 HN points · 4 comments · Show HN |
 | [Show HN: Don't Hit Send – the model answers while you type](https://github.com/scalattice/dont-hit-send) | RomulusHill | 7 HN points · v 13 | 7 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
