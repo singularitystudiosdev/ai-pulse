@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-14 05:22 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-14 05:28 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [Scaling Automatic Research Agents via World Models](https://huggingface.co/papers/2608.12564) | Xiyuan Yang | 448 HF upvotes · v 448 | 448 HF upvotes · "Scaling Automatic Research Agents via World Models" · model release |
 | [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 302 HF upvotes · v 302 | 302 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
-| [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 244 HF upvotes · v 244 | 244 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
+| [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 245 HF upvotes · v 245 | 245 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
 | [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 133 HF upvotes · v 133 | 133 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
 | [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 93 HF upvotes · v 93 | 93 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
 
