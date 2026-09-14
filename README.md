@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-14 16:24 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-14 16:29 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,9 +32,9 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Liniora – Ever thought about replacing your project manager?](https://liniora.com) | omarammura | 9 HN points · v 25 | 9 HN points · 8 comments · Show HN |
-| [This is insane 🤯  I ran GPT-6 ASTRA on VEED’s OpenEdit.  One shotted VEED’s launch video by just giving the …](https://x.com/sab8a/status/2099436575482425654)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2099430209992724490/img/u7ezpaKGLNbBPwGg.jpg) | [@sab8a](https://x.com/sab8a) | 28♥ 4RT · v 23.9 | 24 velocity · 28♥ 4RT · 7251 views · 7h old · matched "launch" |
 | [Show HN: I built my own knowledge graph from the code AI writes](https://github.com/aeroscissorz/learnlance/) | aeroscissorz1 | 8 HN points · v 16 | 8 HN points · 4 comments · Show HN |
 | [Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly](https://stemjson.com/) | vkrychun | 8 HN points · v 14 | 8 HN points · 3 comments · Show HN |
+| [Show HN: Don't Hit Send – the model answers while you type](https://github.com/scalattice/dont-hit-send) | RomulusHill | 7 HN points · v 13 | 7 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
