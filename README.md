@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-14 04:51 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-14 04:57 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [I must be among an extremely small group of people (n=1?) that have both 1) trained a frontier LLM and 2) des…](https://x.com/DavidRBellamy/status/2099187370407112758) | [@DavidRBellamy](https://x.com/DavidRBellamy) | 7748♥ 999RT · v 1021 | 1021 velocity · 7748♥ 999RT · 662354 views · 11h old · matched "llm" |
 | [Scaling Automatic Research Agents via World Models](https://huggingface.co/papers/2608.12564) | Xiyuan Yang | 448 HF upvotes · v 448 | 448 HF upvotes · "Scaling Automatic Research Agents via World Models" · model release |
 | [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 302 HF upvotes · v 302 | 302 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
 | [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 244 HF upvotes · v 244 | 244 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
-| [@CharlieBull0ck Now I know these AI detectors are bogus. I run all my posts through Grok to fact-check them a…](https://x.com/DavidSacks/status/2099040321351106807) | [@DavidSacks](https://x.com/DavidSacks) | 5180♥ 74RT · v 174.2 | 174 velocity · 5180♥ 74RT · 297509 views · 21h old · matched "grok" |
+| [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 133 HF upvotes · v 133 | 133 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
+| [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://huggingface.co/papers/2609.08572) | Jaewon Chu | 93 HF upvotes · v 93 | 93 HF upvotes · "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Sys" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
