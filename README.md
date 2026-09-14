@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-14 17:12 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-14 20:24 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,16 +25,16 @@
 | [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 304 HF upvotes · v 304 | 304 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
 | [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://huggingface.co/papers/2609.11929) | Haiwen Diao | 248 HF upvotes · v 248 | 248 HF upvotes · "SenseNova-U1.5: Towards Native Unified Visual Intelligence" · model release |
 | [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 134 HF upvotes · v 134 | 134 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
-| [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](https://huggingface.co/papers/2609.06107) | Hao Liang | 95 HF upvotes · v 95 | 95 HF upvotes · "DataFlex-RL: An Evaluation Platform for RLVR Data Policies" · model release |
+| [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](https://huggingface.co/papers/2609.06107) | Hao Liang | 96 HF upvotes · v 96 | 96 HF upvotes · "DataFlex-RL: An Evaluation Platform for RLVR Data Policies" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
+| [Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost](https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/) | toebee | 33 HN points · v 53 | 33 HN points · 10 comments · Show HN |
 | [Show HN: Liniora – Ever thought about replacing your project manager?](https://liniora.com) | omarammura | 9 HN points · v 25 | 9 HN points · 8 comments · Show HN |
+| [Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly](https://stemjson.com/) | vkrychun | 8 HN points · v 18 | 8 HN points · 5 comments · Show HN |
 | [Show HN: I built my own knowledge graph from the code AI writes](https://github.com/aeroscissorz/learnlance/) | aeroscissorz1 | 8 HN points · v 16 | 8 HN points · 4 comments · Show HN |
-| [Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly](https://stemjson.com/) | vkrychun | 8 HN points · v 14 | 8 HN points · 3 comments · Show HN |
-| [Show HN: Don't Hit Send – the model answers while you type](https://github.com/scalattice/dont-hit-send) | RomulusHill | 7 HN points · v 13 | 7 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
