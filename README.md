@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-15 02:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-15 02:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://huggingface.co/papers/2609.10715) | NCP Team | 304 HF upvotes · v 304 | 304 HF upvotes · "NCP-ArchPreview Technical Report: Moving towards Latent Space Language" · model release |
 | [SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://huggingface.co/papers/2609.07064) | Soohyun Ryu | 134 HF upvotes · v 134 | 134 HF upvotes · "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Bl" · model release |
-| [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://huggingface.co/papers/2609.11115) | Koutian Wu | 128 HF upvotes · v 128 | 128 HF upvotes · "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks" · model release |
+| [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://huggingface.co/papers/2609.11115) | Koutian Wu | 130 HF upvotes · v 130 | 130 HF upvotes · "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks" · model release |
 | [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](https://huggingface.co/papers/2609.06107) | Hao Liang | 98 HF upvotes · v 98 | 98 HF upvotes · "DataFlex-RL: An Evaluation Platform for RLVR Data Policies" · model release |
 | [Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models](https://huggingface.co/papers/2609.08418) | Zongjie Li | 76 HF upvotes · v 76 | 76 HF upvotes · "Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Model" · model release |
 
@@ -34,7 +34,7 @@
 | [Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost](https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/) | toebee | 71 HN points · v 113 | 71 HN points · 21 comments · Show HN |
 | [Show HN: Liniora – Ever thought about replacing your project manager?](https://liniora.com) | omarammura | 9 HN points · v 25 | 9 HN points · 8 comments · Show HN |
 | [Show HN: I built Otis, a minimal AI agent that runs local models out of the box](https://triangllabs.ai/otis) | petrenk0n | 19 HN points · v 23 | 19 HN points · 2 comments · Show HN |
-| [Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly](https://stemjson.com/) | vkrychun | 8 HN points · v 20 | 8 HN points · 6 comments · Show HN |
+| [Show HN: AgentDrive – persistent, versioned file storage for AI agents](https://tokencanopy.com/products/agentdrive) | tokencanopy | 6 HN points · v 20 | 6 HN points · 7 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
