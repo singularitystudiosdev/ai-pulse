@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-15 07:30 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-15 12:12 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://huggingface.co/papers/2609.14858) | Tong Zheng | 155 HF upvotes · v 155 | 155 HF upvotes · "Dream-RSI: Recursive Self-Improvement through Evolving Worlds" · model release |
+| [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://huggingface.co/papers/2609.14858) | Tong Zheng | 244 HF upvotes · v 244 | 244 HF upvotes · "Dream-RSI: Recursive Self-Improvement through Evolving Worlds" · model release |
+| [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 237 HF upvotes · v 237 | 237 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
+| [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | Jiyan He | 229 HF upvotes · v 229 | 229 HF upvotes · "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math" · model release |
+| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 205 HF upvotes · v 205 | 205 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
 | [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://huggingface.co/papers/2609.11115) | Koutian Wu | 152 HF upvotes · v 152 | 152 HF upvotes · "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks" · model release |
-| [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 142 HF upvotes · v 142 | 142 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
-| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 115 HF upvotes · v 115 | 115 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
-| [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](https://huggingface.co/papers/2609.06107) | Hao Liang | 108 HF upvotes · v 108 | 108 HF upvotes · "DataFlex-RL: An Evaluation Platform for RLVR Data Policies" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Sunk Cost – How long until a local LLM rig pays for itself?](https://sunkcost.ai/) | rlindsey123 | 43 HN points · v 205 | 43 HN points · 81 comments · Show HN |
-| [Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost](https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/) | toebee | 79 HN points · v 135 | 79 HN points · 28 comments · Show HN |
+| [Show HN: Sunk Cost – How long until a local LLM rig pays for itself?](https://sunkcost.ai/) | rlindsey123 | 44 HN points · v 220 | 44 HN points · 88 comments · Show HN |
+| [Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost](https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/) | toebee | 84 HN points · v 142 | 84 HN points · 29 comments · Show HN |
 | [Show HN: I built Otis, a minimal AI agent that runs local models out of the box](https://triangllabs.ai/otis) | petrenk0n | 19 HN points · v 25 | 19 HN points · 3 comments · Show HN |
-| [Show HN: AgentDrive – persistent, versioned file storage for AI agents](https://tokencanopy.com/products/agentdrive) | tokencanopy | 6 HN points · v 20 | 6 HN points · 7 comments · Show HN |
+| [Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly](https://stemjson.com/) | vkrychun | 8 HN points · v 22 | 8 HN points · 7 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
