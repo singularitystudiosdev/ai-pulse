@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-15 06:47 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-15 06:53 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,9 +23,9 @@
 |---|---|---|---|
 | [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://huggingface.co/papers/2609.14858) | Tong Zheng | 153 HF upvotes · v 153 | 153 HF upvotes · "Dream-RSI: Recursive Self-Improvement through Evolving Worlds" · model release |
 | [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://huggingface.co/papers/2609.11115) | Koutian Wu | 151 HF upvotes · v 151 | 151 HF upvotes · "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks" · model release |
-| [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 125 HF upvotes · v 125 | 125 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
+| [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 134 HF upvotes · v 134 | 134 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
 | [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](https://huggingface.co/papers/2609.06107) | Hao Liang | 108 HF upvotes · v 108 | 108 HF upvotes · "DataFlex-RL: An Evaluation Platform for RLVR Data Policies" · model release |
-| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 106 HF upvotes · v 106 | 106 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
+| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 107 HF upvotes · v 107 | 107 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
