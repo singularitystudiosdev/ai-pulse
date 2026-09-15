@@ -15,25 +15,25 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-15 02:23 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-15 06:42 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://huggingface.co/papers/2609.11115) | Koutian Wu | 131 HF upvotes · v 131 | 131 HF upvotes · "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks" · model release |
-| [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](https://huggingface.co/papers/2609.06107) | Hao Liang | 99 HF upvotes · v 99 | 99 HF upvotes · "DataFlex-RL: An Evaluation Platform for RLVR Data Policies" · model release |
-| [Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models](https://huggingface.co/papers/2609.08418) | Zongjie Li | 76 HF upvotes · v 76 | 76 HF upvotes · "Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Model" · model release |
-| [Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models](https://huggingface.co/papers/2609.12641) | Jianman Lin | 63 HF upvotes · v 63 | 63 HF upvotes · "Breaking the Vision-Action Shortcut: Latent Interface Training for Gen" · model release |
-| [EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents](https://huggingface.co/papers/2609.05903) | Nanxi Li | 59 HF upvotes · v 59 | 59 HF upvotes · "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Secu" · model release |
+| [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://huggingface.co/papers/2609.11115) | Koutian Wu | 151 HF upvotes · v 151 | 151 HF upvotes · "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks" · model release |
+| [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://huggingface.co/papers/2609.14858) | Tong Zheng | 149 HF upvotes · v 149 | 149 HF upvotes · "Dream-RSI: Recursive Self-Improvement through Evolving Worlds" · model release |
+| [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 118 HF upvotes · v 118 | 118 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
+| [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](https://huggingface.co/papers/2609.06107) | Hao Liang | 108 HF upvotes · v 108 | 108 HF upvotes · "DataFlex-RL: An Evaluation Platform for RLVR Data Policies" · model release |
+| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 105 HF upvotes · v 105 | 105 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost](https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/) | toebee | 72 HN points · v 114 | 72 HN points · 21 comments · Show HN |
-| [Show HN: Liniora – Ever thought about replacing your project manager?](https://liniora.com) | omarammura | 9 HN points · v 25 | 9 HN points · 8 comments · Show HN |
-| [Show HN: I built Otis, a minimal AI agent that runs local models out of the box](https://triangllabs.ai/otis) | petrenk0n | 19 HN points · v 23 | 19 HN points · 2 comments · Show HN |
+| [Show HN: Sunk Cost – How long until a local LLM rig pays for itself?](https://sunkcost.ai/) | rlindsey123 | 43 HN points · v 201 | 43 HN points · 79 comments · Show HN |
+| [Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost](https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/) | toebee | 76 HN points · v 132 | 76 HN points · 28 comments · Show HN |
+| [Show HN: I built Otis, a minimal AI agent that runs local models out of the box](https://triangllabs.ai/otis) | petrenk0n | 19 HN points · v 25 | 19 HN points · 3 comments · Show HN |
 | [Show HN: AgentDrive – persistent, versioned file storage for AI agents](https://tokencanopy.com/products/agentdrive) | tokencanopy | 6 HN points · v 20 | 6 HN points · 7 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
