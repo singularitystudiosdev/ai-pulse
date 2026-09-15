@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-15 23:39 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-15 23:44 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | bashtian | 261 HN points · v 489 | 261 HN points · 114 comments · Show HN |
+| [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | bashtian | 263 HN points · v 491 | 263 HN points · 114 comments · Show HN |
 | [Show HN: Sunk Cost – How long until a local LLM rig pays for itself?](https://sunkcost.ai/) | rlindsey123 | 46 HN points · v 238 | 46 HN points · 96 comments · Show HN |
 | [Show HN: Loss. a tiny satire about AI progress](https://workatloss.com/) | pbobak | 28 HN points · v 44 | 28 HN points · 8 comments · Show HN |
 | [Show HN: AgentDrive – persistent, versioned file storage for AI agents](https://tokencanopy.com/products/agentdrive) | tokencanopy | 6 HN points · v 28 | 6 HN points · 11 comments · Show HN |
