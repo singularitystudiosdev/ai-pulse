@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-15 12:55 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-15 13:01 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | Jiyan He | 270 HF upvotes · v 270 | 270 HF upvotes · "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math" · model release |
-| [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 247 HF upvotes · v 247 | 247 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
+| [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | Jiyan He | 275 HF upvotes · v 275 | 275 HF upvotes · "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math" · model release |
+| [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 248 HF upvotes · v 248 | 248 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
 | [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://huggingface.co/papers/2609.14858) | Tong Zheng | 246 HF upvotes · v 246 | 246 HF upvotes · "Dream-RSI: Recursive Self-Improvement through Evolving Worlds" · model release |
 | [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 213 HF upvotes · v 213 | 213 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
 | [PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models](https://huggingface.co/papers/2609.14973) | DeepCybo Team | 165 HF upvotes · v 165 | 165 HF upvotes · "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Mode" · model release |
