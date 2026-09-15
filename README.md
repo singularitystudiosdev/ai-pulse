@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-15 23:01 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-15 23:07 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 516 HF upvotes · v 516 | 516 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
+| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 517 HF upvotes · v 517 | 517 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
 | [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 369 HF upvotes · v 369 | 369 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
 | [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | Jiyan He | 291 HF upvotes · v 291 | 291 HF upvotes · "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math" · model release |
-| [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://huggingface.co/papers/2609.14858) | Tong Zheng | 261 HF upvotes · v 261 | 261 HF upvotes · "Dream-RSI: Recursive Self-Improvement through Evolving Worlds" · model release |
+| [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://huggingface.co/papers/2609.14858) | Tong Zheng | 262 HF upvotes · v 262 | 262 HF upvotes · "Dream-RSI: Recursive Self-Improvement through Evolving Worlds" · model release |
 | [PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models](https://huggingface.co/papers/2609.14973) | DeepCybo Team | 169 HF upvotes · v 169 | 169 HF upvotes · "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Mode" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | bashtian | 258 HN points · v 482 | 258 HN points · 112 comments · Show HN |
+| [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | bashtian | 260 HN points · v 484 | 260 HN points · 112 comments · Show HN |
 | [Show HN: Sunk Cost – How long until a local LLM rig pays for itself?](https://sunkcost.ai/) | rlindsey123 | 46 HN points · v 238 | 46 HN points · 96 comments · Show HN |
 | [Show HN: Loss. a tiny satire about AI progress](https://workatloss.com/) | pbobak | 28 HN points · v 42 | 28 HN points · 7 comments · Show HN |
 | [Show HN: AgentDrive – persistent, versioned file storage for AI agents](https://tokencanopy.com/products/agentdrive) | tokencanopy | 6 HN points · v 28 | 6 HN points · 11 comments · Show HN |
