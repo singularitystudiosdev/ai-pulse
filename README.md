@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-15 12:17 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-15 12:22 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,8 +23,8 @@
 |---|---|---|---|
 | [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://huggingface.co/papers/2609.14858) | Tong Zheng | 244 HF upvotes · v 244 | 244 HF upvotes · "Dream-RSI: Recursive Self-Improvement through Evolving Worlds" · model release |
 | [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 239 HF upvotes · v 239 | 239 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
-| [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | Jiyan He | 232 HF upvotes · v 232 | 232 HF upvotes · "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math" · model release |
-| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 207 HF upvotes · v 207 | 207 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
+| [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | Jiyan He | 238 HF upvotes · v 238 | 238 HF upvotes · "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math" · model release |
+| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 208 HF upvotes · v 208 | 208 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
 | [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://huggingface.co/papers/2609.11115) | Koutian Wu | 153 HF upvotes · v 153 | 153 HF upvotes · "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks" · model release |
 
 ### 🚀 AI SaaS launches (4)
