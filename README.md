@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-16 12:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-16 12:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | bashtian | 340 HN points · v 626 | 340 HN points · 143 comments · Show HN |
+| [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | bashtian | 342 HN points · v 628 | 342 HN points · 143 comments · Show HN |
 | [Show HN: Sunk Cost – How long until a local LLM rig pays for itself?](https://sunkcost.ai/) | rlindsey123 | 46 HN points · v 242 | 46 HN points · 98 comments · Show HN |
 | [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot) | jd_ | 49 HN points · v 111 | 49 HN points · 31 comments · Show HN |
 | [Show HN: Loss. a tiny satire about AI progress](https://workatloss.com/) | pbobak | 33 HN points · v 53 | 33 HN points · 10 comments · Show HN |
