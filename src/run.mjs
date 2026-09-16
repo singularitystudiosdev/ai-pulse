@@ -1,5 +1,5 @@
 // Orchestrator: discover → enrich → gate → select → merge state → render (spec §6).
-import { QUERIES, ALGOLIA_WINDOW_HOURS, HF_TOP, SHOW_HN, STATE_PATH } from './config.mjs';
+import { QUERIES, ALGOLIA_WINDOW_HOURS, HF_TOP, SHOW_HN, STATE_PATH, FOUNDER_PICKS_PER_RUN } from './config.mjs';
 import { discoverFromHN, discoverShowHN, discoverHFPapers } from './discover.mjs';
 import { enrichAll } from './enrich.mjs';
 import { gate, select } from './rank.mjs';
@@ -13,6 +13,7 @@ const now = Date.now();
 
 async function main() {
   const state = loadState();
+  backfillPostedAt(state);
   state.counters.runs++;
   const sinceI = Math.floor((now - ALGOLIA_WINDOW_HOURS * 3.6e6) / 1000);
 
@@ -45,6 +46,14 @@ async function main() {
 
   // 4. Select with caps + quotas, merge into state.
   const picks = select([...gated, ...linkRows]);
+  // Founder carve-out: guarantee N known-founder picks per run even when
+  // category quotas or caps would drop them.
+  const founderKept = picks.filter((p) => p.knownFounder).length;
+  const founderBackfill = gated
+    .filter((i) => i.knownFounder && !picks.includes(i))
+    .sort((a, b) => b.velocity - a.velocity)
+    .slice(0, Math.max(0, FOUNDER_PICKS_PER_RUN - founderKept));
+  picks.push(...founderBackfill);
   const counts = { 1: 0, 2: 0, 3: 0, 4: 0 };
   for (const it of gated) counts[it.category]++;
   const today = new Date(now).toISOString().slice(0, 10);
@@ -72,10 +81,32 @@ async function main() {
   console.log(`products: seeded=${products.seeded} corpus=${products.corpusSize} matched=${products.matched} claims=${products.claims} charts=${products.charts} chartMentions=${products.chartMentions} chartRegistered=${products.chartRegistered} focus=[${products.focus?.join(',')}] redditFocus=[${products.redditFocus?.join(',')}] exported=${products.exported}`);
 
   console.log(`runs=${state.counters.runs} candidates=${candidates.length} gated=${gated.length} picks=${picks.length} found=${counts[1]}/${counts[2]}/${counts[3]}/${counts[4]} drops=${drops.length}`);
+  // Founder-discovery metric: the number the optimization loop grows run over run.
+  const foundersPicked = picks.filter((p) => p.knownFounder).length;
+  const foundersSeen = [...gated, ...linkRows].filter((i) => i.knownFounder).length;
+  state.counters.knownFoundersFound = (state.counters.knownFoundersFound || 0) + foundersPicked;
+  state.counters.knownFoundersLastRun = foundersPicked;
+  console.log(`founders: seen=${foundersSeen} picked=${foundersPicked} cumulative=${state.counters.knownFoundersFound}`);
   if (drops.length) console.log(`drop sample: ${drops.slice(0, 8).join(' | ')}`);
 }
 
 // Show HN (points/comments floors) -> cat 2. HF papers (top by upvotes) -> cat 1.
+// Backfill: items ingested before postedAt existed carry their real post age
+// only inside the reason string ("· 12h old"). Reconstruct postedAt from it so
+// the front-end stops showing capture time as post time.
+function backfillPostedAt(state) {
+  let fixed = 0;
+  for (const it of Object.values(state.items)) {
+    if (it.postedAt) continue;
+    const m = /([<\d]+h) old/.exec(it.reason || '');
+    if (!m) continue;
+    const h = m[1] === '<1h' ? 0.5 : parseFloat(m[1]);
+    it.postedAt = new Date(Date.parse(it.firstSeen) - h * 3.6e6).toISOString();
+    fixed++;
+  }
+  if (fixed) console.log(`postedAt backfill: ${fixed} items`);
+}
+
 function buildLinkRows(stories, papers) {
   const rows = [];
   for (const s of stories.slice(0, 6)) {
@@ -96,6 +127,7 @@ function buildLinkRows(stories, papers) {
       channel: 'hn-story',
       hnStoryId: s.objectID,
       hnStoryTitle: s.title,
+      postedAt: s.created_at || null,
       firstSeen: new Date(now).toISOString(),
       lastSeen: new Date(now).toISOString(),
       renderedOn: null,

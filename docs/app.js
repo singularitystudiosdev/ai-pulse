@@ -71,6 +71,17 @@ function learn(item, weight) {
 
 function norm(v, max) { return max > 0 ? v / max : 0; }
 
+// Engagement over REAL post age. postedAt is when the item was actually
+// posted (tweet createdAt / HN created_at / paper date); firstSeen is only the
+// fallback for items that predate the field. Same shape as the pipeline's
+// velocity — engagement / (age + 2)^1.8 — recomputed at view time, so an old
+// post captured weeks later sinks and a fresh banger rises as it goes viral.
+function viralScore(it) {
+  const ageH = Math.max(0, (Date.now() - Date.parse(it.postedAt || it.firstSeen)) / 3.6e6);
+  const engagement = (it.likes || 0) + 3 * (it.retweets || 0) + 0.15 * (it.views || 0) + (it.engagement || 0);
+  return engagement / Math.pow(ageH + 2, 1.8);
+}
+
 // affinity in [0,1]: category, keyword overlap, author — the classic
 // content-based profile match, each component normalized against the profile max.
 function affinity(item) {
@@ -107,7 +118,7 @@ function ranked() {
   return list.map((i) => {
     const a = affinity(i);
     const personal = 0.55 * norm(i.velocity || 0, maxV) + 0.45 * a.score;
-    return { ...i, _score: sort === 'foryou' ? personal : (i.velocity || 0), _because: a.because };
+    return { ...i, _score: sort === 'foryou' ? personal : viralScore(i), _because: a.because };
   }).sort((a, b) => b._score - a._score);
 }
 
@@ -206,7 +217,7 @@ function card(item, idx) {
   const t = document.createElement('span');
   t.textContent = item.user && item.channel === 'hn-comment' ? `@${item.user}` : (item.authorName || '');
   const age = document.createElement('span');
-  age.textContent = ago(item.firstSeen);
+  age.textContent = ago(item.postedAt || item.firstSeen);
   meta.append(s, t, age);
   el.append(meta);
 
@@ -302,10 +313,13 @@ function wire() {
   $('tab-velocity').addEventListener('click', () => setSort('velocity'));
   $('tab-foryou').addEventListener('click', () => setSort('foryou'));
 
-  for (const chip of document.querySelectorAll('.chip')) {
+  // Scope to the feed's own chips (data-cat). The board's chips (data-bcat /
+  // data-bsub) used to be caught by this loop too, which desynced BOTH rows'
+  // highlights and set catFilter to NaN — an empty feed after any board click.
+  for (const chip of document.querySelectorAll('button.chip[data-cat]')) {
     chip.addEventListener('click', () => {
       catFilter = chip.dataset.cat;
-      for (const c of document.querySelectorAll('.chip')) c.classList.toggle('active', c === chip);
+      for (const c of document.querySelectorAll('button.chip[data-cat]')) c.classList.toggle('active', c === chip);
       render();
     });
   }

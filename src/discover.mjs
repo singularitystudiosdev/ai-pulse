@@ -68,6 +68,7 @@ export async function discoverHFPapers(limit) {
         id: `hf:${p.paper?.id ?? p.id}`,
         title: p.paper?.title ?? p.title ?? '(untitled)',
         url: p.paper?.id ? `https://huggingface.co/papers/${p.paper.id}` : null,
+        date: p.paper?.publishedAt ?? p.paper?.publicationDate ?? null,
         upvotes: p.paper?.upvotes ?? 0,
         authors: (p.paper?.authors || []).map((a) => a.name).filter(Boolean).slice(0, 3),
       }));

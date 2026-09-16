@@ -2,6 +2,9 @@
 export const QUERIES = [
   'x.com', 'x.com humanoid', 'x.com robot', 'x.com launch',
   'x.com funding', 'x.com demo', 'x.com startup',
+  // Founder-discovery sweep (loop iter 2, 2026-09-16): catch launch chatter
+  // that names the builder, not just the product.
+  'x.com founder', 'x.com founded', 'x.com YC', 'x.com backed', 'x.com raised', 'x.com stealth',
 ];
 export const ALGOLIA_WINDOW_HOURS = 72; // lookback for HN comments (MAX_AGE_HOURS still gates freshness)
 export const MAX_AGE_HOURS = 36;        // hard gate: older than this = the wave passed
@@ -81,3 +84,20 @@ export const CATEGORIES = {
   3: { name: 'Embodied AI', emoji: '🦾' },
   4: { name: 'Viral AI posts', emoji: '🔥' },
 };
+
+// Well-known-founder discovery: authors at or above this follower count are
+// flagged knownFounder, their velocity is boosted, and select() guarantees
+// FOUNDER_PICKS_PER_RUN founder picks per run. The optimization loop tunes
+// these to grow the per-run founder count.
+export const KNOWN_FOUNDER_MIN_FOLLOWERS = 100_000;
+export const FOUNDER_VELOCITY_BOOST = 1.5;
+export const FOUNDER_PICKS_PER_RUN = 2;
+
+// Curated well-known founder/builder handles (lowercase). The loop grows this
+// list when a notable founder ships something and the sweep missed them.
+export const KNOWN_FOUNDER_HANDLES = new Set([
+  'sama', 'gdb', 'karpathy', 'ylecun', 'demishassabis', 'miramurati',
+  'clementdelangue', 'aravsrinivas', 'alexalbert__', 'dylanfield',
+  'elonmusk', 'palmerluckey', 'simonw', 'swyx', 'levelsio',
+  'emostaque', 'sundarpichai', 'andrewyng', 'kaifulee',
+]);

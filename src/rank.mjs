@@ -1,5 +1,5 @@
 // Velocity + floors + caps + quotas (spec §3). Floors gate BEFORE ranking.
-import { GRAVITY, MAX_AGE_HOURS, MIN_TEXT_LEN, MIN_LIKES, PER_STORY_CAP, PER_AUTHOR_CAP, QUOTAS, NEARDUP_WINDOW_HOURS, JACCARD_THRESHOLD } from './config.mjs';
+import { GRAVITY, MAX_AGE_HOURS, MIN_TEXT_LEN, MIN_LIKES, PER_STORY_CAP, PER_AUTHOR_CAP, QUOTAS, NEARDUP_WINDOW_HOURS, JACCARD_THRESHOLD, KNOWN_FOUNDER_MIN_FOLLOWERS, KNOWN_FOUNDER_HANDLES, FOUNDER_VELOCITY_BOOST } from './config.mjs';
 import { ageHours, tokenize, jaccard } from './util.mjs';
 import { classify } from './classify.mjs';
 
@@ -23,7 +23,13 @@ export function gate(tweet, { hnStoryId, hnStoryTitle, channel, seenTexts, now }
   if ((tweet.likes || 0) < followerFloor(tweet.authorFollowers)) reasons.push('likes below follower-scaled floor');
   if (reasons.length) return { dropped: reasons.join('; ') };
 
-  const v = velocity({ likes: tweet.likes, retweets: tweet.retweets, views: tweet.views, ageH });
+  // Known founders (big-audience authors) get a velocity boost so founder
+  // launches outrank same-velocity noise. Flag rides the item for the
+  // founder-discovery counter.
+  const knownFounder = (tweet.authorFollowers || 0) >= KNOWN_FOUNDER_MIN_FOLLOWERS
+    || KNOWN_FOUNDER_HANDLES.has(String(tweet.user || '').toLowerCase());
+  const v = velocity({ likes: tweet.likes, retweets: tweet.retweets, views: tweet.views, ageH })
+    * (knownFounder ? FOUNDER_VELOCITY_BOOST : 1);
   const tokens = tokenize(tweet.text);
   for (const [key, id] of Object.entries(seenTexts)) {
     const seenAt = Date.parse(key.slice(0, 24)); // keys are `${iso}|${itemId}`
@@ -39,6 +45,8 @@ export function gate(tweet, { hnStoryId, hnStoryTitle, channel, seenTexts, now }
   return {
     item: {
       id: tweet.id,
+      postedAt: tweet.createdAt || null,
+      knownFounder,
       user: tweet.user,
       authorName: tweet.authorName,
       url: tweet.url,
@@ -50,7 +58,7 @@ export function gate(tweet, { hnStoryId, hnStoryTitle, channel, seenTexts, now }
       views: tweet.views || 0,
       followers: tweet.authorFollowers || 0,
       velocity: Math.round(v * 10) / 10,
-      reason: `${v < 10 ? v.toFixed(1) : Math.round(v)} velocity · ${tweet.likes}♥ ${tweet.retweets}RT · ${tweet.views ?? 0} views · ${age} old${kw}${via}`,
+      reason: `${knownFounder ? 'known founder · ' : ''}${v < 10 ? v.toFixed(1) : Math.round(v)} velocity · ${tweet.likes}♥ ${tweet.retweets}RT · ${tweet.views ?? 0} views · ${age} old${kw}${via}`,
       channel,
       hnStoryId: hnStoryId || null,
       hnStoryTitle: hnStoryTitle || null,

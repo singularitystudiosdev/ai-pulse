@@ -187,6 +187,15 @@ function revealRows(grid) {
 }
 
 function renderBoard() {
+  // Derive every chip/tab highlight from (boardCat, boardSub, sortKey) so a
+  // chip's active look can never disagree with the filter that actually ran.
+  for (const c of document.querySelectorAll('[data-bcat]')) c.classList.toggle('active', c.dataset.bcat === boardCat);
+  for (const c of document.querySelectorAll('[data-bsub]')) c.classList.toggle('active', boardCat === 'physical' && c.dataset.bsub === boardSub);
+  for (const t of document.querySelectorAll('[data-bsort]')) {
+    const on = t.dataset.bsort === sortKey;
+    t.classList.toggle('is-active', on);
+    if (on) movePill(t);
+  }
   const grid = b$('board-rows');
   grid.textContent = '';
   const list = rankProducts();
@@ -201,32 +210,28 @@ function renderBoard() {
   if (fieldRow) fieldRow.hidden = boardCat !== 'physical';
 }
 
+// Single state mutation entry: handlers patch state, renderBoard derives
+// everything else. Selecting a field chip implies the Physical AI category.
+function setBoard(patch) {
+  if (patch.cat !== undefined) {
+    boardCat = patch.cat;
+    boardSub = null;
+  }
+  if (patch.sub !== undefined) boardSub = patch.sub;
+  if (patch.sort !== undefined) sortKey = patch.sort;
+  renderBoard();
+}
+
 function wireBoard() {
   for (const chip of document.querySelectorAll('[data-bcat]')) {
-    chip.addEventListener('click', () => {
-      boardCat = chip.dataset.bcat;
-      boardSub = null;
-      for (const c of document.querySelectorAll('[data-bcat]')) c.classList.toggle('active', c === chip);
-      renderBoard();
-    });
+    chip.addEventListener('click', () => setBoard({ cat: chip.dataset.bcat }));
   }
   for (const chip of document.querySelectorAll('[data-bsub]')) {
-    chip.addEventListener('click', () => {
-      boardSub = chip.dataset.bsub;
-      for (const c of document.querySelectorAll('[data-bsub]')) c.classList.toggle('active', c === chip);
-      renderBoard();
-    });
+    chip.addEventListener('click', () => setBoard({ cat: 'physical', sub: chip.dataset.bsub }));
   }
-  const pill = document.getElementById('sortKey-pill');
   for (const tab of document.querySelectorAll('[data-bsort]')) {
-    tab.addEventListener('click', () => {
-      sortKey = tab.dataset.bsort;
-      for (const t of document.querySelectorAll('[data-bsort]')) t.classList.toggle('is-active', t === tab);
-      movePill(tab);
-      renderBoard();
-    });
+    tab.addEventListener('click', () => setBoard({ sort: tab.dataset.bsort }));
   }
-  movePill(document.querySelector('[data-bsort].is-active'));
   window.addEventListener('resize', () => {
     const active = document.querySelector('[data-bsort].is-active');
     if (active) movePill(active);
@@ -234,7 +239,7 @@ function wireBoard() {
 }
 
 function movePill(btn) {
-  const pill = document.getElementById('sortKey-pill');
+  const pill = document.getElementById('sort-pill');
   if (!pill || !btn) return;
   pill.style.left = btn.offsetLeft + 'px';
   pill.style.width = btn.offsetWidth + 'px';
