@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-16 01:36 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-16 01:42 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 541 HF upvotes · v 541 | 541 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
+| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 542 HF upvotes · v 542 | 542 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
 | [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 369 HF upvotes · v 369 | 369 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
 | [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | Jiyan He | 291 HF upvotes · v 291 | 291 HF upvotes · "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math" · model release |
 | [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://huggingface.co/papers/2609.14858) | Tong Zheng | 263 HF upvotes · v 263 | 263 HF upvotes · "Dream-RSI: Recursive Self-Improvement through Evolving Worlds" · model release |
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | bashtian | 283 HN points · v 519 | 283 HN points · 118 comments · Show HN |
 | [Show HN: Sunk Cost – How long until a local LLM rig pays for itself?](https://sunkcost.ai/) | rlindsey123 | 46 HN points · v 238 | 46 HN points · 96 comments · Show HN |
-| [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot) | jd_ | 31 HN points · v 57 | 31 HN points · 13 comments · Show HN |
+| [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot) | jd_ | 32 HN points · v 58 | 32 HN points · 13 comments · Show HN |
 | [Show HN: Loss. a tiny satire about AI progress](https://workatloss.com/) | pbobak | 30 HN points · v 46 | 30 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
