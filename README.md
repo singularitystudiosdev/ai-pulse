@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-16 15:32 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-16 15:37 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,17 +34,15 @@
 | [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | bashtian | 359 HN points · v 665 | 359 HN points · 153 comments · Show HN |
 | [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot) | jd_ | 53 HN points · v 119 | 53 HN points · 33 comments · Show HN |
 | [Show HN: Loss. a tiny satire about AI progress](https://workatloss.com/) | pbobak | 35 HN points · v 55 | 35 HN points · 10 comments · Show HN |
-| [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) | joozio | 21 HN points · v 53 | 21 HN points · 16 comments · Show HN |
+| [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) | joozio | 22 HN points · v 54 | 22 HN points · 16 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [I am stepping away from the ps5 scene and stopping all my work on ps5 linux. After pouring my heart and month…](https://x.com/theflow0/status/2099987019954831744) | [@theflow0](https://x.com/theflow0) | 5689♥ 279RT · v 472.2 | 472 velocity · 5689♥ 279RT · 598344 views · 17h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
