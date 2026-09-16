@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-16 16:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-16 16:15 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 695 HF upvotes · v 695 | 695 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
 | [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 423 HF upvotes · v 423 | 423 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
 | [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | Jiyan He | 302 HF upvotes · v 302 | 302 HF upvotes · "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math" · model release |
-| [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | Zheyuan Zhang | 282 HF upvotes · v 282 | 282 HF upvotes · "Continual Learning Mechanisms Compose for Long-Horizon Memorization" · model release |
+| [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | Zheyuan Zhang | 283 HF upvotes · v 283 | 283 HF upvotes · "Continual Learning Mechanisms Compose for Long-Horizon Memorization" · model release |
 | [PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models](https://huggingface.co/papers/2609.14973) | DeepCybo Team | 172 HF upvotes · v 172 | 172 HF upvotes · "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Mode" · model release |
 
 ### 🚀 AI SaaS launches (4)
@@ -33,8 +33,8 @@
 |---|---|---|---|
 | [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | bashtian | 359 HN points · v 669 | 359 HN points · 155 comments · Show HN |
 | [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot) | jd_ | 54 HN points · v 120 | 54 HN points · 33 comments · Show HN |
-| [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) | fabian_shipamax | 14 HN points · v 68 | 14 HN points · 27 comments · Show HN |
-| [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) | joozio | 26 HN points · v 60 | 26 HN points · 17 comments · Show HN |
+| [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) | fabian_shipamax | 14 HN points · v 70 | 14 HN points · 28 comments · Show HN |
+| [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) | joozio | 26 HN points · v 62 | 26 HN points · 18 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
