@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-16 01:52 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-16 01:58 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 544 HF upvotes · v 544 | 544 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
-| [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 380 HF upvotes · v 380 | 380 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
+| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 546 HF upvotes · v 546 | 546 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
+| [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 381 HF upvotes · v 381 | 381 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
 | [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | Jiyan He | 291 HF upvotes · v 291 | 291 HF upvotes · "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math" · model release |
 | [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | Zheyuan Zhang | 266 HF upvotes · v 266 | 266 HF upvotes · "Continual Learning Mechanisms Compose for Long-Horizon Memorization" · model release |
 | [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://huggingface.co/papers/2609.14858) | Tong Zheng | 263 HF upvotes · v 263 | 263 HF upvotes · "Dream-RSI: Recursive Self-Improvement through Evolving Worlds" · model release |
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | bashtian | 285 HN points · v 521 | 285 HN points · 118 comments · Show HN |
+| [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | bashtian | 287 HN points · v 525 | 287 HN points · 119 comments · Show HN |
 | [Show HN: Sunk Cost – How long until a local LLM rig pays for itself?](https://sunkcost.ai/) | rlindsey123 | 46 HN points · v 238 | 46 HN points · 96 comments · Show HN |
 | [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot) | jd_ | 32 HN points · v 58 | 32 HN points · 13 comments · Show HN |
 | [Show HN: Loss. a tiny satire about AI progress](https://workatloss.com/) | pbobak | 30 HN points · v 46 | 30 HN points · 8 comments · Show HN |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Anthropic's models never 'went rogue'. They entirely followed the boundaries set by Anthropic employees.   An…](https://x.com/brianchau57/status/2099642349362307420)<br>![card](https://pbs.twimg.com/media/HSMNXNlWQAEut3e.png?name=orig) | [@brianchau57](https://x.com/brianchau57) | 3894♥ 654RT · v 85.2 | 85 velocity · 3894♥ 654RT · 194792 views · 26h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
