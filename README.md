@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-16 16:20 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-16 19:03 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation](https://huggingface.co/papers/2609.11638) | Jintao Zhang | 695 HF upvotes · v 695 | 695 HF upvotes · "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation" · model release |
-| [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 423 HF upvotes · v 423 | 423 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
+| [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 424 HF upvotes · v 424 | 424 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
 | [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | Jiyan He | 302 HF upvotes · v 302 | 302 HF upvotes · "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math" · model release |
-| [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | Zheyuan Zhang | 283 HF upvotes · v 283 | 283 HF upvotes · "Continual Learning Mechanisms Compose for Long-Horizon Memorization" · model release |
+| [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | Zheyuan Zhang | 286 HF upvotes · v 286 | 286 HF upvotes · "Continual Learning Mechanisms Compose for Long-Horizon Memorization" · model release |
 | [PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models](https://huggingface.co/papers/2609.14973) | DeepCybo Team | 172 HF upvotes · v 172 | 172 HF upvotes · "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Mode" · model release |
+| [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | Meng Luo | 104 HF upvotes · v 104 | 104 HF upvotes · "AI for Games in the Foundation Model Era" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | bashtian | 359 HN points · v 669 | 359 HN points · 155 comments · Show HN |
-| [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot) | jd_ | 54 HN points · v 120 | 54 HN points · 33 comments · Show HN |
-| [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) | fabian_shipamax | 14 HN points · v 72 | 14 HN points · 29 comments · Show HN |
-| [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) | joozio | 26 HN points · v 62 | 26 HN points · 18 comments · Show HN |
+| [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) | joozio | 51 HN points · v 127 | 51 HN points · 38 comments · Show HN |
+| [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot) | jd_ | 55 HN points · v 121 | 55 HN points · 33 comments · Show HN |
+| [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) | fabian_shipamax | 14 HN points · v 76 | 14 HN points · 31 comments · Show HN |
+| [Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) | kisjovan | 20 HN points · v 38 | 20 HN points · 9 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [We have jev at home.  The arch is good for RL with state-dependent actionsets, so here is the same arch playi…](https://x.com/vinnylarouge/status/2100281651930513460)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2100281607974236160/img/mrYAopvmla267rwG.jpg) | [@vinnylarouge](https://x.com/vinnylarouge) | 50♥ 4RT · v 71.6 | 72 velocity · 50♥ 4RT · 3444 views · 1h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
