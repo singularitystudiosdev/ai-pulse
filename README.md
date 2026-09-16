@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-16 19:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-16 19:08 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) | joozio | 51 HN points · v 127 | 51 HN points · 38 comments · Show HN |
+| [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) | joozio | 52 HN points · v 128 | 52 HN points · 38 comments · Show HN |
 | [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot) | jd_ | 55 HN points · v 121 | 55 HN points · 33 comments · Show HN |
 | [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) | fabian_shipamax | 14 HN points · v 76 | 14 HN points · 31 comments · Show HN |
 | [Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) | kisjovan | 20 HN points · v 38 | 20 HN points · 9 comments · Show HN |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [We have jev at home.  The arch is good for RL with state-dependent actionsets, so here is the same arch playi…](https://x.com/vinnylarouge/status/2100281651930513460)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2100281607974236160/img/mrYAopvmla267rwG.jpg) | [@vinnylarouge](https://x.com/vinnylarouge) | 50♥ 4RT · v 71.6 | 72 velocity · 50♥ 4RT · 3444 views · 1h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
