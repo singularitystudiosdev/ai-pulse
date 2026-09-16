@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-16 19:24 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-16 19:30 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) | joozio | 55 HN points · v 133 | 55 HN points · 39 comments · Show HN |
+| [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) | joozio | 56 HN points · v 134 | 56 HN points · 39 comments · Show HN |
 | [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot) | jd_ | 55 HN points · v 121 | 55 HN points · 33 comments · Show HN |
 | [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) | fabian_shipamax | 14 HN points · v 76 | 14 HN points · 31 comments · Show HN |
 | [Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) | kisjovan | 21 HN points · v 39 | 21 HN points · 9 comments · Show HN |
