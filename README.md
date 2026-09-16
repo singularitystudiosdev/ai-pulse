@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-16 15:53 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-16 15:59 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,8 +33,8 @@
 |---|---|---|---|
 | [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | bashtian | 359 HN points · v 667 | 359 HN points · 154 comments · Show HN |
 | [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot) | jd_ | 54 HN points · v 120 | 54 HN points · 33 comments · Show HN |
-| [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) | joozio | 24 HN points · v 58 | 24 HN points · 17 comments · Show HN |
-| [Show HN: Loss. a tiny satire about AI progress](https://workatloss.com/) | pbobak | 35 HN points · v 55 | 35 HN points · 10 comments · Show HN |
+| [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) | fabian_shipamax | 14 HN points · v 64 | 14 HN points · 25 comments · Show HN |
+| [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) | joozio | 25 HN points · v 59 | 25 HN points · 17 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
