@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-16 19:51 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-16 22:06 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,18 +23,18 @@
 |---|---|---|---|
 | [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 424 HF upvotes · v 424 | 424 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
 | [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | Jiyan He | 302 HF upvotes · v 302 | 302 HF upvotes · "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math" · model release |
-| [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | Zheyuan Zhang | 286 HF upvotes · v 286 | 286 HF upvotes · "Continual Learning Mechanisms Compose for Long-Horizon Memorization" · model release |
+| [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | Zheyuan Zhang | 287 HF upvotes · v 287 | 287 HF upvotes · "Continual Learning Mechanisms Compose for Long-Horizon Memorization" · model release |
 | [PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models](https://huggingface.co/papers/2609.14973) | DeepCybo Team | 172 HF upvotes · v 172 | 172 HF upvotes · "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Mode" · model release |
-| [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | Meng Luo | 104 HF upvotes · v 104 | 104 HF upvotes · "AI for Games in the Foundation Model Era" · model release |
+| [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | Meng Luo | 106 HF upvotes · v 106 | 106 HF upvotes · "AI for Games in the Foundation Model Era" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) | joozio | 57 HN points · v 135 | 57 HN points · 39 comments · Show HN |
-| [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot) | jd_ | 55 HN points · v 121 | 55 HN points · 33 comments · Show HN |
 | [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) | fabian_shipamax | 14 HN points · v 76 | 14 HN points · 31 comments · Show HN |
-| [Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) | kisjovan | 23 HN points · v 41 | 23 HN points · 9 comments · Show HN |
+| [Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) | kisjovan | 25 HN points · v 45 | 25 HN points · 10 comments · Show HN |
+| [Show HN: SeasonMap – when to travel where? visualized with climate data](https://seasonmap.app) | alongtheflow | 8 HN points · v 24 | 8 HN points · 8 comments · Show HN |
+| [Show HN: I built a router for agent tools](https://github.com/monid-ai/monid) | Exquisitian | 10 HN points · v 16 | 10 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
