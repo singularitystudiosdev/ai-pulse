@@ -261,6 +261,10 @@ body {
   margin: 2px 0 10px;
 }
 
+/* display:flex on the base rule beats the UA's [hidden] { display: none },
+   so the field row stayed visible under every category. Re-assert it. */
+.subrow[hidden] { display: none; }
+
 .subrow-label { color: var(--faint); font-size: 12.5px; margin-right: 2px; }
 
 .board-count, .board-updated { color: var(--faint); font-size: 12.5px; }
