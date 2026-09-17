@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-17 19:02 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-17 19:07 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Share your AI Setup, Learn from others](https://mysetup.ai/) | steveybrown | 106 HN points · v 244 | 106 HN points · 69 comments · Show HN |
-| [Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS](https://www.aclif.ai/) | chris_marino | 21 HN points · v 47 | 21 HN points · 13 comments · Show HN |
+| [Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS](https://www.aclif.ai/) | chris_marino | 22 HN points · v 50 | 22 HN points · 14 comments · Show HN |
 | [Show HN: Die With Me – Claude and Codex rate limits as AIM away messages](https://diewithme.co/join) | monijz | 11 HN points · v 41 | 11 HN points · 15 comments · Show HN |
 | [Show HN: AutoBot – live voice control for long-running AI work](https://github.com/demeyer1/Autobot) | demeyer1 | 11 HN points · v 15 | 11 HN points · 2 comments · Show HN |
 
