@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-17 00:44 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-17 00:49 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 424 HF upvotes · v 424 | 424 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
 | [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | Jiyan He | 302 HF upvotes · v 302 | 302 HF upvotes · "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math" · model release |
 | [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | Zheyuan Zhang | 287 HF upvotes · v 287 | 287 HF upvotes · "Continual Learning Mechanisms Compose for Long-Horizon Memorization" · model release |
-| [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | Meng Luo | 106 HF upvotes · v 106 | 106 HF upvotes · "AI for Games in the Foundation Model Era" · model release |
+| [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | Meng Luo | 107 HF upvotes · v 107 | 107 HF upvotes · "AI for Games in the Foundation Model Era" · model release |
 | [StepAudio 3 Realtime Technical Report](https://huggingface.co/papers/2609.14005) | Bin Lin | 91 HF upvotes · v 91 | 91 HF upvotes · "StepAudio 3 Realtime Technical Report" · model release |
 
 ### 🚀 AI SaaS launches (4)
