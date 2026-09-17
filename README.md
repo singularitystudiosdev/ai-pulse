@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-17 05:35 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-17 05:40 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,8 +33,8 @@
 |---|---|---|---|
 | [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) | fabian_shipamax | 14 HN points · v 76 | 14 HN points · 31 comments · Show HN |
 | [Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) | kisjovan | 27 HN points · v 49 | 27 HN points · 11 comments · Show HN |
+| [Show HN: Halo 3's Guardian, playable in the browser, as my personal website](https://runboli.com) | runshouse | 20 HN points · v 30 | 20 HN points · 5 comments · Show HN |
 | [Show HN: SeasonMap – when to travel where? visualized with climate data](https://seasonmap.app) | alongtheflow | 12 HN points · v 30 | 12 HN points · 9 comments · Show HN |
-| [Show HN: Halo 3's Guardian, playable in the browser, as my personal website](https://runboli.com) | runshouse | 19 HN points · v 29 | 19 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
