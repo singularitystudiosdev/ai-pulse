@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-17 01:16 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-17 05:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818) | Honglin Guo | 424 HF upvotes · v 424 | 424 HF upvotes · "Atria Dawn: The Dawn of Agentic Superintelligence" · model release |
-| [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://huggingface.co/papers/2609.13356) | Jiyan He | 302 HF upvotes · v 302 | 302 HF upvotes · "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math" · model release |
-| [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | Zheyuan Zhang | 287 HF upvotes · v 287 | 287 HF upvotes · "Continual Learning Mechanisms Compose for Long-Horizon Memorization" · model release |
-| [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | Meng Luo | 108 HF upvotes · v 108 | 108 HF upvotes · "AI for Games in the Foundation Model Era" · model release |
-| [StepAudio 3 Realtime Technical Report](https://huggingface.co/papers/2609.14005) | Bin Lin | 91 HF upvotes · v 91 | 91 HF upvotes · "StepAudio 3 Realtime Technical Report" · model release |
+| [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | Zheyuan Zhang | 290 HF upvotes · v 290 | 290 HF upvotes · "Continual Learning Mechanisms Compose for Long-Horizon Memorization" · model release |
+| [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | Meng Luo | 113 HF upvotes · v 113 | 113 HF upvotes · "AI for Games in the Foundation Model Era" · model release |
+| [StepAudio 3 Realtime Technical Report](https://huggingface.co/papers/2609.14005) | Bin Lin | 96 HF upvotes · v 96 | 96 HF upvotes · "StepAudio 3 Realtime Technical Report" · model release |
+| [The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement](https://huggingface.co/papers/2609.11873) | Yi Duan | 88 HF upvotes · v 88 | 88 HF upvotes · "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement" · model release |
+| [StepAudio 3 Music Technical Report](https://huggingface.co/papers/2609.16034) | Chengli Feng | 74 HF upvotes · v 74 | 74 HF upvotes · "StepAudio 3 Music Technical Report" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) | fabian_shipamax | 14 HN points · v 76 | 14 HN points · 31 comments · Show HN |
-| [Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) | kisjovan | 26 HN points · v 48 | 26 HN points · 11 comments · Show HN |
-| [Show HN: SeasonMap – when to travel where? visualized with climate data](https://seasonmap.app) | alongtheflow | 11 HN points · v 29 | 11 HN points · 9 comments · Show HN |
-| [Show HN: Halo 3's Guardian, playable in the browser, as my personal website](https://runboli.com) | runshouse | 13 HN points · v 23 | 13 HN points · 5 comments · Show HN |
+| [Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) | kisjovan | 27 HN points · v 49 | 27 HN points · 11 comments · Show HN |
+| [Show HN: SeasonMap – when to travel where? visualized with climate data](https://seasonmap.app) | alongtheflow | 12 HN points · v 30 | 12 HN points · 9 comments · Show HN |
+| [Show HN: Halo 3's Guardian, playable in the browser, as my personal website](https://runboli.com) | runshouse | 18 HN points · v 28 | 18 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
