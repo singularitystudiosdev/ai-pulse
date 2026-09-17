@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-17 15:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-17 15:30 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) | fabian_shipamax | 14 HN points · v 76 | 14 HN points · 31 comments · Show HN |
-| [Show HN: Share your AI Setup, Learn from others](https://mysetup.ai/) | steveybrown | 22 HN points · v 40 | 22 HN points · 9 comments · Show HN |
+| [Show HN: Share your AI Setup, Learn from others](https://mysetup.ai/) | steveybrown | 25 HN points · v 45 | 25 HN points · 10 comments · Show HN |
 | [Show HN: Halo 3's Guardian, playable in the browser, as my personal website](https://runboli.com) | runshouse | 24 HN points · v 38 | 24 HN points · 7 comments · Show HN |
 | [Show HN: SeasonMap – when to travel where? visualized with climate data](https://seasonmap.app) | alongtheflow | 20 HN points · v 38 | 20 HN points · 9 comments · Show HN |
 
