@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-17 22:02 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-17 22:07 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,12 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Bend 2 is here!  It is a new programming language that blocks AI mistakes via *proof checking* - the same tec…](https://x.com/VictorTaelin/status/2100681226143092875)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2100655705858416640/img/5Z6I7GGHKvVIweFw.jpg) | [@VictorTaelin](https://x.com/VictorTaelin) | 2733♥ 402RT · v 1459.1 | 1459 velocity · 2733♥ 402RT · 76757 views · 2h old |
-| [Introducing Canto, our latest speech model for real-time dictation.   On our evaluation of 9.8 hours of Engli…](https://x.com/WisprFlow/status/2100640514186072347)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2100639644933365760/img/0PIyFkO_qOBRHsAi.jpg) | [@WisprFlow](https://x.com/WisprFlow) | 118♥ 14RT · v 54.7 | 55 velocity · 118♥ 14RT · 9251 views · 4h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
