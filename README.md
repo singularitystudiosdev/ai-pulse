@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-17 14:58 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-17 15:03 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,17 +34,15 @@
 | [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) | fabian_shipamax | 14 HN points · v 76 | 14 HN points · 31 comments · Show HN |
 | [Show HN: SeasonMap – when to travel where? visualized with climate data](https://seasonmap.app) | alongtheflow | 20 HN points · v 38 | 20 HN points · 9 comments · Show HN |
 | [Show HN: Halo 3's Guardian, playable in the browser, as my personal website](https://runboli.com) | runshouse | 24 HN points · v 36 | 24 HN points · 6 comments · Show HN |
-| [Show HN: Share your AI Setup, Learn from others](https://mysetup.ai/) | steveybrown | 12 HN points · v 18 | 12 HN points · 3 comments · Show HN |
+| [Show HN: Share your AI Setup, Learn from others](https://mysetup.ai/) | steveybrown | 14 HN points · v 20 | 14 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [The Prime Minister can’t seem to get his story straight about the “associate membership,” “unique alliance,” …](https://x.com/PierrePoilievre/status/2100274078066036766) | [@PierrePoilievre](https://x.com/PierrePoilievre) | 12776♥ 2075RT · v 452 | known founder · 452 velocity · 12776♥ 2075RT · 468289 views · 22h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
