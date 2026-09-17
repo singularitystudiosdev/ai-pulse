@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-17 22:07 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-17 22:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS](https://www.aclif.ai/) | chris_marino | 29 HN points · v 61 | 29 HN points · 16 comments · Show HN |
 | [Show HN: Craigslist for agent skills, curated by a human](https://skillbay.sh/) | skeptrune | 19 HN points · v 51 | 19 HN points · 16 comments · Show HN |
-| [Show HN: Die With Me – Claude and Codex rate limits as AIM away messages](https://diewithme.co/join) | monijz | 11 HN points · v 43 | 11 HN points · 16 comments · Show HN |
+| [Show HN: Die With Me – Claude and Codex rate limits as AIM away messages](https://diewithme.co/join) | monijz | 11 HN points · v 45 | 11 HN points · 17 comments · Show HN |
 | [Show HN: AutoBot – live voice control for long-running AI work](https://github.com/demeyer1/Autobot) | demeyer1 | 14 HN points · v 20 | 14 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
