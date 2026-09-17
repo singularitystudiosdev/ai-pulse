@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-17 19:34 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-17 19:39 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,10 +31,10 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Share your AI Setup, Learn from others](https://mysetup.ai/) | steveybrown | 119 HN points · v 263 | 119 HN points · 72 comments · Show HN |
+| [Show HN: Share your AI Setup, Learn from others](https://mysetup.ai/) | steveybrown | 121 HN points · v 265 | 121 HN points · 72 comments · Show HN |
 | [Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS](https://www.aclif.ai/) | chris_marino | 24 HN points · v 54 | 24 HN points · 15 comments · Show HN |
 | [Show HN: Die With Me – Claude and Codex rate limits as AIM away messages](https://diewithme.co/join) | monijz | 11 HN points · v 41 | 11 HN points · 15 comments · Show HN |
-| [Show HN: Craigslist for agent skills, curated by a human](https://skillbay.sh/) | skeptrune | 10 HN points · v 20 | 10 HN points · 5 comments · Show HN |
+| [Show HN: Craigslist for agent skills, curated by a human](https://skillbay.sh/) | skeptrune | 12 HN points · v 22 | 12 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
