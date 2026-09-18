@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-18 18:02 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-18 19:43 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,17 +24,17 @@
 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | Xingxuan Zhang | 166 HF upvotes · v 166 | 166 HF upvotes · "LimiX-2: A Contextual Mechanism Network Towards General Structured-Dat" · model release |
 | [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | Hejia Geng | 73 HF upvotes · v 73 | 73 HF upvotes · "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable E" · model release |
 | [Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening](https://huggingface.co/papers/2609.18708) | Yizhuo Li | 62 HF upvotes · v 62 | 62 HF upvotes · "Rethinking Critic Learning in PPO: Understanding and Mitigating Value " · model release |
-| [Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents](https://huggingface.co/papers/2609.17708) | Caiqi Zhang | 52 HF upvotes · v 52 | 52 HF upvotes · "Confidence Comes from Experience: Experiential Confidence Estimation f" · model release |
-| [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 51 HF upvotes · v 51 | 51 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
+| [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 53 HF upvotes · v 53 | 53 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
+| [Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents](https://huggingface.co/papers/2609.17708) | Caiqi Zhang | 53 HF upvotes · v 53 | 53 HF upvotes · "Confidence Comes from Experience: Experiential Confidence Estimation f" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS](https://www.aclif.ai/) | chris_marino | 32 HN points · v 66 | 32 HN points · 17 comments · Show HN |
-| [Show HN: Craigslist for agent skills, curated by a human](https://skillbay.sh/) | skeptrune | 24 HN points · v 60 | 24 HN points · 18 comments · Show HN |
+| [Show HN: Craigslist for agent skills, curated by a human](https://skillbay.sh/) | skeptrune | 25 HN points · v 61 | 25 HN points · 18 comments · Show HN |
+| [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) | Xyra | 27 HN points · v 49 | 27 HN points · 11 comments · Show HN |
 | [Show HN: AutoBot – live voice control for long-running AI work](https://github.com/demeyer1/Autobot) | demeyer1 | 18 HN points · v 24 | 18 HN points · 3 comments · Show HN |
-| [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) | Xyra | 16 HN points · v 22 | 16 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
