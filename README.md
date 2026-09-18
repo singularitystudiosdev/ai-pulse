@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-18 05:02 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-18 05:07 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [StepAudio 3 Realtime Technical Report](https://huggingface.co/papers/2609.14005) | Bin Lin | 102 HF upvotes · v 102 | 102 HF upvotes · "StepAudio 3 Realtime Technical Report" · model release |
 | [StepAudio 3 Music Technical Report](https://huggingface.co/papers/2609.16034) | Chengli Feng | 76 HF upvotes · v 76 | 76 HF upvotes · "StepAudio 3 Music Technical Report" · model release |
 | [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | Hejia Geng | 71 HF upvotes · v 71 | 71 HF upvotes · "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable E" · model release |
-| [Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening](https://huggingface.co/papers/2609.18708) | Yizhuo Li | 60 HF upvotes · v 60 | 60 HF upvotes · "Rethinking Critic Learning in PPO: Understanding and Mitigating Value " · model release |
+| [Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening](https://huggingface.co/papers/2609.18708) | Yizhuo Li | 61 HF upvotes · v 61 | 61 HF upvotes · "Rethinking Critic Learning in PPO: Understanding and Mitigating Value " · model release |
 
 ### 🚀 AI SaaS launches (4)
 
