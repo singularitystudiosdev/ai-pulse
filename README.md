@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-18 17:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-18 17:20 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [there is now a front page hacker news post accusing me of shipping a "vibe coded" formal proof language witho…](https://x.com/VictorTaelin/status/2100942399132312059)<br>![card](https://pbs.twimg.com/media/HSgL7dPWEAAqUqU.jpg?name=orig) | [@VictorTaelin](https://x.com/VictorTaelin) | 1816♥ 45RT · v 480.8 | 481 velocity · 1816♥ 45RT · 58709 views · 4h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
