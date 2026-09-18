@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-18 17:52 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-18 17:57 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS](https://www.aclif.ai/) | chris_marino | 32 HN points · v 66 | 32 HN points · 17 comments · Show HN |
-| [Show HN: Craigslist for agent skills, curated by a human](https://skillbay.sh/) | skeptrune | 24 HN points · v 58 | 24 HN points · 17 comments · Show HN |
+| [Show HN: Craigslist for agent skills, curated by a human](https://skillbay.sh/) | skeptrune | 24 HN points · v 60 | 24 HN points · 18 comments · Show HN |
 | [Show HN: AutoBot – live voice control for long-running AI work](https://github.com/demeyer1/Autobot) | demeyer1 | 18 HN points · v 24 | 18 HN points · 3 comments · Show HN |
 | [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) | Xyra | 15 HN points · v 21 | 15 HN points · 3 comments · Show HN |
 
