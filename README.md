@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-18 13:56 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-18 14:01 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | Hejia Geng | 72 HF upvotes · v 72 | 72 HF upvotes · "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable E" · model release |
 | [Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening](https://huggingface.co/papers/2609.18708) | Yizhuo Li | 62 HF upvotes · v 62 | 62 HF upvotes · "Rethinking Critic Learning in PPO: Understanding and Mitigating Value " · model release |
 | [Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents](https://huggingface.co/papers/2609.17708) | Caiqi Zhang | 51 HF upvotes · v 51 | 51 HF upvotes · "Confidence Comes from Experience: Experiential Confidence Estimation f" · model release |
-| [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 47 HF upvotes · v 47 | 47 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
+| [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 48 HF upvotes · v 48 | 48 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
