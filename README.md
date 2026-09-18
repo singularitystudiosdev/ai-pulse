@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-18 17:30 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-18 17:36 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS](https://www.aclif.ai/) | chris_marino | 32 HN points · v 64 | 32 HN points · 16 comments · Show HN |
+| [Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS](https://www.aclif.ai/) | chris_marino | 32 HN points · v 66 | 32 HN points · 17 comments · Show HN |
 | [Show HN: Craigslist for agent skills, curated by a human](https://skillbay.sh/) | skeptrune | 24 HN points · v 58 | 24 HN points · 17 comments · Show HN |
 | [Show HN: AutoBot – live voice control for long-running AI work](https://github.com/demeyer1/Autobot) | demeyer1 | 18 HN points · v 24 | 18 HN points · 3 comments · Show HN |
 | [Show HN: MCPJam - the first testing & evaluations platform for MCP servers](https://www.mcpjam.com) | prathmeshmcp | 11 HN points · v 21 | 11 HN points · 5 comments · Show HN |
