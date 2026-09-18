@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-18 21:54 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-18 22:00 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [We're adding support for AGENTS.md to Claude Code.   Starting today in version 2.1.277, if there is no CLAUDE…](https://x.com/trq212/status/2101009392611278961) | [@trq212](https://x.com/trq212) | 17237♥ 1198RT · v 15143.7 | known founder · 15144 velocity · 17237♥ 1198RT · 1481309 views · 4h old · matched "claude" |
 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | Xingxuan Zhang | 166 HF upvotes · v 166 | 166 HF upvotes · "LimiX-2: A Contextual Mechanism Network Towards General Structured-Dat" · model release |
 | [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | Hejia Geng | 73 HF upvotes · v 73 | 73 HF upvotes · "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable E" · model release |
 | [Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening](https://huggingface.co/papers/2609.18708) | Yizhuo Li | 62 HF upvotes · v 62 | 62 HF upvotes · "Rethinking Critic Learning in PPO: Understanding and Mitigating Value " · model release |
 | [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 56 HF upvotes · v 56 | 56 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
+| [Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents](https://huggingface.co/papers/2609.17708) | Caiqi Zhang | 54 HF upvotes · v 54 | 54 HF upvotes · "Confidence Comes from Experience: Experiential Confidence Estimation f" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
