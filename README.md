@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-18 09:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-18 09:31 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | Xingxuan Zhang | 173 HF upvotes · v 173 | 173 HF upvotes · "LimiX-2: A Contextual Mechanism Network Towards General Structured-Dat" · model release |
+| [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | Xingxuan Zhang | 177 HF upvotes · v 177 | 177 HF upvotes · "LimiX-2: A Contextual Mechanism Network Towards General Structured-Dat" · model release |
 | [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | Hejia Geng | 71 HF upvotes · v 71 | 71 HF upvotes · "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable E" · model release |
 | [Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening](https://huggingface.co/papers/2609.18708) | Yizhuo Li | 61 HF upvotes · v 61 | 61 HF upvotes · "Rethinking Critic Learning in PPO: Understanding and Mitigating Value " · model release |
 | [Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improve…](https://huggingface.co/papers/2609.13406) | Hongyao Tang | 60 HF upvotes · v 60 | 60 HF upvotes · "Generalized Agent Iteration: One Formal Framework for Iterative Policy" · model release |
