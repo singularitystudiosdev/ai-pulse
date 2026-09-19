@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-19 19:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-19 21:04 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,14 +24,14 @@
 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | Xingxuan Zhang | 279 HF upvotes · v 279 | 279 HF upvotes · "LimiX-2: A Contextual Mechanism Network Towards General Structured-Dat" · model release |
 | [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | Haoyu Zhao | 93 HF upvotes · v 93 | 93 HF upvotes · "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-" · model release |
 | [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 93 HF upvotes · v 93 | 93 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
-| [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | Yuxiao Yang | 74 HF upvotes · v 74 | 74 HF upvotes · "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy " · model release |
+| [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | Yuxiao Yang | 75 HF upvotes · v 75 | 75 HF upvotes · "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy " · model release |
 | [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | Hejia Geng | 73 HF upvotes · v 73 | 73 HF upvotes · "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable E" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) | Xyra | 59 HN points · v 105 | 59 HN points · 23 comments · Show HN |
+| [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) | Xyra | 59 HN points · v 109 | 59 HN points · 25 comments · Show HN |
 | [Show HN: I wrote a custom assembler for CHIP-8 in C++](https://github.com/Tackx/c8-ass) | tack1234 | 24 HN points · v 32 | 24 HN points · 4 comments · Show HN |
 | [Show HN: AutoBot – live voice control for long-running AI work](https://github.com/demeyer1/Autobot) | demeyer1 | 19 HN points · v 25 | 19 HN points · 3 comments · Show HN |
 | [Show HN: MCPJam - the first testing & evaluations platform for MCP servers](https://www.mcpjam.com) | prathmeshmcp | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
