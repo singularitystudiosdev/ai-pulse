@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-19 00:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-19 00:08 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) | Xyra | 43 HN points · v 85 | 43 HN points · 21 comments · Show HN |
+| [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) | Xyra | 43 HN points · v 87 | 43 HN points · 22 comments · Show HN |
 | [Show HN: Craigslist for agent skills, curated by a human](https://skillbay.sh/) | skeptrune | 25 HN points · v 61 | 25 HN points · 18 comments · Show HN |
 | [Show HN: AutoBot – live voice control for long-running AI work](https://github.com/demeyer1/Autobot) | demeyer1 | 18 HN points · v 24 | 18 HN points · 3 comments · Show HN |
 | [Show HN: MCPJam - the first testing & evaluations platform for MCP servers](https://www.mcpjam.com) | prathmeshmcp | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
