@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-19 23:35 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-19 23:40 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) | Xyra | 59 HN points · v 109 | 59 HN points · 25 comments · Show HN |
-| [Show HN: I wrote a custom assembler for CHIP-8 in C++](https://github.com/Tackx/c8-ass) | tack1234 | 25 HN points · v 33 | 25 HN points · 4 comments · Show HN |
+| [Show HN: I wrote a custom assembler for CHIP-8 in C++](https://github.com/Tackx/c8-ass) | tack1234 | 26 HN points · v 34 | 26 HN points · 4 comments · Show HN |
 | [Show HN: AutoBot – live voice control for long-running AI work](https://github.com/demeyer1/Autobot) | demeyer1 | 19 HN points · v 25 | 19 HN points · 3 comments · Show HN |
 | [Show HN: MCPJam - the first testing & evaluations platform for MCP servers](https://www.mcpjam.com) | prathmeshmcp | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 
