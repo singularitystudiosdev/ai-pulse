@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-20 06:02 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-20 06:08 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) | Xyra | 59 HN points · v 109 | 59 HN points · 25 comments · Show HN |
+| [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) | Xyra | 60 HN points · v 110 | 60 HN points · 25 comments · Show HN |
 | [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO) | theguysudo | 16 HN points · v 40 | 16 HN points · 12 comments · Show HN |
 | [Show HN: I wrote a custom assembler for CHIP-8 in C++](https://github.com/Tackx/c8-ass) | tack1234 | 26 HN points · v 34 | 26 HN points · 4 comments · Show HN |
 | [Show HN: MCPJam - the first testing & evaluations platform for MCP servers](https://www.mcpjam.com) | prathmeshmcp | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [6366067297694404991665799502360367517499120143715095577135700275089718095345519132522520949549419749528593108…](https://x.com/sweis/status/2101484464807596264) | [@sweis](https://x.com/sweis) | 4175♥ 465RT · v 3334.7 | 3335 velocity · 4175♥ 465RT · 612984 views · 5h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
