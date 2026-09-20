@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-20 06:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-20 06:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | Xingxuan Zhang | 322 HF upvotes · v 322 | 322 HF upvotes · "LimiX-2: A Contextual Mechanism Network Towards General Structured-Dat" · model release |
+| [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | Xingxuan Zhang | 323 HF upvotes · v 323 | 323 HF upvotes · "LimiX-2: A Contextual Mechanism Network Towards General Structured-Dat" · model release |
 | [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 114 HF upvotes · v 114 | 114 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
 | [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | Haoyu Zhao | 108 HF upvotes · v 108 | 108 HF upvotes · "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-" · model release |
 | [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | Yuxiao Yang | 90 HF upvotes · v 90 | 90 HF upvotes · "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy " · model release |
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) | Xyra | 60 HN points · v 110 | 60 HN points · 25 comments · Show HN |
 | [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO) | theguysudo | 16 HN points · v 40 | 16 HN points · 12 comments · Show HN |
-| [Show HN: I wrote a custom assembler for CHIP-8 in C++](https://github.com/Tackx/c8-ass) | tack1234 | 26 HN points · v 34 | 26 HN points · 4 comments · Show HN |
+| [Show HN: I wrote a custom assembler for CHIP-8 in C++](https://github.com/Tackx/c8-ass) | tack1234 | 27 HN points · v 35 | 27 HN points · 4 comments · Show HN |
 | [Show HN: MCPJam - the first testing & evaluations platform for MCP servers](https://www.mcpjam.com) | prathmeshmcp | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
