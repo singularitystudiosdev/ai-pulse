@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-20 00:58 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-20 01:03 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,7 +34,7 @@
 | [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) | Xyra | 59 HN points · v 109 | 59 HN points · 25 comments · Show HN |
 | [Show HN: I wrote a custom assembler for CHIP-8 in C++](https://github.com/Tackx/c8-ass) | tack1234 | 26 HN points · v 34 | 26 HN points · 4 comments · Show HN |
 | [Show HN: MCPJam - the first testing & evaluations platform for MCP servers](https://www.mcpjam.com) | prathmeshmcp | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
-| [Show HN: Agentgit – a Git host for AI agents, no account, no token, no key](https://agentgit.co/) | uptownhr | 8 HN points · v 20 | 8 HN points · 6 comments · Show HN |
+| [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO) | theguysudo | 9 HN points · v 21 | 9 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
