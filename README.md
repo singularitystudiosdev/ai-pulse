@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-20 01:35 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-20 01:41 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | Xingxuan Zhang | 303 HF upvotes · v 303 | 303 HF upvotes · "LimiX-2: A Contextual Mechanism Network Towards General Structured-Dat" · model release |
-| [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 95 HF upvotes · v 95 | 95 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
+| [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 96 HF upvotes · v 96 | 96 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
 | [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | Haoyu Zhao | 93 HF upvotes · v 93 | 93 HF upvotes · "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-" · model release |
 | [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | Yuxiao Yang | 76 HF upvotes · v 76 | 76 HF upvotes · "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy " · model release |
 | [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://huggingface.co/papers/2609.19134) | Hejia Geng | 74 HF upvotes · v 74 | 74 HF upvotes · "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable E" · model release |
