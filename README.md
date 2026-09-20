@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-20 15:30 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-20 17:42 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | Xingxuan Zhang | 371 HF upvotes · v 371 | 371 HF upvotes · "LimiX-2: A Contextual Mechanism Network Towards General Structured-Dat" · model release |
-| [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 128 HF upvotes · v 128 | 128 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
-| [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | Haoyu Zhao | 112 HF upvotes · v 112 | 112 HF upvotes · "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-" · model release |
-| [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | Yuxiao Yang | 93 HF upvotes · v 93 | 93 HF upvotes · "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy " · model release |
-| [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](https://huggingface.co/papers/2609.20519) | Haozhe Liu | 92 HF upvotes · v 92 | 92 HF upvotes · "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Ha" · model release |
+| [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 131 HF upvotes · v 131 | 131 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
+| [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | Haoyu Zhao | 113 HF upvotes · v 113 | 113 HF upvotes · "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-" · model release |
+| [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | Yuxiao Yang | 94 HF upvotes · v 94 | 94 HF upvotes · "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy " · model release |
+| [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](https://huggingface.co/papers/2609.20519) | Haozhe Liu | 94 HF upvotes · v 94 | 94 HF upvotes · "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Ha" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) | Xyra | 60 HN points · v 110 | 60 HN points · 25 comments · Show HN |
 | [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO) | theguysudo | 16 HN points · v 42 | 16 HN points · 13 comments · Show HN |
-| [Show HN: MCPJam - the first testing & evaluations platform for MCP servers](https://www.mcpjam.com) | prathmeshmcp | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
+| [Show HN: AI Facial Attractiveness Model Aligned with Human Preferences](https://faceanalysisai.com/) | dares2573 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 | [Show HN: Agentgit – a Git host for AI agents, no account, no token, no key](https://agentgit.co/) | uptownhr | 10 HN points · v 22 | 10 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
