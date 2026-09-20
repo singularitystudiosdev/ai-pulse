@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-20 06:41 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-20 06:46 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](https://huggingface.co/papers/2609.17488) | Xingxuan Zhang | 323 HF upvotes · v 323 | 323 HF upvotes · "LimiX-2: A Contextual Mechanism Network Towards General Structured-Dat" · model release |
-| [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 115 HF upvotes · v 115 | 115 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
-| [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | Haoyu Zhao | 108 HF upvotes · v 108 | 108 HF upvotes · "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-" · model release |
+| [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 116 HF upvotes · v 116 | 116 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
+| [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | Haoyu Zhao | 109 HF upvotes · v 109 | 109 HF upvotes · "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-" · model release |
 | [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | Yuxiao Yang | 91 HF upvotes · v 91 | 91 HF upvotes · "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy " · model release |
 | [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](https://huggingface.co/papers/2609.20519) | Haozhe Liu | 84 HF upvotes · v 84 | 84 HF upvotes · "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Ha" · model release |
 
