@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-21 23:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-21 23:38 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 248 HN points · v 358 | 248 HN points · 55 comments · Show HN |
+| [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 248 HN points · v 360 | 248 HN points · 56 comments · Show HN |
 | [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 55 HN points · v 95 | 55 HN points · 20 comments · Show HN |
 | [Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up) | behdad | 20 HN points · v 36 | 20 HN points · 8 comments · Show HN |
 | [Show HN: AI Facial Attractiveness Model Aligned with Human Preferences](https://faceanalysisai.com/) | dares2573 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [This is very close to my take as well. The data part is extremely interesting in this approach - maybe the mo…](https://x.com/MParakhin/status/2101683565520199887) | [@MParakhin](https://x.com/MParakhin) | 278♥ 8RT · v 7.8 | 7.8 velocity · 278♥ 8RT · 28839 views · 33h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
