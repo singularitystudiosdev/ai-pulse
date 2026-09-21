@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-21 11:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-21 16:30 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 142 HF upvotes · v 142 | 142 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
+| [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 145 HF upvotes · v 145 | 145 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
 | [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | Haoyu Zhao | 115 HF upvotes · v 115 | 115 HF upvotes · "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-" · model release |
-| [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | Yuxiao Yang | 95 HF upvotes · v 95 | 95 HF upvotes · "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy " · model release |
-| [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](https://huggingface.co/papers/2609.20519) | Haozhe Liu | 95 HF upvotes · v 95 | 95 HF upvotes · "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Ha" · model release |
-| [An Empirical Study of Harness Design for Coding Agents](https://huggingface.co/papers/2609.20804) | Run-Ze Fan | 72 HF upvotes · v 72 | 72 HF upvotes · "An Empirical Study of Harness Design for Coding Agents" · model release |
+| [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](https://huggingface.co/papers/2609.20519) | Haozhe Liu | 97 HF upvotes · v 97 | 97 HF upvotes · "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Ha" · model release |
+| [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | Yuxiao Yang | 96 HF upvotes · v 96 | 96 HF upvotes · "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy " · model release |
+| [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Exper…](https://huggingface.co/papers/2609.21346) | Ran Cheng | 88 HF upvotes · v 88 | 88 HF upvotes · "IntBMoE: Integrating Block-Level Conditioning into Expert Composition " · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 107 HN points · v 139 | 107 HN points · 16 comments · Show HN |
+| [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 212 HN points · v 298 | 212 HN points · 43 comments · Show HN |
+| [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 33 HN points · v 55 | 33 HN points · 11 comments · Show HN |
+| [Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up) | behdad | 17 HN points · v 27 | 17 HN points · 5 comments · Show HN |
 | [Show HN: AI Facial Attractiveness Model Aligned with Human Preferences](https://faceanalysisai.com/) | dares2573 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
-| [Show HN: Swarm, an offline family tree app for macOS](https://github.com/samoilev/swarm) | samoilev | 7 HN points · v 19 | 7 HN points · 6 comments · Show HN |
-| [Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up) | behdad | 12 HN points · v 18 | 12 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
