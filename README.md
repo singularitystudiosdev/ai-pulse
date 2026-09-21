@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-21 16:30 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-21 16:35 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,13 +25,13 @@
 | [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | Haoyu Zhao | 115 HF upvotes · v 115 | 115 HF upvotes · "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-" · model release |
 | [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](https://huggingface.co/papers/2609.20519) | Haozhe Liu | 97 HF upvotes · v 97 | 97 HF upvotes · "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Ha" · model release |
 | [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | Yuxiao Yang | 96 HF upvotes · v 96 | 96 HF upvotes · "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy " · model release |
-| [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Exper…](https://huggingface.co/papers/2609.21346) | Ran Cheng | 88 HF upvotes · v 88 | 88 HF upvotes · "IntBMoE: Integrating Block-Level Conditioning into Expert Composition " · model release |
+| [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Exper…](https://huggingface.co/papers/2609.21346) | Ran Cheng | 89 HF upvotes · v 89 | 89 HF upvotes · "IntBMoE: Integrating Block-Level Conditioning into Expert Composition " · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 212 HN points · v 298 | 212 HN points · 43 comments · Show HN |
+| [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 213 HN points · v 299 | 213 HN points · 43 comments · Show HN |
 | [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 33 HN points · v 55 | 33 HN points · 11 comments · Show HN |
 | [Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up) | behdad | 17 HN points · v 27 | 17 HN points · 5 comments · Show HN |
 | [Show HN: AI Facial Attractiveness Model Aligned with Human Preferences](https://faceanalysisai.com/) | dares2573 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
