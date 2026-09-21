@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-21 16:46 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-21 16:51 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,8 +31,8 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 214 HN points · v 300 | 214 HN points · 43 comments · Show HN |
-| [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 33 HN points · v 55 | 33 HN points · 11 comments · Show HN |
+| [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 216 HN points · v 302 | 216 HN points · 43 comments · Show HN |
+| [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 35 HN points · v 57 | 35 HN points · 11 comments · Show HN |
 | [Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up) | behdad | 17 HN points · v 27 | 17 HN points · 5 comments · Show HN |
 | [Show HN: AI Facial Attractiveness Model Aligned with Human Preferences](https://faceanalysisai.com/) | dares2573 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 
