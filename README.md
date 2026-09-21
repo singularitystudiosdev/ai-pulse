@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-21 17:12 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-21 17:17 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,15 +25,15 @@
 | [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | Haoyu Zhao | 115 HF upvotes · v 115 | 115 HF upvotes · "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-" · model release |
 | [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | Yuxiao Yang | 96 HF upvotes · v 96 | 96 HF upvotes · "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy " · model release |
 | [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Exper…](https://huggingface.co/papers/2609.21346) | Ran Cheng | 89 HF upvotes · v 89 | 89 HF upvotes · "IntBMoE: Integrating Block-Level Conditioning into Expert Composition " · model release |
-| [Grounded Skill Synthesis from Code at Scale for Agentic Intelligence](https://huggingface.co/papers/2609.05571) | Yongqi Tong | 83 HF upvotes · v 83 | 83 HF upvotes · "Grounded Skill Synthesis from Code at Scale for Agentic Intelligence" · model release |
+| [Grounded Skill Synthesis from Code at Scale for Agentic Intelligence](https://huggingface.co/papers/2609.05571) | Yongqi Tong | 84 HF upvotes · v 84 | 84 HF upvotes · "Grounded Skill Synthesis from Code at Scale for Agentic Intelligence" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 222 HN points · v 310 | 222 HN points · 44 comments · Show HN |
-| [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 39 HN points · v 61 | 39 HN points · 11 comments · Show HN |
-| [Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up) | behdad | 17 HN points · v 27 | 17 HN points · 5 comments · Show HN |
+| [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 40 HN points · v 62 | 40 HN points · 11 comments · Show HN |
+| [Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up) | behdad | 17 HN points · v 33 | 17 HN points · 8 comments · Show HN |
 | [Show HN: AI Facial Attractiveness Model Aligned with Human Preferences](https://faceanalysisai.com/) | dares2573 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
