@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-22 23:38 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-22 23:45 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972) | Peng Xia | 152 HF upvotes · v 152 | 152 HF upvotes · "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses" · model release |
+| [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972) | Peng Xia | 153 HF upvotes · v 153 | 153 HF upvotes · "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses" · model release |
 | [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](https://huggingface.co/papers/2609.24984) | Wangbo Yu | 112 HF upvotes · v 112 | 112 HF upvotes · "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memo" · model release |
-| [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | Yiran Wang | 110 HF upvotes · v 110 | 110 HF upvotes · "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay" · model release |
+| [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | Yiran Wang | 111 HF upvotes · v 111 | 111 HF upvotes · "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay" · model release |
 | [Transferring the Intelligence of VLMs to Robotic Control](https://huggingface.co/papers/2609.22966) | Meng-Hao Guo | 101 HF upvotes · v 101 | 101 HF upvotes · "Transferring the Intelligence of VLMs to Robotic Control" · model release |
 | [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Exper…](https://huggingface.co/papers/2609.21346) | Ran Cheng | 92 HF upvotes · v 92 | 92 HF upvotes · "IntBMoE: Integrating Block-Level Conditioning into Expert Composition " · model release |
 
@@ -31,9 +31,9 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 153 HN points · v 257 | 153 HN points · 52 comments · Show HN |
+| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 153 HN points · v 259 | 153 HN points · 53 comments · Show HN |
 | [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models) | florianstandhar | 53 HN points · v 67 | 53 HN points · 7 comments · Show HN |
-| [Show HN: Training a model to identify AI web content from structure alone](https://arxiv.org/abs/2609.15369) | jochenmadler | 35 HN points · v 51 | 35 HN points · 8 comments · Show HN |
+| [Show HN: Training a model to identify AI web content from structure alone](https://arxiv.org/abs/2609.15369) | jochenmadler | 36 HN points · v 52 | 36 HN points · 8 comments · Show HN |
 | [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 34 HN points · v 38 | 34 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
