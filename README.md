@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-22 07:32 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-22 07:37 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [EvoOntology: A Self-Evolving Ontology Layer for Data Agents](https://huggingface.co/papers/2609.15779) | Meiduo Chong | 126 HF upvotes · v 126 | 126 HF upvotes · "EvoOntology: A Self-Evolving Ontology Layer for Data Agents" · model release |
-| [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](https://huggingface.co/papers/2609.22068) | Bowen Ye | 102 HF upvotes · v 102 | 102 HF upvotes · "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself" · model release |
+| [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](https://huggingface.co/papers/2609.22068) | Bowen Ye | 103 HF upvotes · v 103 | 103 HF upvotes · "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself" · model release |
 | [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Exper…](https://huggingface.co/papers/2609.21346) | Ran Cheng | 92 HF upvotes · v 92 | 92 HF upvotes · "IntBMoE: Integrating Block-Level Conditioning into Expert Composition " · model release |
 | [Grounded Skill Synthesis from Code at Scale for Agentic Intelligence](https://huggingface.co/papers/2609.05571) | Yongqi Tong | 91 HF upvotes · v 91 | 91 HF upvotes · "Grounded Skill Synthesis from Code at Scale for Agentic Intelligence" · model release |
 | [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972) | Peng Xia | 64 HF upvotes · v 64 | 64 HF upvotes · "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses" · model release |
@@ -31,9 +31,9 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 261 HN points · v 377 | 261 HN points · 58 comments · Show HN |
-| [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 61 HN points · v 103 | 61 HN points · 21 comments · Show HN |
-| [Show HN: jevals – replacing LLM judges with typed Jev decisions](https://github.com/openlayer-ai/jevals) | gbayomi | 42 HN points · v 46 | 42 HN points · 2 comments · Show HN |
+| [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 262 HN points · v 378 | 262 HN points · 58 comments · Show HN |
+| [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 62 HN points · v 104 | 62 HN points · 21 comments · Show HN |
+| [Show HN: jevals – replacing LLM judges with typed Jev decisions](https://github.com/openlayer-ai/jevals) | gbayomi | 42 HN points · v 48 | 42 HN points · 3 comments · Show HN |
 | [Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up) | behdad | 20 HN points · v 36 | 20 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
