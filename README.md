@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-22 23:01 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-22 23:06 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,10 +31,10 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 151 HN points · v 255 | 151 HN points · 52 comments · Show HN |
+| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 152 HN points · v 256 | 152 HN points · 52 comments · Show HN |
 | [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 65 HN points · v 123 | 65 HN points · 29 comments · Show HN |
-| [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models) | florianstandhar | 46 HN points · v 60 | 46 HN points · 7 comments · Show HN |
-| [Show HN: Training a model to identify AI web content from structure alone](https://arxiv.org/abs/2609.15369) | jochenmadler | 29 HN points · v 45 | 29 HN points · 8 comments · Show HN |
+| [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models) | florianstandhar | 47 HN points · v 61 | 47 HN points · 7 comments · Show HN |
+| [Show HN: Training a model to identify AI web content from structure alone](https://arxiv.org/abs/2609.15369) | jochenmadler | 31 HN points · v 47 | 31 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
