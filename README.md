@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-22 20:20 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-22 20:25 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,9 +32,9 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 270 HN points · v 412 | 270 HN points · 71 comments · Show HN |
-| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 137 HN points · v 231 | 137 HN points · 47 comments · Show HN |
+| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 139 HN points · v 235 | 139 HN points · 48 comments · Show HN |
 | [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 64 HN points · v 122 | 64 HN points · 29 comments · Show HN |
-| [We appreciate this report and have issued a hotfix to the Muse Mac app. This was a local privilege escalation…](https://x.com/dps/status/2102248329111634067) | [@dps](https://x.com/dps) | 316♥ 10RT · v 50.9 | 51 velocity · 316♥ 10RT · 60709 views · 16h old · matched "shipped" |
+| [Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up) | behdad | 20 HN points · v 36 | 20 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
