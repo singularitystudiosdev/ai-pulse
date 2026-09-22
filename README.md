@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-22 02:26 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-22 02:31 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/papers/2609.19969) | DeepSeek-AI | 146 HF upvotes · v 146 | 146 HF upvotes · "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression" · model release |
 | [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://huggingface.co/papers/2609.18323) | Haoyu Zhao | 116 HF upvotes · v 116 | 116 HF upvotes · "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-" · model release |
 | [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://huggingface.co/papers/2609.20511) | Yuxiao Yang | 96 HF upvotes · v 96 | 96 HF upvotes · "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy " · model release |
-| [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](https://huggingface.co/papers/2609.22068) | Bowen Ye | 94 HF upvotes · v 94 | 94 HF upvotes · "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself" · model release |
+| [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](https://huggingface.co/papers/2609.22068) | Bowen Ye | 95 HF upvotes · v 95 | 95 HF upvotes · "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself" · model release |
 | [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Exper…](https://huggingface.co/papers/2609.21346) | Ran Cheng | 90 HF upvotes · v 90 | 90 HF upvotes · "IntBMoE: Integrating Block-Level Conditioning into Expert Composition " · model release |
 
 ### 🚀 AI SaaS launches (4)
