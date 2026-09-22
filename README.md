@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-22 17:42 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-22 17:47 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972) | Peng Xia | 143 HF upvotes · v 143 | 143 HF upvotes · "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses" · model release |
+| [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972) | Peng Xia | 144 HF upvotes · v 144 | 144 HF upvotes · "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses" · model release |
 | [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](https://huggingface.co/papers/2609.24984) | Wangbo Yu | 108 HF upvotes · v 108 | 108 HF upvotes · "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memo" · model release |
 | [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | Yiran Wang | 107 HF upvotes · v 107 | 107 HF upvotes · "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay" · model release |
 | [Transferring the Intelligence of VLMs to Robotic Control](https://huggingface.co/papers/2609.22966) | Meng-Hao Guo | 100 HF upvotes · v 100 | 100 HF upvotes · "Transferring the Intelligence of VLMs to Robotic Control" · model release |
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 269 HN points · v 409 | 269 HN points · 70 comments · Show HN |
-| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 103 HN points · v 169 | 103 HN points · 33 comments · Show HN |
+| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 106 HN points · v 174 | 106 HN points · 34 comments · Show HN |
 | [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 64 HN points · v 122 | 64 HN points · 29 comments · Show HN |
 | [Show HN: jevals – replacing LLM judges with typed Jev decisions](https://github.com/openlayer-ai/jevals) | gbayomi | 43 HN points · v 55 | 43 HN points · 6 comments · Show HN |
 
