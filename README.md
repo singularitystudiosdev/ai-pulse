@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-22 20:57 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-22 21:03 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,9 +32,9 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 271 HN points · v 413 | 271 HN points · 71 comments · Show HN |
-| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 141 HN points · v 237 | 141 HN points · 48 comments · Show HN |
+| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 141 HN points · v 239 | 141 HN points · 49 comments · Show HN |
 | [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 64 HN points · v 122 | 64 HN points · 29 comments · Show HN |
-| [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 28 HN points · v 32 | 28 HN points · 2 comments · Show HN |
+| [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 29 HN points · v 33 | 29 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
