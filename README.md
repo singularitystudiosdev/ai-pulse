@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-22 23:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-22 23:38 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 153 HN points · v 257 | 153 HN points · 52 comments · Show HN |
 | [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models) | florianstandhar | 53 HN points · v 67 | 53 HN points · 7 comments · Show HN |
-| [Show HN: Training a model to identify AI web content from structure alone](https://arxiv.org/abs/2609.15369) | jochenmadler | 34 HN points · v 50 | 34 HN points · 8 comments · Show HN |
+| [Show HN: Training a model to identify AI web content from structure alone](https://arxiv.org/abs/2609.15369) | jochenmadler | 35 HN points · v 51 | 35 HN points · 8 comments · Show HN |
 | [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 34 HN points · v 38 | 34 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
