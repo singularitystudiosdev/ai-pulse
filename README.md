@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-22 07:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-22 07:42 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](https://huggingface.co/papers/2609.22068) | Bowen Ye | 103 HF upvotes · v 103 | 103 HF upvotes · "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself" · model release |
 | [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Exper…](https://huggingface.co/papers/2609.21346) | Ran Cheng | 92 HF upvotes · v 92 | 92 HF upvotes · "IntBMoE: Integrating Block-Level Conditioning into Expert Composition " · model release |
 | [Grounded Skill Synthesis from Code at Scale for Agentic Intelligence](https://huggingface.co/papers/2609.05571) | Yongqi Tong | 91 HF upvotes · v 91 | 91 HF upvotes · "Grounded Skill Synthesis from Code at Scale for Agentic Intelligence" · model release |
-| [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972) | Peng Xia | 64 HF upvotes · v 64 | 64 HF upvotes · "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses" · model release |
+| [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972) | Peng Xia | 65 HF upvotes · v 65 | 65 HF upvotes · "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
