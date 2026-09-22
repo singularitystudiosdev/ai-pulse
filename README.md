@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-22 12:53 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-22 12:59 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [EvoOntology: A Self-Evolving Ontology Layer for Data Agents](https://huggingface.co/papers/2609.15779) | Meiduo Chong | 126 HF upvotes · v 126 | 126 HF upvotes · "EvoOntology: A Self-Evolving Ontology Layer for Data Agents" · model release |
+| [EvoOntology: A Self-Evolving Ontology Layer for Data Agents](https://huggingface.co/papers/2609.15779) | Meiduo Chong | 127 HF upvotes · v 127 | 127 HF upvotes · "EvoOntology: A Self-Evolving Ontology Layer for Data Agents" · model release |
 | [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](https://huggingface.co/papers/2609.22068) | Bowen Ye | 104 HF upvotes · v 104 | 104 HF upvotes · "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself" · model release |
-| [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](https://huggingface.co/papers/2609.24984) | Wangbo Yu | 96 HF upvotes · v 96 | 96 HF upvotes · "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memo" · model release |
+| [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](https://huggingface.co/papers/2609.24984) | Wangbo Yu | 97 HF upvotes · v 97 | 97 HF upvotes · "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memo" · model release |
 | [Transferring the Intelligence of VLMs to Robotic Control](https://huggingface.co/papers/2609.22966) | Meng-Hao Guo | 95 HF upvotes · v 95 | 95 HF upvotes · "Transferring the Intelligence of VLMs to Robotic Control" · model release |
 | [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Exper…](https://huggingface.co/papers/2609.21346) | Ran Cheng | 92 HF upvotes · v 92 | 92 HF upvotes · "IntBMoE: Integrating Block-Level Conditioning into Expert Composition " · model release |
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 264 HN points · v 396 | 264 HN points · 66 comments · Show HN |
+| [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 264 HN points · v 398 | 264 HN points · 67 comments · Show HN |
 | [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 62 HN points · v 116 | 62 HN points · 27 comments · Show HN |
 | [Show HN: jevals – replacing LLM judges with typed Jev decisions](https://github.com/openlayer-ai/jevals) | gbayomi | 42 HN points · v 48 | 42 HN points · 3 comments · Show HN |
 | [Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up) | behdad | 20 HN points · v 36 | 20 HN points · 8 comments · Show HN |
