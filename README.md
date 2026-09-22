@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-22 20:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-22 20:20 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Luna. Intell…](https://x.com/ArtificialAnlys/status/2102462962758033624)<br>![card](https://pbs.twimg.com/media/HS1x5tJaIAATXik.jpg?name=orig) | [@ArtificialAnlys](https://x.com/ArtificialAnlys) | 1158♥ 89RT · v 5321.8 | known founder · 5322 velocity · 1158♥ 89RT · 267049 views · 2h old · matched "benchmark", "evals" |
 | [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972) | Peng Xia | 151 HF upvotes · v 151 | 151 HF upvotes · "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses" · model release |
 | [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](https://huggingface.co/papers/2609.24984) | Wangbo Yu | 112 HF upvotes · v 112 | 112 HF upvotes · "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memo" · model release |
 | [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | Yiran Wang | 110 HF upvotes · v 110 | 110 HF upvotes · "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay" · model release |
 | [Transferring the Intelligence of VLMs to Robotic Control](https://huggingface.co/papers/2609.22966) | Meng-Hao Guo | 101 HF upvotes · v 101 | 101 HF upvotes · "Transferring the Intelligence of VLMs to Robotic Control" · model release |
+| [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Exper…](https://huggingface.co/papers/2609.21346) | Ran Cheng | 92 HF upvotes · v 92 | 92 HF upvotes · "IntBMoE: Integrating Block-Level Conditioning into Expert Composition " · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.  GPT-6 Sol and Luna build on the advances behi…](https://x.com/OpenAI/status/2102460975790137662)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2102460948430966784/img/AtB4MxYZuAKgOLey.jpg) | [@OpenAI](https://x.com/OpenAI) | 30058♥ 2710RT · v 47110.6 | known founder · 47111 velocity · 30058♥ 2710RT · 2343182 views · 2h old · matched "pricing" |
-| [GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in wr…](https://x.com/thsottiaux/status/2102463847714247142) | [@thsottiaux](https://x.com/thsottiaux) | 14340♥ 859RT · v 20791.9 | known founder · 20792 velocity · 14340♥ 859RT · 938772 views · 2h old · matched "try it" |
 | [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/) | volotat | 270 HN points · v 412 | 270 HN points · 71 comments · Show HN |
-| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 136 HN points · v 228 | 136 HN points · 46 comments · Show HN |
+| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 137 HN points · v 231 | 137 HN points · 47 comments · Show HN |
+| [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | aru-labs | 64 HN points · v 122 | 64 HN points · 29 comments · Show HN |
+| [We appreciate this report and have issued a hotfix to the Muse Mac app. This was a local privilege escalation…](https://x.com/dps/status/2102248329111634067) | [@dps](https://x.com/dps) | 316♥ 10RT · v 50.9 | 51 velocity · 316♥ 10RT · 60709 views · 16h old · matched "shipped" |
 
 ### 🦾 Embodied AI (0)
 
