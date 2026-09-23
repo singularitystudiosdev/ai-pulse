@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-23 16:52 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-23 16:57 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,19 +34,17 @@
 | [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 180 HN points · v 298 | 180 HN points · 59 comments · Show HN |
 | [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models) | florianstandhar | 127 HN points · v 195 | 127 HN points · 34 comments · Show HN |
 | [Show HN: Training a model to identify AI web content from structure alone](https://arxiv.org/abs/2609.15369) | jochenmadler | 62 HN points · v 100 | 62 HN points · 19 comments · Show HN |
-| [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 40 HN points · v 50 | 40 HN points · 5 comments · Show HN |
+| [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 41 HN points · v 51 | 41 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (3)
+### 🔥 Viral AI posts (1)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [for the past few months i've been asking our models to paint. opus 5.5 is very skilled at emulating different…](https://x.com/jkeatn/status/2102441348075057539)<br>![card](https://pbs.twimg.com/media/HS1dJyNbcAQRUCo.jpg?name=orig) | [@jkeatn](https://x.com/jkeatn) | 4208♥ 281RT · v 246.8 | 247 velocity · 4208♥ 281RT · 544958 views · 24h old |
-| [Opus 5.5 made this galloping horse (entirely in code every pixel drawn procedurally).  One self-contained HTM…](https://x.com/victormustar/status/2102707412704919910)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2102707356932993024/img/eRYCNlEvczUBPd03.jpg) | [@victormustar](https://x.com/victormustar) | 655♥ 31RT · v 103.9 | 104 velocity · 655♥ 31RT · 26618 views · 6h old |
-| [Well this is something new... Opus 5.5 by itself.   Prompt and agent read out below.](https://x.com/LCSlates/status/2102503027340988559)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg) | [@LCSlates](https://x.com/LCSlates) | 844♥ 45RT · v 37.2 | 37 velocity · 844♥ 45RT · 57571 views · 20h old |
+| [opus 5.5 passed a real threshold at making music with code!   this is one shot from asking "make some bass mu…](https://x.com/aj_dev_smith/status/2102504509637587339)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2102504223527346176/img/mrf0N1E8XTeHghaw.jpg) | [@aj_dev_smith](https://x.com/aj_dev_smith) | 619♥ 72RT · v 32 | 32 velocity · 619♥ 72RT · 49517 views · 20h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
