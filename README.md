@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-23 12:31 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-23 12:36 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,14 +25,14 @@
 | [OmniEdu: Open Foundation Models for Learning and Teaching](https://huggingface.co/papers/2609.23088) | Hao Liang | 140 HF upvotes · v 140 | 140 HF upvotes · "OmniEdu: Open Foundation Models for Learning and Teaching" · model release |
 | [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | Yiran Wang | 113 HF upvotes · v 113 | 113 HF upvotes · "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay" · model release |
 | [Grounded Action Model: 3D Grounding as a Foundation for Robotics](https://huggingface.co/papers/2609.23863) | Gehao Zhang | 74 HF upvotes · v 74 | 74 HF upvotes · "Grounded Action Model: 3D Grounding as a Foundation for Robotics" · model release |
-| [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 59 HF upvotes · v 59 | 59 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
+| [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 60 HF upvotes · v 60 | 60 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 175 HN points · v 293 | 175 HN points · 59 comments · Show HN |
-| [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models) | florianstandhar | 117 HN points · v 181 | 117 HN points · 32 comments · Show HN |
+| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 176 HN points · v 294 | 176 HN points · 59 comments · Show HN |
+| [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models) | florianstandhar | 118 HN points · v 182 | 118 HN points · 32 comments · Show HN |
 | [Show HN: Training a model to identify AI web content from structure alone](https://arxiv.org/abs/2609.15369) | jochenmadler | 60 HN points · v 90 | 60 HN points · 15 comments · Show HN |
 | [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 37 HN points · v 43 | 37 HN points · 3 comments · Show HN |
 
