@@ -15,34 +15,38 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-23 12:52 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-23 16:52 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](https://huggingface.co/papers/2609.13814) | Ruixiang Zhao | 201 HF upvotes · v 201 | 201 HF upvotes · "Realtime-Venus: A full-duplex interaction system with asynchronous del" · model release |
-| [OmniEdu: Open Foundation Models for Learning and Teaching](https://huggingface.co/papers/2609.23088) | Hao Liang | 140 HF upvotes · v 140 | 140 HF upvotes · "OmniEdu: Open Foundation Models for Learning and Teaching" · model release |
-| [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | Yiran Wang | 113 HF upvotes · v 113 | 113 HF upvotes · "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay" · model release |
-| [Grounded Action Model: 3D Grounding as a Foundation for Robotics](https://huggingface.co/papers/2609.23863) | Gehao Zhang | 74 HF upvotes · v 74 | 74 HF upvotes · "Grounded Action Model: 3D Grounding as a Foundation for Robotics" · model release |
-| [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 60 HF upvotes · v 60 | 60 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
+| [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](https://huggingface.co/papers/2609.13814) | Ruixiang Zhao | 204 HF upvotes · v 204 | 204 HF upvotes · "Realtime-Venus: A full-duplex interaction system with asynchronous del" · model release |
+| [OmniEdu: Open Foundation Models for Learning and Teaching](https://huggingface.co/papers/2609.23088) | Hao Liang | 141 HF upvotes · v 141 | 141 HF upvotes · "OmniEdu: Open Foundation Models for Learning and Teaching" · model release |
+| [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | Yiran Wang | 115 HF upvotes · v 115 | 115 HF upvotes · "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay" · model release |
+| [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 111 HF upvotes · v 111 | 111 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
+| [Grounded Action Model: 3D Grounding as a Foundation for Robotics](https://huggingface.co/papers/2609.23863) | Gehao Zhang | 75 HF upvotes · v 75 | 75 HF upvotes · "Grounded Action Model: 3D Grounding as a Foundation for Robotics" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 176 HN points · v 294 | 176 HN points · 59 comments · Show HN |
-| [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models) | florianstandhar | 121 HN points · v 185 | 121 HN points · 32 comments · Show HN |
-| [Show HN: Training a model to identify AI web content from structure alone](https://arxiv.org/abs/2609.15369) | jochenmadler | 61 HN points · v 91 | 61 HN points · 15 comments · Show HN |
-| [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 37 HN points · v 43 | 37 HN points · 3 comments · Show HN |
+| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 180 HN points · v 298 | 180 HN points · 59 comments · Show HN |
+| [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models) | florianstandhar | 127 HN points · v 195 | 127 HN points · 34 comments · Show HN |
+| [Show HN: Training a model to identify AI web content from structure alone](https://arxiv.org/abs/2609.15369) | jochenmadler | 62 HN points · v 100 | 62 HN points · 19 comments · Show HN |
+| [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 40 HN points · v 50 | 40 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (3)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [for the past few months i've been asking our models to paint. opus 5.5 is very skilled at emulating different…](https://x.com/jkeatn/status/2102441348075057539)<br>![card](https://pbs.twimg.com/media/HS1dJyNbcAQRUCo.jpg?name=orig) | [@jkeatn](https://x.com/jkeatn) | 4208♥ 281RT · v 246.8 | 247 velocity · 4208♥ 281RT · 544958 views · 24h old |
+| [Opus 5.5 made this galloping horse (entirely in code every pixel drawn procedurally).  One self-contained HTM…](https://x.com/victormustar/status/2102707412704919910)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2102707356932993024/img/eRYCNlEvczUBPd03.jpg) | [@victormustar](https://x.com/victormustar) | 655♥ 31RT · v 103.9 | 104 velocity · 655♥ 31RT · 26618 views · 6h old |
+| [Well this is something new... Opus 5.5 by itself.   Prompt and agent read out below.](https://x.com/LCSlates/status/2102503027340988559)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg) | [@LCSlates](https://x.com/LCSlates) | 844♥ 45RT · v 37.2 | 37 velocity · 844♥ 45RT · 57571 views · 20h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
