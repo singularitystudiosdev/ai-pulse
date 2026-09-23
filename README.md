@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-23 20:29 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-23 20:34 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [OmniEdu: Open Foundation Models for Learning and Teaching](https://huggingface.co/papers/2609.23088) | Hao Liang | 142 HF upvotes · v 142 | 142 HF upvotes · "OmniEdu: Open Foundation Models for Learning and Teaching" · model release |
 | [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | Yiran Wang | 115 HF upvotes · v 115 | 115 HF upvotes · "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay" · model release |
 | [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 111 HF upvotes · v 111 | 111 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
-| [I wish we didn’t need these again, but here is the honest version of Anthropic’s biology announcement 🥳🥳🥳 …](https://x.com/ziv_ravid/status/2102844800345251858) | [@ziv_ravid](https://x.com/ziv_ravid) | 46♥ 1RT · v 79.7 | 80 velocity · 46♥ 1RT · 3220 views · <1h old · matched "claude" |
+| [Grounded Action Model: 3D Grounding as a Foundation for Robotics](https://huggingface.co/papers/2609.23863) | Gehao Zhang | 75 HF upvotes · v 75 | 75 HF upvotes · "Grounded Action Model: 3D Grounding as a Foundation for Robotics" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [The sad thing is that Dario knows better.  He was a PhD student. He knows the significance level of this resu…](https://x.com/ziv_ravid/status/2102850969537225149) | [@ziv_ravid](https://x.com/ziv_ravid) | 26♥ 1RT · v 63.2 | 63 velocity · 26♥ 1RT · 1939 views · <1h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
