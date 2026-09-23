@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-23 07:15 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-23 07:20 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,8 +23,8 @@
 |---|---|---|---|
 | [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://huggingface.co/papers/2609.24972) | Peng Xia | 167 HF upvotes · v 167 | 167 HF upvotes · "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses" · model release |
 | [OmniEdu: Open Foundation Models for Learning and Teaching](https://huggingface.co/papers/2609.23088) | Hao Liang | 139 HF upvotes · v 139 | 139 HF upvotes · "OmniEdu: Open Foundation Models for Learning and Teaching" · model release |
+| [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](https://huggingface.co/papers/2609.13814) | Ruixiang Zhao | 122 HF upvotes · v 122 | 122 HF upvotes · "Realtime-Venus: A full-duplex interaction system with asynchronous del" · model release |
 | [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](https://huggingface.co/papers/2609.24984) | Wangbo Yu | 122 HF upvotes · v 122 | 122 HF upvotes · "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memo" · model release |
-| [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](https://huggingface.co/papers/2609.13814) | Ruixiang Zhao | 118 HF upvotes · v 118 | 118 HF upvotes · "Realtime-Venus: A full-duplex interaction system with asynchronous del" · model release |
 | [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | Yiran Wang | 113 HF upvotes · v 113 | 113 HF upvotes · "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay" · model release |
 
 ### 🚀 AI SaaS launches (4)
