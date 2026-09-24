@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-24 20:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-24 20:32 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 118 HF upvotes · v 118 | 118 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
-| [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | Haobo Zheng | 76 HF upvotes · v 76 | 76 HF upvotes · "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dial" · model release |
+| [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | Haobo Zheng | 77 HF upvotes · v 77 | 77 HF upvotes · "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dial" · model release |
 | [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://huggingface.co/papers/2609.23038) | Kaixiang Yao | 43 HF upvotes · v 43 | 43 HF upvotes · "Spatial-Interactor: Learning Spatial Reasoning through Interaction wit" · model release |
 | [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | Jiahao Lu | 43 HF upvotes · v 43 | 43 HF upvotes · "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World G" · model release |
 | [HappyWorld-Bench](https://huggingface.co/papers/2609.24308) | Zhiqi Bai | 39 HF upvotes · v 39 | 39 HF upvotes · "HappyWorld-Bench" · model release |
@@ -31,9 +31,9 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 117 HN points · v 199 | 117 HN points · 41 comments · Show HN |
+| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 119 HN points · v 207 | 119 HN points · 44 comments · Show HN |
 | [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 44 HN points · v 62 | 44 HN points · 9 comments · Show HN |
-| [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/) | emurlin | 26 HN points · v 50 | 26 HN points · 12 comments · Show HN |
+| [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/) | emurlin | 26 HN points · v 52 | 26 HN points · 13 comments · Show HN |
 | [Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes](https://www.forensicdbg.com) | Loren_SL | 35 HN points · v 49 | 35 HN points · 7 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
