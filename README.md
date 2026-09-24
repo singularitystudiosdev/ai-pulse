@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-24 23:01 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-24 23:07 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,8 +31,8 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 159 HN points · v 299 | 159 HN points · 70 comments · Show HN |
-| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 65 HN points · v 97 | 65 HN points · 16 comments · Show HN |
+| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 159 HN points · v 301 | 159 HN points · 71 comments · Show HN |
+| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 73 HN points · v 105 | 73 HN points · 16 comments · Show HN |
 | [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/) | emurlin | 32 HN points · v 58 | 32 HN points · 13 comments · Show HN |
 | [Show HN: AgentRun: DSL to turn agents into workflows](https://github.com/Parcha-ai/agentrun) | miguelrios | 38 HN points · v 50 | 38 HN points · 6 comments · Show HN |
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Your iPhone can now run Python, Node.js, FFmpeg... and even Clang 🤯  Introducing the Wasmer SDK for Swift:  …](https://x.com/wasmerio/status/2102849543260029379)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2102848281621729280/img/3KNbDXF_QzPIUj_V.jpg) | [@wasmerio](https://x.com/wasmerio) | 646♥ 51RT · v 21.1 | 21 velocity · 646♥ 51RT · 55424 views · 27h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
