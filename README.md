@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-23 23:40 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-24 01:00 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](https://huggingface.co/papers/2609.13814) | Ruixiang Zhao | 205 HF upvotes · v 205 | 205 HF upvotes · "Realtime-Venus: A full-duplex interaction system with asynchronous del" · model release |
+| [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](https://huggingface.co/papers/2609.13814) | Ruixiang Zhao | 206 HF upvotes · v 206 | 206 HF upvotes · "Realtime-Venus: A full-duplex interaction system with asynchronous del" · model release |
 | [OmniEdu: Open Foundation Models for Learning and Teaching](https://huggingface.co/papers/2609.23088) | Hao Liang | 142 HF upvotes · v 142 | 142 HF upvotes · "OmniEdu: Open Foundation Models for Learning and Teaching" · model release |
 | [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | Yiran Wang | 115 HF upvotes · v 115 | 115 HF upvotes · "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay" · model release |
 | [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 111 HF upvotes · v 111 | 111 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
@@ -31,9 +31,9 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 185 HN points · v 307 | 185 HN points · 61 comments · Show HN |
-| [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models) | florianstandhar | 137 HN points · v 209 | 137 HN points · 36 comments · Show HN |
-| [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 43 HN points · v 57 | 43 HN points · 7 comments · Show HN |
+| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 185 HN points · v 309 | 185 HN points · 62 comments · Show HN |
+| [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models) | florianstandhar | 139 HN points · v 211 | 139 HN points · 36 comments · Show HN |
+| [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 43 HN points · v 59 | 43 HN points · 8 comments · Show HN |
 | [Show HN: RxFilm Studio–Create and edit your product videos with AI agent](https://filmstudio.rxlab.app) | zilue | 19 HN points · v 47 | 19 HN points · 14 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-09-24](archive/2026-09-24.md)
 - [2026-09-23](archive/2026-09-23.md)
 - [2026-09-22](archive/2026-09-22.md)
 - [2026-09-21](archive/2026-09-21.md)
