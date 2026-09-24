@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-24 06:10 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-24 06:16 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,7 +34,7 @@
 | [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 185 HN points · v 309 | 185 HN points · 62 comments · Show HN |
 | [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models) | florianstandhar | 140 HN points · v 212 | 140 HN points · 36 comments · Show HN |
 | [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 43 HN points · v 61 | 43 HN points · 9 comments · Show HN |
-| [Show HN: RxFilm Studio–Create and edit your product videos with AI agent](https://filmstudio.rxlab.app) | zilue | 19 HN points · v 47 | 19 HN points · 14 comments · Show HN |
+| [Show HN: RxFilm Studio–Create and edit your product videos with AI agent](https://filmstudio.rxlab.app) | zilue | 19 HN points · v 49 | 19 HN points · 15 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
