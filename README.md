@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-24 20:43 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-24 23:01 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 118 HF upvotes · v 118 | 118 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
-| [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | Haobo Zheng | 77 HF upvotes · v 77 | 77 HF upvotes · "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dial" · model release |
+| [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 119 HF upvotes · v 119 | 119 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
+| [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | Haobo Zheng | 78 HF upvotes · v 78 | 78 HF upvotes · "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dial" · model release |
+| [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | Jiahao Lu | 44 HF upvotes · v 44 | 44 HF upvotes · "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World G" · model release |
 | [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://huggingface.co/papers/2609.23038) | Kaixiang Yao | 43 HF upvotes · v 43 | 43 HF upvotes · "Spatial-Interactor: Learning Spatial Reasoning through Interaction wit" · model release |
-| [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | Jiahao Lu | 43 HF upvotes · v 43 | 43 HF upvotes · "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World G" · model release |
 | [HappyWorld-Bench](https://huggingface.co/papers/2609.24308) | Zhiqi Bai | 39 HF upvotes · v 39 | 39 HF upvotes · "HappyWorld-Bench" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 125 HN points · v 217 | 125 HN points · 46 comments · Show HN |
-| [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/) | emurlin | 27 HN points · v 53 | 27 HN points · 13 comments · Show HN |
-| [Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes](https://www.forensicdbg.com) | Loren_SL | 35 HN points · v 49 | 35 HN points · 7 comments · Show HN |
-| [Show HN: RxFilm Studio–Create and edit your product videos with AI agent](https://filmstudio.rxlab.app) | zilue | 19 HN points · v 49 | 19 HN points · 15 comments · Show HN |
+| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 159 HN points · v 299 | 159 HN points · 70 comments · Show HN |
+| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 65 HN points · v 97 | 65 HN points · 16 comments · Show HN |
+| [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/) | emurlin | 32 HN points · v 58 | 32 HN points · 13 comments · Show HN |
+| [Show HN: AgentRun: DSL to turn agents into workflows](https://github.com/Parcha-ai/agentrun) | miguelrios | 38 HN points · v 50 | 38 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Your iPhone can now run Python, Node.js, FFmpeg... and even Clang 🤯  Introducing the Wasmer SDK for Swift:  …](https://x.com/wasmerio/status/2102849543260029379)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2102848281621729280/img/3KNbDXF_QzPIUj_V.jpg) | [@wasmerio](https://x.com/wasmerio) | 646♥ 51RT · v 21.1 | 21 velocity · 646♥ 51RT · 55424 views · 27h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
