@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-24 06:53 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-24 11:40 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](https://huggingface.co/papers/2609.13814) | Ruixiang Zhao | 207 HF upvotes · v 207 | 207 HF upvotes · "Realtime-Venus: A full-duplex interaction system with asynchronous del" · model release |
-| [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 115 HF upvotes · v 115 | 115 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
-| [RULER: Instance-aware Rubric Rewards for SVG Generation](https://huggingface.co/papers/2609.25270) | Hangyu Ran | 62 HF upvotes · v 62 | 62 HF upvotes · "RULER: Instance-aware Rubric Rewards for SVG Generation" · model release |
-| [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | Jiahao Lu | 40 HF upvotes · v 40 | 40 HF upvotes · "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World G" · model release |
-| [All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts](https://huggingface.co/papers/2609.24058) | Xingsong Ye | 37 HF upvotes · v 37 | 37 HF upvotes · "All-in-One Multilingual Scene Text Recognition with Script-aware Mixtu" · model release |
+| [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 117 HF upvotes · v 117 | 117 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
+| [RULER: Instance-aware Rubric Rewards for SVG Generation](https://huggingface.co/papers/2609.25270) | Hangyu Ran | 64 HF upvotes · v 64 | 64 HF upvotes · "RULER: Instance-aware Rubric Rewards for SVG Generation" · model release |
+| [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | Jiahao Lu | 42 HF upvotes · v 42 | 42 HF upvotes · "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World G" · model release |
+| [All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts](https://huggingface.co/papers/2609.24058) | Xingsong Ye | 39 HF upvotes · v 39 | 39 HF upvotes · "All-in-One Multilingual Scene Text Recognition with Script-aware Mixtu" · model release |
+| [HappyWorld-Bench](https://huggingface.co/papers/2609.24308) | Zhiqi Bai | 36 HF upvotes · v 36 | 36 HF upvotes · "HappyWorld-Bench" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 186 HN points · v 310 | 186 HN points · 62 comments · Show HN |
-| [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models) | florianstandhar | 140 HN points · v 212 | 140 HN points · 36 comments · Show HN |
 | [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 43 HN points · v 61 | 43 HN points · 9 comments · Show HN |
 | [Show HN: RxFilm Studio–Create and edit your product videos with AI agent](https://filmstudio.rxlab.app) | zilue | 19 HN points · v 49 | 19 HN points · 15 comments · Show HN |
+| [Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes](https://www.forensicdbg.com) | Loren_SL | 34 HN points · v 44 | 34 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
