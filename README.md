@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-24 12:30 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-24 15:55 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 118 HF upvotes · v 118 | 118 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
-| [RULER: Instance-aware Rubric Rewards for SVG Generation](https://huggingface.co/papers/2609.25270) | Hangyu Ran | 64 HF upvotes · v 64 | 64 HF upvotes · "RULER: Instance-aware Rubric Rewards for SVG Generation" · model release |
-| [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | Jiahao Lu | 42 HF upvotes · v 42 | 42 HF upvotes · "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World G" · model release |
-| [All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts](https://huggingface.co/papers/2609.24058) | Xingsong Ye | 39 HF upvotes · v 39 | 39 HF upvotes · "All-in-One Multilingual Scene Text Recognition with Script-aware Mixtu" · model release |
-| [HappyWorld-Bench](https://huggingface.co/papers/2609.24308) | Zhiqi Bai | 37 HF upvotes · v 37 | 37 HF upvotes · "HappyWorld-Bench" · model release |
+| [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | Haobo Zheng | 76 HF upvotes · v 76 | 76 HF upvotes · "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dial" · model release |
+| [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://huggingface.co/papers/2609.23038) | Kaixiang Yao | 43 HF upvotes · v 43 | 43 HF upvotes · "Spatial-Interactor: Learning Spatial Reasoning through Interaction wit" · model release |
+| [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | Jiahao Lu | 43 HF upvotes · v 43 | 43 HF upvotes · "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World G" · model release |
+| [HappyWorld-Bench](https://huggingface.co/papers/2609.24308) | Zhiqi Bai | 39 HF upvotes · v 39 | 39 HF upvotes · "HappyWorld-Bench" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Drop – A rootless Linux sandbox with gVisor support](https://droprun.sh/) | mixedbit | 186 HN points · v 310 | 186 HN points · 62 comments · Show HN |
+| [Australia has a massive cyber security problem  I discovered vulnerabilities on NDIS service provider website…](https://x.com/adamlyttleapps/status/2102958488658104365)<br>![card](https://pbs.twimg.com/media/HS81W_mbAAAJnAk.png?name=orig) | [@adamlyttleapps](https://x.com/adamlyttleapps) | 1139♥ 176RT · v 147.6 | 148 velocity · 1139♥ 176RT · 114347 views · 13h old · matched "publicly available" |
 | [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 44 HN points · v 62 | 44 HN points · 9 comments · Show HN |
 | [Show HN: RxFilm Studio–Create and edit your product videos with AI agent](https://filmstudio.rxlab.app) | zilue | 19 HN points · v 49 | 19 HN points · 15 comments · Show HN |
 | [Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes](https://www.forensicdbg.com) | Loren_SL | 35 HN points · v 45 | 35 HN points · 5 comments · Show HN |
