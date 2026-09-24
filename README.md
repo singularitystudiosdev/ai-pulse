@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-24 20:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-24 20:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 114 HN points · v 184 | 114 HN points · 35 comments · Show HN |
+| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 115 HN points · v 189 | 115 HN points · 37 comments · Show HN |
 | [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/) | ZaharaHussain | 44 HN points · v 62 | 44 HN points · 9 comments · Show HN |
 | [Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes](https://www.forensicdbg.com) | Loren_SL | 35 HN points · v 49 | 35 HN points · 7 comments · Show HN |
 | [Show HN: RxFilm Studio–Create and edit your product videos with AI agent](https://filmstudio.rxlab.app) | zilue | 19 HN points · v 49 | 19 HN points · 15 comments · Show HN |
