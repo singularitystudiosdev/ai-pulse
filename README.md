@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-24 23:07 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-24 23:12 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,8 +31,8 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 159 HN points · v 301 | 159 HN points · 71 comments · Show HN |
-| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 73 HN points · v 105 | 73 HN points · 16 comments · Show HN |
+| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 161 HN points · v 305 | 161 HN points · 72 comments · Show HN |
+| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 74 HN points · v 108 | 74 HN points · 17 comments · Show HN |
 | [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/) | emurlin | 32 HN points · v 58 | 32 HN points · 13 comments · Show HN |
 | [Show HN: AgentRun: DSL to turn agents into workflows](https://github.com/Parcha-ai/agentrun) | miguelrios | 38 HN points · v 50 | 38 HN points · 6 comments · Show HN |
 
