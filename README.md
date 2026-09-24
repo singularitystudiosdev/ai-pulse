@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-24 12:23 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-24 12:30 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 117 HF upvotes · v 117 | 117 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
+| [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 118 HF upvotes · v 118 | 118 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
 | [RULER: Instance-aware Rubric Rewards for SVG Generation](https://huggingface.co/papers/2609.25270) | Hangyu Ran | 64 HF upvotes · v 64 | 64 HF upvotes · "RULER: Instance-aware Rubric Rewards for SVG Generation" · model release |
 | [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | Jiahao Lu | 42 HF upvotes · v 42 | 42 HF upvotes · "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World G" · model release |
 | [All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts](https://huggingface.co/papers/2609.24058) | Xingsong Ye | 39 HF upvotes · v 39 | 39 HF upvotes · "All-in-One Multilingual Scene Text Recognition with Script-aware Mixtu" · model release |
