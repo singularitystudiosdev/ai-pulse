@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-24 01:17 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-24 01:22 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](https://huggingface.co/papers/2609.13814) | Ruixiang Zhao | 206 HF upvotes · v 206 | 206 HF upvotes · "Realtime-Venus: A full-duplex interaction system with asynchronous del" · model release |
 | [OmniEdu: Open Foundation Models for Learning and Teaching](https://huggingface.co/papers/2609.23088) | Hao Liang | 142 HF upvotes · v 142 | 142 HF upvotes · "OmniEdu: Open Foundation Models for Learning and Teaching" · model release |
 | [GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001) | Yiran Wang | 115 HF upvotes · v 115 | 115 HF upvotes · "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay" · model release |
-| [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 111 HF upvotes · v 111 | 111 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
+| [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 112 HF upvotes · v 112 | 112 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
 | [Grounded Action Model: 3D Grounding as a Foundation for Robotics](https://huggingface.co/papers/2609.23863) | Gehao Zhang | 75 HF upvotes · v 75 | 75 HF upvotes · "Grounded Action Model: 3D Grounding as a Foundation for Robotics" · model release |
 
 ### 🚀 AI SaaS launches (4)
