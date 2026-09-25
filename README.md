@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-25 02:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-25 02:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,16 +24,16 @@
 | [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://huggingface.co/papers/2609.25804) | Wenbo Pan | 119 HF upvotes · v 119 | 119 HF upvotes · "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Task" · model release |
 | [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | Haobo Zheng | 79 HF upvotes · v 79 | 79 HF upvotes · "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dial" · model release |
 | [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://huggingface.co/papers/2609.23038) | Kaixiang Yao | 44 HF upvotes · v 44 | 44 HF upvotes · "Spatial-Interactor: Learning Spatial Reasoning through Interaction wit" · model release |
-| [GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981) | Jiahao Lu | 44 HF upvotes · v 44 | 44 HF upvotes · "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World G" · model release |
 | [HappyWorld-Bench](https://huggingface.co/papers/2609.24308) | Zhiqi Bai | 39 HF upvotes · v 39 | 39 HF upvotes · "HappyWorld-Bench" · model release |
+| [All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts](https://huggingface.co/papers/2609.24058) | Xingsong Ye | 39 HF upvotes · v 39 | 39 HF upvotes · "All-in-One Multilingual Scene Text Recognition with Script-aware Mixtu" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 201 HN points · v 365 | 201 HN points · 82 comments · Show HN |
-| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 132 HN points · v 190 | 132 HN points · 29 comments · Show HN |
-| [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/) | emurlin | 33 HN points · v 59 | 33 HN points · 13 comments · Show HN |
+| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 204 HN points · v 368 | 204 HN points · 82 comments · Show HN |
+| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 132 HN points · v 192 | 132 HN points · 30 comments · Show HN |
+| [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/) | emurlin | 34 HN points · v 60 | 34 HN points · 13 comments · Show HN |
 | [Show HN: AgentRun: DSL to turn agents into workflows](https://github.com/Parcha-ai/agentrun) | miguelrios | 40 HN points · v 56 | 40 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
