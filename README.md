@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-25 17:47 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-25 17:52 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,9 +32,9 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 373 HN points · v 625 | 373 HN points · 126 comments · Show HN |
-| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 206 HN points · v 324 | 206 HN points · 59 comments · Show HN |
+| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 207 HN points · v 325 | 207 HN points · 59 comments · Show HN |
 | [Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer) | bertaye | 29 HN points · v 47 | 29 HN points · 9 comments · Show HN |
-| [Show HN: The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs) | echohive42 | 18 HN points · v 44 | 18 HN points · 13 comments · Show HN |
+| [Show HN: The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs) | echohive42 | 18 HN points · v 46 | 18 HN points · 14 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
