@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-25 06:44 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-25 06:50 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | Haobo Zheng | 81 HF upvotes · v 81 | 81 HF upvotes · "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dial" · model release |
-| [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | Haotian Zhang | 56 HF upvotes · v 56 | 56 HF upvotes · "Training Object Permanence in World Models" · model release |
+| [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | Haotian Zhang | 57 HF upvotes · v 57 | 57 HF upvotes · "Training Object Permanence in World Models" · model release |
 | [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://huggingface.co/papers/2609.23038) | Kaixiang Yao | 44 HF upvotes · v 44 | 44 HF upvotes · "Spatial-Interactor: Learning Spatial Reasoning through Interaction wit" · model release |
 | [HappyWorld-Bench](https://huggingface.co/papers/2609.24308) | Zhiqi Bai | 40 HF upvotes · v 40 | 40 HF upvotes · "HappyWorld-Bench" · model release |
 | [The Past Frames the Future: Memory for Autoregressive Video Generation](https://huggingface.co/papers/2609.28466) | Harold Haodong Chen | 36 HF upvotes · v 36 | 36 HF upvotes · "The Past Frames the Future: Memory for Autoregressive Video Generation" · model release |
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 264 HN points · v 476 | 264 HN points · 106 comments · Show HN |
+| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 266 HN points · v 480 | 266 HN points · 107 comments · Show HN |
 | [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 169 HN points · v 253 | 169 HN points · 42 comments · Show HN |
 | [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/) | emurlin | 60 HN points · v 96 | 60 HN points · 18 comments · Show HN |
 | [Show HN: PlaceCall (YC W26) – agentic API to call businesses and get things done](https://news.ycombinator.com/item?id=49831231) | ymarkov | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
