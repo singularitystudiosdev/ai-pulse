@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-25 07:12 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-25 07:17 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,8 +31,8 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 274 HN points · v 494 | 274 HN points · 110 comments · Show HN |
-| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 174 HN points · v 258 | 174 HN points · 42 comments · Show HN |
+| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 275 HN points · v 495 | 275 HN points · 110 comments · Show HN |
+| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 175 HN points · v 259 | 175 HN points · 42 comments · Show HN |
 | [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/) | emurlin | 62 HN points · v 98 | 62 HN points · 18 comments · Show HN |
 | [Show HN: PlaceCall (YC W26) – agentic API to call businesses and get things done](https://news.ycombinator.com/item?id=49831231) | ymarkov | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
 
