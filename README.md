@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-25 12:07 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-25 12:12 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [I resigned from Google today. I enjoyed my work and loved the people, but my GDM team was working on a new ge…](https://x.com/rocallahan/status/2103368176369324093) | [@rocallahan](https://x.com/rocallahan) | 1408♥ 122RT · v 642.1 | 642 velocity · 1408♥ 122RT · 162768 views · 6h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
