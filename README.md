@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-25 12:12 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-25 12:18 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | Haotian Zhang | 122 HF upvotes · v 122 | 122 HF upvotes · "Training Object Permanence in World Models" · model release |
-| [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | Haobo Zheng | 81 HF upvotes · v 81 | 81 HF upvotes · "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dial" · model release |
+| [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | Haobo Zheng | 82 HF upvotes · v 82 | 82 HF upvotes · "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dial" · model release |
 | [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://huggingface.co/papers/2609.23038) | Kaixiang Yao | 45 HF upvotes · v 45 | 45 HF upvotes · "Spatial-Interactor: Learning Spatial Reasoning through Interaction wit" · model release |
 | [HappyWorld-Bench](https://huggingface.co/papers/2609.24308) | Zhiqi Bai | 40 HF upvotes · v 40 | 40 HF upvotes · "HappyWorld-Bench" · model release |
 | [The Past Frames the Future: Memory for Autoregressive Video Generation](https://huggingface.co/papers/2609.28466) | Harold Haodong Chen | 36 HF upvotes · v 36 | 36 HF upvotes · "The Past Frames the Future: Memory for Autoregressive Video Generation" · model release |
