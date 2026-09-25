@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-25 01:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-25 01:30 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 191 HN points · v 353 | 191 HN points · 81 comments · Show HN |
-| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 123 HN points · v 179 | 123 HN points · 28 comments · Show HN |
+| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 125 HN points · v 181 | 125 HN points · 28 comments · Show HN |
 | [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/) | emurlin | 32 HN points · v 58 | 32 HN points · 13 comments · Show HN |
 | [Show HN: AgentRun: DSL to turn agents into workflows](https://github.com/Parcha-ai/agentrun) | miguelrios | 40 HN points · v 56 | 40 HN points · 8 comments · Show HN |
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Former Anthropic researcher Jacob Coxon became a media superstar after going public with his AI fears. He ins…](https://x.com/PirateWires/status/2103243750562767241)<br>![card](https://pbs.twimg.com/media/HTA33drbwAAO8OM.jpg?name=orig) | [@PirateWires](https://x.com/PirateWires) | 1785♥ 455RT · v 2434.1 | known founder · 2434 velocity · 1785♥ 455RT · 203356 views · 3h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
