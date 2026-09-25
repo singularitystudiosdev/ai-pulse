@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-25 20:29 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-25 20:35 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 209 HN points · v 329 | 209 HN points · 60 comments · Show HN |
-| [Show HN: Doom or Bloom, map your AI worldview](https://www.doom-or-bloom.com) | transitivebs | 34 HN points · v 88 | 34 HN points · 27 comments · Show HN |
+| [Show HN: Doom or Bloom, map your AI worldview](https://www.doom-or-bloom.com) | transitivebs | 35 HN points · v 89 | 35 HN points · 27 comments · Show HN |
 | [Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer) | bertaye | 31 HN points · v 51 | 31 HN points · 10 comments · Show HN |
 | [Show HN: The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs) | echohive42 | 18 HN points · v 50 | 18 HN points · 16 comments · Show HN |
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Um, wow?  Opus 5.5: "make the same message much more interesting to a social media audience that loves anime …](https://x.com/emollick/status/2103272686570918334)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2103272247418908672/img/Af9EtBVQ5ZZXOAP8.jpg) | [@emollick](https://x.com/emollick) | 1017♥ 60RT · v 78 | known founder · 78 velocity · 1017♥ 60RT · 86458 views · 21h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
