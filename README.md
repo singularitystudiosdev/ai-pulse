@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-25 07:17 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-25 12:07 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
+| [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | Haotian Zhang | 122 HF upvotes · v 122 | 122 HF upvotes · "Training Object Permanence in World Models" · model release |
 | [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | Haobo Zheng | 81 HF upvotes · v 81 | 81 HF upvotes · "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dial" · model release |
-| [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | Haotian Zhang | 57 HF upvotes · v 57 | 57 HF upvotes · "Training Object Permanence in World Models" · model release |
 | [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://huggingface.co/papers/2609.23038) | Kaixiang Yao | 45 HF upvotes · v 45 | 45 HF upvotes · "Spatial-Interactor: Learning Spatial Reasoning through Interaction wit" · model release |
 | [HappyWorld-Bench](https://huggingface.co/papers/2609.24308) | Zhiqi Bai | 40 HF upvotes · v 40 | 40 HF upvotes · "HappyWorld-Bench" · model release |
 | [The Past Frames the Future: Memory for Autoregressive Video Generation](https://huggingface.co/papers/2609.28466) | Harold Haodong Chen | 36 HF upvotes · v 36 | 36 HF upvotes · "The Past Frames the Future: Memory for Autoregressive Video Generation" · model release |
@@ -31,18 +31,20 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 275 HN points · v 495 | 275 HN points · 110 comments · Show HN |
-| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 175 HN points · v 259 | 175 HN points · 42 comments · Show HN |
-| [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/) | emurlin | 62 HN points · v 98 | 62 HN points · 18 comments · Show HN |
-| [Show HN: PlaceCall (YC W26) – agentic API to call businesses and get things done](https://news.ycombinator.com/item?id=49831231) | ymarkov | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
+| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 332 HN points · v 572 | 332 HN points · 120 comments · Show HN |
+| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 193 HN points · v 305 | 193 HN points · 56 comments · Show HN |
+| [Show HN: The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs) | echohive42 | 16 HN points · v 40 | 16 HN points · 12 comments · Show HN |
+| [Show HN: PlaceCall (YC W26) – agentic API to call businesses and get things done](https://news.ycombinator.com/item?id=49831231) | ymarkov | 16 HN points · v 24 | 16 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [I resigned from Google today. I enjoyed my work and loved the people, but my GDM team was working on a new ge…](https://x.com/rocallahan/status/2103368176369324093) | [@rocallahan](https://x.com/rocallahan) | 1408♥ 122RT · v 642.1 | 642 velocity · 1408♥ 122RT · 162768 views · 6h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
