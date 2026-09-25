@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-25 17:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-25 17:31 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | Haotian Zhang | 153 HF upvotes · v 153 | 153 HF upvotes · "Training Object Permanence in World Models" · model release |
+| [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | Haotian Zhang | 154 HF upvotes · v 154 | 154 HF upvotes · "Training Object Permanence in World Models" · model release |
 | [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | Haobo Zheng | 82 HF upvotes · v 82 | 82 HF upvotes · "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dial" · model release |
+| [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](https://huggingface.co/papers/2609.29845) | Pavel Tikhonov | 45 HF upvotes · v 45 | 45 HF upvotes · "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Sup" · model release |
 | [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://huggingface.co/papers/2609.23038) | Kaixiang Yao | 45 HF upvotes · v 45 | 45 HF upvotes · "Spatial-Interactor: Learning Spatial Reasoning through Interaction wit" · model release |
-| [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](https://huggingface.co/papers/2609.29845) | Pavel Tikhonov | 44 HF upvotes · v 44 | 44 HF upvotes · "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Sup" · model release |
 | [HappyWorld-Bench](https://huggingface.co/papers/2609.24308) | Zhiqi Bai | 40 HF upvotes · v 40 | 40 HF upvotes · "HappyWorld-Bench" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 369 HN points · v 621 | 369 HN points · 126 comments · Show HN |
+| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | sidharthkmenon | 370 HN points · v 622 | 370 HN points · 126 comments · Show HN |
 | [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 206 HN points · v 324 | 206 HN points · 59 comments · Show HN |
 | [Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer) | bertaye | 29 HN points · v 47 | 29 HN points · 9 comments · Show HN |
 | [Show HN: The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs) | echohive42 | 17 HN points · v 43 | 17 HN points · 13 comments · Show HN |
