@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-26 19:20 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-26 19:25 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | Haotian Zhang | 195 HF upvotes · v 195 | 195 HF upvotes · "Training Object Permanence in World Models" · model release |
+| [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | Haotian Zhang | 196 HF upvotes · v 196 | 196 HF upvotes · "Training Object Permanence in World Models" · model release |
 | [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | Haobo Zheng | 83 HF upvotes · v 83 | 83 HF upvotes · "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dial" · model release |
 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](https://huggingface.co/papers/2609.29845) | Pavel Tikhonov | 63 HF upvotes · v 63 | 63 HF upvotes · "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Sup" · model release |
 | [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://huggingface.co/papers/2609.23038) | Kaixiang Yao | 47 HF upvotes · v 47 | 47 HF upvotes · "Spatial-Interactor: Learning Spatial Reasoning through Interaction wit" · model release |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Some new misalignment disclosures from OpenAI: • Last Sunday morning, one of our models was able to gain unau…](https://x.com/MicahCarroll/status/2103665811051397256) | [@MicahCarroll](https://x.com/MicahCarroll) | 2277♥ 297RT · v 736.1 | 736 velocity · 2277♥ 297RT · 994969 views · 17h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
