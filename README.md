@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-26 00:01 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-26 00:07 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 209 HN points · v 329 | 209 HN points · 60 comments · Show HN |
+| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 210 HN points · v 330 | 210 HN points · 60 comments · Show HN |
 | [Show HN: Doom or Bloom, map your AI worldview](https://www.doom-or-bloom.com) | transitivebs | 49 HN points · v 129 | 49 HN points · 40 comments · Show HN |
 | [Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer) | bertaye | 31 HN points · v 53 | 31 HN points · 11 comments · Show HN |
 | [Show HN: The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs) | echohive42 | 18 HN points · v 50 | 18 HN points · 16 comments · Show HN |
