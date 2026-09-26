@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-26 17:18 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-26 19:20 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,18 +31,20 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 219 HN points · v 339 | 219 HN points · 60 comments · Show HN |
+| [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest) | hxii | 220 HN points · v 340 | 220 HN points · 60 comments · Show HN |
 | [Show HN: Doom or Bloom, map your AI worldview](https://www.doom-or-bloom.com) | transitivebs | 56 HN points · v 152 | 56 HN points · 48 comments · Show HN |
-| [Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer) | bertaye | 35 HN points · v 57 | 35 HN points · 11 comments · Show HN |
+| [Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer) | bertaye | 36 HN points · v 58 | 36 HN points · 11 comments · Show HN |
 | [Show HN: The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs) | echohive42 | 18 HN points · v 52 | 18 HN points · 17 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Some new misalignment disclosures from OpenAI: • Last Sunday morning, one of our models was able to gain unau…](https://x.com/MicahCarroll/status/2103665811051397256) | [@MicahCarroll](https://x.com/MicahCarroll) | 2277♥ 297RT · v 736.1 | 736 velocity · 2277♥ 297RT · 994969 views · 17h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
