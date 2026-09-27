@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-27 19:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-27 19:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Doom or Bloom, map your AI worldview](https://www.doom-or-bloom.com) | transitivebs | 56 HN points · v 152 | 56 HN points · 48 comments · Show HN |
-| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 56 HN points · v 118 | 56 HN points · 31 comments · Show HN |
+| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 57 HN points · v 119 | 57 HN points · 31 comments · Show HN |
 | [Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer) | bertaye | 37 HN points · v 59 | 37 HN points · 11 comments · Show HN |
 | [Show HN: Jev predicting your life choices](https://quiz.seek.ws/) | sdrth | 6 HN points · v 26 | 6 HN points · 10 comments · Show HN |
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [BREAKING: Trump to reportedly host Anthropic CEO Dario Amodei for a private White House dinner tonight, marki…](https://x.com/Polymarket/status/2104238992254222679)<br>![card](https://pbs.twimg.com/media/HTPCNiKXMAAVYaB.jpg?name=orig) | [@Polymarket](https://x.com/Polymarket) | 4794♥ 260RT · v 3261.6 | known founder · 3262 velocity · 4794♥ 260RT · 244072 views · 3h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
