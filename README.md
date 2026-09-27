@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-27 19:55 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-27 22:10 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,18 +31,20 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
+| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 84 HN points · v 160 | 84 HN points · 38 comments · Show HN |
 | [Show HN: Doom or Bloom, map your AI worldview](https://www.doom-or-bloom.com) | transitivebs | 56 HN points · v 152 | 56 HN points · 48 comments · Show HN |
-| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 71 HN points · v 139 | 71 HN points · 34 comments · Show HN |
 | [Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer) | bertaye | 37 HN points · v 59 | 37 HN points · 11 comments · Show HN |
-| [Show HN: Jev predicting your life choices](https://quiz.seek.ws/) | sdrth | 6 HN points · v 26 | 6 HN points · 10 comments · Show HN |
+| [Show HN: Jev predicting your life choices](https://quiz.seek.ws/) | sdrth | 6 HN points · v 28 | 6 HN points · 11 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [“You and ALL YOUR COLLEAGUES IN WESTMINSTER HAVE FAILED TO DO THEIR JOB.”  Alex Phillips SLAMS the Defence Se…](https://x.com/TalkTV/status/2104152494636986371)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2104152384184143872/img/k2KVTQdIorLqbkY6.jpg) | [@TalkTV](https://x.com/TalkTV) | 9269♥ 2473RT · v 1720.8 | known founder · 1721 velocity · 9269♥ 2473RT · 768197 views · 12h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
