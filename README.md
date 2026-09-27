@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-27 15:28 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-27 15:33 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,7 +34,7 @@
 | [Show HN: Doom or Bloom, map your AI worldview](https://www.doom-or-bloom.com) | transitivebs | 56 HN points · v 152 | 56 HN points · 48 comments · Show HN |
 | [Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer) | bertaye | 37 HN points · v 59 | 37 HN points · 11 comments · Show HN |
 | [Show HN: The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs) | echohive42 | 19 HN points · v 55 | 19 HN points · 18 comments · Show HN |
-| [Show HN: Jev predicting your life choices](https://quiz.seek.ws/) | sdrth | 5 HN points · v 25 | 5 HN points · 10 comments · Show HN |
+| [Show HN: Jev predicting your life choices](https://quiz.seek.ws/) | sdrth | 6 HN points · v 26 | 6 HN points · 10 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
