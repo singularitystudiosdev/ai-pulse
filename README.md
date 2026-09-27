@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-27 16:10 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-27 19:08 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | Haotian Zhang | 202 HF upvotes · v 202 | 202 HF upvotes · "Training Object Permanence in World Models" · model release |
+| [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | Haotian Zhang | 203 HF upvotes · v 203 | 203 HF upvotes · "Training Object Permanence in World Models" · model release |
 | [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://huggingface.co/papers/2609.26780) | Haobo Zheng | 84 HF upvotes · v 84 | 84 HF upvotes · "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dial" · model release |
 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](https://huggingface.co/papers/2609.29845) | Pavel Tikhonov | 75 HF upvotes · v 75 | 75 HF upvotes · "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Sup" · model release |
 | [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://huggingface.co/papers/2609.23038) | Kaixiang Yao | 48 HF upvotes · v 48 | 48 HF upvotes · "Spatial-Interactor: Learning Spatial Reasoning through Interaction wit" · model release |
@@ -32,17 +32,19 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Doom or Bloom, map your AI worldview](https://www.doom-or-bloom.com) | transitivebs | 56 HN points · v 152 | 56 HN points · 48 comments · Show HN |
+| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 56 HN points · v 118 | 56 HN points · 31 comments · Show HN |
 | [Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer) | bertaye | 37 HN points · v 59 | 37 HN points · 11 comments · Show HN |
-| [Show HN: The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs) | echohive42 | 19 HN points · v 55 | 19 HN points · 18 comments · Show HN |
 | [Show HN: Jev predicting your life choices](https://quiz.seek.ws/) | sdrth | 6 HN points · v 26 | 6 HN points · 10 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [BREAKING: Trump to reportedly host Anthropic CEO Dario Amodei for a private White House dinner tonight, marki…](https://x.com/Polymarket/status/2104238992254222679)<br>![card](https://pbs.twimg.com/media/HTPCNiKXMAAVYaB.jpg?name=orig) | [@Polymarket](https://x.com/Polymarket) | 4794♥ 260RT · v 3261.6 | known founder · 3262 velocity · 4794♥ 260RT · 244072 views · 3h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
