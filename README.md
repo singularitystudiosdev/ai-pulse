@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-28 20:42 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-28 20:47 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,13 +25,13 @@
 | [FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders](https://huggingface.co/papers/2609.31620) | Hongyang Du | 114 HF upvotes · v 114 | 114 HF upvotes · "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Genera" · model release |
 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](https://huggingface.co/papers/2609.29845) | Pavel Tikhonov | 79 HF upvotes · v 79 | 79 HF upvotes · "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Sup" · model release |
 | [RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Prepara…](https://huggingface.co/papers/2609.18703) | Xiaochen Ma | 43 HF upvotes · v 43 | 43 HF upvotes · "RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Data" · model release |
-| [Disaggregated Quantization: Specializing LLM Prefill and Decode](https://huggingface.co/papers/2609.26333) | Andrei Panferov | 37 HF upvotes · v 37 | 37 HF upvotes · "Disaggregated Quantization: Specializing LLM Prefill and Decode" · model release |
+| [Disaggregated Quantization: Specializing LLM Prefill and Decode](https://huggingface.co/papers/2609.26333) | Andrei Panferov | 38 HF upvotes · v 38 | 38 HF upvotes · "Disaggregated Quantization: Specializing LLM Prefill and Decode" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 112 HN points · v 236 | 112 HN points · 62 comments · Show HN |
+| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 115 HN points · v 243 | 115 HN points · 64 comments · Show HN |
 | [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 117 HN points · v 207 | 117 HN points · 45 comments · Show HN |
 | [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) | moezee1 | 8 HN points · v 112 | 8 HN points · 52 comments · Show HN |
 | [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/) | motakuk | 23 HN points · v 45 | 23 HN points · 11 comments · Show HN |
