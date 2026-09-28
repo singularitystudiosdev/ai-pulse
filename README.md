@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-28 13:48 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-28 13:53 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,8 +33,8 @@
 |---|---|---|---|
 | [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 114 HN points · v 202 | 114 HN points · 44 comments · Show HN |
 | [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) | moezee1 | 8 HN points · v 106 | 8 HN points · 49 comments · Show HN |
+| [Show HN: OpenAPPA – deterministic AI guardrails that don't break agents](https://www.openappa.com/) | motakuk | 17 HN points · v 31 | 17 HN points · 7 comments · Show HN |
 | [Show HN: Jev predicting your life choices](https://quiz.seek.ws/) | sdrth | 7 HN points · v 31 | 7 HN points · 12 comments · Show HN |
-| [Show HN: OpenAPPA – deterministic AI guardrails that don't break agents](https://www.openappa.com/) | motakuk | 17 HN points · v 29 | 17 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
