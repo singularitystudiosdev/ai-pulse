@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-28 14:29 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-28 20:15 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | Haotian Zhang | 209 HF upvotes · v 209 | 209 HF upvotes · "Training Object Permanence in World Models" · model release |
-| [FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders](https://huggingface.co/papers/2609.31620) | Hongyang Du | 110 HF upvotes · v 110 | 110 HF upvotes · "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Genera" · model release |
-| [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](https://huggingface.co/papers/2609.29845) | Pavel Tikhonov | 78 HF upvotes · v 78 | 78 HF upvotes · "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Sup" · model release |
-| [RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Prepara…](https://huggingface.co/papers/2609.18703) | Xiaochen Ma | 42 HF upvotes · v 42 | 42 HF upvotes · "RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Data" · model release |
+| [FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders](https://huggingface.co/papers/2609.31620) | Hongyang Du | 114 HF upvotes · v 114 | 114 HF upvotes · "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Genera" · model release |
+| [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](https://huggingface.co/papers/2609.29845) | Pavel Tikhonov | 79 HF upvotes · v 79 | 79 HF upvotes · "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Sup" · model release |
+| [RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Prepara…](https://huggingface.co/papers/2609.18703) | Xiaochen Ma | 43 HF upvotes · v 43 | 43 HF upvotes · "RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Data" · model release |
 | [WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation](https://huggingface.co/papers/2609.30221) | Yubo Zhu | 36 HF upvotes · v 36 | 36 HF upvotes · "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video G" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 114 HN points · v 204 | 114 HN points · 45 comments · Show HN |
-| [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) | moezee1 | 8 HN points · v 108 | 8 HN points · 50 comments · Show HN |
-| [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/) | motakuk | 20 HN points · v 38 | 20 HN points · 9 comments · Show HN |
-| [Show HN: Jev predicting your life choices](https://quiz.seek.ws/) | sdrth | 7 HN points · v 31 | 7 HN points · 12 comments · Show HN |
+| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 109 HN points · v 207 | 109 HN points · 49 comments · Show HN |
+| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 117 HN points · v 207 | 117 HN points · 45 comments · Show HN |
+| [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) | moezee1 | 8 HN points · v 112 | 8 HN points · 52 comments · Show HN |
+| [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/) | motakuk | 23 HN points · v 45 | 23 HN points · 11 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
