@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-28 06:35 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-28 06:40 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | Haotian Zhang | 207 HF upvotes · v 207 | 207 HF upvotes · "Training Object Permanence in World Models" · model release |
 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](https://huggingface.co/papers/2609.29845) | Pavel Tikhonov | 77 HF upvotes · v 77 | 77 HF upvotes · "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Sup" · model release |
-| [FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders](https://huggingface.co/papers/2609.31620) | Hongyang Du | 61 HF upvotes · v 61 | 61 HF upvotes · "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Genera" · model release |
+| [FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders](https://huggingface.co/papers/2609.31620) | Hongyang Du | 63 HF upvotes · v 63 | 63 HF upvotes · "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Genera" · model release |
 | [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://huggingface.co/papers/2609.23038) | Kaixiang Yao | 48 HF upvotes · v 48 | 48 HF upvotes · "Spatial-Interactor: Learning Spatial Reasoning through Interaction wit" · model release |
 | [WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation](https://huggingface.co/papers/2609.30221) | Yubo Zhu | 36 HF upvotes · v 36 | 36 HF upvotes · "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video G" · model release |
 
