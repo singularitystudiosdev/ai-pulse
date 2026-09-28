@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-28 01:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-28 01:30 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 98 HN points · v 178 | 98 HN points · 40 comments · Show HN |
+| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 99 HN points · v 179 | 99 HN points · 40 comments · Show HN |
 | [Show HN: Doom or Bloom, map your AI worldview](https://www.doom-or-bloom.com) | transitivebs | 56 HN points · v 152 | 56 HN points · 48 comments · Show HN |
 | [Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer) | bertaye | 37 HN points · v 59 | 37 HN points · 11 comments · Show HN |
 | [Show HN: Jev predicting your life choices](https://quiz.seek.ws/) | sdrth | 6 HN points · v 28 | 6 HN points · 11 comments · Show HN |
