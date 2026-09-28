@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-28 13:42 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-28 13:48 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,17 +34,15 @@
 | [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 114 HN points · v 202 | 114 HN points · 44 comments · Show HN |
 | [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) | moezee1 | 8 HN points · v 106 | 8 HN points · 49 comments · Show HN |
 | [Show HN: Jev predicting your life choices](https://quiz.seek.ws/) | sdrth | 7 HN points · v 31 | 7 HN points · 12 comments · Show HN |
-| [Show HN: OpenAPPA – deterministic AI guardrails that don't break agents](https://www.openappa.com/) | motakuk | 16 HN points · v 26 | 16 HN points · 5 comments · Show HN |
+| [Show HN: OpenAPPA – deterministic AI guardrails that don't break agents](https://www.openappa.com/) | motakuk | 17 HN points · v 29 | 17 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [With Ben Chow, Yuan Liao and Ziyang Qin, we have completed a full Lean formalization of the Hamilton-Perelman…](https://x.com/ayushkhaitan343/status/2104289939840176167) | [@ayushkhaitan343](https://x.com/ayushkhaitan343) | 393♥ 74RT · v 52.3 | 52 velocity · 393♥ 74RT · 75168 views · 18h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
