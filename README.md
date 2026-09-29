@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-29 22:58 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-29 23:04 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Post-Training Leaves Behavioral Shadows on Unrelated Decisions](https://huggingface.co/papers/2609.29233) | Ziyang Zhang | 249 HF upvotes · v 249 | 249 HF upvotes · "Post-Training Leaves Behavioral Shadows on Unrelated Decisions" · model release |
 | [VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325) | Siran Peng | 106 HF upvotes · v 106 | 106 HF upvotes · "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems" · model release |
 | [Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL](https://huggingface.co/papers/2609.32577) | Jinhao Dong | 69 HF upvotes · v 69 | 69 HF upvotes · "Groupwise Agentic Grading and Advantage Redistribution for Code Agent " · model release |
 | [How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining](https://huggingface.co/papers/2609.35457) | Lin Chen | 54 HF upvotes · v 54 | 54 HF upvotes · "How Far Are We from Removing the Visual Encoder? Scaling Laws for Enco" · model release |
 | [Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning](https://huggingface.co/papers/2609.35767) | Yijia Fan | 35 HF upvotes · v 35 | 35 HF upvotes · "Learning Native Reflection in Unified Models with Interleaved Reinforc" · model release |
+| [Recursive Harness Distillation across Agents for Robot Manipulation](https://huggingface.co/papers/2609.33378) | Seungyeon Kim | 29 HF upvotes · v 29 | 29 HF upvotes · "Recursive Harness Distillation across Agents for Robot Manipulation" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
