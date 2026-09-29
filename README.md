@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-29 13:30 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-29 18:18 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation](https://huggingface.co/papers/2609.35347) | Xin Li | 111 HF upvotes · v 111 | 111 HF upvotes · "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy D" · model release |
-| [Post-Training Leaves Behavioral Shadows on Unrelated Decisions](https://huggingface.co/papers/2609.29233) | Ziyang Zhang | 78 HF upvotes · v 78 | 78 HF upvotes · "Post-Training Leaves Behavioral Shadows on Unrelated Decisions" · model release |
-| [Duplex-MPE: Benchmarking Multi-Party Interaction in Full-Duplex Dialogue](https://huggingface.co/papers/2609.31948) | Chengqian Ma | 60 HF upvotes · v 60 | 60 HF upvotes · "Duplex-MPE: Benchmarking Multi-Party Interaction in Full-Duplex Dialog" · model release |
-| [How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining](https://huggingface.co/papers/2609.35457) | Lin Chen | 50 HF upvotes · v 50 | 50 HF upvotes · "How Far Are We from Removing the Visual Encoder? Scaling Laws for Enco" · model release |
-| [Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL](https://huggingface.co/papers/2609.32577) | Jinhao Dong | 37 HF upvotes · v 37 | 37 HF upvotes · "Groupwise Agentic Grading and Advantage Redistribution for Code Agent " · model release |
+| [Post-Training Leaves Behavioral Shadows on Unrelated Decisions](https://huggingface.co/papers/2609.29233) | Ziyang Zhang | 216 HF upvotes · v 216 | 216 HF upvotes · "Post-Training Leaves Behavioral Shadows on Unrelated Decisions" · model release |
+| [Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation](https://huggingface.co/papers/2609.35347) | Xin Li | 138 HF upvotes · v 138 | 138 HF upvotes · "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy D" · model release |
+| [VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325) | Siran Peng | 106 HF upvotes · v 106 | 106 HF upvotes · "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems" · model release |
+| [Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL](https://huggingface.co/papers/2609.32577) | Jinhao Dong | 69 HF upvotes · v 69 | 69 HF upvotes · "Groupwise Agentic Grading and Advantage Redistribution for Code Agent " · model release |
+| [How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining](https://huggingface.co/papers/2609.35457) | Lin Chen | 54 HF upvotes · v 54 | 54 HF upvotes · "How Far Are We from Removing the Visual Encoder? Scaling Laws for Enco" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 199 HN points · v 391 | 199 HN points · 96 comments · Show HN |
-| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 117 HN points · v 207 | 117 HN points · 45 comments · Show HN |
+| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 204 HN points · v 396 | 204 HN points · 96 comments · Show HN |
+| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 118 HN points · v 208 | 118 HN points · 45 comments · Show HN |
+| [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 49 HN points · v 137 | 49 HN points · 44 comments · Show HN |
 | [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) | moezee1 | 8 HN points · v 116 | 8 HN points · 54 comments · Show HN |
-| [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/) | motakuk | 23 HN points · v 47 | 23 HN points · 12 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Hi,  Tomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are al…](https://x.com/thsottiaux/status/2104823812042940713) | [@thsottiaux](https://x.com/thsottiaux) | 20341♥ 1511RT · v 27128.9 | known founder · 27129 velocity · 20341♥ 1511RT · 13146079 views · 12h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
