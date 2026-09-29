@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-29 06:17 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-29 06:22 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,15 +23,15 @@
 |---|---|---|---|
 | [TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces](https://huggingface.co/papers/2609.33295) | Dehai Min | 44 HF upvotes · v 44 | 44 HF upvotes · "TraceDance: An Automated System for Building Agent Behavior Benchmarks" · model release |
 | [Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence](https://huggingface.co/papers/2609.35432) | Hongcheng Gao | 39 HF upvotes · v 39 | 39 HF upvotes · "Self-Evolving Coding Agents: From Digital Programs to Physical-World I" · model release |
-| [Improving Test-Time Scaling with Adaptive Looped Transformers](https://huggingface.co/papers/2609.35748) | Yichen You | 25 HF upvotes · v 25 | 25 HF upvotes · "Improving Test-Time Scaling with Adaptive Looped Transformers" · model release |
-| [CompoWorld: Compositional Environment Scaling for General Agents](https://huggingface.co/papers/2609.33665) | Xiao-Wen Yang | 24 HF upvotes · v 24 | 24 HF upvotes · "CompoWorld: Compositional Environment Scaling for General Agents" · model release |
+| [Improving Test-Time Scaling with Adaptive Looped Transformers](https://huggingface.co/papers/2609.35748) | Yichen You | 27 HF upvotes · v 27 | 27 HF upvotes · "Improving Test-Time Scaling with Adaptive Looped Transformers" · model release |
 | [Knowing When Thinking Is Not Enough: Teaching Small Reasoning Models to Reason Beyond Their Parametric Knowle…](https://huggingface.co/papers/2609.34327) | Chanuk Lee | 23 HF upvotes · v 23 | 23 HF upvotes · "Knowing When Thinking Is Not Enough: Teaching Small Reasoning Models t" · model release |
+| [Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation](https://huggingface.co/papers/2609.35347) | Xin Li | 22 HF upvotes · v 22 | 22 HF upvotes · "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy D" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 150 HN points · v 324 | 150 HN points · 87 comments · Show HN |
+| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 152 HN points · v 326 | 152 HN points · 87 comments · Show HN |
 | [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 117 HN points · v 207 | 117 HN points · 45 comments · Show HN |
 | [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) | moezee1 | 8 HN points · v 116 | 8 HN points · 54 comments · Show HN |
 | [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/) | motakuk | 23 HN points · v 47 | 23 HN points · 12 comments · Show HN |
