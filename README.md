@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-29 06:32 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-29 06:37 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 153 HN points · v 327 | 153 HN points · 87 comments · Show HN |
+| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 153 HN points · v 329 | 153 HN points · 88 comments · Show HN |
 | [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 117 HN points · v 207 | 117 HN points · 45 comments · Show HN |
 | [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) | moezee1 | 8 HN points · v 116 | 8 HN points · 54 comments · Show HN |
 | [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/) | motakuk | 23 HN points · v 47 | 23 HN points · 12 comments · Show HN |
