@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-29 18:43 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-29 18:48 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Post-Training Leaves Behavioral Shadows on Unrelated Decisions](https://huggingface.co/papers/2609.29233) | Ziyang Zhang | 231 HF upvotes · v 231 | 231 HF upvotes · "Post-Training Leaves Behavioral Shadows on Unrelated Decisions" · model release |
+| [Post-Training Leaves Behavioral Shadows on Unrelated Decisions](https://huggingface.co/papers/2609.29233) | Ziyang Zhang | 234 HF upvotes · v 234 | 234 HF upvotes · "Post-Training Leaves Behavioral Shadows on Unrelated Decisions" · model release |
 | [Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation](https://huggingface.co/papers/2609.35347) | Xin Li | 138 HF upvotes · v 138 | 138 HF upvotes · "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy D" · model release |
 | [VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325) | Siran Peng | 106 HF upvotes · v 106 | 106 HF upvotes · "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems" · model release |
 | [Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL](https://huggingface.co/papers/2609.32577) | Jinhao Dong | 69 HF upvotes · v 69 | 69 HF upvotes · "Groupwise Agentic Grading and Advantage Redistribution for Code Agent " · model release |
@@ -31,9 +31,9 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 204 HN points · v 396 | 204 HN points · 96 comments · Show HN |
-| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 118 HN points · v 208 | 118 HN points · 45 comments · Show HN |
-| [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 49 HN points · v 137 | 49 HN points · 44 comments · Show HN |
+| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 204 HN points · v 398 | 204 HN points · 97 comments · Show HN |
+| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 119 HN points · v 209 | 119 HN points · 45 comments · Show HN |
+| [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 50 HN points · v 138 | 50 HN points · 44 comments · Show HN |
 | [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) | moezee1 | 8 HN points · v 116 | 8 HN points · 54 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
