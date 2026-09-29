@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-29 22:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-29 22:31 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,12 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [GPT-6.1 is a good model. And it’s unbelievably efficient. Included in all paid plans and on the API today.](https://x.com/thsottiaux/status/2105007628460109953)<br>![card](https://pbs.twimg.com/media/HTZ8pP8bMAAB2HY.jpg?name=orig) | [@thsottiaux](https://x.com/thsottiaux) | 5729♥ 228RT · v 4408.5 | known founder · 4408 velocity · 5729♥ 228RT · 389541 views · 4h old |
-| [@realAdamLevi FYI - this event has been removed from the Tech Week calendar for violating our TOS](https://x.com/Techweek_/status/2105019580993483015) | [@Techweek_](https://x.com/Techweek_) | 1568♥ 22RT · v 596.5 | 597 velocity · 1568♥ 22RT · 55718 views · 3h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
