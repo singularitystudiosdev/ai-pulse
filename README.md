@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-29 13:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-29 13:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,9 +23,9 @@
 |---|---|---|---|
 | [Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation](https://huggingface.co/papers/2609.35347) | Xin Li | 108 HF upvotes · v 108 | 108 HF upvotes · "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy D" · model release |
 | [Post-Training Leaves Behavioral Shadows on Unrelated Decisions](https://huggingface.co/papers/2609.29233) | Ziyang Zhang | 72 HF upvotes · v 72 | 72 HF upvotes · "Post-Training Leaves Behavioral Shadows on Unrelated Decisions" · model release |
-| [Duplex-MPE: Benchmarking Multi-Party Interaction in Full-Duplex Dialogue](https://huggingface.co/papers/2609.31948) | Chengqian Ma | 54 HF upvotes · v 54 | 54 HF upvotes · "Duplex-MPE: Benchmarking Multi-Party Interaction in Full-Duplex Dialog" · model release |
+| [Duplex-MPE: Benchmarking Multi-Party Interaction in Full-Duplex Dialogue](https://huggingface.co/papers/2609.31948) | Chengqian Ma | 56 HF upvotes · v 56 | 56 HF upvotes · "Duplex-MPE: Benchmarking Multi-Party Interaction in Full-Duplex Dialog" · model release |
 | [How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining](https://huggingface.co/papers/2609.35457) | Lin Chen | 50 HF upvotes · v 50 | 50 HF upvotes · "How Far Are We from Removing the Visual Encoder? Scaling Laws for Enco" · model release |
-| [Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning](https://huggingface.co/papers/2609.35767) | Yijia Fan | 30 HF upvotes · v 30 | 30 HF upvotes · "Learning Native Reflection in Unified Models with Interleaved Reinforc" · model release |
+| [Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL](https://huggingface.co/papers/2609.32577) | Jinhao Dong | 30 HF upvotes · v 30 | 30 HF upvotes · "Groupwise Agentic Grading and Advantage Redistribution for Code Agent " · model release |
 
 ### 🚀 AI SaaS launches (4)
 
