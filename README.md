@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-29 18:18 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-29 18:24 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Post-Training Leaves Behavioral Shadows on Unrelated Decisions](https://huggingface.co/papers/2609.29233) | Ziyang Zhang | 216 HF upvotes · v 216 | 216 HF upvotes · "Post-Training Leaves Behavioral Shadows on Unrelated Decisions" · model release |
+| [Post-Training Leaves Behavioral Shadows on Unrelated Decisions](https://huggingface.co/papers/2609.29233) | Ziyang Zhang | 219 HF upvotes · v 219 | 219 HF upvotes · "Post-Training Leaves Behavioral Shadows on Unrelated Decisions" · model release |
 | [Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation](https://huggingface.co/papers/2609.35347) | Xin Li | 138 HF upvotes · v 138 | 138 HF upvotes · "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy D" · model release |
 | [VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325) | Siran Peng | 106 HF upvotes · v 106 | 106 HF upvotes · "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems" · model release |
 | [Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL](https://huggingface.co/papers/2609.32577) | Jinhao Dong | 69 HF upvotes · v 69 | 69 HF upvotes · "Groupwise Agentic Grading and Advantage Redistribution for Code Agent " · model release |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Hi,  Tomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are al…](https://x.com/thsottiaux/status/2104823812042940713) | [@thsottiaux](https://x.com/thsottiaux) | 20341♥ 1511RT · v 27128.9 | known founder · 27129 velocity · 20341♥ 1511RT · 13146079 views · 12h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
