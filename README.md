@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-30 13:55 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-30 14:00 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Omni-IO Skills: Harnessing Your Agent Omni-Native](https://huggingface.co/papers/2609.31847) | Yanlin Li | 114 HF upvotes · v 114 | 114 HF upvotes · "Omni-IO Skills: Harnessing Your Agent Omni-Native" · model release |
+| [Omni-IO Skills: Harnessing Your Agent Omni-Native](https://huggingface.co/papers/2609.31847) | Yanlin Li | 116 HF upvotes · v 116 | 116 HF upvotes · "Omni-IO Skills: Harnessing Your Agent Omni-Native" · model release |
 | [VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models](https://huggingface.co/papers/2609.32607) | Yang Xiao | 113 HF upvotes · v 113 | 113 HF upvotes · "VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models" · model release |
 | [PanoVLN: Towards Effective Panoramic Vision-and-Language Navigation](https://huggingface.co/papers/2609.34759) | Zhen Wang | 105 HF upvotes · v 105 | 105 HF upvotes · "PanoVLN: Towards Effective Panoramic Vision-and-Language Navigation" · model release |
 | [Follow the Entities: A Corpus Map for Agentic Search](https://huggingface.co/papers/2609.37226) | Soyeong Jeong | 35 HF upvotes · v 35 | 35 HF upvotes · "Follow the Entities: A Corpus Map for Agentic Search" · model release |
-| [EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?](https://huggingface.co/papers/2609.37686) | Hongcheng Gao | 33 HF upvotes · v 33 | 33 HF upvotes · "EngiWorld: What Can Frontier Agents Deliver in Professional Engineerin" · model release |
+| [LEGO-Anything: Coding Agents for 3D Scene Reconstruction](https://huggingface.co/papers/2609.36380) | Xirui Li | 34 HF upvotes · v 34 | 34 HF upvotes · "LEGO-Anything: Coding Agents for 3D Scene Reconstruction" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
