@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-30 18:56 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-30 19:01 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,21 +31,18 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Andrew Ross Sorkin gushes over Trump's new America. gov website on live TV while Joe Kernen sits there stunne…](https://x.com/VigilantFox/status/2105271706055029221)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2105267980779053056/img/7ZFEWKD-sUjoFWPb.jpg) | [@VigilantFox](https://x.com/VigilantFox) | 8072♥ 1516RT · v 1895 | known founder · 1895 velocity · 8072♥ 1516RT · 320317 views · 7h old · matched "launch", "launched" |
 | [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 213 HN points · v 407 | 213 HN points · 97 comments · Show HN |
 | [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 54 HN points · v 156 | 54 HN points · 51 comments · Show HN |
 | [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) | moezee1 | 8 HN points · v 116 | 8 HN points · 54 comments · Show HN |
+| [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/) | motakuk | 23 HN points · v 47 | 23 HN points · 12 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [UKMTO WARNING 146  Click here to view the full warning.⤵️ https://www.ukmto.org/-/media/ukmto/products/202609…](https://x.com/UK_MTO/status/2105246915625701554)<br>![card](https://pbs.twimg.com/media/HTdWyx3W0AAHZxS.png?name=orig) | [@UK_MTO](https://x.com/UK_MTO) | 128♥ 37RT · v 82.7 | 83 velocity · 128♥ 37RT · 34694 views · 8h old |
-| [UKMTO WARNING 144-26  Click here to view the full warning.⤵️ https://www.ukmto.org/-/media/ukmto/products/202…](https://x.com/UK_MTO/status/2105229649693266101)<br>![card](https://pbs.twimg.com/media/HTdHB_tWwAEi1z8.png?name=orig) | [@UK_MTO](https://x.com/UK_MTO) | 130♥ 43RT · v 61.5 | 61 velocity · 130♥ 43RT · 30899 views · 9h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
