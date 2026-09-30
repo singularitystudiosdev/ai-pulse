@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-30 14:11 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-30 14:16 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Omni-IO Skills: Harnessing Your Agent Omni-Native](https://huggingface.co/papers/2609.31847) | Yanlin Li | 120 HF upvotes · v 120 | 120 HF upvotes · "Omni-IO Skills: Harnessing Your Agent Omni-Native" · model release |
+| [Omni-IO Skills: Harnessing Your Agent Omni-Native](https://huggingface.co/papers/2609.31847) | Yanlin Li | 122 HF upvotes · v 122 | 122 HF upvotes · "Omni-IO Skills: Harnessing Your Agent Omni-Native" · model release |
 | [VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models](https://huggingface.co/papers/2609.32607) | Yang Xiao | 113 HF upvotes · v 113 | 113 HF upvotes · "VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models" · model release |
-| [LEGO-Anything: Coding Agents for 3D Scene Reconstruction](https://huggingface.co/papers/2609.36380) | Xirui Li | 39 HF upvotes · v 39 | 39 HF upvotes · "LEGO-Anything: Coding Agents for 3D Scene Reconstruction" · model release |
-| [Follow the Entities: A Corpus Map for Agentic Search](https://huggingface.co/papers/2609.37226) | Soyeong Jeong | 35 HF upvotes · v 35 | 35 HF upvotes · "Follow the Entities: A Corpus Map for Agentic Search" · model release |
-| [EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?](https://huggingface.co/papers/2609.37686) | Hongcheng Gao | 33 HF upvotes · v 33 | 33 HF upvotes · "EngiWorld: What Can Frontier Agents Deliver in Professional Engineerin" · model release |
+| [LEGO-Anything: Coding Agents for 3D Scene Reconstruction](https://huggingface.co/papers/2609.36380) | Xirui Li | 42 HF upvotes · v 42 | 42 HF upvotes · "LEGO-Anything: Coding Agents for 3D Scene Reconstruction" · model release |
+| [Follow the Entities: A Corpus Map for Agentic Search](https://huggingface.co/papers/2609.37226) | Soyeong Jeong | 36 HF upvotes · v 36 | 36 HF upvotes · "Follow the Entities: A Corpus Map for Agentic Search" · model release |
+| [Beyond Dyadic Memory: Interaction-Aware Multimodal Memory with Adaptive Agentic Retrieval for Multi-Party Spo…](https://huggingface.co/papers/2609.32522) | Wenxu Jia | 33 HF upvotes · v 33 | 33 HF upvotes · "Beyond Dyadic Memory: Interaction-Aware Multimodal Memory with Adaptiv" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
