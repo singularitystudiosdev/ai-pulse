@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-30 07:17 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-30 07:22 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439) | EverMind AI | 143 HF upvotes · v 143 | 143 HF upvotes · "Raven: The Harness of Harnesses for Composable Agentic Intelligence" · model release |
+| [Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439) | EverMind AI | 149 HF upvotes · v 149 | 149 HF upvotes · "Raven: The Harness of Harnesses for Composable Agentic Intelligence" · model release |
 | [VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models](https://huggingface.co/papers/2609.32607) | Yang Xiao | 52 HF upvotes · v 52 | 52 HF upvotes · "VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models" · model release |
-| [PanoVLN: Towards Effective Panoramic Vision-and-Language Navigation](https://huggingface.co/papers/2609.34759) | Zhen Wang | 46 HF upvotes · v 46 | 46 HF upvotes · "PanoVLN: Towards Effective Panoramic Vision-and-Language Navigation" · model release |
+| [PanoVLN: Towards Effective Panoramic Vision-and-Language Navigation](https://huggingface.co/papers/2609.34759) | Zhen Wang | 47 HF upvotes · v 47 | 47 HF upvotes · "PanoVLN: Towards Effective Panoramic Vision-and-Language Navigation" · model release |
 | [Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies](https://huggingface.co/papers/2609.38155) | Hui Ren | 41 HF upvotes · v 41 | 41 HF upvotes · "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity" · model release |
-| [Omni-IO Skills: Harnessing Your Agent Omni-Native](https://huggingface.co/papers/2609.31847) | Yanlin Li | 28 HF upvotes · v 28 | 28 HF upvotes · "Omni-IO Skills: Harnessing Your Agent Omni-Native" · model release |
+| [Omni-IO Skills: Harnessing Your Agent Omni-Native](https://huggingface.co/papers/2609.31847) | Yanlin Li | 30 HF upvotes · v 30 | 30 HF upvotes · "Omni-IO Skills: Harnessing Your Agent Omni-Native" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
