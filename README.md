@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-30 01:57 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-30 02:02 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,9 +23,9 @@
 |---|---|---|---|
 | [Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL](https://huggingface.co/papers/2609.32577) | Jinhao Dong | 108 HF upvotes · v 108 | 108 HF upvotes · "Groupwise Agentic Grading and Advantage Redistribution for Code Agent " · model release |
 | [VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325) | Siran Peng | 107 HF upvotes · v 107 | 107 HF upvotes · "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems" · model release |
-| [How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining](https://huggingface.co/papers/2609.35457) | Lin Chen | 55 HF upvotes · v 55 | 55 HF upvotes · "How Far Are We from Removing the Visual Encoder? Scaling Laws for Enco" · model release |
 | [Recursive Harness Distillation across Agents for Robot Manipulation](https://huggingface.co/papers/2609.33378) | Seungyeon Kim | 30 HF upvotes · v 30 | 30 HF upvotes · "Recursive Harness Distillation across Agents for Robot Manipulation" · model release |
 | [QwenGyre: An Elastic Reinforcement Learning Framework for Training xLong-Horizon Agents](https://huggingface.co/papers/2609.33848) | Weiqi Wang | 27 HF upvotes · v 27 | 27 HF upvotes · "QwenGyre: An Elastic Reinforcement Learning Framework for Training xLo" · model release |
+| [SentZero: An Enhanced Sentence-Centric Vision-Language Pretraining for Multi-Task Zero-Shot Chest X-Ray Analy…](https://huggingface.co/papers/2609.34479) | Hangyul Yoon | 25 HF upvotes · v 25 | 25 HF upvotes · "SentZero: An Enhanced Sentence-Centric Vision-Language Pretraining for" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
