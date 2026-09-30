@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-30 08:04 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-30 13:55 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439) | EverMind AI | 197 HF upvotes · v 197 | 197 HF upvotes · "Raven: The Harness of Harnesses for Composable Agentic Intelligence" · model release |
-| [PanoVLN: Towards Effective Panoramic Vision-and-Language Navigation](https://huggingface.co/papers/2609.34759) | Zhen Wang | 65 HF upvotes · v 65 | 65 HF upvotes · "PanoVLN: Towards Effective Panoramic Vision-and-Language Navigation" · model release |
-| [VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models](https://huggingface.co/papers/2609.32607) | Yang Xiao | 52 HF upvotes · v 52 | 52 HF upvotes · "VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models" · model release |
-| [Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies](https://huggingface.co/papers/2609.38155) | Hui Ren | 41 HF upvotes · v 41 | 41 HF upvotes · "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity" · model release |
-| [Omni-IO Skills: Harnessing Your Agent Omni-Native](https://huggingface.co/papers/2609.31847) | Yanlin Li | 36 HF upvotes · v 36 | 36 HF upvotes · "Omni-IO Skills: Harnessing Your Agent Omni-Native" · model release |
+| [Omni-IO Skills: Harnessing Your Agent Omni-Native](https://huggingface.co/papers/2609.31847) | Yanlin Li | 114 HF upvotes · v 114 | 114 HF upvotes · "Omni-IO Skills: Harnessing Your Agent Omni-Native" · model release |
+| [VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models](https://huggingface.co/papers/2609.32607) | Yang Xiao | 113 HF upvotes · v 113 | 113 HF upvotes · "VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models" · model release |
+| [PanoVLN: Towards Effective Panoramic Vision-and-Language Navigation](https://huggingface.co/papers/2609.34759) | Zhen Wang | 105 HF upvotes · v 105 | 105 HF upvotes · "PanoVLN: Towards Effective Panoramic Vision-and-Language Navigation" · model release |
+| [Follow the Entities: A Corpus Map for Agentic Search](https://huggingface.co/papers/2609.37226) | Soyeong Jeong | 35 HF upvotes · v 35 | 35 HF upvotes · "Follow the Entities: A Corpus Map for Agentic Search" · model release |
+| [EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?](https://huggingface.co/papers/2609.37686) | Hongcheng Gao | 33 HF upvotes · v 33 | 33 HF upvotes · "EngiWorld: What Can Frontier Agents Deliver in Professional Engineerin" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 210 HN points · v 404 | 210 HN points · 97 comments · Show HN |
+| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 212 HN points · v 406 | 212 HN points · 97 comments · Show HN |
 | [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 54 HN points · v 156 | 54 HN points · 51 comments · Show HN |
 | [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) | moezee1 | 8 HN points · v 116 | 8 HN points · 54 comments · Show HN |
 | [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/) | motakuk | 23 HN points · v 47 | 23 HN points · 12 comments · Show HN |
