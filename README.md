@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-29 23:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-30 01:27 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325) | Siran Peng | 106 HF upvotes · v 106 | 106 HF upvotes · "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems" · model release |
-| [Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL](https://huggingface.co/papers/2609.32577) | Jinhao Dong | 70 HF upvotes · v 70 | 70 HF upvotes · "Groupwise Agentic Grading and Advantage Redistribution for Code Agent " · model release |
-| [How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining](https://huggingface.co/papers/2609.35457) | Lin Chen | 54 HF upvotes · v 54 | 54 HF upvotes · "How Far Are We from Removing the Visual Encoder? Scaling Laws for Enco" · model release |
-| [Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning](https://huggingface.co/papers/2609.35767) | Yijia Fan | 35 HF upvotes · v 35 | 35 HF upvotes · "Learning Native Reflection in Unified Models with Interleaved Reinforc" · model release |
-| [Recursive Harness Distillation across Agents for Robot Manipulation](https://huggingface.co/papers/2609.33378) | Seungyeon Kim | 29 HF upvotes · v 29 | 29 HF upvotes · "Recursive Harness Distillation across Agents for Robot Manipulation" · model release |
+| [Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL](https://huggingface.co/papers/2609.32577) | Jinhao Dong | 108 HF upvotes · v 108 | 108 HF upvotes · "Groupwise Agentic Grading and Advantage Redistribution for Code Agent " · model release |
+| [VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325) | Siran Peng | 107 HF upvotes · v 107 | 107 HF upvotes · "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems" · model release |
+| [How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining](https://huggingface.co/papers/2609.35457) | Lin Chen | 55 HF upvotes · v 55 | 55 HF upvotes · "How Far Are We from Removing the Visual Encoder? Scaling Laws for Enco" · model release |
+| [Recursive Harness Distillation across Agents for Robot Manipulation](https://huggingface.co/papers/2609.33378) | Seungyeon Kim | 30 HF upvotes · v 30 | 30 HF upvotes · "Recursive Harness Distillation across Agents for Robot Manipulation" · model release |
+| [QwenGyre: An Elastic Reinforcement Learning Framework for Training xLong-Horizon Agents](https://huggingface.co/papers/2609.33848) | Weiqi Wang | 27 HF upvotes · v 27 | 27 HF upvotes · "QwenGyre: An Elastic Reinforcement Learning Framework for Training xLo" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 207 HN points · v 401 | 207 HN points · 97 comments · Show HN |
-| [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/) | hp6 | 120 HN points · v 210 | 120 HN points · 45 comments · Show HN |
-| [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 53 HN points · v 149 | 53 HN points · 48 comments · Show HN |
+| [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 54 HN points · v 152 | 54 HN points · 49 comments · Show HN |
 | [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) | moezee1 | 8 HN points · v 116 | 8 HN points · 54 comments · Show HN |
+| [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/) | motakuk | 23 HN points · v 47 | 23 HN points · 12 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-09-30](archive/2026-09-30.md)
 - [2026-09-29](archive/2026-09-29.md)
 - [2026-09-28](archive/2026-09-28.md)
 - [2026-09-27](archive/2026-09-27.md)
