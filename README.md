@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-30 23:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-30 23:20 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Scaling Properties of Same-Family On-Policy Distillation](https://huggingface.co/papers/2609.32722) | Yuntai Bao | 199 HF upvotes · v 199 | 199 HF upvotes · "Scaling Properties of Same-Family On-Policy Distillation" · model release |
+| [Scaling Properties of Same-Family On-Policy Distillation](https://huggingface.co/papers/2609.32722) | Yuntai Bao | 200 HF upvotes · v 200 | 200 HF upvotes · "Scaling Properties of Same-Family On-Policy Distillation" · model release |
 | [Omni-IO Skills: Harnessing Your Agent Omni-Native](https://huggingface.co/papers/2609.31847) | Yanlin Li | 156 HF upvotes · v 156 | 156 HF upvotes · "Omni-IO Skills: Harnessing Your Agent Omni-Native" · model release |
 | [VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models](https://huggingface.co/papers/2609.32607) | Yang Xiao | 125 HF upvotes · v 125 | 125 HF upvotes · "VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models" · model release |
 | [Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression](https://huggingface.co/papers/2609.36322) | Xingyu Zhu | 92 HF upvotes · v 92 | 92 HF upvotes · "Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compressi" · model release |
