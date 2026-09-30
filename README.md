@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-30 19:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-30 19:38 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Omni-IO Skills: Harnessing Your Agent Omni-Native](https://huggingface.co/papers/2609.31847) | Yanlin Li | 133 HF upvotes · v 133 | 133 HF upvotes · "Omni-IO Skills: Harnessing Your Agent Omni-Native" · model release |
+| [Omni-IO Skills: Harnessing Your Agent Omni-Native](https://huggingface.co/papers/2609.31847) | Yanlin Li | 134 HF upvotes · v 134 | 134 HF upvotes · "Omni-IO Skills: Harnessing Your Agent Omni-Native" · model release |
 | [VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models](https://huggingface.co/papers/2609.32607) | Yang Xiao | 114 HF upvotes · v 114 | 114 HF upvotes · "VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models" · model release |
-| [Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression](https://huggingface.co/papers/2609.36322) | Xingyu Zhu | 49 HF upvotes · v 49 | 49 HF upvotes · "Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compressi" · model release |
+| [Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression](https://huggingface.co/papers/2609.36322) | Xingyu Zhu | 50 HF upvotes · v 50 | 50 HF upvotes · "Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compressi" · model release |
+| [Follow the Entities: A Corpus Map for Agentic Search](https://huggingface.co/papers/2609.37226) | Soyeong Jeong | 44 HF upvotes · v 44 | 44 HF upvotes · "Follow the Entities: A Corpus Map for Agentic Search" · model release |
 | [Beyond Dyadic Memory: Interaction-Aware Multimodal Memory with Adaptive Agentic Retrieval for Multi-Party Spo…](https://huggingface.co/papers/2609.32522) | Wenxu Jia | 43 HF upvotes · v 43 | 43 HF upvotes · "Beyond Dyadic Memory: Interaction-Aware Multimodal Memory with Adaptiv" · model release |
-| [Follow the Entities: A Corpus Map for Agentic Search](https://huggingface.co/papers/2609.37226) | Soyeong Jeong | 43 HF upvotes · v 43 | 43 HF upvotes · "Follow the Entities: A Corpus Map for Agentic Search" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
