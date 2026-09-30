@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-09-30 02:18 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-09-30 07:17 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL](https://huggingface.co/papers/2609.32577) | Jinhao Dong | 110 HF upvotes · v 110 | 110 HF upvotes · "Groupwise Agentic Grading and Advantage Redistribution for Code Agent " · model release |
-| [VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](https://huggingface.co/papers/2609.33325) | Siran Peng | 107 HF upvotes · v 107 | 107 HF upvotes · "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems" · model release |
-| [Recursive Harness Distillation across Agents for Robot Manipulation](https://huggingface.co/papers/2609.33378) | Seungyeon Kim | 31 HF upvotes · v 31 | 31 HF upvotes · "Recursive Harness Distillation across Agents for Robot Manipulation" · model release |
-| [SentZero: An Enhanced Sentence-Centric Vision-Language Pretraining for Multi-Task Zero-Shot Chest X-Ray Analy…](https://huggingface.co/papers/2609.34479) | Hangyul Yoon | 27 HF upvotes · v 27 | 27 HF upvotes · "SentZero: An Enhanced Sentence-Centric Vision-Language Pretraining for" · model release |
-| [FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching](https://huggingface.co/papers/2609.35673) | Thanh-Long V. Le | 19 HF upvotes · v 19 | 19 HF upvotes · "FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matc" · model release |
+| [Raven: The Harness of Harnesses for Composable Agentic Intelligence](https://huggingface.co/papers/2609.33439) | EverMind AI | 143 HF upvotes · v 143 | 143 HF upvotes · "Raven: The Harness of Harnesses for Composable Agentic Intelligence" · model release |
+| [VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models](https://huggingface.co/papers/2609.32607) | Yang Xiao | 52 HF upvotes · v 52 | 52 HF upvotes · "VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models" · model release |
+| [PanoVLN: Towards Effective Panoramic Vision-and-Language Navigation](https://huggingface.co/papers/2609.34759) | Zhen Wang | 46 HF upvotes · v 46 | 46 HF upvotes · "PanoVLN: Towards Effective Panoramic Vision-and-Language Navigation" · model release |
+| [Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies](https://huggingface.co/papers/2609.38155) | Hui Ren | 41 HF upvotes · v 41 | 41 HF upvotes · "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity" · model release |
+| [Omni-IO Skills: Harnessing Your Agent Omni-Native](https://huggingface.co/papers/2609.31847) | Yanlin Li | 28 HF upvotes · v 28 | 28 HF upvotes · "Omni-IO Skills: Harnessing Your Agent Omni-Native" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 208 HN points · v 402 | 208 HN points · 97 comments · Show HN |
-| [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 54 HN points · v 152 | 54 HN points · 49 comments · Show HN |
+| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 209 HN points · v 403 | 209 HN points · 97 comments · Show HN |
+| [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 54 HN points · v 154 | 54 HN points · 50 comments · Show HN |
 | [Show HN: Panda, the world's first personal AI computer](https://pandax1.com) | moezee1 | 8 HN points · v 116 | 8 HN points · 54 comments · Show HN |
 | [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/) | motakuk | 23 HN points · v 47 | 23 HN points · 12 comments · Show HN |
 
