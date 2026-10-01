@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-01 15:42 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-01 15:48 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,17 +24,17 @@
 | [UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement](https://huggingface.co/papers/2609.38721) | Fang Wu | 166 HF upvotes · v 166 | 166 HF upvotes · "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimod" · model release |
 | [False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents](https://huggingface.co/papers/2609.39102) | Meijia Chen | 141 HF upvotes · v 141 | 141 HF upvotes · "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolvin" · model release |
 | [AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks](https://huggingface.co/papers/2609.38288) | Hongjin Qian | 93 HF upvotes · v 93 | 93 HF upvotes · "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflectiv" · model release |
-| [Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents](https://huggingface.co/papers/2609.39982) | Minki Kang | 72 HF upvotes · v 72 | 72 HF upvotes · "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Ag" · model release |
+| [Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents](https://huggingface.co/papers/2609.39982) | Minki Kang | 73 HF upvotes · v 73 | 73 HF upvotes · "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Ag" · model release |
 | [Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI](https://huggingface.co/papers/2609.38143) | Cheng Qian | 44 HF upvotes · v 44 | 44 HF upvotes · "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 218 HN points · v 412 | 218 HN points · 97 comments · Show HN |
 | [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 55 HN points · v 157 | 55 HN points · 51 comments · Show HN |
 | [Show HN: Lathoa, a math app for kids where the AI is wrong on purpose](https://lathoa.ai/en) | thanouil1411 | 52 HN points · v 142 | 52 HN points · 45 comments · Show HN |
 | [Show HN: Corral – Kill every command your agent starts](https://github.com/Cardinal44/corral) | CG144 | 19 HN points · v 31 | 19 HN points · 6 comments · Show HN |
+| [Show HN: Perspica – A semantic diff for reviewing code](https://github.com/sshah03/perspica) | sshah03 | 14 HN points · v 24 | 14 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
