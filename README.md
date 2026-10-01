@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-01 02:05 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-01 02:10 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 215 HN points · v 409 | 215 HN points · 97 comments · Show HN |
 | [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 54 HN points · v 156 | 54 HN points · 51 comments · Show HN |
-| [Show HN: Lathoa, a math app for kids where the AI is wrong on purpose](https://lathoa.ai/en) | thanouil1411 | 26 HN points · v 48 | 26 HN points · 11 comments · Show HN |
+| [Show HN: Lathoa, a math app for kids where the AI is wrong on purpose](https://lathoa.ai/en) | thanouil1411 | 26 HN points · v 50 | 26 HN points · 12 comments · Show HN |
 | [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/) | motakuk | 24 HN points · v 48 | 24 HN points · 12 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
