@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-01 20:21 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-01 20:26 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents](https://huggingface.co/papers/2609.39102) | Meijia Chen | 175 HF upvotes · v 175 | 175 HF upvotes · "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolvin" · model release |
-| [Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence](https://huggingface.co/papers/2609.34563) | Xi Xiao | 152 HF upvotes · v 152 | 152 HF upvotes · "Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visu" · model release |
+| [Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence](https://huggingface.co/papers/2609.34563) | Xi Xiao | 154 HF upvotes · v 154 | 154 HF upvotes · "Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visu" · model release |
 | [Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents](https://huggingface.co/papers/2609.39982) | Minki Kang | 90 HF upvotes · v 90 | 90 HF upvotes · "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Ag" · model release |
 | [EVOKE: Eliciting World Knowledge in Agents for Transferable Decision-Making](https://huggingface.co/papers/2609.38334) | Yuhan Guo | 50 HF upvotes · v 50 | 50 HF upvotes · "EVOKE: Eliciting World Knowledge in Agents for Transferable Decision-M" · model release |
-| [LANTERN: Illuminating Hidden Mathematical Knowledge in Language Models](https://huggingface.co/papers/2609.32264) | Pavel Tikhonov | 36 HF upvotes · v 36 | 36 HF upvotes · "LANTERN: Illuminating Hidden Mathematical Knowledge in Language Models" · model release |
+| [Unmask the State: When Does State Adaptation Matter for Masked Diffusion Language Models](https://huggingface.co/papers/2609.33355) | Injin Kong | 37 HF upvotes · v 37 | 37 HF upvotes · "Unmask the State: When Does State Adaptation Matter for Masked Diffusi" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Of course, we love people using Figma. And we will make our MCP work with far more clients + extend its capab…](https://x.com/zoink/status/2105369960008855914) | [@zoink](https://x.com/zoink) | 412♥ 5RT · v 29.9 | known founder · 30 velocity · 412♥ 5RT · 48906 views · 26h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
