@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-01 08:10 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-01 08:15 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy…](https://huggingface.co/papers/2609.36484) | Hao Li | 164 HF upvotes · v 164 | 164 HF upvotes · "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induce" · model release |
-| [UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement](https://huggingface.co/papers/2609.38721) | Fang Wu | 96 HF upvotes · v 96 | 96 HF upvotes · "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimod" · model release |
+| [The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy…](https://huggingface.co/papers/2609.36484) | Hao Li | 166 HF upvotes · v 166 | 166 HF upvotes · "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induce" · model release |
+| [UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement](https://huggingface.co/papers/2609.38721) | Fang Wu | 98 HF upvotes · v 98 | 98 HF upvotes · "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimod" · model release |
 | [AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks](https://huggingface.co/papers/2609.38288) | Hongjin Qian | 62 HF upvotes · v 62 | 62 HF upvotes · "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflectiv" · model release |
 | [EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery](https://huggingface.co/papers/2609.40340) | Young-Jun Lee | 57 HF upvotes · v 57 | 57 HF upvotes · "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Sc" · model release |
-| [False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents](https://huggingface.co/papers/2609.39102) | Meijia Chen | 53 HF upvotes · v 53 | 53 HF upvotes · "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolvin" · model release |
+| [False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents](https://huggingface.co/papers/2609.39102) | Meijia Chen | 55 HF upvotes · v 55 | 55 HF upvotes · "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolvin" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
