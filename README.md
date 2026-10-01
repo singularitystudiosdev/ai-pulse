@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-01 02:31 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-01 02:36 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,8 +33,8 @@
 |---|---|---|---|
 | [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 215 HN points · v 409 | 215 HN points · 97 comments · Show HN |
 | [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 54 HN points · v 156 | 54 HN points · 51 comments · Show HN |
-| [Show HN: Lathoa, a math app for kids where the AI is wrong on purpose](https://lathoa.ai/en) | thanouil1411 | 28 HN points · v 54 | 28 HN points · 13 comments · Show HN |
-| [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/) | motakuk | 24 HN points · v 48 | 24 HN points · 12 comments · Show HN |
+| [Show HN: Lathoa, a math app for kids where the AI is wrong on purpose](https://lathoa.ai/en) | thanouil1411 | 29 HN points · v 57 | 29 HN points · 14 comments · Show HN |
+| [Show HN: Corral – Kill every command your agent starts](https://github.com/Cardinal44/corral) | CG144 | 19 HN points · v 27 | 19 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
