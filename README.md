@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-01 02:26 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-01 02:31 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,9 +23,9 @@
 |---|---|---|---|
 | [Scaling Properties of Same-Family On-Policy Distillation](https://huggingface.co/papers/2609.32722) | Yuntai Bao | 213 HF upvotes · v 213 | 213 HF upvotes · "Scaling Properties of Same-Family On-Policy Distillation" · model release |
 | [Omni-IO Skills: Harnessing Your Agent Omni-Native](https://huggingface.co/papers/2609.31847) | Yanlin Li | 159 HF upvotes · v 159 | 159 HF upvotes · "Omni-IO Skills: Harnessing Your Agent Omni-Native" · model release |
-| [VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models](https://huggingface.co/papers/2609.32607) | Yang Xiao | 125 HF upvotes · v 125 | 125 HF upvotes · "VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models" · model release |
 | [Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression](https://huggingface.co/papers/2609.36322) | Xingyu Zhu | 97 HF upvotes · v 97 | 97 HF upvotes · "Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compressi" · model release |
 | [Follow the Entities: A Corpus Map for Agentic Search](https://huggingface.co/papers/2609.37226) | Soyeong Jeong | 73 HF upvotes · v 73 | 73 HF upvotes · "Follow the Entities: A Corpus Map for Agentic Search" · model release |
+| [Beyond Dyadic Memory: Interaction-Aware Multimodal Memory with Adaptive Agentic Retrieval for Multi-Party Spo…](https://huggingface.co/papers/2609.32522) | Wenxu Jia | 67 HF upvotes · v 67 | 67 HF upvotes · "Beyond Dyadic Memory: Interaction-Aware Multimodal Memory with Adaptiv" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/) | mrborgen | 215 HN points · v 409 | 215 HN points · 97 comments · Show HN |
 | [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 54 HN points · v 156 | 54 HN points · 51 comments · Show HN |
-| [Show HN: Lathoa, a math app for kids where the AI is wrong on purpose](https://lathoa.ai/en) | thanouil1411 | 27 HN points · v 53 | 27 HN points · 13 comments · Show HN |
+| [Show HN: Lathoa, a math app for kids where the AI is wrong on purpose](https://lathoa.ai/en) | thanouil1411 | 28 HN points · v 54 | 28 HN points · 13 comments · Show HN |
 | [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/) | motakuk | 24 HN points · v 48 | 24 HN points · 12 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
