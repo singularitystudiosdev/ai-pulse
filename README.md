@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-01 15:59 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-01 20:21 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement](https://huggingface.co/papers/2609.38721) | Fang Wu | 166 HF upvotes · v 166 | 166 HF upvotes · "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimod" · model release |
-| [False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents](https://huggingface.co/papers/2609.39102) | Meijia Chen | 141 HF upvotes · v 141 | 141 HF upvotes · "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolvin" · model release |
-| [AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks](https://huggingface.co/papers/2609.38288) | Hongjin Qian | 93 HF upvotes · v 93 | 93 HF upvotes · "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflectiv" · model release |
-| [Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents](https://huggingface.co/papers/2609.39982) | Minki Kang | 74 HF upvotes · v 74 | 74 HF upvotes · "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Ag" · model release |
-| [Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI](https://huggingface.co/papers/2609.38143) | Cheng Qian | 44 HF upvotes · v 44 | 44 HF upvotes · "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI" · model release |
+| [False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents](https://huggingface.co/papers/2609.39102) | Meijia Chen | 175 HF upvotes · v 175 | 175 HF upvotes · "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolvin" · model release |
+| [Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence](https://huggingface.co/papers/2609.34563) | Xi Xiao | 152 HF upvotes · v 152 | 152 HF upvotes · "Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visu" · model release |
+| [Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents](https://huggingface.co/papers/2609.39982) | Minki Kang | 90 HF upvotes · v 90 | 90 HF upvotes · "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Ag" · model release |
+| [EVOKE: Eliciting World Knowledge in Agents for Transferable Decision-Making](https://huggingface.co/papers/2609.38334) | Yuhan Guo | 50 HF upvotes · v 50 | 50 HF upvotes · "EVOKE: Eliciting World Knowledge in Agents for Transferable Decision-M" · model release |
+| [LANTERN: Illuminating Hidden Mathematical Knowledge in Language Models](https://huggingface.co/papers/2609.32264) | Pavel Tikhonov | 36 HF upvotes · v 36 | 36 HF upvotes · "LANTERN: Illuminating Hidden Mathematical Knowledge in Language Models" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven) | cyfyifanchen | 55 HN points · v 157 | 55 HN points · 51 comments · Show HN |
-| [Show HN: Lathoa, a math app for kids where the AI is wrong on purpose](https://lathoa.ai/en) | thanouil1411 | 52 HN points · v 142 | 52 HN points · 45 comments · Show HN |
+| [Show HN: Lathoa, a math app for kids where the AI is wrong on purpose](https://lathoa.ai/en) | thanouil1411 | 52 HN points · v 144 | 52 HN points · 46 comments · Show HN |
 | [Show HN: Corral – Kill every command your agent starts](https://github.com/Cardinal44/corral) | CG144 | 19 HN points · v 31 | 19 HN points · 6 comments · Show HN |
-| [Show HN: Perspica – A semantic diff for reviewing code](https://github.com/sshah03/perspica) | sshah03 | 14 HN points · v 24 | 14 HN points · 5 comments · Show HN |
+| [Show HN: Perspica – A semantic diff for reviewing code](https://github.com/sshah03/perspica) | sshah03 | 14 HN points · v 26 | 14 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Of course, we love people using Figma. And we will make our MCP work with far more clients + extend its capab…](https://x.com/zoink/status/2105369960008855914) | [@zoink](https://x.com/zoink) | 412♥ 5RT · v 29.9 | known founder · 30 velocity · 412♥ 5RT · 48906 views · 26h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
