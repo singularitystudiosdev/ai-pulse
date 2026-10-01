@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-01 15:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-01 15:42 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement](https://huggingface.co/papers/2609.38721) | Fang Wu | 165 HF upvotes · v 165 | 165 HF upvotes · "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimod" · model release |
+| [UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement](https://huggingface.co/papers/2609.38721) | Fang Wu | 166 HF upvotes · v 166 | 166 HF upvotes · "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimod" · model release |
 | [False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents](https://huggingface.co/papers/2609.39102) | Meijia Chen | 141 HF upvotes · v 141 | 141 HF upvotes · "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolvin" · model release |
 | [AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks](https://huggingface.co/papers/2609.38288) | Hongjin Qian | 93 HF upvotes · v 93 | 93 HF upvotes · "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflectiv" · model release |
 | [Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents](https://huggingface.co/papers/2609.39982) | Minki Kang | 72 HF upvotes · v 72 | 72 HF upvotes · "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Ag" · model release |
