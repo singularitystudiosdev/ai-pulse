@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-02 11:15 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-02 11:20 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Agent Priors-guided Policy Learning](https://huggingface.co/papers/2609.35690) | Puming Jiang | 53 HF upvotes · v 53 | 53 HF upvotes · "Agent Priors-guided Policy Learning" · model release |
-| [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | Xiangyu Zeng | 40 HF upvotes · v 40 | 40 HF upvotes · "OneStreamer: Unifying Perception, Memory, and Proactive Response in St" · model release |
+| [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | Xiangyu Zeng | 42 HF upvotes · v 42 | 42 HF upvotes · "OneStreamer: Unifying Perception, Memory, and Proactive Response in St" · model release |
 | [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://huggingface.co/papers/2610.02162) | Hyunwook Choi | 39 HF upvotes · v 39 | 39 HF upvotes · "World Observer: Joint Actor-Observer Generation for Persistent World M" · model release |
 | [Sharpening Tax in Post-Training](https://huggingface.co/papers/2610.01509) | Changdae Oh | 33 HF upvotes · v 33 | 33 HF upvotes · "Sharpening Tax in Post-Training" · model release |
 | [A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review](https://huggingface.co/papers/2609.39027) | Chenguang Wang | 32 HF upvotes · v 32 | 32 HF upvotes · "A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetor" · model release |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [i guess i assumed this hearing would be covered more so i didn't bother to tweet much concrete about it, but …](https://x.com/tenobrus/status/2105690533985448159) | [@tenobrus](https://x.com/tenobrus) | 903♥ 109RT · v 35.1 | 35 velocity · 903♥ 109RT · 48787 views · 19h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
