@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-02 17:19 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-02 17:24 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,8 +31,8 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
+| [Show HN: Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) | jv22222 | 24 HN points · v 34 | 24 HN points · 5 comments · Show HN |
 | [Show HN: Premortem – AI agents that red-team your startup idea](https://premortem.site) | ahoskins | 10 HN points · v 32 | 10 HN points · 11 comments · Show HN |
-| [Show HN: Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) | jv22222 | 22 HN points · v 30 | 22 HN points · 4 comments · Show HN |
 | [Show HN: Perspica – A semantic diff for reviewing code](https://github.com/sshah03/perspica) | sshah03 | 15 HN points · v 27 | 15 HN points · 6 comments · Show HN |
 | [Show HN: PhreshOS – OS for Web Apps](https://github.com/PhreshOS/system) | zouhirdx | 6 HN points · v 10 | 6 HN points · 2 comments · Show HN |
 
