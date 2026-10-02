@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-02 16:42 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-02 16:47 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [Agent Priors-guided Policy Learning](https://huggingface.co/papers/2609.35690) | Puming Jiang | 55 HF upvotes · v 55 | 55 HF upvotes · "Agent Priors-guided Policy Learning" · model release |
 | [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://huggingface.co/papers/2610.02162) | Hyunwook Choi | 41 HF upvotes · v 41 | 41 HF upvotes · "World Observer: Joint Actor-Observer Generation for Persistent World M" · model release |
 | [A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review](https://huggingface.co/papers/2609.39027) | Chenguang Wang | 39 HF upvotes · v 39 | 39 HF upvotes · "A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetor" · model release |
-| [E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](https://huggingface.co/papers/2609.37533) | Arseny Ivanov | 25 HF upvotes · v 25 | 25 HF upvotes · "E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Langua" · model release |
+| [E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](https://huggingface.co/papers/2609.37533) | Arseny Ivanov | 27 HF upvotes · v 27 | 27 HF upvotes · "E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Langua" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
