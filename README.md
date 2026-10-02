@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-02 05:51 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-02 05:57 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Proces…](https://huggingface.co/papers/2609.37200) | Songlin Yang | 81 HF upvotes · v 81 | 81 HF upvotes · "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint A" · model release |
+| [Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Proces…](https://huggingface.co/papers/2609.37200) | Songlin Yang | 82 HF upvotes · v 82 | 82 HF upvotes · "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint A" · model release |
 | [Hierarchical Continuous Diffusion Language Models](https://huggingface.co/papers/2610.02193) | Hui Ren | 46 HF upvotes · v 46 | 46 HF upvotes · "Hierarchical Continuous Diffusion Language Models" · model release |
 | [Agent Priors-guided Policy Learning](https://huggingface.co/papers/2609.35690) | Puming Jiang | 40 HF upvotes · v 40 | 40 HF upvotes · "Agent Priors-guided Policy Learning" · model release |
+| [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://huggingface.co/papers/2610.02162) | Hyunwook Choi | 28 HF upvotes · v 28 | 28 HF upvotes · "World Observer: Joint Actor-Observer Generation for Persistent World M" · model release |
 | [ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization](https://huggingface.co/papers/2610.00906) | Sungho Park | 27 HF upvotes · v 27 | 27 HF upvotes · "ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimiz" · model release |
-| [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://huggingface.co/papers/2610.02162) | Hyunwook Choi | 26 HF upvotes · v 26 | 26 HF upvotes · "World Observer: Joint Actor-Observer Generation for Persistent World M" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
