@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-02 00:11 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-02 00:17 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence](https://huggingface.co/papers/2609.34563) | Xi Xiao | 202 HF upvotes · v 202 | 202 HF upvotes · "Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visu" · model release |
+| [Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence](https://huggingface.co/papers/2609.34563) | Xi Xiao | 203 HF upvotes · v 203 | 203 HF upvotes · "Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visu" · model release |
 | [False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents](https://huggingface.co/papers/2609.39102) | Meijia Chen | 188 HF upvotes · v 188 | 188 HF upvotes · "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolvin" · model release |
 | [Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents](https://huggingface.co/papers/2609.39982) | Minki Kang | 98 HF upvotes · v 98 | 98 HF upvotes · "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Ag" · model release |
 | [EVOKE: Eliciting World Knowledge in Agents for Transferable Decision-Making](https://huggingface.co/papers/2609.38334) | Yuhan Guo | 63 HF upvotes · v 63 | 63 HF upvotes · "EVOKE: Eliciting World Knowledge in Agents for Transferable Decision-M" · model release |
