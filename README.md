@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-02 17:24 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-02 17:29 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | Xiangyu Zeng | 143 HF upvotes · v 143 | 143 HF upvotes · "OneStreamer: Unifying Perception, Memory, and Proactive Response in St" · model release |
 | [A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review](https://huggingface.co/papers/2609.39027) | Chenguang Wang | 43 HF upvotes · v 43 | 43 HF upvotes · "A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetor" · model release |
-| [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://huggingface.co/papers/2610.02162) | Hyunwook Choi | 42 HF upvotes · v 42 | 42 HF upvotes · "World Observer: Joint Actor-Observer Generation for Persistent World M" · model release |
+| [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://huggingface.co/papers/2610.02162) | Hyunwook Choi | 43 HF upvotes · v 43 | 43 HF upvotes · "World Observer: Joint Actor-Observer Generation for Persistent World M" · model release |
 | [E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](https://huggingface.co/papers/2609.37533) | Arseny Ivanov | 29 HF upvotes · v 29 | 29 HF upvotes · "E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Langua" · model release |
 | [Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-Reward RL](https://huggingface.co/papers/2610.00574) | Tong Zheng | 24 HF upvotes · v 24 | 24 HF upvotes · "Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-" · model release |
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) | jv22222 | 24 HN points · v 34 | 24 HN points · 5 comments · Show HN |
+| [Show HN: Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) | jv22222 | 25 HN points · v 35 | 25 HN points · 5 comments · Show HN |
 | [Show HN: Premortem – AI agents that red-team your startup idea](https://premortem.site) | ahoskins | 10 HN points · v 32 | 10 HN points · 11 comments · Show HN |
 | [Show HN: Perspica – A semantic diff for reviewing code](https://github.com/sshah03/perspica) | sshah03 | 15 HN points · v 27 | 15 HN points · 6 comments · Show HN |
 | [Show HN: PhreshOS – OS for Web Apps](https://github.com/PhreshOS/system) | zouhirdx | 6 HN points · v 10 | 6 HN points · 2 comments · Show HN |
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [So the fastest JSON serializer for .NET now is developed by CAPCOM as part of their game engine that powers R…](https://x.com/edandersen/status/2105845938296394082) | [@edandersen](https://x.com/edandersen) | 3808♥ 416RT · v 198.3 | 198 velocity · 3808♥ 416RT · 185935 views · 15h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
