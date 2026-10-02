@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-02 11:41 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-02 11:47 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
+| [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | Xiangyu Zeng | 55 HF upvotes · v 55 | 55 HF upvotes · "OneStreamer: Unifying Perception, Memory, and Proactive Response in St" · model release |
 | [Agent Priors-guided Policy Learning](https://huggingface.co/papers/2609.35690) | Puming Jiang | 54 HF upvotes · v 54 | 54 HF upvotes · "Agent Priors-guided Policy Learning" · model release |
-| [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | Xiangyu Zeng | 53 HF upvotes · v 53 | 53 HF upvotes · "OneStreamer: Unifying Perception, Memory, and Proactive Response in St" · model release |
 | [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://huggingface.co/papers/2610.02162) | Hyunwook Choi | 39 HF upvotes · v 39 | 39 HF upvotes · "World Observer: Joint Actor-Observer Generation for Persistent World M" · model release |
 | [Sharpening Tax in Post-Training](https://huggingface.co/papers/2610.01509) | Changdae Oh | 34 HF upvotes · v 34 | 34 HF upvotes · "Sharpening Tax in Post-Training" · model release |
 | [A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review](https://huggingface.co/papers/2609.39027) | Chenguang Wang | 32 HF upvotes · v 32 | 32 HF upvotes · "A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetor" · model release |
