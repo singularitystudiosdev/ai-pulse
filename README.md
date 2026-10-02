@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-02 17:13 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-02 17:19 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | Xiangyu Zeng | 143 HF upvotes · v 143 | 143 HF upvotes · "OneStreamer: Unifying Perception, Memory, and Proactive Response in St" · model release |
 | [A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review](https://huggingface.co/papers/2609.39027) | Chenguang Wang | 43 HF upvotes · v 43 | 43 HF upvotes · "A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetor" · model release |
-| [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://huggingface.co/papers/2610.02162) | Hyunwook Choi | 41 HF upvotes · v 41 | 41 HF upvotes · "World Observer: Joint Actor-Observer Generation for Persistent World M" · model release |
+| [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://huggingface.co/papers/2610.02162) | Hyunwook Choi | 42 HF upvotes · v 42 | 42 HF upvotes · "World Observer: Joint Actor-Observer Generation for Persistent World M" · model release |
 | [E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](https://huggingface.co/papers/2609.37533) | Arseny Ivanov | 29 HF upvotes · v 29 | 29 HF upvotes · "E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Langua" · model release |
 | [Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-Reward RL](https://huggingface.co/papers/2610.00574) | Tong Zheng | 24 HF upvotes · v 24 | 24 HF upvotes · "Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-" · model release |
 
