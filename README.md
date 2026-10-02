@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-02 05:46 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-02 05:51 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Proces…](https://huggingface.co/papers/2609.37200) | Songlin Yang | 77 HF upvotes · v 77 | 77 HF upvotes · "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint A" · model release |
-| [Hierarchical Continuous Diffusion Language Models](https://huggingface.co/papers/2610.02193) | Hui Ren | 45 HF upvotes · v 45 | 45 HF upvotes · "Hierarchical Continuous Diffusion Language Models" · model release |
-| [Agent Priors-guided Policy Learning](https://huggingface.co/papers/2609.35690) | Puming Jiang | 39 HF upvotes · v 39 | 39 HF upvotes · "Agent Priors-guided Policy Learning" · model release |
+| [Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Proces…](https://huggingface.co/papers/2609.37200) | Songlin Yang | 81 HF upvotes · v 81 | 81 HF upvotes · "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint A" · model release |
+| [Hierarchical Continuous Diffusion Language Models](https://huggingface.co/papers/2610.02193) | Hui Ren | 46 HF upvotes · v 46 | 46 HF upvotes · "Hierarchical Continuous Diffusion Language Models" · model release |
+| [Agent Priors-guided Policy Learning](https://huggingface.co/papers/2609.35690) | Puming Jiang | 40 HF upvotes · v 40 | 40 HF upvotes · "Agent Priors-guided Policy Learning" · model release |
 | [ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization](https://huggingface.co/papers/2610.00906) | Sungho Park | 27 HF upvotes · v 27 | 27 HF upvotes · "ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimiz" · model release |
 | [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://huggingface.co/papers/2610.02162) | Hyunwook Choi | 26 HF upvotes · v 26 | 26 HF upvotes · "World Observer: Joint Actor-Observer Generation for Persistent World M" · model release |
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [If I was a Cerebras shareholder, I would be LIVID right now. Seriously, what the hell. Insiders dumping stock…](https://x.com/firstadopter/status/2105860963132129358)<br>![card](https://pbs.twimg.com/media/HTmFJfPXgAAa-xw.jpg?name=orig) | [@firstadopter](https://x.com/firstadopter) | 228♥ 10RT · v 505.8 | known founder · 506 velocity · 228♥ 10RT · 30760 views · 2h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
