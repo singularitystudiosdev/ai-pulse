@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-02 06:13 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-02 11:15 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Proces…](https://huggingface.co/papers/2609.37200) | Songlin Yang | 86 HF upvotes · v 86 | 86 HF upvotes · "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint A" · model release |
-| [Hierarchical Continuous Diffusion Language Models](https://huggingface.co/papers/2610.02193) | Hui Ren | 46 HF upvotes · v 46 | 46 HF upvotes · "Hierarchical Continuous Diffusion Language Models" · model release |
-| [Agent Priors-guided Policy Learning](https://huggingface.co/papers/2609.35690) | Puming Jiang | 40 HF upvotes · v 40 | 40 HF upvotes · "Agent Priors-guided Policy Learning" · model release |
-| [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://huggingface.co/papers/2610.02162) | Hyunwook Choi | 28 HF upvotes · v 28 | 28 HF upvotes · "World Observer: Joint Actor-Observer Generation for Persistent World M" · model release |
-| [Sharpening Tax in Post-Training](https://huggingface.co/papers/2610.01509) | Changdae Oh | 27 HF upvotes · v 27 | 27 HF upvotes · "Sharpening Tax in Post-Training" · model release |
+| [Agent Priors-guided Policy Learning](https://huggingface.co/papers/2609.35690) | Puming Jiang | 53 HF upvotes · v 53 | 53 HF upvotes · "Agent Priors-guided Policy Learning" · model release |
+| [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | Xiangyu Zeng | 40 HF upvotes · v 40 | 40 HF upvotes · "OneStreamer: Unifying Perception, Memory, and Proactive Response in St" · model release |
+| [World Observer: Joint Actor-Observer Generation for Persistent World Modeling](https://huggingface.co/papers/2610.02162) | Hyunwook Choi | 39 HF upvotes · v 39 | 39 HF upvotes · "World Observer: Joint Actor-Observer Generation for Persistent World M" · model release |
+| [Sharpening Tax in Post-Training](https://huggingface.co/papers/2610.01509) | Changdae Oh | 33 HF upvotes · v 33 | 33 HF upvotes · "Sharpening Tax in Post-Training" · model release |
+| [A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review](https://huggingface.co/papers/2609.39027) | Chenguang Wang | 32 HF upvotes · v 32 | 32 HF upvotes · "A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetor" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Lathoa, a math app for kids where the AI is wrong on purpose](https://lathoa.ai/en) | thanouil1411 | 52 HN points · v 146 | 52 HN points · 47 comments · Show HN |
+| [Show HN: Premortem – AI agents that red-team your startup idea](https://premortem.site) | ahoskins | 9 HN points · v 31 | 9 HN points · 11 comments · Show HN |
+| [Show HN: Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) | jv22222 | 20 HN points · v 26 | 20 HN points · 3 comments · Show HN |
 | [Show HN: Perspica – A semantic diff for reviewing code](https://github.com/sshah03/perspica) | sshah03 | 14 HN points · v 26 | 14 HN points · 6 comments · Show HN |
-| [Show HN: Premortem – AI agents that red-team your startup idea](https://premortem.site) | ahoskins | 7 HN points · v 25 | 7 HN points · 9 comments · Show HN |
-| [Show HN: Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) | jv22222 | 18 HN points · v 22 | 18 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [i guess i assumed this hearing would be covered more so i didn't bother to tweet much concrete about it, but …](https://x.com/tenobrus/status/2105690533985448159) | [@tenobrus](https://x.com/tenobrus) | 903♥ 109RT · v 35.1 | 35 velocity · 903♥ 109RT · 48787 views · 19h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
