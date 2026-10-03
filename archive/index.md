@@ -1,6 +1,7 @@
 # Archive index
 
 
+- 2026-10-03 (10 posts)
 - 2026-10-02 (9 posts)
 - 2026-10-01 (9 posts)
 - 2026-09-30 (9 posts)
