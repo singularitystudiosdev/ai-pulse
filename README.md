@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-03 00:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-03 00:31 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 62 HN points · v 136 | 62 HN points · 37 comments · Show HN |
+| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 64 HN points · v 138 | 64 HN points · 37 comments · Show HN |
 | [Show HN: Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) | jv22222 | 41 HN points · v 51 | 41 HN points · 5 comments · Show HN |
 | [Show HN: Premortem – AI agents that red-team your startup idea](https://premortem.site) | ahoskins | 11 HN points · v 35 | 11 HN points · 12 comments · Show HN |
 | [Show HN: PhreshOS – OS for Web Apps](https://github.com/PhreshOS/system) | zouhirdx | 8 HN points · v 18 | 8 HN points · 5 comments · Show HN |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [The trend continues.  GPT-6.1 Sol is the second best Diplomacy player while lying and betraying the least of …](https://x.com/olam_labs/status/2105782171764207720)<br>![card](https://pbs.twimg.com/media/HTk7IINbIAAwuTu.jpg?name=orig) | [@olam_labs](https://x.com/olam_labs) | 33♥ 3RT · v 1 | 1.0 velocity · 33♥ 3RT · 2327 views · 26h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
