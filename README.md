@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-03 19:16 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-03 19:22 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 135 HN points · v 233 | 135 HN points · 49 comments · Show HN |
 | [Show HN: Premortem – AI agents that red-team your startup idea](https://premortem.site) | ahoskins | 11 HN points · v 35 | 11 HN points · 12 comments · Show HN |
-| [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 14 HN points · v 30 | 14 HN points · 8 comments · Show HN |
+| [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 15 HN points · v 33 | 15 HN points · 9 comments · Show HN |
 | [Show HN: PhreshOS – OS for Web Apps](https://github.com/PhreshOS/system) | zouhirdx | 10 HN points · v 20 | 10 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
