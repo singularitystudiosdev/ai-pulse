@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-03 01:13 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-03 05:37 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | Xiangyu Zeng | 146 HF upvotes · v 146 | 146 HF upvotes · "OneStreamer: Unifying Perception, Memory, and Proactive Response in St" · model release |
-| [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://huggingface.co/papers/2609.35259) | Julianna Piskorz | 114 HF upvotes · v 114 | 114 HF upvotes · "On-Policy or Off-Policy Learning? A Systematic Study of Distillation D" · model release |
-| [E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](https://huggingface.co/papers/2609.37533) | Arseny Ivanov | 49 HF upvotes · v 49 | 49 HF upvotes · "E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Langua" · model release |
-| [Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-Reward RL](https://huggingface.co/papers/2610.00574) | Tong Zheng | 42 HF upvotes · v 42 | 42 HF upvotes · "Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-" · model release |
-| [Decentralized Master-Mind: Joint Action Refinement through Iterative Intent Denoising in Multi-Agent Pathfind…](https://huggingface.co/papers/2609.32019) | Valeriy Vyaltsev | 36 HF upvotes · v 36 | 36 HF upvotes · "Decentralized Master-Mind: Joint Action Refinement through Iterative I" · model release |
+| [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | Xiangyu Zeng | 150 HF upvotes · v 150 | 150 HF upvotes · "OneStreamer: Unifying Perception, Memory, and Proactive Response in St" · model release |
+| [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://huggingface.co/papers/2609.35259) | Julianna Piskorz | 129 HF upvotes · v 129 | 129 HF upvotes · "On-Policy or Off-Policy Learning? A Systematic Study of Distillation D" · model release |
+| [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](https://huggingface.co/papers/2609.36585) | Zehao Jin | 54 HF upvotes · v 54 | 54 HF upvotes · "Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It" · model release |
+| [E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](https://huggingface.co/papers/2609.37533) | Arseny Ivanov | 50 HF upvotes · v 50 | 50 HF upvotes · "E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Langua" · model release |
+| [Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-Reward RL](https://huggingface.co/papers/2610.00574) | Tong Zheng | 43 HF upvotes · v 43 | 43 HF upvotes · "Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 66 HN points · v 142 | 66 HN points · 38 comments · Show HN |
-| [Show HN: Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) | jv22222 | 42 HN points · v 52 | 42 HN points · 5 comments · Show HN |
+| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 90 HN points · v 176 | 90 HN points · 43 comments · Show HN |
+| [Show HN: Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) | jv22222 | 44 HN points · v 56 | 44 HN points · 6 comments · Show HN |
 | [Show HN: Premortem – AI agents that red-team your startup idea](https://premortem.site) | ahoskins | 11 HN points · v 35 | 11 HN points · 12 comments · Show HN |
 | [Show HN: PhreshOS – OS for Web Apps](https://github.com/PhreshOS/system) | zouhirdx | 9 HN points · v 19 | 9 HN points · 5 comments · Show HN |
 
