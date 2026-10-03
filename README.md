@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-03 14:55 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-03 15:00 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,20 +31,18 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri) | tejaskumar__ | 140 HN points · v 308 | 140 HN points · 84 comments · Show HN |
+| [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri) | tejaskumar__ | 149 HN points · v 325 | 149 HN points · 88 comments · Show HN |
 | [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 125 HN points · v 219 | 125 HN points · 47 comments · Show HN |
-| [We built a gadget of our own, too: Muse Home Link is a little usb-c powered device that allows Muse to connec…](https://x.com/natfriedman/status/2106099384891158562)<br>![card](https://pbs.twimg.com/media/HTpdWwAb0AA9ack.png?name=orig) | [@natfriedman](https://x.com/natfriedman) | 548♥ 19RT · v 81.9 | known founder · 82 velocity · 548♥ 19RT · 89027 views · 20h old · matched "we built" |
 | [Show HN: Premortem – AI agents that red-team your startup idea](https://premortem.site) | ahoskins | 11 HN points · v 35 | 11 HN points · 12 comments · Show HN |
+| [Dear @Aleph__Alpha team - thank you for making Kolibri-1 open.  We care deeply about sovereign AI, and launch…](https://x.com/konarkmodi/status/2106373678589960260)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2106370256264478720/img/cfgxH-FknPrhvFwD.jpg) | [@konarkmodi](https://x.com/konarkmodi) | 45♥ 11RT · v 33.1 | 33 velocity · 45♥ 11RT · 1795 views · 2h old · matched "launch", "launching" |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [In which @AGDugin gets one of the all time community notes.....](https://x.com/DarthPutinKGB/status/2106313876119724166)<br>![card](https://pbs.twimg.com/media/HTshRr6XAAA3XQ5.png?name=orig) | [@DarthPutinKGB](https://x.com/DarthPutinKGB) | 1059♥ 114RT · v 151.7 | known founder · 152 velocity · 1059♥ 114RT · 16342 views · 6h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
