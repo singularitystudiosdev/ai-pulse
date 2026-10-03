@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-03 15:23 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-03 15:29 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri) | tejaskumar__ | 186 HN points · v 378 | 186 HN points · 96 comments · Show HN |
+| [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri) | tejaskumar__ | 199 HN points · v 399 | 199 HN points · 100 comments · Show HN |
 | [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 126 HN points · v 220 | 126 HN points · 47 comments · Show HN |
 | [Show HN: Premortem – AI agents that red-team your startup idea](https://premortem.site) | ahoskins | 11 HN points · v 35 | 11 HN points · 12 comments · Show HN |
 | [Show HN: Google Maps Scraper MCP](https://gmapscrawl.com/google-maps-scraper-mcp) | qwikhost | 9 HN points · v 19 | 9 HN points · 5 comments · Show HN |
