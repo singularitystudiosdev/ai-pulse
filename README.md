@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-03 00:41 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-03 00:47 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 64 HN points · v 138 | 64 HN points · 37 comments · Show HN |
-| [Show HN: Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) | jv22222 | 41 HN points · v 51 | 41 HN points · 5 comments · Show HN |
+| [Show HN: Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) | jv22222 | 42 HN points · v 52 | 42 HN points · 5 comments · Show HN |
 | [Show HN: Premortem – AI agents that red-team your startup idea](https://premortem.site) | ahoskins | 11 HN points · v 35 | 11 HN points · 12 comments · Show HN |
 | [Show HN: PhreshOS – OS for Web Apps](https://github.com/PhreshOS/system) | zouhirdx | 8 HN points · v 18 | 8 HN points · 5 comments · Show HN |
 
