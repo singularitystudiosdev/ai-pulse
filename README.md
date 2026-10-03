@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-03 15:45 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-03 18:34 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | Xiangyu Zeng | 157 HF upvotes · v 157 | 157 HF upvotes · "OneStreamer: Unifying Perception, Memory, and Proactive Response in St" · model release |
+| [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | Xiangyu Zeng | 159 HF upvotes · v 159 | 159 HF upvotes · "OneStreamer: Unifying Perception, Memory, and Proactive Response in St" · model release |
 | [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://huggingface.co/papers/2609.35259) | Julianna Piskorz | 151 HF upvotes · v 151 | 151 HF upvotes · "On-Policy or Off-Policy Learning? A Systematic Study of Distillation D" · model release |
 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](https://huggingface.co/papers/2609.36585) | Zehao Jin | 61 HF upvotes · v 61 | 61 HF upvotes · "Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It" · model release |
-| [E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](https://huggingface.co/papers/2609.37533) | Arseny Ivanov | 55 HF upvotes · v 55 | 55 HF upvotes · "E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Langua" · model release |
+| [E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](https://huggingface.co/papers/2609.37533) | Arseny Ivanov | 56 HF upvotes · v 56 | 56 HF upvotes · "E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Langua" · model release |
 | [Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-Reward RL](https://huggingface.co/papers/2610.00574) | Tong Zheng | 48 HF upvotes · v 48 | 48 HF upvotes · "Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 127 HN points · v 221 | 127 HN points · 47 comments · Show HN |
-| [Show HN: Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) | jv22222 | 46 HN points · v 60 | 46 HN points · 7 comments · Show HN |
+| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 134 HN points · v 232 | 134 HN points · 49 comments · Show HN |
+| [Show HN: Breadcrumb, record everything on your mac + context manager for AI](https://innerloop.works/breadcrumb) | jv22222 | 46 HN points · v 62 | 46 HN points · 8 comments · Show HN |
 | [Show HN: Premortem – AI agents that red-team your startup idea](https://premortem.site) | ahoskins | 11 HN points · v 35 | 11 HN points · 12 comments · Show HN |
-| [Show HN: Google Maps Scraper MCP](https://gmapscrawl.com/google-maps-scraper-mcp) | qwikhost | 9 HN points · v 19 | 9 HN points · 5 comments · Show HN |
+| [Show HN: PhreshOS – OS for Web Apps](https://github.com/PhreshOS/system) | zouhirdx | 10 HN points · v 20 | 10 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Full VM escape zeroday (guest>host root in industry standard hypervisors)! More soon](https://x.com/PaulosYibelo/status/2106378929158135903)<br>![card](https://pbs.twimg.com/media/HTtcd1VW0AA3Cmh.jpg?name=orig) | [@PaulosYibelo](https://x.com/PaulosYibelo) | 1077♥ 76RT · v 515.1 | 515 velocity · 1077♥ 76RT · 102606 views · 5h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
