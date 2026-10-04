@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-04 12:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-04 12:21 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://huggingface.co/papers/2610.01762) | Xiangyu Zeng | 163 HF upvotes · v 163 | 163 HF upvotes · "OneStreamer: Unifying Perception, Memory, and Proactive Response in St" · model release |
-| [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://huggingface.co/papers/2609.35259) | Julianna Piskorz | 154 HF upvotes · v 154 | 154 HF upvotes · "On-Policy or Off-Policy Learning? A Systematic Study of Distillation D" · model release |
+| [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://huggingface.co/papers/2609.35259) | Julianna Piskorz | 155 HF upvotes · v 155 | 155 HF upvotes · "On-Policy or Off-Policy Learning? A Systematic Study of Distillation D" · model release |
 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](https://huggingface.co/papers/2609.36585) | Zehao Jin | 62 HF upvotes · v 62 | 62 HF upvotes · "Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It" · model release |
 | [E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](https://huggingface.co/papers/2609.37533) | Arseny Ivanov | 57 HF upvotes · v 57 | 57 HF upvotes · "E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Langua" · model release |
 | [Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-Reward RL](https://huggingface.co/papers/2610.00574) | Tong Zheng | 50 HF upvotes · v 50 | 50 HF upvotes · "Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-" · model release |
