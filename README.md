@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-04 12:51 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-04 12:57 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,8 +33,8 @@
 |---|---|---|---|
 | [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 146 HN points · v 244 | 146 HN points · 49 comments · Show HN |
 | [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 104 HN points · v 182 | 104 HN points · 39 comments · Show HN |
+| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 13 HN points · v 21 | 13 HN points · 4 comments · Show HN |
 | [Show HN: PhreshOS – OS for Web Apps](https://github.com/PhreshOS/system) | zouhirdx | 10 HN points · v 20 | 10 HN points · 5 comments · Show HN |
-| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 13 HN points · v 19 | 13 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
