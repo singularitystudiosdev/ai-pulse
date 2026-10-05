@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-05 07:55 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-05 15:59 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://huggingface.co/papers/2609.35259) | Julianna Piskorz | 177 HF upvotes · v 177 | 177 HF upvotes · "On-Policy or Off-Policy Learning? A Systematic Study of Distillation D" · model release |
-| [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](https://huggingface.co/papers/2609.36585) | Zehao Jin | 72 HF upvotes · v 72 | 72 HF upvotes · "Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It" · model release |
-| [X-Tree: Tokenizing Reusable Experience for Efficient Agent Generalization](https://huggingface.co/papers/2609.32993) | Sitao Cheng | 65 HF upvotes · v 65 | 65 HF upvotes · "X-Tree: Tokenizing Reusable Experience for Efficient Agent Generalizat" · model release |
-| [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 63 HF upvotes · v 63 | 63 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
-| [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | Yong Liu | 63 HF upvotes · v 63 | 63 HF upvotes · "Does Learning Protein Folding Generalize to Broader Reasoning?" · model release |
+| [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | Yong Liu | 108 HF upvotes · v 108 | 108 HF upvotes · "Does Learning Protein Folding Generalize to Broader Reasoning?" · model release |
+| [Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](https://huggingface.co/papers/2610.02826) | Zongxia Li | 73 HF upvotes · v 73 | 73 HF upvotes · "Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite" · model release |
+| [FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation](https://huggingface.co/papers/2609.38839) | Bo Yin | 71 HF upvotes · v 71 | 71 HF upvotes · "FrameMorrow: Future-guided Frame Selection with Prospective Tokens for" · model release |
+| [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 68 HF upvotes · v 68 | 68 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
+| [World Action Modeling with Progressive Visual Planning](https://huggingface.co/papers/2610.02508) | Fei Zhang | 55 HF upvotes · v 55 | 55 HF upvotes · "World Action Modeling with Progressive Visual Planning" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 151 HN points · v 285 | 151 HN points · 67 comments · Show HN |
-| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 154 HN points · v 254 | 154 HN points · 50 comments · Show HN |
-| [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 115 HN points · v 209 | 115 HN points · 47 comments · Show HN |
-| [Show HN: PhreshOS – OS for Web Apps](https://github.com/PhreshOS/system) | zouhirdx | 10 HN points · v 20 | 10 HN points · 5 comments · Show HN |
+| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 158 HN points · v 300 | 158 HN points · 71 comments · Show HN |
+| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 156 HN points · v 256 | 156 HN points · 50 comments · Show HN |
+| [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 118 HN points · v 212 | 118 HN points · 47 comments · Show HN |
+| [Show HN: Google Maps Scraper MCP](https://gmapscrawl.com/google-maps-scraper-mcp) | qwikhost | 10 HN points · v 20 | 10 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Vehicle losses have been released for the month of September.   Primary credit: @HeyHey_Hayden TG  In total, …](https://x.com/hudsonwarmap/status/2107020361791627289)<br>![card](https://pbs.twimg.com/media/HT2j2aQakAABf-Q.jpg?name=orig) | [@hudsonwarmap](https://x.com/hudsonwarmap) | 357♥ 59RT · v 61 | 61 velocity · 357♥ 59RT · 21410 views · 8h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
