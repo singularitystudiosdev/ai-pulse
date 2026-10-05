@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-05 16:11 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-05 16:16 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | Yong Liu | 108 HF upvotes · v 108 | 108 HF upvotes · "Does Learning Protein Folding Generalize to Broader Reasoning?" · model release |
 | [Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](https://huggingface.co/papers/2610.02826) | Zongxia Li | 73 HF upvotes · v 73 | 73 HF upvotes · "Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite" · model release |
-| [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 71 HF upvotes · v 71 | 71 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
+| [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 72 HF upvotes · v 72 | 72 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
 | [FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation](https://huggingface.co/papers/2609.38839) | Bo Yin | 71 HF upvotes · v 71 | 71 HF upvotes · "FrameMorrow: Future-guided Frame Selection with Prospective Tokens for" · model release |
 | [World Action Modeling with Progressive Visual Planning](https://huggingface.co/papers/2610.02508) | Fei Zhang | 55 HF upvotes · v 55 | 55 HF upvotes · "World Action Modeling with Progressive Visual Planning" · model release |
 
@@ -31,8 +31,8 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 158 HN points · v 300 | 158 HN points · 71 comments · Show HN |
-| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 156 HN points · v 256 | 156 HN points · 50 comments · Show HN |
+| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 159 HN points · v 301 | 159 HN points · 71 comments · Show HN |
+| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 157 HN points · v 257 | 157 HN points · 50 comments · Show HN |
 | [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 118 HN points · v 212 | 118 HN points · 47 comments · Show HN |
 | [Show HN: Google Maps Scraper MCP](https://gmapscrawl.com/google-maps-scraper-mcp) | qwikhost | 10 HN points · v 20 | 10 HN points · 5 comments · Show HN |
 
