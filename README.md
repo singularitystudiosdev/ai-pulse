@@ -15,25 +15,25 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-05 16:48 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-05 22:32 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | Yong Liu | 108 HF upvotes · v 108 | 108 HF upvotes · "Does Learning Protein Folding Generalize to Broader Reasoning?" · model release |
-| [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 78 HF upvotes · v 78 | 78 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
-| [FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation](https://huggingface.co/papers/2609.38839) | Bo Yin | 76 HF upvotes · v 76 | 76 HF upvotes · "FrameMorrow: Future-guided Frame Selection with Prospective Tokens for" · model release |
-| [Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](https://huggingface.co/papers/2610.02826) | Zongxia Li | 73 HF upvotes · v 73 | 73 HF upvotes · "Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite" · model release |
-| [World Action Modeling with Progressive Visual Planning](https://huggingface.co/papers/2610.02508) | Fei Zhang | 57 HF upvotes · v 57 | 57 HF upvotes · "World Action Modeling with Progressive Visual Planning" · model release |
+| [RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations](https://huggingface.co/papers/2610.01780) | Arman Behnam | 196 HF upvotes · v 196 | 196 HF upvotes · "RealCompanion: Benchmarking Human Understanding from Reasoning over Lo" · model release |
+| [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | Yong Liu | 109 HF upvotes · v 109 | 109 HF upvotes · "Does Learning Protein Folding Generalize to Broader Reasoning?" · model release |
+| [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 85 HF upvotes · v 85 | 85 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
+| [World Action Modeling with Progressive Visual Planning](https://huggingface.co/papers/2610.02508) | Fei Zhang | 69 HF upvotes · v 69 | 69 HF upvotes · "World Action Modeling with Progressive Visual Planning" · model release |
+| [On-Policy Parameter Update Direction Underlies Generalization in LLM Post-Training](https://huggingface.co/papers/2609.36659) | Shufan Shen | 69 HF upvotes · v 69 | 69 HF upvotes · "On-Policy Parameter Update Direction Underlies Generalization in LLM P" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 159 HN points · v 301 | 159 HN points · 71 comments · Show HN |
-| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 157 HN points · v 257 | 157 HN points · 50 comments · Show HN |
-| [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 118 HN points · v 212 | 118 HN points · 47 comments · Show HN |
+| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 162 HN points · v 308 | 162 HN points · 73 comments · Show HN |
+| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 163 HN points · v 265 | 163 HN points · 51 comments · Show HN |
+| [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 119 HN points · v 213 | 119 HN points · 47 comments · Show HN |
 | [Show HN: Google Maps Scraper MCP](https://gmapscrawl.com/google-maps-scraper-mcp) | qwikhost | 10 HN points · v 20 | 10 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
