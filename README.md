@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-05 07:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-05 07:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](https://huggingface.co/papers/2609.36585) | Zehao Jin | 72 HF upvotes · v 72 | 72 HF upvotes · "Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It" · model release |
 | [X-Tree: Tokenizing Reusable Experience for Efficient Agent Generalization](https://huggingface.co/papers/2609.32993) | Sitao Cheng | 65 HF upvotes · v 65 | 65 HF upvotes · "X-Tree: Tokenizing Reusable Experience for Efficient Agent Generalizat" · model release |
 | [Video Generation Models: A Survey of Post-Training and Alignment](https://huggingface.co/papers/2610.00812) | Chaoyu Li | 55 HF upvotes · v 55 | 55 HF upvotes · "Video Generation Models: A Survey of Post-Training and Alignment" · model release |
-| [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | Yong Liu | 49 HF upvotes · v 49 | 49 HF upvotes · "Does Learning Protein Folding Generalize to Broader Reasoning?" · model release |
+| [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 50 HF upvotes · v 50 | 50 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Updated the slopcore drive to have the 'making of' for this video, including all prompts + midjourney assets:…](https://x.com/anabology/status/2106473469441384788) | [@anabology](https://x.com/anabology) | 1427♥ 111RT · v 16.7 | 17 velocity · 1427♥ 111RT · 62905 views · 35h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
