@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-05 15:59 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-05 16:05 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | Yong Liu | 108 HF upvotes · v 108 | 108 HF upvotes · "Does Learning Protein Folding Generalize to Broader Reasoning?" · model release |
 | [Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](https://huggingface.co/papers/2610.02826) | Zongxia Li | 73 HF upvotes · v 73 | 73 HF upvotes · "Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite" · model release |
 | [FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation](https://huggingface.co/papers/2609.38839) | Bo Yin | 71 HF upvotes · v 71 | 71 HF upvotes · "FrameMorrow: Future-guided Frame Selection with Prospective Tokens for" · model release |
-| [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 68 HF upvotes · v 68 | 68 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
+| [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 69 HF upvotes · v 69 | 69 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
 | [World Action Modeling with Progressive Visual Planning](https://huggingface.co/papers/2610.02508) | Fei Zhang | 55 HF upvotes · v 55 | 55 HF upvotes · "World Action Modeling with Progressive Visual Planning" · model release |
 
 ### 🚀 AI SaaS launches (4)
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Vehicle losses have been released for the month of September.   Primary credit: @HeyHey_Hayden TG  In total, …](https://x.com/hudsonwarmap/status/2107020361791627289)<br>![card](https://pbs.twimg.com/media/HT2j2aQakAABf-Q.jpg?name=orig) | [@hudsonwarmap](https://x.com/hudsonwarmap) | 357♥ 59RT · v 61 | 61 velocity · 357♥ 59RT · 21410 views · 8h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
