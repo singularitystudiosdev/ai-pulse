@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-05 16:05 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-05 16:11 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,8 +23,8 @@
 |---|---|---|---|
 | [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | Yong Liu | 108 HF upvotes · v 108 | 108 HF upvotes · "Does Learning Protein Folding Generalize to Broader Reasoning?" · model release |
 | [Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](https://huggingface.co/papers/2610.02826) | Zongxia Li | 73 HF upvotes · v 73 | 73 HF upvotes · "Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite" · model release |
+| [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 71 HF upvotes · v 71 | 71 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
 | [FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation](https://huggingface.co/papers/2609.38839) | Bo Yin | 71 HF upvotes · v 71 | 71 HF upvotes · "FrameMorrow: Future-guided Frame Selection with Prospective Tokens for" · model release |
-| [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 69 HF upvotes · v 69 | 69 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
 | [World Action Modeling with Progressive Visual Planning](https://huggingface.co/papers/2610.02508) | Fei Zhang | 55 HF upvotes · v 55 | 55 HF upvotes · "World Action Modeling with Progressive Visual Planning" · model release |
 
 ### 🚀 AI SaaS launches (4)
