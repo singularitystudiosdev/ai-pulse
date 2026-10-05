@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-05 07:50 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-05 07:55 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](https://huggingface.co/papers/2609.36585) | Zehao Jin | 72 HF upvotes · v 72 | 72 HF upvotes · "Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It" · model release |
 | [X-Tree: Tokenizing Reusable Experience for Efficient Agent Generalization](https://huggingface.co/papers/2609.32993) | Sitao Cheng | 65 HF upvotes · v 65 | 65 HF upvotes · "X-Tree: Tokenizing Reusable Experience for Efficient Agent Generalizat" · model release |
 | [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 63 HF upvotes · v 63 | 63 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
-| [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | Yong Liu | 60 HF upvotes · v 60 | 60 HF upvotes · "Does Learning Protein Folding Generalize to Broader Reasoning?" · model release |
+| [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | Yong Liu | 63 HF upvotes · v 63 | 63 HF upvotes · "Does Learning Protein Folding Generalize to Broader Reasoning?" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
