@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-05 22:53 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-05 22:58 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations](https://huggingface.co/papers/2610.01780) | Arman Behnam | 205 HF upvotes · v 205 | 205 HF upvotes · "RealCompanion: Benchmarking Human Understanding from Reasoning over Lo" · model release |
+| [RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations](https://huggingface.co/papers/2610.01780) | Arman Behnam | 208 HF upvotes · v 208 | 208 HF upvotes · "RealCompanion: Benchmarking Human Understanding from Reasoning over Lo" · model release |
 | [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | Yong Liu | 109 HF upvotes · v 109 | 109 HF upvotes · "Does Learning Protein Folding Generalize to Broader Reasoning?" · model release |
 | [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 85 HF upvotes · v 85 | 85 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
 | [World Action Modeling with Progressive Visual Planning](https://huggingface.co/papers/2610.02508) | Fei Zhang | 70 HF upvotes · v 70 | 70 HF upvotes · "World Action Modeling with Progressive Visual Planning" · model release |
