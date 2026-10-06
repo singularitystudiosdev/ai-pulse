@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-06 03:11 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-06 03:16 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 89 HF upvotes · v 89 | 89 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
 | [World Action Modeling with Progressive Visual Planning](https://huggingface.co/papers/2610.02508) | Fei Zhang | 76 HF upvotes · v 76 | 76 HF upvotes · "World Action Modeling with Progressive Visual Planning" · model release |
 | [Native Action-Prior Learning from Videos for World Action Models](https://huggingface.co/papers/2610.03391) | Zhaochong An | 76 HF upvotes · v 76 | 76 HF upvotes · "Native Action-Prior Learning from Videos for World Action Models" · model release |
-| [Latent-MOPD: Latent Multi-Teacher On-Policy Distillation](https://huggingface.co/papers/2610.02381) | Zhengyu Fang | 54 HF upvotes · v 54 | 54 HF upvotes · "Latent-MOPD: Latent Multi-Teacher On-Policy Distillation" · model release |
+| [Latent-MOPD: Latent Multi-Teacher On-Policy Distillation](https://huggingface.co/papers/2610.02381) | Zhengyu Fang | 55 HF upvotes · v 55 | 55 HF upvotes · "Latent-MOPD: Latent Multi-Teacher On-Policy Distillation" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
