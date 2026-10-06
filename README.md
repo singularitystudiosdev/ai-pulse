@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-06 21:18 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-06 21:23 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [LMBuild: Evaluating LLM Agents for Generating Buildable and Functional Structures](https://huggingface.co/papers/2610.04292) | Jiateng Liu | 22 HF upvotes · v 22 | 22 HF upvotes · "LMBuild: Evaluating LLM Agents for Generating Buildable and Functional" · model release |
 | [Foundations of Proactive Agents: Principles, Technical Layers, and Proactivity-Gym](https://huggingface.co/papers/2609.37267) | Jio Oh | 20 HF upvotes · v 20 | 20 HF upvotes · "Foundations of Proactive Agents: Principles, Technical Layers, and Pro" · model release |
 | [Self-Generated Feedback Destabilizes Test-Time Training: A Causal Decomposition of Long-Horizon Adaptation](https://huggingface.co/papers/2610.05076) | Cheng Luo | 18 HF upvotes · v 18 | 18 HF upvotes · "Self-Generated Feedback Destabilizes Test-Time Training: A Causal Deco" · model release |
-| [Optimizing the Optimizer: Language Models Discover Faster Molecular Relaxation](https://huggingface.co/papers/2610.06577) | Artem Tsypin | 15 HF upvotes · v 15 | 15 HF upvotes · "Optimizing the Optimizer: Language Models Discover Faster Molecular Re" · model release |
+| [Data Unlearning via Inverse Distillation](https://huggingface.co/papers/2609.36099) | Aleksei Leonov | 15 HF upvotes · v 15 | 15 HF upvotes · "Data Unlearning via Inverse Distillation" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
