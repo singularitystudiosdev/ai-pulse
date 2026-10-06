@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-05 23:19 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-06 02:29 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations](https://huggingface.co/papers/2610.01780) | Arman Behnam | 234 HF upvotes · v 234 | 234 HF upvotes · "RealCompanion: Benchmarking Human Understanding from Reasoning over Lo" · model release |
-| [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | Yong Liu | 109 HF upvotes · v 109 | 109 HF upvotes · "Does Learning Protein Folding Generalize to Broader Reasoning?" · model release |
-| [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 85 HF upvotes · v 85 | 85 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
-| [World Action Modeling with Progressive Visual Planning](https://huggingface.co/papers/2610.02508) | Fei Zhang | 70 HF upvotes · v 70 | 70 HF upvotes · "World Action Modeling with Progressive Visual Planning" · model release |
-| [On-Policy Parameter Update Direction Underlies Generalization in LLM Post-Training](https://huggingface.co/papers/2609.36659) | Shufan Shen | 69 HF upvotes · v 69 | 69 HF upvotes · "On-Policy Parameter Update Direction Underlies Generalization in LLM P" · model release |
+| [RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations](https://huggingface.co/papers/2610.01780) | Arman Behnam | 255 HF upvotes · v 255 | 255 HF upvotes · "RealCompanion: Benchmarking Human Understanding from Reasoning over Lo" · model release |
+| [Does Learning Protein Folding Generalize to Broader Reasoning?](https://huggingface.co/papers/2609.38879) | Yong Liu | 113 HF upvotes · v 113 | 113 HF upvotes · "Does Learning Protein Folding Generalize to Broader Reasoning?" · model release |
+| [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://huggingface.co/papers/2609.38078) | Bingxuan Li | 89 HF upvotes · v 89 | 89 HF upvotes · "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Ro" · model release |
+| [World Action Modeling with Progressive Visual Planning](https://huggingface.co/papers/2610.02508) | Fei Zhang | 76 HF upvotes · v 76 | 76 HF upvotes · "World Action Modeling with Progressive Visual Planning" · model release |
+| [Native Action-Prior Learning from Videos for World Action Models](https://huggingface.co/papers/2610.03391) | Zhaochong An | 76 HF upvotes · v 76 | 76 HF upvotes · "Native Action-Prior Learning from Videos for World Action Models" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 163 HN points · v 309 | 163 HN points · 73 comments · Show HN |
-| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 163 HN points · v 265 | 163 HN points · 51 comments · Show HN |
+| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 164 HN points · v 266 | 164 HN points · 51 comments · Show HN |
 | [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 119 HN points · v 213 | 119 HN points · 47 comments · Show HN |
 | [Show HN: Google Maps Scraper MCP](https://gmapscrawl.com/google-maps-scraper-mcp) | qwikhost | 10 HN points · v 20 | 10 HN points · 5 comments · Show HN |
 
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-06](archive/2026-10-06.md)
 - [2026-10-05](archive/2026-10-05.md)
 - [2026-10-04](archive/2026-10-04.md)
 - [2026-10-03](archive/2026-10-03.md)
