@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-06 09:20 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-06 09:25 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation](https://huggingface.co/papers/2610.05608) | Team Kandinsky | 87 HF upvotes · v 87 | 87 HF upvotes · "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audi" · model release |
 | [ALoDLM: Adaptively Looped Diffusion Language Models](https://huggingface.co/papers/2610.04198) | Liancheng Fang | 37 HF upvotes · v 37 | 37 HF upvotes · "ALoDLM: Adaptively Looped Diffusion Language Models" · model release |
-| [PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation](https://huggingface.co/papers/2610.02840) | Chunghyun Park | 28 HF upvotes · v 28 | 28 HF upvotes · "PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation" · model release |
+| [PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation](https://huggingface.co/papers/2610.02840) | Chunghyun Park | 29 HF upvotes · v 29 | 29 HF upvotes · "PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation" · model release |
 | [Tail-Influence Sampling for CVaR Policy Evaluation](https://huggingface.co/papers/2609.38096) | Pauline Bourigault | 21 HF upvotes · v 21 | 21 HF upvotes · "Tail-Influence Sampling for CVaR Policy Evaluation" · model release |
 | [4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes](https://huggingface.co/papers/2610.03715) | Ruihong Shen | 20 HF upvotes · v 20 | 20 HF upvotes · "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes" · model release |
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Guys, do you think GitHub / Microsoft take DMCA requests seriously?   I reported several repositories (code c…](https://x.com/photopeacom/status/2106877355738140875)<br>![card](https://pbs.twimg.com/media/HT0hohyWUAAXc6v.png?name=orig) | [@photopeacom](https://x.com/photopeacom) | 356♥ 15RT · v 5.3 | 5.3 velocity · 356♥ 15RT · 20368 views · 35h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
