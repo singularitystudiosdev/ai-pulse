@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-06 21:23 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-06 21:28 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 174 HN points · v 318 | 174 HN points · 72 comments · Show HN |
+| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 174 HN points · v 320 | 174 HN points · 73 comments · Show HN |
 | [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 166 HN points · v 270 | 166 HN points · 52 comments · Show HN |
 | [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 121 HN points · v 215 | 121 HN points · 47 comments · Show HN |
 | [Show HN: OpenChart – OSS TradingView alternative with your own AI agent](https://github.com/longsurf-ai/openchart) | Warren93 | 34 HN points · v 58 | 34 HN points · 12 comments · Show HN |
