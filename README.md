@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-06 09:41 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-06 09:46 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation](https://huggingface.co/papers/2610.05608) | Team Kandinsky | 87 HF upvotes · v 87 | 87 HF upvotes · "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audi" · model release |
+| [Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation](https://huggingface.co/papers/2610.05608) | Team Kandinsky | 88 HF upvotes · v 88 | 88 HF upvotes · "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audi" · model release |
 | [ALoDLM: Adaptively Looped Diffusion Language Models](https://huggingface.co/papers/2610.04198) | Liancheng Fang | 37 HF upvotes · v 37 | 37 HF upvotes · "ALoDLM: Adaptively Looped Diffusion Language Models" · model release |
 | [PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation](https://huggingface.co/papers/2610.02840) | Chunghyun Park | 29 HF upvotes · v 29 | 29 HF upvotes · "PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation" · model release |
 | [Tail-Influence Sampling for CVaR Policy Evaluation](https://huggingface.co/papers/2609.38096) | Pauline Bourigault | 21 HF upvotes · v 21 | 21 HF upvotes · "Tail-Influence Sampling for CVaR Policy Evaluation" · model release |
