@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-06 16:52 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-06 20:57 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Memadapter: Counterfactual Adaptation Against Memory-induced Sycophancy](https://huggingface.co/papers/2610.05162) | Ruqing Ning | 25 HF upvotes · v 25 | 25 HF upvotes · "Memadapter: Counterfactual Adaptation Against Memory-induced Sycophanc" · model release |
-| [In-Distribution Forcing for Long Video Generation at Test Time](https://huggingface.co/papers/2610.03120) | Jeongwoo Shin | 24 HF upvotes · v 24 | 24 HF upvotes · "In-Distribution Forcing for Long Video Generation at Test Time" · model release |
-| [LMBuild: Evaluating LLM Agents for Generating Buildable and Functional Structures](https://huggingface.co/papers/2610.04292) | Jiateng Liu | 20 HF upvotes · v 20 | 20 HF upvotes · "LMBuild: Evaluating LLM Agents for Generating Buildable and Functional" · model release |
-| [Foundations of Proactive Agents: Principles, Technical Layers, and Proactivity-Gym](https://huggingface.co/papers/2609.37267) | Jio Oh | 19 HF upvotes · v 19 | 19 HF upvotes · "Foundations of Proactive Agents: Principles, Technical Layers, and Pro" · model release |
-| [Self-Generated Feedback Destabilizes Test-Time Training: A Causal Decomposition of Long-Horizon Adaptation](https://huggingface.co/papers/2610.05076) | Cheng Luo | 17 HF upvotes · v 17 | 17 HF upvotes · "Self-Generated Feedback Destabilizes Test-Time Training: A Causal Deco" · model release |
+| [In-Distribution Forcing for Long Video Generation at Test Time](https://huggingface.co/papers/2610.03120) | Jeongwoo Shin | 27 HF upvotes · v 27 | 27 HF upvotes · "In-Distribution Forcing for Long Video Generation at Test Time" · model release |
+| [LMBuild: Evaluating LLM Agents for Generating Buildable and Functional Structures](https://huggingface.co/papers/2610.04292) | Jiateng Liu | 22 HF upvotes · v 22 | 22 HF upvotes · "LMBuild: Evaluating LLM Agents for Generating Buildable and Functional" · model release |
+| [Foundations of Proactive Agents: Principles, Technical Layers, and Proactivity-Gym](https://huggingface.co/papers/2609.37267) | Jio Oh | 20 HF upvotes · v 20 | 20 HF upvotes · "Foundations of Proactive Agents: Principles, Technical Layers, and Pro" · model release |
+| [Self-Generated Feedback Destabilizes Test-Time Training: A Causal Decomposition of Long-Horizon Adaptation](https://huggingface.co/papers/2610.05076) | Cheng Luo | 18 HF upvotes · v 18 | 18 HF upvotes · "Self-Generated Feedback Destabilizes Test-Time Training: A Causal Deco" · model release |
+| [Optimizing the Optimizer: Language Models Discover Faster Molecular Relaxation](https://huggingface.co/papers/2610.06577) | Artem Tsypin | 15 HF upvotes · v 15 | 15 HF upvotes · "Optimizing the Optimizer: Language Models Discover Faster Molecular Re" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 172 HN points · v 318 | 172 HN points · 73 comments · Show HN |
+| [Le Chonk enters the Frontier race 🐈    We put @MistralAI Large 4, MiMo V2.6 Pro, Opus 5.5 and GPT-6.1 Sol si…](https://x.com/atomic_chat_hq/status/2107516529608700383)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2107516410486308864/img/3J2YUlnShLQ5xboG.jpg) | [@atomic_chat_hq](https://x.com/atomic_chat_hq) | 446♥ 15RT · v 425 | 425 velocity · 446♥ 15RT · 66662 views · 4h old · matched "launch" |
+| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 174 HN points · v 318 | 174 HN points · 72 comments · Show HN |
 | [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 166 HN points · v 270 | 166 HN points · 52 comments · Show HN |
-| [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 120 HN points · v 214 | 120 HN points · 47 comments · Show HN |
-| [Show HN: Google Maps Scraper MCP](https://gmapscrawl.com/google-maps-scraper-mcp) | qwikhost | 10 HN points · v 20 | 10 HN points · 5 comments · Show HN |
+| [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 121 HN points · v 215 | 121 HN points · 47 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
