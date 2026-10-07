@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-07 01:05 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-07 01:11 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [In-Distribution Forcing for Long Video Generation at Test Time](https://huggingface.co/papers/2610.03120) | Jeongwoo Shin | 28 HF upvotes · v 28 | 28 HF upvotes · "In-Distribution Forcing for Long Video Generation at Test Time" · model release |
 | [LMBuild: Evaluating LLM Agents for Generating Buildable and Functional Structures](https://huggingface.co/papers/2610.04292) | Jiateng Liu | 24 HF upvotes · v 24 | 24 HF upvotes · "LMBuild: Evaluating LLM Agents for Generating Buildable and Functional" · model release |
-| [Foundations of Proactive Agents: Principles, Technical Layers, and Proactivity-Gym](https://huggingface.co/papers/2609.37267) | Jio Oh | 21 HF upvotes · v 21 | 21 HF upvotes · "Foundations of Proactive Agents: Principles, Technical Layers, and Pro" · model release |
+| [Foundations of Proactive Agents: Principles, Technical Layers, and Proactivity-Gym](https://huggingface.co/papers/2609.37267) | Jio Oh | 22 HF upvotes · v 22 | 22 HF upvotes · "Foundations of Proactive Agents: Principles, Technical Layers, and Pro" · model release |
 | [Self-Generated Feedback Destabilizes Test-Time Training: A Causal Decomposition of Long-Horizon Adaptation](https://huggingface.co/papers/2610.05076) | Cheng Luo | 19 HF upvotes · v 19 | 19 HF upvotes · "Self-Generated Feedback Destabilizes Test-Time Training: A Causal Deco" · model release |
 | [OmniReasoning: Pushing the Limits of Audio-Visual Joint Reasoning](https://huggingface.co/papers/2609.39490) | Junming Lin | 17 HF upvotes · v 17 | 17 HF upvotes · "OmniReasoning: Pushing the Limits of Audio-Visual Joint Reasoning" · model release |
 
