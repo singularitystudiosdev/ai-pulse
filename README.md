@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-07 07:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-07 07:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,9 +23,9 @@
 |---|---|---|---|
 | [DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation](https://huggingface.co/papers/2610.03543) | Jiahao Zhan | 41 HF upvotes · v 41 | 41 HF upvotes · "DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video G" · model release |
 | [Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability](https://huggingface.co/papers/2610.08448) | Bingxi Hou | 40 HF upvotes · v 40 | 40 HF upvotes · "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Cove" · model release |
-| [EVISKILL: Grounding Skill Evolution in Replayable Evidence](https://huggingface.co/papers/2610.05030) | Yan Zhou | 25 HF upvotes · v 25 | 25 HF upvotes · "EVISKILL: Grounding Skill Evolution in Replayable Evidence" · model release |
+| [EVISKILL: Grounding Skill Evolution in Replayable Evidence](https://huggingface.co/papers/2610.05030) | Yan Zhou | 26 HF upvotes · v 26 | 26 HF upvotes · "EVISKILL: Grounding Skill Evolution in Replayable Evidence" · model release |
 | [TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models](https://huggingface.co/papers/2610.07767) | Xin Wang | 22 HF upvotes · v 22 | 22 HF upvotes · "TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcemen" · model release |
-| [World Action Learning via Interaction-Centric Spectral Latent Guidance](https://huggingface.co/papers/2610.03607) | Zhiming Liu | 21 HF upvotes · v 21 | 21 HF upvotes · "World Action Learning via Interaction-Centric Spectral Latent Guidance" · model release |
+| [AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents](https://huggingface.co/papers/2610.05140) | Dongki Kim | 22 HF upvotes · v 22 | 22 HF upvotes · "AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientifi" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
