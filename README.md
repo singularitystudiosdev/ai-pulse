@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-07 13:57 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-07 14:02 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,8 +33,8 @@
 |---|---|---|---|
 | [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 177 HN points · v 325 | 177 HN points · 74 comments · Show HN |
 | [Show HN: OpenChart – OSS TradingView alternative with your own AI agent](https://github.com/longsurf-ai/openchart) | Warren93 | 43 HN points · v 81 | 43 HN points · 19 comments · Show HN |
-| [Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens](https://astrohelm.app/) | HeavenFox | 42 HN points · v 68 | 42 HN points · 13 comments · Show HN |
-| [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse) | ilreb | 39 HN points · v 57 | 39 HN points · 9 comments · Show HN |
+| [Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens](https://astrohelm.app/) | HeavenFox | 43 HN points · v 69 | 43 HN points · 13 comments · Show HN |
+| [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse) | ilreb | 40 HN points · v 58 | 40 HN points · 9 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
