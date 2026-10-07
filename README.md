@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-07 06:42 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-07 06:47 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability](https://huggingface.co/papers/2610.08448) | Bingxi Hou | 39 HF upvotes · v 39 | 39 HF upvotes · "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Cove" · model release |
-| [DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation](https://huggingface.co/papers/2610.03543) | Jiahao Zhan | 32 HF upvotes · v 32 | 32 HF upvotes · "DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video G" · model release |
+| [DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation](https://huggingface.co/papers/2610.03543) | Jiahao Zhan | 33 HF upvotes · v 33 | 33 HF upvotes · "DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video G" · model release |
 | [TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models](https://huggingface.co/papers/2610.07767) | Xin Wang | 22 HF upvotes · v 22 | 22 HF upvotes · "TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcemen" · model release |
 | [World Action Learning via Interaction-Centric Spectral Latent Guidance](https://huggingface.co/papers/2610.03607) | Zhiming Liu | 21 HF upvotes · v 21 | 21 HF upvotes · "World Action Learning via Interaction-Centric Spectral Latent Guidance" · model release |
-| [From Evidence to Action: How Tool-Using Agents Fail](https://huggingface.co/papers/2610.07753) | Hongzhan Lin | 20 HF upvotes · v 20 | 20 HF upvotes · "From Evidence to Action: How Tool-Using Agents Fail" · model release |
+| [AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents](https://huggingface.co/papers/2610.05140) | Dongki Kim | 21 HF upvotes · v 21 | 21 HF upvotes · "AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientifi" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
