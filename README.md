@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-07 07:13 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-07 13:45 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation](https://huggingface.co/papers/2610.03543) | Jiahao Zhan | 41 HF upvotes · v 41 | 41 HF upvotes · "DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video G" · model release |
-| [Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability](https://huggingface.co/papers/2610.08448) | Bingxi Hou | 40 HF upvotes · v 40 | 40 HF upvotes · "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Cove" · model release |
-| [EVISKILL: Grounding Skill Evolution in Replayable Evidence](https://huggingface.co/papers/2610.05030) | Yan Zhou | 26 HF upvotes · v 26 | 26 HF upvotes · "EVISKILL: Grounding Skill Evolution in Replayable Evidence" · model release |
-| [TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models](https://huggingface.co/papers/2610.07767) | Xin Wang | 22 HF upvotes · v 22 | 22 HF upvotes · "TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcemen" · model release |
-| [AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents](https://huggingface.co/papers/2610.05140) | Dongki Kim | 22 HF upvotes · v 22 | 22 HF upvotes · "AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientifi" · model release |
+| [Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability](https://huggingface.co/papers/2610.08448) | Bingxi Hou | 147 HF upvotes · v 147 | 147 HF upvotes · "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Cove" · model release |
+| [DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation](https://huggingface.co/papers/2610.03543) | Jiahao Zhan | 59 HF upvotes · v 59 | 59 HF upvotes · "DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video G" · model release |
+| [TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models](https://huggingface.co/papers/2610.07767) | Xin Wang | 41 HF upvotes · v 41 | 41 HF upvotes · "TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcemen" · model release |
+| [EVISKILL: Grounding Skill Evolution in Replayable Evidence](https://huggingface.co/papers/2610.05030) | Yan Zhou | 33 HF upvotes · v 33 | 33 HF upvotes · "EVISKILL: Grounding Skill Evolution in Replayable Evidence" · model release |
+| [From Evidence to Action: How Tool-Using Agents Fail](https://huggingface.co/papers/2610.07753) | Hongzhan Lin | 30 HF upvotes · v 30 | 30 HF upvotes · "From Evidence to Action: How Tool-Using Agents Fail" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 177 HN points · v 325 | 177 HN points · 74 comments · Show HN |
-| [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 166 HN points · v 270 | 166 HN points · 52 comments · Show HN |
-| [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 121 HN points · v 215 | 121 HN points · 47 comments · Show HN |
-| [Show HN: OpenChart – OSS TradingView alternative with your own AI agent](https://github.com/longsurf-ai/openchart) | Warren93 | 40 HN points · v 74 | 40 HN points · 17 comments · Show HN |
+| [Show HN: OpenChart – OSS TradingView alternative with your own AI agent](https://github.com/longsurf-ai/openchart) | Warren93 | 42 HN points · v 80 | 42 HN points · 19 comments · Show HN |
+| [Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens](https://astrohelm.app/) | HeavenFox | 40 HN points · v 64 | 40 HN points · 12 comments · Show HN |
+| [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse) | ilreb | 37 HN points · v 57 | 37 HN points · 10 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
