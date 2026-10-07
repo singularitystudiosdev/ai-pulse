@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-06 21:43 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-07 00:34 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [In-Distribution Forcing for Long Video Generation at Test Time](https://huggingface.co/papers/2610.03120) | Jeongwoo Shin | 27 HF upvotes · v 27 | 27 HF upvotes · "In-Distribution Forcing for Long Video Generation at Test Time" · model release |
-| [LMBuild: Evaluating LLM Agents for Generating Buildable and Functional Structures](https://huggingface.co/papers/2610.04292) | Jiateng Liu | 22 HF upvotes · v 22 | 22 HF upvotes · "LMBuild: Evaluating LLM Agents for Generating Buildable and Functional" · model release |
+| [In-Distribution Forcing for Long Video Generation at Test Time](https://huggingface.co/papers/2610.03120) | Jeongwoo Shin | 28 HF upvotes · v 28 | 28 HF upvotes · "In-Distribution Forcing for Long Video Generation at Test Time" · model release |
+| [LMBuild: Evaluating LLM Agents for Generating Buildable and Functional Structures](https://huggingface.co/papers/2610.04292) | Jiateng Liu | 24 HF upvotes · v 24 | 24 HF upvotes · "LMBuild: Evaluating LLM Agents for Generating Buildable and Functional" · model release |
 | [Foundations of Proactive Agents: Principles, Technical Layers, and Proactivity-Gym](https://huggingface.co/papers/2609.37267) | Jio Oh | 20 HF upvotes · v 20 | 20 HF upvotes · "Foundations of Proactive Agents: Principles, Technical Layers, and Pro" · model release |
-| [Self-Generated Feedback Destabilizes Test-Time Training: A Causal Decomposition of Long-Horizon Adaptation](https://huggingface.co/papers/2610.05076) | Cheng Luo | 18 HF upvotes · v 18 | 18 HF upvotes · "Self-Generated Feedback Destabilizes Test-Time Training: A Causal Deco" · model release |
-| [Data Unlearning via Inverse Distillation](https://huggingface.co/papers/2609.36099) | Aleksei Leonov | 15 HF upvotes · v 15 | 15 HF upvotes · "Data Unlearning via Inverse Distillation" · model release |
+| [Self-Generated Feedback Destabilizes Test-Time Training: A Causal Decomposition of Long-Horizon Adaptation](https://huggingface.co/papers/2610.05076) | Cheng Luo | 19 HF upvotes · v 19 | 19 HF upvotes · "Self-Generated Feedback Destabilizes Test-Time Training: A Causal Deco" · model release |
+| [Optimizing the Optimizer: Language Models Discover Faster Molecular Relaxation](https://huggingface.co/papers/2610.06577) | Artem Tsypin | 17 HF upvotes · v 17 | 17 HF upvotes · "Optimizing the Optimizer: Language Models Discover Faster Molecular Re" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 174 HN points · v 320 | 174 HN points · 73 comments · Show HN |
+| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | allenleee | 175 HN points · v 321 | 175 HN points · 73 comments · Show HN |
 | [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova) | antelocnova | 166 HN points · v 270 | 166 HN points · 52 comments · Show HN |
 | [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) | edverma2 | 121 HN points · v 215 | 121 HN points · 47 comments · Show HN |
-| [Show HN: OpenChart – OSS TradingView alternative with your own AI agent](https://github.com/longsurf-ai/openchart) | Warren93 | 34 HN points · v 58 | 34 HN points · 12 comments · Show HN |
+| [Show HN: OpenChart – OSS TradingView alternative with your own AI agent](https://github.com/longsurf-ai/openchart) | Warren93 | 36 HN points · v 62 | 36 HN points · 13 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [We are making Markdown files work natively across Google Drive and Docs.  You can now preview .md files in Dr…](https://x.com/ChanduThota/status/2107195115441946850)<br>![card](https://pbs.twimg.com/media/HT5CKifa8AAEFzb.jpg?name=orig) | [@ChanduThota](https://x.com/ChanduThota) | 20366♥ 1289RT · v 458.2 | 458 velocity · 20366♥ 1289RT · 1302354 views · 29h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
@@ -51,6 +53,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-07](archive/2026-10-07.md)
 - [2026-10-06](archive/2026-10-06.md)
 - [2026-10-05](archive/2026-10-05.md)
 - [2026-10-04](archive/2026-10-04.md)
