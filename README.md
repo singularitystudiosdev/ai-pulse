@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-07 20:07 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-07 20:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,9 +32,9 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse) | ilreb | 54 HN points · v 92 | 54 HN points · 19 comments · Show HN |
-| [Show HN: OpenChart – OSS TradingView alternative with your own AI agent](https://github.com/longsurf-ai/openchart) | Warren93 | 43 HN points · v 81 | 43 HN points · 19 comments · Show HN |
 | [Show HN: Durable Actors – OSS Durable Objects with configurable compute](https://github.com/TerseAI/durable-actors) | thomask1995 | 27 HN points · v 67 | 27 HN points · 20 comments · Show HN |
-| [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/) | screm | 15 HN points · v 45 | 15 HN points · 15 comments · Show HN |
+| [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/) | screm | 15 HN points · v 47 | 15 HN points · 16 comments · Show HN |
+| [Show HN: Pointless but mostly-exact clone of Hacker News](https://news.ycombinator.lol) | sillysaurusx | 11 HN points · v 19 | 11 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
