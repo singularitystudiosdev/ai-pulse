@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 03:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 03:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,8 +23,8 @@
 |---|---|---|---|
 | [CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Checkers?](https://huggingface.co/papers/2610.07557) | Hang He | 52 HF upvotes · v 52 | 52 HF upvotes · "CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Check" · model release |
 | [Questioning the Questions: Sustaining Self-Evolution in Reasoning Models](https://huggingface.co/papers/2610.04299) | Jinyuan Li | 46 HF upvotes · v 46 | 46 HF upvotes · "Questioning the Questions: Sustaining Self-Evolution in Reasoning Mode" · model release |
-| [GRACE: Generation-aware latent compression for efficient video generation](https://huggingface.co/papers/2610.10524) | Jiyoung Kim | 35 HF upvotes · v 35 | 35 HF upvotes · "GRACE: Generation-aware latent compression for efficient video generat" · model release |
-| [nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699) | Guangyi Liu | 35 HF upvotes · v 35 | 35 HF upvotes · "nanoMuse: An Open-Source Personal Agent for Every Device You Own" · model release |
+| [GRACE: Generation-aware latent compression for efficient video generation](https://huggingface.co/papers/2610.10524) | Jiyoung Kim | 38 HF upvotes · v 38 | 38 HF upvotes · "GRACE: Generation-aware latent compression for efficient video generat" · model release |
+| [nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699) | Guangyi Liu | 36 HF upvotes · v 36 | 36 HF upvotes · "nanoMuse: An Open-Source Personal Agent for Every Device You Own" · model release |
 | [DecepEval: A Benchmark for Evaluating Deception in LLM Agents](https://huggingface.co/papers/2610.07967) | Yiming Xu | 25 HF upvotes · v 25 | 25 HF upvotes · "DecepEval: A Benchmark for Evaluating Deception in LLM Agents" · model release |
 
 ### 🚀 AI SaaS launches (4)
