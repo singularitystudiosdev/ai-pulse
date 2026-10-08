@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 22:56 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 23:02 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 32 HN points · v 80 | 32 HN points · 24 comments · Show HN |
+| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 33 HN points · v 85 | 33 HN points · 26 comments · Show HN |
 | [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena) | emrahsamdan | 22 HN points · v 38 | 22 HN points · 8 comments · Show HN |
 | [Show HN: I Put an AI Agent on a Nokia 110](https://github.com/anupray95/AI-Agent-on-a-NOKIA) | anupray | 24 HN points · v 38 | 24 HN points · 7 comments · Show HN |
 | [Show HN: Pointless but mostly-exact clone of Hacker News](https://news.ycombinator.lol) | sillysaurusx | 16 HN points · v 30 | 16 HN points · 7 comments · Show HN |
