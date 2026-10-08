@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 11:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 17:34 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | Bingchen Yao | 85 HF upvotes · v 85 | 85 HF upvotes · "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State " · model release |
-| [Long-WAM: Scaling the Context of World-Action Models](https://huggingface.co/papers/2610.10528) | Wei Huang | 78 HF upvotes · v 78 | 78 HF upvotes · "Long-WAM: Scaling the Context of World-Action Models" · model release |
-| [nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699) | Guangyi Liu | 68 HF upvotes · v 68 | 68 HF upvotes · "nanoMuse: An Open-Source Personal Agent for Every Device You Own" · model release |
-| [Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness](https://huggingface.co/papers/2610.08621) | Jiajun Chen | 62 HF upvotes · v 62 | 62 HF upvotes · "Recursive Game Creator: An Agentic Product-Level Experience-Oriented G" · model release |
-| [Questioning the Questions: Sustaining Self-Evolution in Reasoning Models](https://huggingface.co/papers/2610.04299) | Jinyuan Li | 57 HF upvotes · v 57 | 57 HF upvotes · "Questioning the Questions: Sustaining Self-Evolution in Reasoning Mode" · model release |
+| [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | Bingchen Yao | 94 HF upvotes · v 94 | 94 HF upvotes · "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State " · model release |
+| [Long-WAM: Scaling the Context of World-Action Models](https://huggingface.co/papers/2610.10528) | Wei Huang | 86 HF upvotes · v 86 | 86 HF upvotes · "Long-WAM: Scaling the Context of World-Action Models" · model release |
+| [Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness](https://huggingface.co/papers/2610.08621) | Jiajun Chen | 77 HF upvotes · v 77 | 77 HF upvotes · "Recursive Game Creator: An Agentic Product-Level Experience-Oriented G" · model release |
+| [DecepEval: A Benchmark for Evaluating Deception in LLM Agents](https://huggingface.co/papers/2610.07967) | Yiming Xu | 64 HF upvotes · v 64 | 64 HF upvotes · "DecepEval: A Benchmark for Evaluating Deception in LLM Agents" · model release |
+| [GRACE: Generation-aware latent compression for efficient video generation](https://huggingface.co/papers/2610.10524) | Jiyoung Kim | 61 HF upvotes · v 61 | 61 HF upvotes · "GRACE: Generation-aware latent compression for efficient video generat" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/) | screm | 61 HN points · v 151 | 61 HN points · 45 comments · Show HN |
-| [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse) | ilreb | 57 HN points · v 99 | 57 HN points · 21 comments · Show HN |
+| [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/) | screm | 64 HN points · v 158 | 64 HN points · 47 comments · Show HN |
+| [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse) | ilreb | 58 HN points · v 100 | 58 HN points · 21 comments · Show HN |
 | [Show HN: Pointless but mostly-exact clone of Hacker News](https://news.ycombinator.lol) | sillysaurusx | 15 HN points · v 27 | 15 HN points · 6 comments · Show HN |
-| [Show HN: Pacer – will your AI coding subscription last until the reset?](https://github.com/dkremsa/claude-pacer) | dkremsa | 8 HN points · v 18 | 8 HN points · 5 comments · Show HN |
+| [Show HN: Pacer – will your AI coding subscription last until the reset?](https://github.com/dkremsa/claude-pacer) | dkremsa | 10 HN points · v 26 | 10 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Based on a hot tip: I had Astra check the OpenAI paper "Algebraicity of Weil classes on split abelian eightfo…](https://x.com/ElliotGlazer/status/2108026240582246600)<br>![card](https://pbs.twimg.com/media/HUE13bsaQAAW88c.jpg?name=orig) | [@ElliotGlazer](https://x.com/ElliotGlazer) | 982♥ 92RT · v 113.5 | 114 velocity · 982♥ 92RT · 113083 views · 15h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
