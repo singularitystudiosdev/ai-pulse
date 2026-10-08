@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 03:23 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 03:29 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Checkers?](https://huggingface.co/papers/2610.07557) | Hang He | 52 HF upvotes · v 52 | 52 HF upvotes · "CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Check" · model release |
-| [Questioning the Questions: Sustaining Self-Evolution in Reasoning Models](https://huggingface.co/papers/2610.04299) | Jinyuan Li | 47 HF upvotes · v 47 | 47 HF upvotes · "Questioning the Questions: Sustaining Self-Evolution in Reasoning Mode" · model release |
-| [GRACE: Generation-aware latent compression for efficient video generation](https://huggingface.co/papers/2610.10524) | Jiyoung Kim | 41 HF upvotes · v 41 | 41 HF upvotes · "GRACE: Generation-aware latent compression for efficient video generat" · model release |
-| [nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699) | Guangyi Liu | 38 HF upvotes · v 38 | 38 HF upvotes · "nanoMuse: An Open-Source Personal Agent for Every Device You Own" · model release |
-| [SGF+: Decoupling Gradient Flows for Autoregressive Video Generation](https://huggingface.co/papers/2610.10429) | Zihan Su | 26 HF upvotes · v 26 | 26 HF upvotes · "SGF+: Decoupling Gradient Flows for Autoregressive Video Generation" · model release |
+| [Questioning the Questions: Sustaining Self-Evolution in Reasoning Models](https://huggingface.co/papers/2610.04299) | Jinyuan Li | 48 HF upvotes · v 48 | 48 HF upvotes · "Questioning the Questions: Sustaining Self-Evolution in Reasoning Mode" · model release |
+| [GRACE: Generation-aware latent compression for efficient video generation](https://huggingface.co/papers/2610.10524) | Jiyoung Kim | 42 HF upvotes · v 42 | 42 HF upvotes · "GRACE: Generation-aware latent compression for efficient video generat" · model release |
+| [nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699) | Guangyi Liu | 39 HF upvotes · v 39 | 39 HF upvotes · "nanoMuse: An Open-Source Personal Agent for Every Device You Own" · model release |
+| [SGF+: Decoupling Gradient Flows for Autoregressive Video Generation](https://huggingface.co/papers/2610.10429) | Zihan Su | 28 HF upvotes · v 28 | 28 HF upvotes · "SGF+: Decoupling Gradient Flows for Autoregressive Video Generation" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
