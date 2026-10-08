@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 03:50 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 10:27 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Checkers?](https://huggingface.co/papers/2610.07557) | Hang He | 52 HF upvotes · v 52 | 52 HF upvotes · "CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Check" · model release |
-| [Questioning the Questions: Sustaining Self-Evolution in Reasoning Models](https://huggingface.co/papers/2610.04299) | Jinyuan Li | 48 HF upvotes · v 48 | 48 HF upvotes · "Questioning the Questions: Sustaining Self-Evolution in Reasoning Mode" · model release |
-| [GRACE: Generation-aware latent compression for efficient video generation](https://huggingface.co/papers/2610.10524) | Jiyoung Kim | 45 HF upvotes · v 45 | 45 HF upvotes · "GRACE: Generation-aware latent compression for efficient video generat" · model release |
-| [nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699) | Guangyi Liu | 40 HF upvotes · v 40 | 40 HF upvotes · "nanoMuse: An Open-Source Personal Agent for Every Device You Own" · model release |
-| [SGF+: Decoupling Gradient Flows for Autoregressive Video Generation](https://huggingface.co/papers/2610.10429) | Zihan Su | 32 HF upvotes · v 32 | 32 HF upvotes · "SGF+: Decoupling Gradient Flows for Autoregressive Video Generation" · model release |
+| [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | Bingchen Yao | 84 HF upvotes · v 84 | 84 HF upvotes · "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State " · model release |
+| [Long-WAM: Scaling the Context of World-Action Models](https://huggingface.co/papers/2610.10528) | Wei Huang | 78 HF upvotes · v 78 | 78 HF upvotes · "Long-WAM: Scaling the Context of World-Action Models" · model release |
+| [nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699) | Guangyi Liu | 67 HF upvotes · v 67 | 67 HF upvotes · "nanoMuse: An Open-Source Personal Agent for Every Device You Own" · model release |
+| [Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness](https://huggingface.co/papers/2610.08621) | Jiajun Chen | 62 HF upvotes · v 62 | 62 HF upvotes · "Recursive Game Creator: An Agentic Product-Level Experience-Oriented G" · model release |
+| [Questioning the Questions: Sustaining Self-Evolution in Reasoning Models](https://huggingface.co/papers/2610.04299) | Jinyuan Li | 57 HF upvotes · v 57 | 57 HF upvotes · "Questioning the Questions: Sustaining Self-Evolution in Reasoning Mode" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/) | screm | 50 HN points · v 136 | 50 HN points · 43 comments · Show HN |
-| [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse) | ilreb | 56 HN points · v 96 | 56 HN points · 20 comments · Show HN |
-| [Show HN: Durable Actors – OSS Durable Objects with configurable compute](https://github.com/TerseAI/durable-actors) | thomask1995 | 35 HN points · v 85 | 35 HN points · 25 comments · Show HN |
-| [Show HN: Pointless but mostly-exact clone of Hacker News](https://news.ycombinator.lol) | sillysaurusx | 14 HN points · v 24 | 14 HN points · 5 comments · Show HN |
+| [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/) | screm | 59 HN points · v 149 | 59 HN points · 45 comments · Show HN |
+| [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse) | ilreb | 57 HN points · v 99 | 57 HN points · 21 comments · Show HN |
+| [Show HN: Pointless but mostly-exact clone of Hacker News](https://news.ycombinator.lol) | sillysaurusx | 15 HN points · v 27 | 15 HN points · 6 comments · Show HN |
+| [Show HN: Pacer – will your AI coding subscription last until the reset?](https://github.com/dkremsa/claude-pacer) | dkremsa | 8 HN points · v 18 | 8 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Ukrainian attack drones struck Yandex's Sasovo Datacenter tonight, one of Russia's largest, setting it on fir…](https://x.com/Osinttechnical/status/2108023322156098034)<br>![card](https://pbs.twimg.com/media/HUExByxXkAAhD9M.png?name=orig) | [@Osinttechnical](https://x.com/Osinttechnical) | 5594♥ 834RT · v 1232.1 | known founder · 1232 velocity · 5594♥ 834RT · 284028 views · 8h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
