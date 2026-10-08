@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 11:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 11:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | Bingchen Yao | 84 HF upvotes · v 84 | 84 HF upvotes · "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State " · model release |
+| [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | Bingchen Yao | 85 HF upvotes · v 85 | 85 HF upvotes · "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State " · model release |
 | [Long-WAM: Scaling the Context of World-Action Models](https://huggingface.co/papers/2610.10528) | Wei Huang | 78 HF upvotes · v 78 | 78 HF upvotes · "Long-WAM: Scaling the Context of World-Action Models" · model release |
 | [nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699) | Guangyi Liu | 68 HF upvotes · v 68 | 68 HF upvotes · "nanoMuse: An Open-Source Personal Agent for Every Device You Own" · model release |
 | [Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness](https://huggingface.co/papers/2610.08621) | Jiajun Chen | 62 HF upvotes · v 62 | 62 HF upvotes · "Recursive Game Creator: An Agentic Product-Level Experience-Oriented G" · model release |
