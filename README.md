@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 00:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 00:15 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/) | screm | 33 HN points · v 99 | 33 HN points · 33 comments · Show HN |
+| [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/) | screm | 35 HN points · v 103 | 35 HN points · 34 comments · Show HN |
 | [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse) | ilreb | 54 HN points · v 94 | 54 HN points · 20 comments · Show HN |
 | [Show HN: Durable Actors – OSS Durable Objects with configurable compute](https://github.com/TerseAI/durable-actors) | thomask1995 | 32 HN points · v 80 | 32 HN points · 24 comments · Show HN |
 | [Show HN: Pointless but mostly-exact clone of Hacker News](https://news.ycombinator.lol) | sillysaurusx | 14 HN points · v 24 | 14 HN points · 5 comments · Show HN |
