@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 22:24 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 22:30 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,21 +31,18 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 26 HN points · v 68 | 26 HN points · 21 comments · Show HN |
+| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 26 HN points · v 66 | 26 HN points · 20 comments · Show HN |
 | [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena) | emrahsamdan | 22 HN points · v 38 | 22 HN points · 8 comments · Show HN |
-| [Show HN: I Put an AI Agent on a Nokia 110](https://github.com/anupray95/AI-Agent-on-a-NOKIA) | anupray | 23 HN points · v 37 | 23 HN points · 7 comments · Show HN |
+| [Show HN: I Put an AI Agent on a Nokia 110](https://github.com/anupray95/AI-Agent-on-a-NOKIA) | anupray | 24 HN points · v 38 | 24 HN points · 7 comments · Show HN |
 | [Show HN: Pointless but mostly-exact clone of Hacker News](https://news.ycombinator.lol) | sillysaurusx | 16 HN points · v 30 | 16 HN points · 7 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [OpenAI fired me last week, along with two of my safety colleagues. I was given one reason: that I accessed an…](https://x.com/j_asminewang/status/2108263312291180680) | [@j_asminewang](https://x.com/j_asminewang) | 4159♥ 524RT · v 3469.3 | 3469 velocity · 4159♥ 524RT · 534141 views · 4h old |
-| [I’ve had a few people write to ask me to follow up on a (reply!) tweet I wrote that’s gotten a lot of retweet…](https://x.com/matthew_d_green/status/2108278850555674975) | [@matthew_d_green](https://x.com/matthew_d_green) | 873♥ 141RT · v 1152.3 | known founder · 1152 velocity · 873♥ 141RT · 81373 views · 3h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
