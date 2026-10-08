@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 18:11 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 18:17 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,8 +24,8 @@
 | [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | Bingchen Yao | 95 HF upvotes · v 95 | 95 HF upvotes · "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State " · model release |
 | [Long-WAM: Scaling the Context of World-Action Models](https://huggingface.co/papers/2610.10528) | Wei Huang | 86 HF upvotes · v 86 | 86 HF upvotes · "Long-WAM: Scaling the Context of World-Action Models" · model release |
 | [Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness](https://huggingface.co/papers/2610.08621) | Jiajun Chen | 77 HF upvotes · v 77 | 77 HF upvotes · "Recursive Game Creator: An Agentic Product-Level Experience-Oriented G" · model release |
-| [DecepEval: A Benchmark for Evaluating Deception in LLM Agents](https://huggingface.co/papers/2610.07967) | Yiming Xu | 64 HF upvotes · v 64 | 64 HF upvotes · "DecepEval: A Benchmark for Evaluating Deception in LLM Agents" · model release |
 | [GRACE: Generation-aware latent compression for efficient video generation](https://huggingface.co/papers/2610.10524) | Jiyoung Kim | 61 HF upvotes · v 61 | 61 HF upvotes · "GRACE: Generation-aware latent compression for efficient video generat" · model release |
+| [VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction](https://huggingface.co/papers/2610.06293) | Qiutong Chen | 52 HF upvotes · v 52 | 52 HF upvotes · "VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement " · model release |
 
 ### 🚀 AI SaaS launches (4)
 
