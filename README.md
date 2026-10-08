@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 17:34 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 17:39 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | Bingchen Yao | 94 HF upvotes · v 94 | 94 HF upvotes · "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State " · model release |
+| [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | Bingchen Yao | 95 HF upvotes · v 95 | 95 HF upvotes · "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State " · model release |
 | [Long-WAM: Scaling the Context of World-Action Models](https://huggingface.co/papers/2610.10528) | Wei Huang | 86 HF upvotes · v 86 | 86 HF upvotes · "Long-WAM: Scaling the Context of World-Action Models" · model release |
 | [Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness](https://huggingface.co/papers/2610.08621) | Jiajun Chen | 77 HF upvotes · v 77 | 77 HF upvotes · "Recursive Game Creator: An Agentic Product-Level Experience-Oriented G" · model release |
 | [DecepEval: A Benchmark for Evaluating Deception in LLM Agents](https://huggingface.co/papers/2610.07967) | Yiming Xu | 64 HF upvotes · v 64 | 64 HF upvotes · "DecepEval: A Benchmark for Evaluating Deception in LLM Agents" · model release |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Based on a hot tip: I had Astra check the OpenAI paper "Algebraicity of Weil classes on split abelian eightfo…](https://x.com/ElliotGlazer/status/2108026240582246600)<br>![card](https://pbs.twimg.com/media/HUE13bsaQAAW88c.jpg?name=orig) | [@ElliotGlazer](https://x.com/ElliotGlazer) | 982♥ 92RT · v 113.5 | 114 velocity · 982♥ 92RT · 113083 views · 15h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
