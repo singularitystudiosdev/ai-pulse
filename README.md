@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 18:17 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 18:22 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,9 +32,9 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/) | screm | 64 HN points · v 158 | 64 HN points · 47 comments · Show HN |
-| [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse) | ilreb | 58 HN points · v 100 | 58 HN points · 21 comments · Show HN |
 | [Show HN: Pointless but mostly-exact clone of Hacker News](https://news.ycombinator.lol) | sillysaurusx | 15 HN points · v 27 | 15 HN points · 6 comments · Show HN |
 | [Show HN: Pacer – will your AI coding subscription last until the reset?](https://github.com/dkremsa/claude-pacer) | dkremsa | 10 HN points · v 26 | 10 HN points · 8 comments · Show HN |
+| [Show HN: Smart Blur – Auto-Blur PII in the Browser, with a OpenAI Local Model](https://smartbuildlabs.com/apps/smart-blur/) | vickyonlinecont | 7 HN points · v 17 | 7 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
