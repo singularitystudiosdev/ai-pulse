@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 17:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 17:55 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Why is Netflix advertising this fully remote software engineering job in the Seattle Times Classifieds this w…](https://x.com/JobsNowPR/status/2107816460634784094)<br>![card](https://pbs.twimg.com/media/HTzzgoFWMAAU5RV.png?name=orig) | [@JobsNowPR](https://x.com/JobsNowPR) | 5237♥ 977RT · v 50.3 | 50 velocity · 5237♥ 977RT · 108171 views · 29h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
