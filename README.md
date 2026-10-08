@@ -15,34 +15,37 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 18:22 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 22:24 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | Bingchen Yao | 95 HF upvotes · v 95 | 95 HF upvotes · "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State " · model release |
-| [Long-WAM: Scaling the Context of World-Action Models](https://huggingface.co/papers/2610.10528) | Wei Huang | 86 HF upvotes · v 86 | 86 HF upvotes · "Long-WAM: Scaling the Context of World-Action Models" · model release |
-| [Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness](https://huggingface.co/papers/2610.08621) | Jiajun Chen | 77 HF upvotes · v 77 | 77 HF upvotes · "Recursive Game Creator: An Agentic Product-Level Experience-Oriented G" · model release |
-| [GRACE: Generation-aware latent compression for efficient video generation](https://huggingface.co/papers/2610.10524) | Jiyoung Kim | 61 HF upvotes · v 61 | 61 HF upvotes · "GRACE: Generation-aware latent compression for efficient video generat" · model release |
-| [VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction](https://huggingface.co/papers/2610.06293) | Qiutong Chen | 52 HF upvotes · v 52 | 52 HF upvotes · "VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement " · model release |
+| [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | Bingchen Yao | 99 HF upvotes · v 99 | 99 HF upvotes · "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State " · model release |
+| [Long-WAM: Scaling the Context of World-Action Models](https://huggingface.co/papers/2610.10528) | Wei Huang | 88 HF upvotes · v 88 | 88 HF upvotes · "Long-WAM: Scaling the Context of World-Action Models" · model release |
+| [GRACE: Generation-aware latent compression for efficient video generation](https://huggingface.co/papers/2610.10524) | Jiyoung Kim | 63 HF upvotes · v 63 | 63 HF upvotes · "GRACE: Generation-aware latent compression for efficient video generat" · model release |
+| [UltraText Bench: A Comprehensive Bilingual Benchmark for Evaluating Visual Text Rendering in Image Generation](https://huggingface.co/papers/2610.09823) | Deyuan Liu | 55 HF upvotes · v 55 | 55 HF upvotes · "UltraText Bench: A Comprehensive Bilingual Benchmark for Evaluating Vi" · model release |
+| [VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction](https://huggingface.co/papers/2610.06293) | Qiutong Chen | 53 HF upvotes · v 53 | 53 HF upvotes · "VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement " · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/) | screm | 64 HN points · v 158 | 64 HN points · 47 comments · Show HN |
-| [Show HN: Pointless but mostly-exact clone of Hacker News](https://news.ycombinator.lol) | sillysaurusx | 15 HN points · v 27 | 15 HN points · 6 comments · Show HN |
-| [Show HN: Pacer – will your AI coding subscription last until the reset?](https://github.com/dkremsa/claude-pacer) | dkremsa | 10 HN points · v 26 | 10 HN points · 8 comments · Show HN |
-| [Show HN: Smart Blur – Auto-Blur PII in the Browser, with a OpenAI Local Model](https://smartbuildlabs.com/apps/smart-blur/) | vickyonlinecont | 7 HN points · v 17 | 7 HN points · 5 comments · Show HN |
+| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 26 HN points · v 68 | 26 HN points · 21 comments · Show HN |
+| [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena) | emrahsamdan | 22 HN points · v 38 | 22 HN points · 8 comments · Show HN |
+| [Show HN: I Put an AI Agent on a Nokia 110](https://github.com/anupray95/AI-Agent-on-a-NOKIA) | anupray | 23 HN points · v 37 | 23 HN points · 7 comments · Show HN |
+| [Show HN: Pointless but mostly-exact clone of Hacker News](https://news.ycombinator.lol) | sillysaurusx | 16 HN points · v 30 | 16 HN points · 7 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (2)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [OpenAI fired me last week, along with two of my safety colleagues. I was given one reason: that I accessed an…](https://x.com/j_asminewang/status/2108263312291180680) | [@j_asminewang](https://x.com/j_asminewang) | 4159♥ 524RT · v 3469.3 | 3469 velocity · 4159♥ 524RT · 534141 views · 4h old |
+| [I’ve had a few people write to ask me to follow up on a (reply!) tweet I wrote that’s gotten a lot of retweet…](https://x.com/matthew_d_green/status/2108278850555674975) | [@matthew_d_green](https://x.com/matthew_d_green) | 873♥ 141RT · v 1152.3 | known founder · 1152 velocity · 873♥ 141RT · 81373 views · 3h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
