@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-08 22:51 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-08 22:56 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://huggingface.co/papers/2609.38169) | Bingchen Yao | 100 HF upvotes · v 100 | 100 HF upvotes · "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State " · model release |
-| [Long-WAM: Scaling the Context of World-Action Models](https://huggingface.co/papers/2610.10528) | Wei Huang | 88 HF upvotes · v 88 | 88 HF upvotes · "Long-WAM: Scaling the Context of World-Action Models" · model release |
 | [GRACE: Generation-aware latent compression for efficient video generation](https://huggingface.co/papers/2610.10524) | Jiyoung Kim | 63 HF upvotes · v 63 | 63 HF upvotes · "GRACE: Generation-aware latent compression for efficient video generat" · model release |
 | [UltraText Bench: A Comprehensive Bilingual Benchmark for Evaluating Visual Text Rendering in Image Generation](https://huggingface.co/papers/2610.09823) | Deyuan Liu | 56 HF upvotes · v 56 | 56 HF upvotes · "UltraText Bench: A Comprehensive Bilingual Benchmark for Evaluating Vi" · model release |
 | [VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction](https://huggingface.co/papers/2610.06293) | Qiutong Chen | 53 HF upvotes · v 53 | 53 HF upvotes · "VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement " · model release |
+| [UniWAM: Unified World-Action Model](https://huggingface.co/papers/2610.02054) | Jiayi Chen | 47 HF upvotes · v 47 | 47 HF upvotes · "UniWAM: Unified World-Action Model" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 31 HN points · v 77 | 31 HN points · 23 comments · Show HN |
+| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 32 HN points · v 80 | 32 HN points · 24 comments · Show HN |
 | [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena) | emrahsamdan | 22 HN points · v 38 | 22 HN points · 8 comments · Show HN |
 | [Show HN: I Put an AI Agent on a Nokia 110](https://github.com/anupray95/AI-Agent-on-a-NOKIA) | anupray | 24 HN points · v 38 | 24 HN points · 7 comments · Show HN |
 | [Show HN: Pointless but mostly-exact clone of Hacker News](https://news.ycombinator.lol) | sillysaurusx | 16 HN points · v 30 | 16 HN points · 7 comments · Show HN |
