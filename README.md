@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-09 16:41 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-09 16:46 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 47 HN points · v 167 | 47 HN points · 60 comments · Show HN |
-| [Show HN: Jevman – AI decision models play Pac-Man](https://opper.ai/jevman-benchmark/) | felix089 | 68 HN points · v 106 | 68 HN points · 19 comments · Show HN |
+| [Show HN: Jevman – AI decision models play Pac-Man](https://opper.ai/jevman-benchmark/) | felix089 | 69 HN points · v 107 | 69 HN points · 19 comments · Show HN |
 | [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos) | edris0077 | 39 HN points · v 69 | 39 HN points · 15 comments · Show HN |
 | [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena) | emrahsamdan | 24 HN points · v 42 | 24 HN points · 9 comments · Show HN |
 
