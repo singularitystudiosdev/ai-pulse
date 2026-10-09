@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-09 03:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-09 03:15 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation](https://huggingface.co/papers/2610.06100) | Quanyu Long | 98 HF upvotes · v 98 | 98 HF upvotes · "From Traces to Agentic Worlds: Agentic Language World Models for Inter" · model release |
+| [From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation](https://huggingface.co/papers/2610.06100) | Quanyu Long | 101 HF upvotes · v 101 | 101 HF upvotes · "From Traces to Agentic Worlds: Agentic Language World Models for Inter" · model release |
 | [Self-Retrospection Distillation: Turning Post-hoc Experiences into Prior Foresight](https://huggingface.co/papers/2610.08077) | Haoxiang Zhang | 52 HF upvotes · v 52 | 52 HF upvotes · "Self-Retrospection Distillation: Turning Post-hoc Experiences into Pri" · model release |
 | [SuperNav: An Agentic Navigation System for Any Task in Any Scene](https://huggingface.co/papers/2610.12126) | Jinkai Zhang | 34 HF upvotes · v 34 | 34 HF upvotes · "SuperNav: An Agentic Navigation System for Any Task in Any Scene" · model release |
-| [Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective](https://huggingface.co/papers/2610.03185) | Han Cui | 27 HF upvotes · v 27 | 27 HF upvotes · "Gains and Collapse in On-Policy Distillation:A Reinforcement Learning " · model release |
 | [NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis](https://huggingface.co/papers/2610.04722) | Ramil Khafizov | 20 HF upvotes · v 20 | 20 HF upvotes · "NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis" · model release |
+| [Q-Learning with Scalar Adjoint Matching](https://huggingface.co/papers/2610.10437) | Yonghoon Dong | 17 HF upvotes · v 17 | 17 HF upvotes · "Q-Learning with Scalar Adjoint Matching" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
