@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-09 21:12 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-09 21:17 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,12 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [BREAKING: President Trump says the White House considers anyone who uses the term “Artificial Intelligence” t…](https://x.com/KobeissiLetter/status/2108230849347166360)<br>![card](https://pbs.twimg.com/media/HUHwyMTW4AEUXie.jpg?name=orig) | [@KobeissiLetter](https://x.com/KobeissiLetter) | 12121♥ 1708RT · v 1187.3 | known founder · 1187 velocity · 12121♥ 1708RT · 2420502 views · 29h old |
-| [Introducing Plannotator Inbox.  Making decisions is the new bottleneck, while your agents work on many things…](https://x.com/plannotator/status/2108589088139886769)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2108588468414676992/img/1PR0m3FENBdW4J__.jpg) | [@plannotator](https://x.com/plannotator) | 180♥ 15RT · v 40.8 | 41 velocity · 180♥ 15RT · 7927 views · 5h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
