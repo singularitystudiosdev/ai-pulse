@@ -15,25 +15,25 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-09 02:36 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-09 02:41 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
+| [From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation](https://huggingface.co/papers/2610.06100) | Quanyu Long | 98 HF upvotes · v 98 | 98 HF upvotes · "From Traces to Agentic Worlds: Agentic Language World Models for Inter" · model release |
 | [Self-Retrospection Distillation: Turning Post-hoc Experiences into Prior Foresight](https://huggingface.co/papers/2610.08077) | Haoxiang Zhang | 46 HF upvotes · v 46 | 46 HF upvotes · "Self-Retrospection Distillation: Turning Post-hoc Experiences into Pri" · model release |
-| [Tetris3D: 3D Scene Generation With Objects That Fit Together](https://huggingface.co/papers/2610.10539) | Jaeyeong Kim | 35 HF upvotes · v 35 | 35 HF upvotes · "Tetris3D: 3D Scene Generation With Objects That Fit Together" · model release |
-| [RunningTab: Direct Workspace Interaction with Environment-Side Tabs](https://huggingface.co/papers/2610.10444) | Jinheon Baek | 34 HF upvotes · v 34 | 34 HF upvotes · "RunningTab: Direct Workspace Interaction with Environment-Side Tabs" · model release |
 | [Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective](https://huggingface.co/papers/2610.03185) | Han Cui | 27 HF upvotes · v 27 | 27 HF upvotes · "Gains and Collapse in On-Policy Distillation:A Reinforcement Learning " · model release |
 | [PhysEvo: Astra Can Act, Let It](https://huggingface.co/papers/2610.08995) | Wenqing Tian | 27 HF upvotes · v 27 | 27 HF upvotes · "PhysEvo: Astra Can Act, Let It" · model release |
+| [NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis](https://huggingface.co/papers/2610.04722) | Ramil Khafizov | 20 HF upvotes · v 20 | 20 HF upvotes · "NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 42 HN points · v 140 | 42 HN points · 49 comments · Show HN |
-| [Show HN: Jevman – AI decision models play Pac-Man](https://opper.ai/jevman-benchmark/) | felix089 | 36 HN points · v 46 | 36 HN points · 5 comments · Show HN |
-| [Show HN: I Put an AI Agent on a Nokia 110](https://github.com/anupray95/AI-Agent-on-a-NOKIA) | anupray | 25 HN points · v 45 | 25 HN points · 10 comments · Show HN |
+| [Show HN: Jevman – AI decision models play Pac-Man](https://opper.ai/jevman-benchmark/) | felix089 | 37 HN points · v 47 | 37 HN points · 5 comments · Show HN |
+| [Show HN: I Put an AI Agent on a Nokia 110](https://github.com/anupray95/AI-Agent-on-a-NOKIA) | anupray | 25 HN points · v 47 | 25 HN points · 11 comments · Show HN |
 | [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena) | emrahsamdan | 22 HN points · v 38 | 22 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
