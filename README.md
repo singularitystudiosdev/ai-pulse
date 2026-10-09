@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-09 10:18 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-09 16:30 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation](https://huggingface.co/papers/2610.06100) | Quanyu Long | 163 HF upvotes · v 163 | 163 HF upvotes · "From Traces to Agentic Worlds: Agentic Language World Models for Inter" · model release |
-| [AgentGarten: Code Worlds for Evolving Agents](https://huggingface.co/papers/2610.12374) | Jiawei Chi | 109 HF upvotes · v 109 | 109 HF upvotes · "AgentGarten: Code Worlds for Evolving Agents" · model release |
-| [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](https://huggingface.co/papers/2610.08215) | Yibo Li | 108 HF upvotes · v 108 | 108 HF upvotes · "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfa" · model release |
-| [TokenRouter: Efficient Serving System for Token-Level LLM Routing](https://huggingface.co/papers/2610.12242) | Tianyu Fu | 86 HF upvotes · v 86 | 86 HF upvotes · "TokenRouter: Efficient Serving System for Token-Level LLM Routing" · model release |
-| [SuperNav: An Agentic Navigation System for Any Task in Any Scene](https://huggingface.co/papers/2610.12126) | Jinkai Zhang | 60 HF upvotes · v 60 | 60 HF upvotes · "SuperNav: An Agentic Navigation System for Any Task in Any Scene" · model release |
+| [A note from our research leaders:  Last week we parted ways with Jasmine, Mikita, and Tomek after a thorough …](https://x.com/OpenAINewsroom/status/2108441580806025712) | [@OpenAINewsroom](https://x.com/OpenAINewsroom) | 3333♥ 199RT · v 2244.5 | known founder · 2244 velocity · 3333♥ 199RT · 879538 views · 10h old · matched "evals" |
+| [TokenRouter: Efficient Serving System for Token-Level LLM Routing](https://huggingface.co/papers/2610.12242) | Tianyu Fu | 97 HF upvotes · v 97 | 97 HF upvotes · "TokenRouter: Efficient Serving System for Token-Level LLM Routing" · model release |
+| [MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://huggingface.co/papers/2610.11959) | Core Team | 54 HF upvotes · v 54 | 54 HF upvotes · "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement" · model release |
+| [Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction](https://huggingface.co/papers/2610.12299) | Dahyun Chung | 40 HF upvotes · v 40 | 40 HF upvotes · "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interact" · model release |
+| [DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training](https://huggingface.co/papers/2610.12468) | Junyan Li | 33 HF upvotes · v 33 | 33 HF upvotes · "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 47 HN points · v 149 | 47 HN points · 51 comments · Show HN |
-| [Show HN: Jevman – AI decision models play Pac-Man](https://opper.ai/jevman-benchmark/) | felix089 | 63 HN points · v 91 | 63 HN points · 14 comments · Show HN |
-| [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos) | edris0077 | 38 HN points · v 62 | 38 HN points · 12 comments · Show HN |
-| [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena) | emrahsamdan | 22 HN points · v 40 | 22 HN points · 9 comments · Show HN |
+| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 47 HN points · v 167 | 47 HN points · 60 comments · Show HN |
+| [Show HN: Jevman – AI decision models play Pac-Man](https://opper.ai/jevman-benchmark/) | felix089 | 68 HN points · v 106 | 68 HN points · 19 comments · Show HN |
+| [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos) | edris0077 | 39 HN points · v 69 | 39 HN points · 15 comments · Show HN |
+| [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena) | emrahsamdan | 24 HN points · v 42 | 24 HN points · 9 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Today, the Trump Administration is sanctioning the ICC.  This action should encourage our Allies within the C…](https://x.com/SecRubio/status/2108565647667904647)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2108549483118170112/img/N0bOIi8V_z5wp9s1.jpg) | [@SecRubio](https://x.com/SecRubio) | 17922♥ 3391RT · v 14669.9 | known founder · 14670 velocity · 17922♥ 3391RT · 611950 views · 2h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
