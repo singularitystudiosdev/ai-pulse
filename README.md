@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-09 10:02 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-09 10:07 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation](https://huggingface.co/papers/2610.06100) | Quanyu Long | 163 HF upvotes · v 163 | 163 HF upvotes · "From Traces to Agentic Worlds: Agentic Language World Models for Inter" · model release |
-| [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](https://huggingface.co/papers/2610.08215) | Yibo Li | 106 HF upvotes · v 106 | 106 HF upvotes · "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfa" · model release |
-| [AgentGarten: Code Worlds for Evolving Agents](https://huggingface.co/papers/2610.12374) | Jiawei Chi | 104 HF upvotes · v 104 | 104 HF upvotes · "AgentGarten: Code Worlds for Evolving Agents" · model release |
-| [TokenRouter: Efficient Serving System for Token-Level LLM Routing](https://huggingface.co/papers/2610.12242) | Tianyu Fu | 84 HF upvotes · v 84 | 84 HF upvotes · "TokenRouter: Efficient Serving System for Token-Level LLM Routing" · model release |
-| [SuperNav: An Agentic Navigation System for Any Task in Any Scene](https://huggingface.co/papers/2610.12126) | Jinkai Zhang | 59 HF upvotes · v 59 | 59 HF upvotes · "SuperNav: An Agentic Navigation System for Any Task in Any Scene" · model release |
+| [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](https://huggingface.co/papers/2610.08215) | Yibo Li | 107 HF upvotes · v 107 | 107 HF upvotes · "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfa" · model release |
+| [AgentGarten: Code Worlds for Evolving Agents](https://huggingface.co/papers/2610.12374) | Jiawei Chi | 106 HF upvotes · v 106 | 106 HF upvotes · "AgentGarten: Code Worlds for Evolving Agents" · model release |
+| [TokenRouter: Efficient Serving System for Token-Level LLM Routing](https://huggingface.co/papers/2610.12242) | Tianyu Fu | 85 HF upvotes · v 85 | 85 HF upvotes · "TokenRouter: Efficient Serving System for Token-Level LLM Routing" · model release |
+| [SuperNav: An Agentic Navigation System for Any Task in Any Scene](https://huggingface.co/papers/2610.12126) | Jinkai Zhang | 60 HF upvotes · v 60 | 60 HF upvotes · "SuperNav: An Agentic Navigation System for Any Task in Any Scene" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
