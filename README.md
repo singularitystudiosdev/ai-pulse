@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-09 03:15 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-09 09:30 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation](https://huggingface.co/papers/2610.06100) | Quanyu Long | 101 HF upvotes · v 101 | 101 HF upvotes · "From Traces to Agentic Worlds: Agentic Language World Models for Inter" · model release |
-| [Self-Retrospection Distillation: Turning Post-hoc Experiences into Prior Foresight](https://huggingface.co/papers/2610.08077) | Haoxiang Zhang | 52 HF upvotes · v 52 | 52 HF upvotes · "Self-Retrospection Distillation: Turning Post-hoc Experiences into Pri" · model release |
-| [SuperNav: An Agentic Navigation System for Any Task in Any Scene](https://huggingface.co/papers/2610.12126) | Jinkai Zhang | 34 HF upvotes · v 34 | 34 HF upvotes · "SuperNav: An Agentic Navigation System for Any Task in Any Scene" · model release |
-| [NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis](https://huggingface.co/papers/2610.04722) | Ramil Khafizov | 20 HF upvotes · v 20 | 20 HF upvotes · "NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis" · model release |
-| [Q-Learning with Scalar Adjoint Matching](https://huggingface.co/papers/2610.10437) | Yonghoon Dong | 17 HF upvotes · v 17 | 17 HF upvotes · "Q-Learning with Scalar Adjoint Matching" · model release |
+| [From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation](https://huggingface.co/papers/2610.06100) | Quanyu Long | 163 HF upvotes · v 163 | 163 HF upvotes · "From Traces to Agentic Worlds: Agentic Language World Models for Inter" · model release |
+| [Self-Retrospection Distillation: Turning Post-hoc Experiences into Prior Foresight](https://huggingface.co/papers/2610.08077) | Haoxiang Zhang | 112 HF upvotes · v 112 | 112 HF upvotes · "Self-Retrospection Distillation: Turning Post-hoc Experiences into Pri" · model release |
+| [AgentGarten: Code Worlds for Evolving Agents](https://huggingface.co/papers/2610.12374) | Jiawei Chi | 94 HF upvotes · v 94 | 94 HF upvotes · "AgentGarten: Code Worlds for Evolving Agents" · model release |
+| [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](https://huggingface.co/papers/2610.08215) | Yibo Li | 92 HF upvotes · v 92 | 92 HF upvotes · "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfa" · model release |
+| [TokenRouter: Efficient Serving System for Token-Level LLM Routing](https://huggingface.co/papers/2610.12242) | Tianyu Fu | 84 HF upvotes · v 84 | 84 HF upvotes · "TokenRouter: Efficient Serving System for Token-Level LLM Routing" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 42 HN points · v 142 | 42 HN points · 50 comments · Show HN |
-| [Show HN: Jevman – AI decision models play Pac-Man](https://opper.ai/jevman-benchmark/) | felix089 | 40 HN points · v 52 | 40 HN points · 6 comments · Show HN |
-| [Show HN: I Put an AI Agent on a Nokia 110](https://github.com/anupray95/AI-Agent-on-a-NOKIA) | anupray | 25 HN points · v 47 | 25 HN points · 11 comments · Show HN |
-| [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena) | emrahsamdan | 22 HN points · v 38 | 22 HN points · 8 comments · Show HN |
+| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 46 HN points · v 148 | 46 HN points · 51 comments · Show HN |
+| [Show HN: Jevman – AI decision models play Pac-Man](https://opper.ai/jevman-benchmark/) | felix089 | 63 HN points · v 91 | 63 HN points · 14 comments · Show HN |
+| [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos) | edris0077 | 38 HN points · v 62 | 38 HN points · 12 comments · Show HN |
+| [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena) | emrahsamdan | 22 HN points · v 40 | 22 HN points · 9 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [FULL GAMES LIST HERE ENJOY!!!  BO1 Zombies: https://vel.gg/bo1z Moon: https://moon-zombies.pages.dev Kino der…](https://x.com/RadiantOpti/status/2108068632991256995) | [@RadiantOpti](https://x.com/RadiantOpti) | 24443♥ 2660RT · v 463.8 | 464 velocity · 24443♥ 2660RT · 1187325 views · 28h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
