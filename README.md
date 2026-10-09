@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-09 17:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-09 17:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,8 +24,8 @@
 | [TokenRouter: Efficient Serving System for Token-Level LLM Routing](https://huggingface.co/papers/2610.12242) | Tianyu Fu | 97 HF upvotes · v 97 | 97 HF upvotes · "TokenRouter: Efficient Serving System for Token-Level LLM Routing" · model release |
 | [MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://huggingface.co/papers/2610.11959) | Core Team | 54 HF upvotes · v 54 | 54 HF upvotes · "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement" · model release |
 | [Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction](https://huggingface.co/papers/2610.12299) | Dahyun Chung | 40 HF upvotes · v 40 | 40 HF upvotes · "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interact" · model release |
+| [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](https://huggingface.co/papers/2610.08215) | Yibo Li | 33 HF upvotes · v 33 | 33 HF upvotes · "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfa" · model release |
 | [DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training](https://huggingface.co/papers/2610.12468) | Junyan Li | 33 HF upvotes · v 33 | 33 HF upvotes · "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-" · model release |
-| [OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs](https://huggingface.co/papers/2610.12461) | You-Zhe Xie | 31 HF upvotes · v 31 | 31 HF upvotes · "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
