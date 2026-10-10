@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-10 07:42 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-10 13:24 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://huggingface.co/papers/2610.11959) | Core Team | 61 HF upvotes · v 61 | 61 HF upvotes · "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement" · model release |
+| [MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://huggingface.co/papers/2610.11959) | Core Team | 65 HF upvotes · v 65 | 65 HF upvotes · "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement" · model release |
 | [Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction](https://huggingface.co/papers/2610.12299) | Dahyun Chung | 46 HF upvotes · v 46 | 46 HF upvotes · "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interact" · model release |
-| [Foundations of Large Language Models](https://huggingface.co/papers/2501.09223) | Tong Xiao | 34 HF upvotes · v 34 | 34 HF upvotes · "Foundations of Large Language Models" · model release |
-| [OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs](https://huggingface.co/papers/2610.12461) | You-Zhe Xie | 34 HF upvotes · v 34 | 34 HF upvotes · "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3" · model release |
-| [Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching](https://huggingface.co/papers/2610.12421) | Luping Liu | 33 HF upvotes · v 33 | 33 HF upvotes · "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Corr" · model release |
+| [Foundations of Large Language Models](https://huggingface.co/papers/2501.09223) | Tong Xiao | 38 HF upvotes · v 38 | 38 HF upvotes · "Foundations of Large Language Models" · model release |
+| [OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs](https://huggingface.co/papers/2610.12461) | You-Zhe Xie | 35 HF upvotes · v 35 | 35 HF upvotes · "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3" · model release |
+| [Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching](https://huggingface.co/papers/2610.12421) | Luping Liu | 34 HF upvotes · v 34 | 34 HF upvotes · "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Corr" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | franze | 394 HN points · v 744 | 394 HN points · 175 comments · Show HN |
+| [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | franze | 400 HN points · v 762 | 400 HN points · 181 comments · Show HN |
 | [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 47 HN points · v 171 | 47 HN points · 62 comments · Show HN |
 | [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos) | edris0077 | 39 HN points · v 69 | 39 HN points · 15 comments · Show HN |
 | [Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private](https://github.com/darshi1337/apogee) | zxdc7896 | 64 HN points · v 68 | 64 HN points · 2 comments · Show HN |
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Pyxel has passed 18,000 stars, and I was getting ready to release 3.0, so this is especially disheartening.  …](https://x.com/kitao/status/2108769912571539699) | [@kitao](https://x.com/kitao) | 39♥ 8RT · v 3.5 | 3.5 velocity · 39♥ 8RT · 1428 views · 9h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
