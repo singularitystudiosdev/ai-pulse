@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-09 22:00 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-10 00:56 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](https://huggingface.co/papers/2610.08215) | Yibo Li | 76 HF upvotes · v 76 | 76 HF upvotes · "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfa" · model release |
-| [MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://huggingface.co/papers/2610.11959) | Core Team | 55 HF upvotes · v 55 | 55 HF upvotes · "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement" · model release |
-| [Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction](https://huggingface.co/papers/2610.12299) | Dahyun Chung | 42 HF upvotes · v 42 | 42 HF upvotes · "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interact" · model release |
+| [MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://huggingface.co/papers/2610.11959) | Core Team | 56 HF upvotes · v 56 | 56 HF upvotes · "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement" · model release |
+| [Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction](https://huggingface.co/papers/2610.12299) | Dahyun Chung | 43 HF upvotes · v 43 | 43 HF upvotes · "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interact" · model release |
+| [Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching](https://huggingface.co/papers/2610.12421) | Luping Liu | 31 HF upvotes · v 31 | 31 HF upvotes · "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Corr" · model release |
 | [OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs](https://huggingface.co/papers/2610.12461) | You-Zhe Xie | 31 HF upvotes · v 31 | 31 HF upvotes · "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3" · model release |
 | [Foundations of Large Language Models](https://huggingface.co/papers/2501.09223) | Tong Xiao | 30 HF upvotes · v 30 | 30 HF upvotes · "Foundations of Large Language Models" · model release |
 
@@ -31,10 +31,10 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | franze | 350 HN points · v 650 | 350 HN points · 150 comments · Show HN |
-| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 47 HN points · v 167 | 47 HN points · 60 comments · Show HN |
+| [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | franze | 373 HN points · v 695 | 373 HN points · 161 comments · Show HN |
+| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 47 HN points · v 169 | 47 HN points · 61 comments · Show HN |
 | [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos) | edris0077 | 39 HN points · v 69 | 39 HN points · 15 comments · Show HN |
-| [Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private](https://github.com/darshi1337/apogee) | zxdc7896 | 52 HN points · v 56 | 52 HN points · 2 comments · Show HN |
+| [Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private](https://github.com/darshi1337/apogee) | zxdc7896 | 62 HN points · v 66 | 62 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-10](archive/2026-10-10.md)
 - [2026-10-09](archive/2026-10-09.md)
 - [2026-10-08](archive/2026-10-08.md)
 - [2026-10-07](archive/2026-10-07.md)
