@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-10 18:17 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-10 18:23 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | franze | 405 HN points · v 777 | 405 HN points · 186 comments · Show HN |
+| [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | franze | 406 HN points · v 778 | 406 HN points · 186 comments · Show HN |
 | [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 47 HN points · v 171 | 47 HN points · 62 comments · Show HN |
 | [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos) | edris0077 | 40 HN points · v 70 | 40 HN points · 15 comments · Show HN |
 | [Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private](https://github.com/darshi1337/apogee) | zxdc7896 | 65 HN points · v 69 | 65 HN points · 2 comments · Show HN |
