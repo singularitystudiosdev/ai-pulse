@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-10 07:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-10 07:42 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://huggingface.co/papers/2610.11959) | Core Team | 60 HF upvotes · v 60 | 60 HF upvotes · "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement" · model release |
+| [MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://huggingface.co/papers/2610.11959) | Core Team | 61 HF upvotes · v 61 | 61 HF upvotes · "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement" · model release |
 | [Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction](https://huggingface.co/papers/2610.12299) | Dahyun Chung | 46 HF upvotes · v 46 | 46 HF upvotes · "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interact" · model release |
 | [Foundations of Large Language Models](https://huggingface.co/papers/2501.09223) | Tong Xiao | 34 HF upvotes · v 34 | 34 HF upvotes · "Foundations of Large Language Models" · model release |
 | [OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs](https://huggingface.co/papers/2610.12461) | You-Zhe Xie | 34 HF upvotes · v 34 | 34 HF upvotes · "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3" · model release |
