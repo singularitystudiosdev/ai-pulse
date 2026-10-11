@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-11 01:11 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-11 06:11 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://huggingface.co/papers/2610.11959) | Core Team | 65 HF upvotes · v 65 | 65 HF upvotes · "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement" · model release |
-| [Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction](https://huggingface.co/papers/2610.12299) | Dahyun Chung | 47 HF upvotes · v 47 | 47 HF upvotes · "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interact" · model release |
-| [Foundations of Large Language Models](https://huggingface.co/papers/2501.09223) | Tong Xiao | 38 HF upvotes · v 38 | 38 HF upvotes · "Foundations of Large Language Models" · model release |
-| [OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs](https://huggingface.co/papers/2610.12461) | You-Zhe Xie | 37 HF upvotes · v 37 | 37 HF upvotes · "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3" · model release |
-| [Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching](https://huggingface.co/papers/2610.12421) | Luping Liu | 34 HF upvotes · v 34 | 34 HF upvotes · "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Corr" · model release |
+| [MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://huggingface.co/papers/2610.11959) | Core Team | 71 HF upvotes · v 71 | 71 HF upvotes · "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement" · model release |
+| [Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction](https://huggingface.co/papers/2610.12299) | Dahyun Chung | 52 HF upvotes · v 52 | 52 HF upvotes · "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interact" · model release |
+| [Foundations of Large Language Models](https://huggingface.co/papers/2501.09223) | Tong Xiao | 42 HF upvotes · v 42 | 42 HF upvotes · "Foundations of Large Language Models" · model release |
+| [OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs](https://huggingface.co/papers/2610.12461) | You-Zhe Xie | 41 HF upvotes · v 41 | 41 HF upvotes · "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3" · model release |
+| [Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching](https://huggingface.co/papers/2610.12421) | Luping Liu | 38 HF upvotes · v 38 | 38 HF upvotes · "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Corr" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | franze | 412 HN points · v 788 | 412 HN points · 188 comments · Show HN |
-| [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | thesnarkitecht | 47 HN points · v 171 | 47 HN points · 62 comments · Show HN |
+| [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | franze | 413 HN points · v 789 | 413 HN points · 188 comments · Show HN |
 | [Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private](https://github.com/darshi1337/apogee) | zxdc7896 | 66 HN points · v 72 | 66 HN points · 3 comments · Show HN |
 | [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos) | edris0077 | 40 HN points · v 70 | 40 HN points · 15 comments · Show HN |
+| [Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list](https://github.com/vscarpenter/gsd-task-manager) | vscarpenter | 6 HN points · v 12 | 6 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
