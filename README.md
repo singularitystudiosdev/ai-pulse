@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-12 06:53 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-12 06:58 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,8 +24,8 @@
 | [ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents](https://huggingface.co/papers/2610.13395) | Chengyi Yang | 33 HF upvotes · v 33 | 33 HF upvotes · "ProgramGym: Scaling Training Environments for Long-Horizon Program Rep" · model release |
 | [Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competit…](https://huggingface.co/papers/2610.12341) | Kaisen Yang | 30 HF upvotes · v 30 | 30 HF upvotes · "Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learnin" · model release |
 | [VisionWeave: Weaving Elastic Visual Representations as a Native Capability of MLLMs](https://huggingface.co/papers/2610.07987) | Yuan Feng | 27 HF upvotes · v 27 | 27 HF upvotes · "VisionWeave: Weaving Elastic Visual Representations as a Native Capabi" · model release |
+| [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](https://huggingface.co/papers/2610.12611) | Tian Jin | 25 HF upvotes · v 25 | 25 HF upvotes · "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesi" · model release |
 | [Here the World in Stereo: Learning Dynamic Spatial Correspondence for Immersive Joint Video-Audio Generation](https://huggingface.co/papers/2609.38748) | Hanmo Chen | 25 HF upvotes · v 25 | 25 HF upvotes · "Here the World in Stereo: Learning Dynamic Spatial Correspondence for " · model release |
-| [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](https://huggingface.co/papers/2610.12611) | Tian Jin | 22 HF upvotes · v 22 | 22 HF upvotes · "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesi" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -33,8 +33,8 @@
 |---|---|---|---|
 | [Show HN: Shpyrd – A new type of cloud for AI era](https://www.shpyrd.io) | patricknegri | 8 HN points · v 48 | 8 HN points · 20 comments · Show HN |
 | [Show HN: Mira, AI Walking Tours](https://www.mira.tours/wander) | bleonard | 16 HN points · v 24 | 16 HN points · 4 comments · Show HN |
+| [Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](https://github.com/plimsollmark/plimsoll) | cagster | 15 HN points · v 21 | 15 HN points · 3 comments · Show HN |
 | [Show HN: I'm a 14-year-old building my first startup, Titan](https://titan-ai.co/) | Vidigoat | 7 HN points · v 21 | 7 HN points · 7 comments · Show HN |
-| [Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](https://github.com/plimsollmark/plimsoll) | cagster | 15 HN points · v 19 | 15 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
