@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-11 22:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-12 00:45 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | franze | 414 HN points · v 804 | 414 HN points · 195 comments · Show HN |
+| [Show HN: Shpyrd – A new type of cloud for AI era](https://www.shpyrd.io) | patricknegri | 6 HN points · v 42 | 6 HN points · 18 comments · Show HN |
 | [Show HN: Mira, AI Walking Tours](https://www.mira.tours/wander) | bleonard | 16 HN points · v 24 | 16 HN points · 4 comments · Show HN |
 | [Show HN: I'm a 14-year-old building my first startup, Titan](https://titan-ai.co/) | Vidigoat | 7 HN points · v 13 | 7 HN points · 3 comments · Show HN |
 | [Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list](https://github.com/vscarpenter/gsd-task-manager) | vscarpenter | 7 HN points · v 13 | 7 HN points · 3 comments · Show HN |
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-12](archive/2026-10-12.md)
 - [2026-10-11](archive/2026-10-11.md)
 - [2026-10-10](archive/2026-10-10.md)
 - [2026-10-09](archive/2026-10-09.md)
