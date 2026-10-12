@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-12 07:04 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-12 07:09 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents](https://huggingface.co/papers/2610.13395) | Chengyi Yang | 41 HF upvotes · v 41 | 41 HF upvotes · "ProgramGym: Scaling Training Environments for Long-Horizon Program Rep" · model release |
+| [Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competit…](https://huggingface.co/papers/2610.12341) | Kaisen Yang | 38 HF upvotes · v 38 | 38 HF upvotes · "Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learnin" · model release |
 | [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](https://huggingface.co/papers/2610.12611) | Tian Jin | 38 HF upvotes · v 38 | 38 HF upvotes · "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesi" · model release |
-| [Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competit…](https://huggingface.co/papers/2610.12341) | Kaisen Yang | 37 HF upvotes · v 37 | 37 HF upvotes · "Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learnin" · model release |
+| [DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models](https://huggingface.co/papers/2610.12572) | Zhenglin Wan | 37 HF upvotes · v 37 | 37 HF upvotes · "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusio" · model release |
 | [VisionWeave: Weaving Elastic Visual Representations as a Native Capability of MLLMs](https://huggingface.co/papers/2610.07987) | Yuan Feng | 36 HF upvotes · v 36 | 36 HF upvotes · "VisionWeave: Weaving Elastic Visual Representations as a Native Capabi" · model release |
-| [DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models](https://huggingface.co/papers/2610.12572) | Zhenglin Wan | 33 HF upvotes · v 33 | 33 HF upvotes · "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusio" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
