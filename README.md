@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-12 16:52 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-12 16:57 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models](https://huggingface.co/papers/2610.12572) | Zhenglin Wan | 212 HF upvotes · v 212 | 212 HF upvotes · "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusio" · model release |
+| [DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models](https://huggingface.co/papers/2610.12572) | Zhenglin Wan | 214 HF upvotes · v 214 | 214 HF upvotes · "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusio" · model release |
 | [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://huggingface.co/papers/2610.13527) | Zhiyuan Shi | 199 HF upvotes · v 199 | 199 HF upvotes · "S-Space: Exploring Spatial Workspace in Multimodal Language Models" · model release |
 | [Reflex: Visually Grounded Reactive Humanoid Control](https://huggingface.co/papers/2610.12772) | Taoyang Jia | 126 HF upvotes · v 126 | 126 HF upvotes · "Reflex: Visually Grounded Reactive Humanoid Control" · model release |
 | [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](https://huggingface.co/papers/2610.12611) | Tian Jin | 82 HF upvotes · v 82 | 82 HF upvotes · "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesi" · model release |
