@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-12 06:43 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-12 06:48 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents](https://huggingface.co/papers/2610.13395) | Chengyi Yang | 32 HF upvotes · v 32 | 32 HF upvotes · "ProgramGym: Scaling Training Environments for Long-Horizon Program Rep" · model release |
-| [Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competit…](https://huggingface.co/papers/2610.12341) | Kaisen Yang | 27 HF upvotes · v 27 | 27 HF upvotes · "Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learnin" · model release |
+| [Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competit…](https://huggingface.co/papers/2610.12341) | Kaisen Yang | 29 HF upvotes · v 29 | 29 HF upvotes · "Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learnin" · model release |
 | [VisionWeave: Weaving Elastic Visual Representations as a Native Capability of MLLMs](https://huggingface.co/papers/2610.07987) | Yuan Feng | 27 HF upvotes · v 27 | 27 HF upvotes · "VisionWeave: Weaving Elastic Visual Representations as a Native Capabi" · model release |
 | [Here the World in Stereo: Learning Dynamic Spatial Correspondence for Immersive Joint Video-Audio Generation](https://huggingface.co/papers/2609.38748) | Hanmo Chen | 25 HF upvotes · v 25 | 25 HF upvotes · "Here the World in Stereo: Learning Dynamic Spatial Correspondence for " · model release |
 | [EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents](https://huggingface.co/papers/2610.13021) | Jie Huang | 22 HF upvotes · v 22 | 22 HF upvotes · "EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embod" · model release |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [@karpathy Let me shorten this post.  You’re drilling with a hand drill. Some people got cordless drills. Abou…](https://x.com/adam_fresko/status/2109363751048904711) | [@adam_fresko](https://x.com/adam_fresko) | 1063♥ 19RT · v 126.4 | 126 velocity · 1063♥ 19RT · 82201 views · 11h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
