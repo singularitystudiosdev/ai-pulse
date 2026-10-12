@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-12 16:41 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-12 16:46 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models](https://huggingface.co/papers/2610.12572) | Zhenglin Wan | 208 HF upvotes · v 208 | 208 HF upvotes · "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusio" · model release |
+| [DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models](https://huggingface.co/papers/2610.12572) | Zhenglin Wan | 210 HF upvotes · v 210 | 210 HF upvotes · "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusio" · model release |
 | [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://huggingface.co/papers/2610.13527) | Zhiyuan Shi | 198 HF upvotes · v 198 | 198 HF upvotes · "S-Space: Exploring Spatial Workspace in Multimodal Language Models" · model release |
 | [Reflex: Visually Grounded Reactive Humanoid Control](https://huggingface.co/papers/2610.12772) | Taoyang Jia | 126 HF upvotes · v 126 | 126 HF upvotes · "Reflex: Visually Grounded Reactive Humanoid Control" · model release |
 | [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](https://huggingface.co/papers/2610.12611) | Tian Jin | 81 HF upvotes · v 81 | 81 HF upvotes · "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesi" · model release |
-| [EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents](https://huggingface.co/papers/2610.13021) | Jie Huang | 62 HF upvotes · v 62 | 62 HF upvotes · "EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embod" · model release |
+| [VisionWeave: Weaving Elastic Visual Representations as a Native Capability of MLLMs](https://huggingface.co/papers/2610.07987) | Yuan Feng | 56 HF upvotes · v 56 | 56 HF upvotes · "VisionWeave: Weaving Elastic Visual Representations as a Native Capabi" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Shpyrd – A new type of cloud for AI era](https://www.shpyrd.io) | patricknegri | 8 HN points · v 52 | 8 HN points · 22 comments · Show HN |
-| [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac) | SaarthRanka | 34 HN points · v 44 | 34 HN points · 5 comments · Show HN |
+| [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac) | SaarthRanka | 35 HN points · v 45 | 35 HN points · 5 comments · Show HN |
 | [Show HN: I'm a 14-year-old building my first startup, Titan](https://titan-ai.co/) | Vidigoat | 8 HN points · v 26 | 8 HN points · 9 comments · Show HN |
 | [Show HN: Mira, AI Walking Tours](https://www.mira.tours/wander) | bleonard | 16 HN points · v 24 | 16 HN points · 4 comments · Show HN |
 
