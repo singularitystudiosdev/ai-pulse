@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-13 11:00 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-13 11:06 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://huggingface.co/papers/2610.13527) | Zhiyuan Shi | 267 HF upvotes · v 267 | 267 HF upvotes · "S-Space: Exploring Spatial Workspace in Multimodal Language Models" · model release |
-| [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://huggingface.co/papers/2609.39601) | Qize Yu | 133 HF upvotes · v 133 | 133 HF upvotes · "GroundingPI: A Grounding Foundation Model towards Physical Intelligenc" · model release |
+| [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://huggingface.co/papers/2609.39601) | Qize Yu | 136 HF upvotes · v 136 | 136 HF upvotes · "GroundingPI: A Grounding Foundation Model towards Physical Intelligenc" · model release |
 | [AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://huggingface.co/papers/2610.13361) | Jiahao Wang | 98 HF upvotes · v 98 | 98 HF upvotes · "AgentSWE: Can Coding Agents Build the Agent You Actually Want?" · model release |
 | [Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://huggingface.co/papers/2610.13166) | Shun Zou | 86 HF upvotes · v 86 | 86 HF upvotes · "Scaling Agentic Data for Long-Horizon Terminal Intelligence" · model release |
 | [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](https://huggingface.co/papers/2610.12611) | Tian Jin | 86 HF upvotes · v 86 | 86 HF upvotes · "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesi" · model release |
@@ -33,19 +33,16 @@
 |---|---|---|---|
 | [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac) | SaarthRanka | 105 HN points · v 143 | 105 HN points · 19 comments · Show HN |
 | [Show HN: Shpyrd – A new type of cloud for AI era](https://www.shpyrd.io) | patricknegri | 8 HN points · v 52 | 8 HN points · 22 comments · Show HN |
-| [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | janpmz | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
+| [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | janpmz | 16 HN points · v 32 | 16 HN points · 8 comments · Show HN |
 | [Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](https://github.com/plimsollmark/plimsoll) | cagster | 15 HN points · v 21 | 15 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Regarding the Danfoss refrigeration systems hacked in France:   The username is `admin`, and the password aut…](https://x.com/IntCyberDigest/status/2109753360282767451)<br>![card](https://pbs.twimg.com/media/HUdXzOhXcAA8WXy.jpg?name=orig) | [@IntCyberDigest](https://x.com/IntCyberDigest) | 3614♥ 813RT · v 482 | known founder · 482 velocity · 3614♥ 813RT · 269709 views · 14h old |
-| [I should have led with this but here is the chief scientist of openai:   not a crank or a newcomer, but rathe…](https://x.com/tszzl/status/2109822082024656927)<br>![card](https://pbs.twimg.com/media/HUeYAL-agAACxiB.jpg?name=orig) | [@tszzl](https://x.com/tszzl) | 613♥ 51RT · v 104.3 | known founder · 104 velocity · 613♥ 51RT · 31409 views · 9h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
