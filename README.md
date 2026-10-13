@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-13 11:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-13 11:43 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://huggingface.co/papers/2610.13527) | Zhiyuan Shi | 269 HF upvotes · v 269 | 269 HF upvotes · "S-Space: Exploring Spatial Workspace in Multimodal Language Models" · model release |
-| [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://huggingface.co/papers/2609.39601) | Qize Yu | 149 HF upvotes · v 149 | 149 HF upvotes · "GroundingPI: A Grounding Foundation Model towards Physical Intelligenc" · model release |
-| [AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://huggingface.co/papers/2610.13361) | Jiahao Wang | 117 HF upvotes · v 117 | 117 HF upvotes · "AgentSWE: Can Coding Agents Build the Agent You Actually Want?" · model release |
+| [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://huggingface.co/papers/2609.39601) | Qize Yu | 152 HF upvotes · v 152 | 152 HF upvotes · "GroundingPI: A Grounding Foundation Model towards Physical Intelligenc" · model release |
+| [AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://huggingface.co/papers/2610.13361) | Jiahao Wang | 119 HF upvotes · v 119 | 119 HF upvotes · "AgentSWE: Can Coding Agents Build the Agent You Actually Want?" · model release |
 | [Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://huggingface.co/papers/2610.13166) | Shun Zou | 86 HF upvotes · v 86 | 86 HF upvotes · "Scaling Agentic Data for Long-Horizon Terminal Intelligence" · model release |
 | [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](https://huggingface.co/papers/2610.12611) | Tian Jin | 86 HF upvotes · v 86 | 86 HF upvotes · "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesi" · model release |
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac) | SaarthRanka | 106 HN points · v 148 | 106 HN points · 21 comments · Show HN |
+| [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac) | SaarthRanka | 106 HN points · v 150 | 106 HN points · 22 comments · Show HN |
 | [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | janpmz | 28 HN points · v 68 | 28 HN points · 20 comments · Show HN |
 | [Show HN: Shpyrd – A new type of cloud for AI era](https://www.shpyrd.io) | patricknegri | 8 HN points · v 54 | 8 HN points · 23 comments · Show HN |
 | [Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](https://github.com/plimsollmark/plimsoll) | cagster | 15 HN points · v 21 | 15 HN points · 3 comments · Show HN |
