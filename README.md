@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-13 23:02 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-13 23:07 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,18 +31,20 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | janpmz | 157 HN points · v 313 | 157 HN points · 78 comments · Show HN |
-| [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui) | LargeModGames | 36 HN points · v 46 | 36 HN points · 5 comments · Show HN |
+| [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | janpmz | 158 HN points · v 314 | 158 HN points · 78 comments · Show HN |
+| [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui) | LargeModGames | 36 HN points · v 50 | 36 HN points · 7 comments · Show HN |
 | [Show HN: Deslop – Oxlint rules for AI-generated TypeScript](https://github.com/maharshi365/deslop) | maharshi365 | 22 HN points · v 32 | 22 HN points · 5 comments · Show HN |
-| [Show HN: A Playable Architectural Facade Synth](https://claude.ai/artifact/BF6MjSg1RJBsp1ZZiQX6D2) | Tomasmillar | 7 HN points · v 17 | 7 HN points · 5 comments · Show HN |
+| [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) | lasu | 25 HN points · v 29 | 25 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [The man arrested for planting a secret recording device at OpenAI's headquarters is a Venture Partner of a VC…](https://x.com/ScottMStedman/status/2110108735855333403)<br>![card](https://pbs.twimg.com/media/HUicrpJbgAAhZ3I.png?name=orig) | [@ScottMStedman](https://x.com/ScottMStedman) | 2010♥ 476RT · v 6274 | known founder · 6274 velocity · 2010♥ 476RT · 384724 views · 2h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
