@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-13 03:39 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-13 03:44 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models](https://huggingface.co/papers/2610.12572) | Zhenglin Wan | 232 HF upvotes · v 232 | 232 HF upvotes · "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusio" · model release |
-| [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://huggingface.co/papers/2610.13527) | Zhiyuan Shi | 204 HF upvotes · v 204 | 204 HF upvotes · "S-Space: Exploring Spatial Workspace in Multimodal Language Models" · model release |
+| [DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models](https://huggingface.co/papers/2610.12572) | Zhenglin Wan | 233 HF upvotes · v 233 | 233 HF upvotes · "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusio" · model release |
+| [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://huggingface.co/papers/2610.13527) | Zhiyuan Shi | 210 HF upvotes · v 210 | 210 HF upvotes · "S-Space: Exploring Spatial Workspace in Multimodal Language Models" · model release |
 | [Reflex: Visually Grounded Reactive Humanoid Control](https://huggingface.co/papers/2610.12772) | Taoyang Jia | 132 HF upvotes · v 132 | 132 HF upvotes · "Reflex: Visually Grounded Reactive Humanoid Control" · model release |
 | [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](https://huggingface.co/papers/2610.12611) | Tian Jin | 85 HF upvotes · v 85 | 85 HF upvotes · "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesi" · model release |
 | [Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competit…](https://huggingface.co/papers/2610.12341) | Kaisen Yang | 42 HF upvotes · v 42 | 42 HF upvotes · "Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learnin" · model release |
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac) | SaarthRanka | 81 HN points · v 107 | 81 HN points · 13 comments · Show HN |
+| [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac) | SaarthRanka | 82 HN points · v 108 | 82 HN points · 13 comments · Show HN |
 | [Show HN: Shpyrd – A new type of cloud for AI era](https://www.shpyrd.io) | patricknegri | 8 HN points · v 52 | 8 HN points · 22 comments · Show HN |
 | [Show HN: I'm a 14-year-old building my first startup, Titan](https://titan-ai.co/) | Vidigoat | 8 HN points · v 28 | 8 HN points · 10 comments · Show HN |
 | [Show HN: Mira, AI Walking Tours](https://www.mira.tours/wander) | bleonard | 16 HN points · v 24 | 16 HN points · 4 comments · Show HN |
