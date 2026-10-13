@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-12 23:45 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-13 03:29 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models](https://huggingface.co/papers/2610.12572) | Zhenglin Wan | 228 HF upvotes · v 228 | 228 HF upvotes · "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusio" · model release |
-| [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://huggingface.co/papers/2610.13527) | Zhiyuan Shi | 201 HF upvotes · v 201 | 201 HF upvotes · "S-Space: Exploring Spatial Workspace in Multimodal Language Models" · model release |
-| [Reflex: Visually Grounded Reactive Humanoid Control](https://huggingface.co/papers/2610.12772) | Taoyang Jia | 129 HF upvotes · v 129 | 129 HF upvotes · "Reflex: Visually Grounded Reactive Humanoid Control" · model release |
-| [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](https://huggingface.co/papers/2610.12611) | Tian Jin | 83 HF upvotes · v 83 | 83 HF upvotes · "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesi" · model release |
-| [VisionWeave: Weaving Elastic Visual Representations as a Native Capability of MLLMs](https://huggingface.co/papers/2610.07987) | Yuan Feng | 57 HF upvotes · v 57 | 57 HF upvotes · "VisionWeave: Weaving Elastic Visual Representations as a Native Capabi" · model release |
+| [DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models](https://huggingface.co/papers/2610.12572) | Zhenglin Wan | 232 HF upvotes · v 232 | 232 HF upvotes · "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusio" · model release |
+| [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://huggingface.co/papers/2610.13527) | Zhiyuan Shi | 203 HF upvotes · v 203 | 203 HF upvotes · "S-Space: Exploring Spatial Workspace in Multimodal Language Models" · model release |
+| [Reflex: Visually Grounded Reactive Humanoid Control](https://huggingface.co/papers/2610.12772) | Taoyang Jia | 132 HF upvotes · v 132 | 132 HF upvotes · "Reflex: Visually Grounded Reactive Humanoid Control" · model release |
+| [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](https://huggingface.co/papers/2610.12611) | Tian Jin | 85 HF upvotes · v 85 | 85 HF upvotes · "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesi" · model release |
+| [Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competit…](https://huggingface.co/papers/2610.12341) | Kaisen Yang | 42 HF upvotes · v 42 | 42 HF upvotes · "Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learnin" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac) | SaarthRanka | 54 HN points · v 66 | 54 HN points · 6 comments · Show HN |
+| [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac) | SaarthRanka | 81 HN points · v 107 | 81 HN points · 13 comments · Show HN |
 | [Show HN: Shpyrd – A new type of cloud for AI era](https://www.shpyrd.io) | patricknegri | 8 HN points · v 52 | 8 HN points · 22 comments · Show HN |
 | [Show HN: I'm a 14-year-old building my first startup, Titan](https://titan-ai.co/) | Vidigoat | 8 HN points · v 28 | 8 HN points · 10 comments · Show HN |
 | [Show HN: Mira, AI Walking Tours](https://www.mira.tours/wander) | bleonard | 16 HN points · v 24 | 16 HN points · 4 comments · Show HN |
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-13](archive/2026-10-13.md)
 - [2026-10-12](archive/2026-10-12.md)
 - [2026-10-11](archive/2026-10-11.md)
 - [2026-10-10](archive/2026-10-10.md)
