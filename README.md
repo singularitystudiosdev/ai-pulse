@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-13 23:18 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-13 23:23 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,9 +32,9 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | janpmz | 158 HN points · v 316 | 158 HN points · 79 comments · Show HN |
-| [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui) | LargeModGames | 37 HN points · v 51 | 37 HN points · 7 comments · Show HN |
+| [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui) | LargeModGames | 38 HN points · v 52 | 38 HN points · 7 comments · Show HN |
+| [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) | lasu | 29 HN points · v 33 | 29 HN points · 2 comments · Show HN |
 | [Show HN: Deslop – Oxlint rules for AI-generated TypeScript](https://github.com/maharshi365/deslop) | maharshi365 | 23 HN points · v 33 | 23 HN points · 5 comments · Show HN |
-| [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) | lasu | 27 HN points · v 31 | 27 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
