@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-13 11:48 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-13 18:09 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://huggingface.co/papers/2610.13527) | Zhiyuan Shi | 269 HF upvotes · v 269 | 269 HF upvotes · "S-Space: Exploring Spatial Workspace in Multimodal Language Models" · model release |
-| [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://huggingface.co/papers/2609.39601) | Qize Yu | 155 HF upvotes · v 155 | 155 HF upvotes · "GroundingPI: A Grounding Foundation Model towards Physical Intelligenc" · model release |
-| [AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://huggingface.co/papers/2610.13361) | Jiahao Wang | 123 HF upvotes · v 123 | 123 HF upvotes · "AgentSWE: Can Coding Agents Build the Agent You Actually Want?" · model release |
-| [Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://huggingface.co/papers/2610.13166) | Shun Zou | 86 HF upvotes · v 86 | 86 HF upvotes · "Scaling Agentic Data for Long-Horizon Terminal Intelligence" · model release |
-| [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](https://huggingface.co/papers/2610.12611) | Tian Jin | 86 HF upvotes · v 86 | 86 HF upvotes · "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesi" · model release |
+| [Today we are rolling out Gemini 4 Argon globally in the Gemini API, to Pro + Ultra in Gemini App, and Ultra s…](https://x.com/OfficialLoganK/status/2110038940841545827) | [@OfficialLoganK](https://x.com/OfficialLoganK) | 6474♥ 469RT · v 6573.1 | known founder · 6573 velocity · 6474♥ 469RT · 317200 views · 2h old · matched "gemini" |
+| [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://huggingface.co/papers/2610.13527) | Zhiyuan Shi | 271 HF upvotes · v 271 | 271 HF upvotes · "S-Space: Exploring Spatial Workspace in Multimodal Language Models" · model release |
+| [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://huggingface.co/papers/2609.39601) | Qize Yu | 230 HF upvotes · v 230 | 230 HF upvotes · "GroundingPI: A Grounding Foundation Model towards Physical Intelligenc" · model release |
+| [AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://huggingface.co/papers/2610.13361) | Jiahao Wang | 201 HF upvotes · v 201 | 201 HF upvotes · "AgentSWE: Can Coding Agents Build the Agent You Actually Want?" · model release |
+| [Thinking Inertia: LLMs Keep Thinking When Told Not To](https://huggingface.co/papers/2610.11765) | Dianqiao Lei | 194 HF upvotes · v 194 | 194 HF upvotes · "Thinking Inertia: LLMs Keep Thinking When Told Not To" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac) | SaarthRanka | 106 HN points · v 150 | 106 HN points · 22 comments · Show HN |
-| [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | janpmz | 29 HN points · v 73 | 29 HN points · 22 comments · Show HN |
-| [Show HN: Shpyrd – A new type of cloud for AI era](https://www.shpyrd.io) | patricknegri | 8 HN points · v 54 | 8 HN points · 23 comments · Show HN |
-| [Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](https://github.com/plimsollmark/plimsoll) | cagster | 15 HN points · v 21 | 15 HN points · 3 comments · Show HN |
+| [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | janpmz | 136 HN points · v 274 | 136 HN points · 69 comments · Show HN |
+| [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac) | SaarthRanka | 113 HN points · v 159 | 113 HN points · 23 comments · Show HN |
+| [Show HN: Shpyrd – A new type of cloud for AI era](https://www.shpyrd.io) | patricknegri | 9 HN points · v 57 | 9 HN points · 24 comments · Show HN |
+| [Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](https://github.com/plimsollmark/plimsoll) | cagster | 16 HN points · v 22 | 16 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [I'm sorry to burst everyone's bubble, but as of now, there is no solid evidence that Russian bot farms have b…](https://x.com/vatnik_soup/status/2109542508682248478) | [@vatnik_soup](https://x.com/vatnik_soup) | 2490♥ 268RT · v 30.8 | known founder · 31 velocity · 2490♥ 268RT · 68891 views · 35h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
