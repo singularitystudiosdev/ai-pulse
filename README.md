@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-13 18:15 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-13 18:20 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://huggingface.co/papers/2610.13527) | Zhiyuan Shi | 271 HF upvotes · v 271 | 271 HF upvotes · "S-Space: Exploring Spatial Workspace in Multimodal Language Models" · model release |
-| [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://huggingface.co/papers/2609.39601) | Qize Yu | 231 HF upvotes · v 231 | 231 HF upvotes · "GroundingPI: A Grounding Foundation Model towards Physical Intelligenc" · model release |
+| [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://huggingface.co/papers/2609.39601) | Qize Yu | 232 HF upvotes · v 232 | 232 HF upvotes · "GroundingPI: A Grounding Foundation Model towards Physical Intelligenc" · model release |
 | [AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://huggingface.co/papers/2610.13361) | Jiahao Wang | 201 HF upvotes · v 201 | 201 HF upvotes · "AgentSWE: Can Coding Agents Build the Agent You Actually Want?" · model release |
-| [Thinking Inertia: LLMs Keep Thinking When Told Not To](https://huggingface.co/papers/2610.11765) | Dianqiao Lei | 196 HF upvotes · v 196 | 196 HF upvotes · "Thinking Inertia: LLMs Keep Thinking When Told Not To" · model release |
+| [Thinking Inertia: LLMs Keep Thinking When Told Not To](https://huggingface.co/papers/2610.11765) | Dianqiao Lei | 197 HF upvotes · v 197 | 197 HF upvotes · "Thinking Inertia: LLMs Keep Thinking When Told Not To" · model release |
 | [Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://huggingface.co/papers/2610.13166) | Shun Zou | 132 HF upvotes · v 132 | 132 HF upvotes · "Scaling Agentic Data for Long-Horizon Terminal Intelligence" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | janpmz | 137 HN points · v 277 | 137 HN points · 70 comments · Show HN |
+| [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | janpmz | 138 HN points · v 280 | 138 HN points · 71 comments · Show HN |
 | [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac) | SaarthRanka | 113 HN points · v 159 | 113 HN points · 23 comments · Show HN |
 | [Show HN: Shpyrd – A new type of cloud for AI era](https://www.shpyrd.io) | patricknegri | 9 HN points · v 57 | 9 HN points · 24 comments · Show HN |
 | [Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](https://github.com/plimsollmark/plimsoll) | cagster | 16 HN points · v 22 | 16 HN points · 3 comments · Show HN |
