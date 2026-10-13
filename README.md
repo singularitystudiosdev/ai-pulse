@@ -15,16 +15,16 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-13 18:26 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-13 18:31 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://huggingface.co/papers/2610.13527) | Zhiyuan Shi | 271 HF upvotes · v 271 | 271 HF upvotes · "S-Space: Exploring Spatial Workspace in Multimodal Language Models" · model release |
-| [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://huggingface.co/papers/2609.39601) | Qize Yu | 234 HF upvotes · v 234 | 234 HF upvotes · "GroundingPI: A Grounding Foundation Model towards Physical Intelligenc" · model release |
+| [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://huggingface.co/papers/2609.39601) | Qize Yu | 236 HF upvotes · v 236 | 236 HF upvotes · "GroundingPI: A Grounding Foundation Model towards Physical Intelligenc" · model release |
 | [AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://huggingface.co/papers/2610.13361) | Jiahao Wang | 201 HF upvotes · v 201 | 201 HF upvotes · "AgentSWE: Can Coding Agents Build the Agent You Actually Want?" · model release |
-| [Thinking Inertia: LLMs Keep Thinking When Told Not To](https://huggingface.co/papers/2610.11765) | Dianqiao Lei | 198 HF upvotes · v 198 | 198 HF upvotes · "Thinking Inertia: LLMs Keep Thinking When Told Not To" · model release |
+| [Thinking Inertia: LLMs Keep Thinking When Told Not To](https://huggingface.co/papers/2610.11765) | Dianqiao Lei | 200 HF upvotes · v 200 | 200 HF upvotes · "Thinking Inertia: LLMs Keep Thinking When Told Not To" · model release |
 | [Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://huggingface.co/papers/2610.13166) | Shun Zou | 132 HF upvotes · v 132 | 132 HF upvotes · "Scaling Agentic Data for Long-Horizon Terminal Intelligence" · model release |
 
 ### 🚀 AI SaaS launches (4)
