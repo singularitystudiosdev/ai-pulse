@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 07:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 07:09 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,9 +23,9 @@
 |---|---|---|---|
 | [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 50 HF upvotes · v 50 | 50 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
 | [Vela: User Behavior as Supervision Sparks LLM Intelligence](https://huggingface.co/papers/2610.14709) | Yang Xiao | 49 HF upvotes · v 49 | 49 HF upvotes · "Vela: User Behavior as Supervision Sparks LLM Intelligence" · model release |
-| [DoSA: Dots Sparse Attention](https://huggingface.co/papers/2610.13990) | Fanxu Meng | 49 HF upvotes · v 49 | 49 HF upvotes · "DoSA: Dots Sparse Attention" · model release |
 | [Harness^2: Recursive Agent Harnessing for an Open World](https://huggingface.co/papers/2610.14224) | Ruiyao Xu | 34 HF upvotes · v 34 | 34 HF upvotes · "Harness^2: Recursive Agent Harnessing for an Open World" · model release |
 | [Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics](https://huggingface.co/papers/2609.38847) | Maoqi Liu | 33 HF upvotes · v 33 | 33 HF upvotes · "Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-B" · model release |
+| [UltraBERT: Beyond the Limit of BERT Pre-Training](https://huggingface.co/papers/2610.15028) | Jungwoo Park | 31 HF upvotes · v 31 | 31 HF upvotes · "UltraBERT: Beyond the Limit of BERT Pre-Training" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
