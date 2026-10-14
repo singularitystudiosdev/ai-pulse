@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-13 23:34 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 01:26 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://huggingface.co/papers/2610.13527) | Zhiyuan Shi | 272 HF upvotes · v 272 | 272 HF upvotes · "S-Space: Exploring Spatial Workspace in Multimodal Language Models" · model release |
 | [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://huggingface.co/papers/2609.39601) | Qize Yu | 247 HF upvotes · v 247 | 247 HF upvotes · "GroundingPI: A Grounding Foundation Model towards Physical Intelligenc" · model release |
 | [Thinking Inertia: LLMs Keep Thinking When Told Not To](https://huggingface.co/papers/2610.11765) | Dianqiao Lei | 215 HF upvotes · v 215 | 215 HF upvotes · "Thinking Inertia: LLMs Keep Thinking When Told Not To" · model release |
-| [AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://huggingface.co/papers/2610.13361) | Jiahao Wang | 201 HF upvotes · v 201 | 201 HF upvotes · "AgentSWE: Can Coding Agents Build the Agent You Actually Want?" · model release |
+| [AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://huggingface.co/papers/2610.13361) | Jiahao Wang | 200 HF upvotes · v 200 | 200 HF upvotes · "AgentSWE: Can Coding Agents Build the Agent You Actually Want?" · model release |
 | [Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://huggingface.co/papers/2610.13166) | Shun Zou | 133 HF upvotes · v 133 | 133 HF upvotes · "Scaling Agentic Data for Long-Horizon Terminal Intelligence" · model release |
 
 ### 🚀 AI SaaS launches (4)
@@ -32,9 +32,9 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | janpmz | 159 HN points · v 319 | 159 HN points · 80 comments · Show HN |
-| [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui) | LargeModGames | 38 HN points · v 52 | 38 HN points · 7 comments · Show HN |
-| [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) | lasu | 30 HN points · v 34 | 30 HN points · 2 comments · Show HN |
-| [Show HN: Deslop – Oxlint rules for AI-generated TypeScript](https://github.com/maharshi365/deslop) | maharshi365 | 24 HN points · v 34 | 24 HN points · 5 comments · Show HN |
+| [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) | niztk | 39 HN points · v 91 | 39 HN points · 26 comments · Show HN |
+| [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui) | LargeModGames | 46 HN points · v 62 | 46 HN points · 8 comments · Show HN |
+| [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) | lasu | 44 HN points · v 56 | 44 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-14](archive/2026-10-14.md)
 - [2026-10-13](archive/2026-10-13.md)
 - [2026-10-12](archive/2026-10-12.md)
 - [2026-10-11](archive/2026-10-11.md)
