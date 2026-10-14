@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 02:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 02:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,9 +32,9 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | janpmz | 159 HN points · v 319 | 159 HN points · 80 comments · Show HN |
-| [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) | niztk | 55 HN points · v 117 | 55 HN points · 31 comments · Show HN |
+| [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) | niztk | 58 HN points · v 120 | 58 HN points · 31 comments · Show HN |
 | [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui) | LargeModGames | 50 HN points · v 66 | 50 HN points · 8 comments · Show HN |
-| [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) | lasu | 50 HN points · v 62 | 50 HN points · 6 comments · Show HN |
+| [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) | lasu | 52 HN points · v 64 | 52 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
