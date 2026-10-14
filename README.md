@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 07:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 07:19 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 52 HF upvotes · v 52 | 52 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
+| [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 53 HF upvotes · v 53 | 53 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
 | [Harness^2: Recursive Agent Harnessing for an Open World](https://huggingface.co/papers/2610.14224) | Ruiyao Xu | 34 HF upvotes · v 34 | 34 HF upvotes · "Harness^2: Recursive Agent Harnessing for an Open World" · model release |
 | [Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics](https://huggingface.co/papers/2609.38847) | Maoqi Liu | 33 HF upvotes · v 33 | 33 HF upvotes · "Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-B" · model release |
 | [Multics: Generative Multi-Player World Model with Hierarchical Communication](https://huggingface.co/papers/2610.17201) | Kaiyi Huang | 31 HF upvotes · v 31 | 31 HF upvotes · "Multics: Generative Multi-Player World Model with Hierarchical Communi" · model release |
