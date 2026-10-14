@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 23:46 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 23:51 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 264 HF upvotes · v 264 | 264 HF upvotes · "Jeva: System One Models from First Principles" · model release |
-| [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 192 HF upvotes · v 192 | 192 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
+| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 266 HF upvotes · v 266 | 266 HF upvotes · "Jeva: System One Models from First Principles" · model release |
+| [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 193 HF upvotes · v 193 | 193 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
 | [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 109 HF upvotes · v 109 | 109 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
 | [GreenWAM: A World Foundation Model for Robotics](https://huggingface.co/papers/2610.18774) | Gennady Sidorov | 82 HF upvotes · v 82 | 82 HF upvotes · "GreenWAM: A World Foundation Model for Robotics" · model release |
 | [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://huggingface.co/papers/2610.18868) | Wenbo Hu | 75 HF upvotes · v 75 | 75 HF upvotes · "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rew" · model release |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Argon has this amazing natural understanding of the world. It can do so many things from first principles.  H…](https://x.com/fofrAI/status/2110043023954284889)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2110042439679356928/img/9r6fyHnZ6WisSOJZ.jpg) | [@fofrAI](https://x.com/fofrAI) | 6096♥ 407RT · v 301.4 | 301 velocity · 6096♥ 407RT · 1064659 views · 31h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
