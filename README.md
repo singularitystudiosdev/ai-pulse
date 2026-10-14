@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 12:23 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 12:28 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
+| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 105 HF upvotes · v 105 | 105 HF upvotes · "Jeva: System One Models from First Principles" · model release |
+| [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 102 HF upvotes · v 102 | 102 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
 | [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 101 HF upvotes · v 101 | 101 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
-| [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 100 HF upvotes · v 100 | 100 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
-| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 100 HF upvotes · v 100 | 100 HF upvotes · "Jeva: System One Models from First Principles" · model release |
 | [VideoJev: System One Model for Video Understanding and Interaction](https://huggingface.co/papers/2610.18615) | Yuhan Zhu | 84 HF upvotes · v 84 | 84 HF upvotes · "VideoJev: System One Model for Video Understanding and Interaction" · model release |
 | [X-Ragent: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning](https://huggingface.co/papers/2610.16811) | Yi Wang | 61 HF upvotes · v 61 | 61 HF upvotes · "X-Ragent: Tool-Augmented Reinforcement Learning for Evidence-Grounded " · model release |
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [This might be the first time I’ve ever watched an Apple ad that made me actively not want to buy the product](https://x.com/Austen/status/2110007429190885777)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2110007229822709760/img/af_0KqnqzpLHsXw8.jpg) | [@Austen](https://x.com/Austen) | 12564♥ 275RT · v 2568.3 | known founder · 2568 velocity · 12564♥ 275RT · 3501816 views · 22h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
