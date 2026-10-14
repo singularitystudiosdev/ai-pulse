@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 13:00 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 13:06 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,8 +24,8 @@
 | [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 118 HF upvotes · v 118 | 118 HF upvotes · "Jeva: System One Models from First Principles" · model release |
 | [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 107 HF upvotes · v 107 | 107 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
 | [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 101 HF upvotes · v 101 | 101 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
-| [VideoJev: System One Model for Video Understanding and Interaction](https://huggingface.co/papers/2610.18615) | Yuhan Zhu | 84 HF upvotes · v 84 | 84 HF upvotes · "VideoJev: System One Model for Video Understanding and Interaction" · model release |
-| [AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards](https://huggingface.co/papers/2610.18860) | Xin Gao | 61 HF upvotes · v 61 | 61 HF upvotes · "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards" · model release |
+| [VideoJev: System One Model for Video Understanding and Interaction](https://huggingface.co/papers/2610.18615) | Yuhan Zhu | 86 HF upvotes · v 86 | 86 HF upvotes · "VideoJev: System One Model for Video Understanding and Interaction" · model release |
+| [AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards](https://huggingface.co/papers/2610.18860) | Xin Gao | 62 HF upvotes · v 62 | 62 HF upvotes · "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
