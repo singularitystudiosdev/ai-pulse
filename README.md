@@ -15,25 +15,25 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 13:11 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 17:27 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 118 HF upvotes · v 118 | 118 HF upvotes · "Jeva: System One Models from First Principles" · model release |
-| [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 107 HF upvotes · v 107 | 107 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
-| [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 101 HF upvotes · v 101 | 101 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
-| [VideoJev: System One Model for Video Understanding and Interaction](https://huggingface.co/papers/2610.18615) | Yuhan Zhu | 93 HF upvotes · v 93 | 93 HF upvotes · "VideoJev: System One Model for Video Understanding and Interaction" · model release |
-| [AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards](https://huggingface.co/papers/2610.18860) | Xin Gao | 63 HF upvotes · v 63 | 63 HF upvotes · "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards" · model release |
+| [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 192 HF upvotes · v 192 | 192 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
+| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 154 HF upvotes · v 154 | 154 HF upvotes · "Jeva: System One Models from First Principles" · model release |
+| [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 109 HF upvotes · v 109 | 109 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
+| [GreenWAM: A World Foundation Model for Robotics](https://huggingface.co/papers/2610.18774) | Gennady Sidorov | 79 HF upvotes · v 79 | 79 HF upvotes · "GreenWAM: A World Foundation Model for Robotics" · model release |
+| [Multics: Generative Multi-Player World Model with Hierarchical Communication](https://huggingface.co/papers/2610.17201) | Kaiyi Huang | 55 HF upvotes · v 55 | 55 HF upvotes · "Multics: Generative Multi-Player World Model with Hierarchical Communi" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: I built a tool to track what AI leaders say and how their views change](https://blumify.io/people) | gcsydney | 106 HN points · v 246 | 106 HN points · 70 comments · Show HN |
-| [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) | niztk | 107 HN points · v 245 | 107 HN points · 69 comments · Show HN |
-| [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) | lasu | 71 HN points · v 101 | 71 HN points · 15 comments · Show HN |
+| [Show HN: I built a tool to track what AI leaders say and how their views change](https://blumify.io/people) | gcsydney | 113 HN points · v 265 | 113 HN points · 76 comments · Show HN |
+| [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) | niztk | 110 HN points · v 248 | 110 HN points · 69 comments · Show HN |
+| [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](https://wonderhop.io/en/) | mtlduo | 10 HN points · v 30 | 10 HN points · 10 comments · Show HN |
 | [Show HN: Can AI read your mind?](https://jeffyclassify.com/blog/mind-reader/) | nico | 6 HN points · v 22 | 6 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
