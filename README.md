@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 21:16 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 21:22 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 245 HF upvotes · v 245 | 245 HF upvotes · "Jeva: System One Models from First Principles" · model release |
+| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 246 HF upvotes · v 246 | 246 HF upvotes · "Jeva: System One Models from First Principles" · model release |
 | [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 192 HF upvotes · v 192 | 192 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
 | [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 109 HF upvotes · v 109 | 109 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
 | [GreenWAM: A World Foundation Model for Robotics](https://huggingface.co/papers/2610.18774) | Gennady Sidorov | 81 HF upvotes · v 81 | 81 HF upvotes · "GreenWAM: A World Foundation Model for Robotics" · model release |
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: I built a tool to track what AI leaders say and how their views change](https://blumify.io/people) | gcsydney | 115 HN points · v 267 | 115 HN points · 76 comments · Show HN |
 | [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 51 HN points · v 133 | 51 HN points · 41 comments · Show HN |
-| [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle) | KarLexAI | 36 HN points · v 58 | 36 HN points · 11 comments · Show HN |
+| [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle) | KarLexAI | 37 HN points · v 59 | 37 HN points · 11 comments · Show HN |
 | [Show HN: Can AI read your mind?](https://jeffyclassify.com/blog/mind-reader/) | nico | 6 HN points · v 22 | 6 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
