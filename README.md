@@ -15,16 +15,16 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 21:11 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 21:16 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 244 HF upvotes · v 244 | 244 HF upvotes · "Jeva: System One Models from First Principles" · model release |
+| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 245 HF upvotes · v 245 | 245 HF upvotes · "Jeva: System One Models from First Principles" · model release |
 | [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 192 HF upvotes · v 192 | 192 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
 | [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 109 HF upvotes · v 109 | 109 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
-| [GreenWAM: A World Foundation Model for Robotics](https://huggingface.co/papers/2610.18774) | Gennady Sidorov | 80 HF upvotes · v 80 | 80 HF upvotes · "GreenWAM: A World Foundation Model for Robotics" · model release |
+| [GreenWAM: A World Foundation Model for Robotics](https://huggingface.co/papers/2610.18774) | Gennady Sidorov | 81 HF upvotes · v 81 | 81 HF upvotes · "GreenWAM: A World Foundation Model for Robotics" · model release |
 | [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://huggingface.co/papers/2610.18868) | Wenbo Hu | 74 HF upvotes · v 74 | 74 HF upvotes · "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rew" · model release |
 
 ### 🚀 AI SaaS launches (4)
@@ -32,15 +32,13 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: I built a tool to track what AI leaders say and how their views change](https://blumify.io/people) | gcsydney | 115 HN points · v 267 | 115 HN points · 76 comments · Show HN |
-| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 50 HN points · v 132 | 50 HN points · 41 comments · Show HN |
+| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 51 HN points · v 133 | 51 HN points · 41 comments · Show HN |
 | [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle) | KarLexAI | 36 HN points · v 58 | 36 HN points · 11 comments · Show HN |
 | [Show HN: Can AI read your mind?](https://jeffyclassify.com/blog/mind-reader/) | nico | 6 HN points · v 22 | 6 HN points · 8 comments · Show HN |
 
-### 🦾 Embodied AI (1)
+### 🦾 Embodied AI (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [#Radar traffic data continues to show decreased levels of activity 6 days after the first Ukrainian drone str…](https://x.com/CloudflareRadar/status/2110113211059994638)<br>![card](https://pbs.twimg.com/media/HUifYEXXkAEiFOU.jpg?name=orig) | [@CloudflareRadar](https://x.com/CloudflareRadar) | 122♥ 21RT · v 3.1 | 3.1 velocity · 122♥ 21RT · 6243 views · 24h old · matched "drone" |
+_nothing cleared the floor this run_
 
 ### 🔥 Viral AI posts (0)
 
