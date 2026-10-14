@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 21:38 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 21:43 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 249 HF upvotes · v 249 | 249 HF upvotes · "Jeva: System One Models from First Principles" · model release |
+| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 250 HF upvotes · v 250 | 250 HF upvotes · "Jeva: System One Models from First Principles" · model release |
 | [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 192 HF upvotes · v 192 | 192 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
 | [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 109 HF upvotes · v 109 | 109 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
 | [GreenWAM: A World Foundation Model for Robotics](https://huggingface.co/papers/2610.18774) | Gennady Sidorov | 81 HF upvotes · v 81 | 81 HF upvotes · "GreenWAM: A World Foundation Model for Robotics" · model release |
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: I built a tool to track what AI leaders say and how their views change](https://blumify.io/people) | gcsydney | 115 HN points · v 267 | 115 HN points · 76 comments · Show HN |
-| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 54 HN points · v 138 | 54 HN points · 42 comments · Show HN |
+| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 55 HN points · v 139 | 55 HN points · 42 comments · Show HN |
 | [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle) | KarLexAI | 37 HN points · v 59 | 37 HN points · 11 comments · Show HN |
 | [Show HN: The first short movie built using code and AI](https://fframes.studio/the-why/) | neogoose | 13 HN points · v 23 | 13 HN points · 5 comments · Show HN |
 
