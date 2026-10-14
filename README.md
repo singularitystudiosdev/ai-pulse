@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 02:13 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 06:37 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://huggingface.co/papers/2609.39601) | Qize Yu | 248 HF upvotes · v 248 | 248 HF upvotes · "GroundingPI: A Grounding Foundation Model towards Physical Intelligenc" · model release |
-| [Thinking Inertia: LLMs Keep Thinking When Told Not To](https://huggingface.co/papers/2610.11765) | Dianqiao Lei | 215 HF upvotes · v 215 | 215 HF upvotes · "Thinking Inertia: LLMs Keep Thinking When Told Not To" · model release |
-| [AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://huggingface.co/papers/2610.13361) | Jiahao Wang | 201 HF upvotes · v 201 | 201 HF upvotes · "AgentSWE: Can Coding Agents Build the Agent You Actually Want?" · model release |
-| [Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://huggingface.co/papers/2610.13166) | Shun Zou | 134 HF upvotes · v 134 | 134 HF upvotes · "Scaling Agentic Data for Long-Horizon Terminal Intelligence" · model release |
-| [VIS-Ground: Video Interactive Storytelling with Contextual Grounding](https://huggingface.co/papers/2610.09326) | Bingxuan Li | 79 HF upvotes · v 79 | 79 HF upvotes · "VIS-Ground: Video Interactive Storytelling with Contextual Grounding" · model release |
+| [Vela: User Behavior as Supervision Sparks LLM Intelligence](https://huggingface.co/papers/2610.14709) | Yang Xiao | 47 HF upvotes · v 47 | 47 HF upvotes · "Vela: User Behavior as Supervision Sparks LLM Intelligence" · model release |
+| [DoSA: Dots Sparse Attention](https://huggingface.co/papers/2610.13990) | Fanxu Meng | 47 HF upvotes · v 47 | 47 HF upvotes · "DoSA: Dots Sparse Attention" · model release |
+| [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 40 HF upvotes · v 40 | 40 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
+| [LeWAM: End-to-End World and Action Modeling with JEPAs](https://huggingface.co/papers/2610.12818) | Minghao Fu | 35 HF upvotes · v 35 | 35 HF upvotes · "LeWAM: End-to-End World and Action Modeling with JEPAs" · model release |
+| [Harness^2: Recursive Agent Harnessing for an Open World](https://huggingface.co/papers/2610.14224) | Ruiyao Xu | 34 HF upvotes · v 34 | 34 HF upvotes · "Harness^2: Recursive Agent Harnessing for an Open World" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) | janpmz | 159 HN points · v 319 | 159 HN points · 80 comments · Show HN |
-| [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) | niztk | 58 HN points · v 120 | 58 HN points · 31 comments · Show HN |
-| [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui) | LargeModGames | 50 HN points · v 66 | 50 HN points · 8 comments · Show HN |
-| [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) | lasu | 52 HN points · v 64 | 52 HN points · 6 comments · Show HN |
+| [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) | niztk | 98 HN points · v 204 | 98 HN points · 53 comments · Show HN |
+| [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) | lasu | 64 HN points · v 88 | 64 HN points · 12 comments · Show HN |
+| [WIP: decided to emulate the original iphone in the browser (also works on mobile which is pretty cool)  try i…](https://x.com/_kelindi_/status/2110042599285194963)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2110042154366087168/img/DtyZDnKYtReBZPRC.jpg) | [@_kelindi_](https://x.com/_kelindi_) | 694♥ 50RT · v 56 | 56 velocity · 694♥ 50RT · 51295 views · 14h old · matched "try it" |
+| [Show HN: Deslop – Oxlint rules for AI-generated TypeScript](https://github.com/maharshi365/deslop) | maharshi365 | 28 HN points · v 42 | 28 HN points · 7 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
