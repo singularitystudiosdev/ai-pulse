@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 06:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 06:42 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Vela: User Behavior as Supervision Sparks LLM Intelligence](https://huggingface.co/papers/2610.14709) | Yang Xiao | 47 HF upvotes · v 47 | 47 HF upvotes · "Vela: User Behavior as Supervision Sparks LLM Intelligence" · model release |
-| [DoSA: Dots Sparse Attention](https://huggingface.co/papers/2610.13990) | Fanxu Meng | 47 HF upvotes · v 47 | 47 HF upvotes · "DoSA: Dots Sparse Attention" · model release |
-| [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 40 HF upvotes · v 40 | 40 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
+| [Vela: User Behavior as Supervision Sparks LLM Intelligence](https://huggingface.co/papers/2610.14709) | Yang Xiao | 48 HF upvotes · v 48 | 48 HF upvotes · "Vela: User Behavior as Supervision Sparks LLM Intelligence" · model release |
+| [DoSA: Dots Sparse Attention](https://huggingface.co/papers/2610.13990) | Fanxu Meng | 48 HF upvotes · v 48 | 48 HF upvotes · "DoSA: Dots Sparse Attention" · model release |
+| [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 44 HF upvotes · v 44 | 44 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
 | [LeWAM: End-to-End World and Action Modeling with JEPAs](https://huggingface.co/papers/2610.12818) | Minghao Fu | 35 HF upvotes · v 35 | 35 HF upvotes · "LeWAM: End-to-End World and Action Modeling with JEPAs" · model release |
 | [Harness^2: Recursive Agent Harnessing for an Open World](https://huggingface.co/papers/2610.14224) | Ruiyao Xu | 34 HF upvotes · v 34 | 34 HF upvotes · "Harness^2: Recursive Agent Harnessing for an Open World" · model release |
 
@@ -31,10 +31,10 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) | niztk | 98 HN points · v 204 | 98 HN points · 53 comments · Show HN |
-| [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) | lasu | 64 HN points · v 88 | 64 HN points · 12 comments · Show HN |
-| [WIP: decided to emulate the original iphone in the browser (also works on mobile which is pretty cool)  try i…](https://x.com/_kelindi_/status/2110042599285194963)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2110042154366087168/img/DtyZDnKYtReBZPRC.jpg) | [@_kelindi_](https://x.com/_kelindi_) | 694♥ 50RT · v 56 | 56 velocity · 694♥ 50RT · 51295 views · 14h old · matched "try it" |
+| [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) | niztk | 99 HN points · v 205 | 99 HN points · 53 comments · Show HN |
+| [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) | lasu | 65 HN points · v 89 | 65 HN points · 12 comments · Show HN |
 | [Show HN: Deslop – Oxlint rules for AI-generated TypeScript](https://github.com/maharshi365/deslop) | maharshi365 | 28 HN points · v 42 | 28 HN points · 7 comments · Show HN |
+| [Show HN: Can AI read your mind?](https://jeffyclassify.com/blog/mind-reader/) | nico | 6 HN points · v 22 | 6 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
