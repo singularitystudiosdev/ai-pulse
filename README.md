@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 20:55 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 21:00 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [We are releasing Ultramarine 1 Flash, a frontier-class model built for knowledge work. It is open-source and …](https://x.com/bertgodel/status/2110400987622265232)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2110248922111528961/img/VPsBvcn6348iKIt8.jpg) | [@bertgodel](https://x.com/bertgodel) | 3118♥ 256RT · v 2476.5 | 2476 velocity · 3118♥ 256RT · 504876 views · 5h old · matched "weights" |
-| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 239 HF upvotes · v 239 | 239 HF upvotes · "Jeva: System One Models from First Principles" · model release |
+| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 242 HF upvotes · v 242 | 242 HF upvotes · "Jeva: System One Models from First Principles" · model release |
 | [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 192 HF upvotes · v 192 | 192 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
 | [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 109 HF upvotes · v 109 | 109 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
 | [GreenWAM: A World Foundation Model for Robotics](https://huggingface.co/papers/2610.18774) | Gennady Sidorov | 80 HF upvotes · v 80 | 80 HF upvotes · "GreenWAM: A World Foundation Model for Robotics" · model release |
+| [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://huggingface.co/papers/2610.18868) | Wenbo Hu | 73 HF upvotes · v 73 | 73 HF upvotes · "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rew" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: I built a tool to track what AI leaders say and how their views change](https://blumify.io/people) | gcsydney | 115 HN points · v 267 | 115 HN points · 76 comments · Show HN |
-| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 49 HN points · v 125 | 49 HN points · 38 comments · Show HN |
+| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 50 HN points · v 128 | 50 HN points · 39 comments · Show HN |
 | [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle) | KarLexAI | 36 HN points · v 58 | 36 HN points · 11 comments · Show HN |
 | [Show HN: Can AI read your mind?](https://jeffyclassify.com/blog/mind-reader/) | nico | 6 HN points · v 22 | 6 HN points · 8 comments · Show HN |
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Hey, @elonmusk, big man, are you playing politics with your products again? As your European customers, we ar…](https://x.com/sikorskiradek/status/2110273651023151330) | [@sikorskiradek](https://x.com/sikorskiradek) | 59830♥ 11070RT · v 4149.8 | known founder · 4150 velocity · 59830♥ 11070RT · 1884308 views · 13h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
