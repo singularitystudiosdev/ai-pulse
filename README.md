@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 12:50 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 12:55 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,8 +31,8 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
+| [Show HN: I built a tool to track what AI leaders say and how their views change](https://blumify.io/people) | gcsydney | 105 HN points · v 245 | 105 HN points · 70 comments · Show HN |
 | [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) | niztk | 107 HN points · v 245 | 107 HN points · 69 comments · Show HN |
-| [Show HN: I built a tool to track what AI leaders say and how their views change](https://blumify.io/people) | gcsydney | 105 HN points · v 243 | 105 HN points · 69 comments · Show HN |
 | [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/) | lasu | 70 HN points · v 98 | 70 HN points · 14 comments · Show HN |
 | [Show HN: Can AI read your mind?](https://jeffyclassify.com/blog/mind-reader/) | nico | 6 HN points · v 22 | 6 HN points · 8 comments · Show HN |
 
