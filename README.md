@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 17:44 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-14 17:49 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 192 HF upvotes · v 192 | 192 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
-| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 156 HF upvotes · v 156 | 156 HF upvotes · "Jeva: System One Models from First Principles" · model release |
+| [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 162 HF upvotes · v 162 | 162 HF upvotes · "Jeva: System One Models from First Principles" · model release |
 | [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 109 HF upvotes · v 109 | 109 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
 | [GreenWAM: A World Foundation Model for Robotics](https://huggingface.co/papers/2610.18774) | Gennady Sidorov | 79 HF upvotes · v 79 | 79 HF upvotes · "GreenWAM: A World Foundation Model for Robotics" · model release |
 | [Multics: Generative Multi-Player World Model with Hierarchical Communication](https://huggingface.co/papers/2610.17201) | Kaiyi Huang | 55 HF upvotes · v 55 | 55 HF upvotes · "Multics: Generative Multi-Player World Model with Hierarchical Communi" · model release |
