@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-15 07:19 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-15 07:24 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation](https://huggingface.co/papers/2610.20571) | Weijie Wang | 106 HF upvotes · v 106 | 106 HF upvotes · "Any Time, Any Space: A World-State-Centric Framework for Agentic Video" · model release |
 | [LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation](https://huggingface.co/papers/2610.19975) | Zefeng He | 48 HF upvotes · v 48 | 48 HF upvotes · "LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocati" · model release |
 | [Cortex: Consolidating Context into Parametric Memory](https://huggingface.co/papers/2610.20399) | Jintian Zhang | 44 HF upvotes · v 44 | 44 HF upvotes · "Cortex: Consolidating Context into Parametric Memory" · model release |
-| [ActionOPD: Distilling Decisions, Not Tokens](https://huggingface.co/papers/2610.19820) | Huining Yuan | 43 HF upvotes · v 43 | 43 HF upvotes · "ActionOPD: Distilling Decisions, Not Tokens" · model release |
+| [ActionOPD: Distilling Decisions, Not Tokens](https://huggingface.co/papers/2610.19820) | Huining Yuan | 44 HF upvotes · v 44 | 44 HF upvotes · "ActionOPD: Distilling Decisions, Not Tokens" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
