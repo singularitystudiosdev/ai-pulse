@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-15 07:35 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-15 07:41 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation](https://huggingface.co/papers/2610.20571) | Weijie Wang | 122 HF upvotes · v 122 | 122 HF upvotes · "Any Time, Any Space: A World-State-Centric Framework for Agentic Video" · model release |
+| [Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation](https://huggingface.co/papers/2610.20571) | Weijie Wang | 153 HF upvotes · v 153 | 153 HF upvotes · "Any Time, Any Space: A World-State-Centric Framework for Agentic Video" · model release |
 | [Player-1: Learning to Play from Synthetic Experience](https://huggingface.co/papers/2610.20584) | Mingyu Ouyang | 116 HF upvotes · v 116 | 116 HF upvotes · "Player-1: Learning to Play from Synthetic Experience" · model release |
 | [LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation](https://huggingface.co/papers/2610.19975) | Zefeng He | 49 HF upvotes · v 49 | 49 HF upvotes · "LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocati" · model release |
 | [Cortex: Consolidating Context into Parametric Memory](https://huggingface.co/papers/2610.20399) | Jintian Zhang | 45 HF upvotes · v 45 | 45 HF upvotes · "Cortex: Consolidating Context into Parametric Memory" · model release |
-| [ActionOPD: Distilling Decisions, Not Tokens](https://huggingface.co/papers/2610.19820) | Huining Yuan | 44 HF upvotes · v 44 | 44 HF upvotes · "ActionOPD: Distilling Decisions, Not Tokens" · model release |
+| [Recovering Reliable Supervision via Critique-Guided On-Policy Distillation](https://huggingface.co/papers/2610.20572) | Kaixiang Zhao | 45 HF upvotes · v 45 | 45 HF upvotes · "Recovering Reliable Supervision via Critique-Guided On-Policy Distilla" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
