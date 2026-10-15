@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-15 00:23 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-15 00:29 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [Jeva: System One Models from First Principles](https://huggingface.co/papers/2610.18773) | Qi Li | 266 HF upvotes · v 266 | 266 HF upvotes · "Jeva: System One Models from First Principles" · model release |
 | [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 193 HF upvotes · v 193 | 193 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
 | [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 110 HF upvotes · v 110 | 110 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
-| [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://huggingface.co/papers/2610.18868) | Wenbo Hu | 89 HF upvotes · v 89 | 89 HF upvotes · "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rew" · model release |
+| [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://huggingface.co/papers/2610.18868) | Wenbo Hu | 92 HF upvotes · v 92 | 92 HF upvotes · "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rew" · model release |
 | [GreenWAM: A World Foundation Model for Robotics](https://huggingface.co/papers/2610.18774) | Gennady Sidorov | 82 HF upvotes · v 82 | 82 HF upvotes · "GreenWAM: A World Foundation Model for Robotics" · model release |
 
 ### 🚀 AI SaaS launches (4)
