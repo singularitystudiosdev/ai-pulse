@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-15 02:20 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-15 02:25 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [GreenWAM: A World Foundation Model for Robotics](https://huggingface.co/papers/2610.18774) | Gennady Sidorov | 82 HF upvotes · v 82 | 82 HF upvotes · "GreenWAM: A World Foundation Model for Robotics" · model release |
-| [Last Secure Code Benchmark: Is the Code You Vibe Secure?](https://huggingface.co/papers/2610.14766) | Tianyi Wu | 58 HF upvotes · v 58 | 58 HF upvotes · "Last Secure Code Benchmark: Is the Code You Vibe Secure?" · model release |
+| [Last Secure Code Benchmark: Is the Code You Vibe Secure?](https://huggingface.co/papers/2610.14766) | Tianyi Wu | 59 HF upvotes · v 59 | 59 HF upvotes · "Last Secure Code Benchmark: Is the Code You Vibe Secure?" · model release |
 | [EviScene: Beyond "Is It AI?" for Agentic Image Factuality Assessment](https://huggingface.co/papers/2610.14609) | ZiAn Wang | 51 HF upvotes · v 51 | 51 HF upvotes · "EviScene: Beyond "Is It AI?" for Agentic Image Factuality Assessment" · model release |
 | [APEX: Asynchronous Prefix Denoising for Extreme Compression](https://huggingface.co/papers/2610.12843) | David Dinkevich | 41 HF upvotes · v 41 | 41 HF upvotes · "APEX: Asynchronous Prefix Denoising for Extreme Compression" · model release |
 | [FlashVSR+: Efficient Video Super-Resolution via Hybrid Attention and Reward-Yield Distribution Matching](https://huggingface.co/papers/2610.17552) | Ruchang Yao | 34 HF upvotes · v 34 | 34 HF upvotes · "FlashVSR+: Efficient Video Super-Resolution via Hybrid Attention and R" · model release |
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 88 HN points · v 208 | 88 HN points · 60 comments · Show HN |
+| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 90 HN points · v 210 | 90 HN points · 60 comments · Show HN |
 | [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle) | KarLexAI | 42 HN points · v 64 | 42 HN points · 11 comments · Show HN |
 | [Show HN: The first short movie built using code and AI](https://fframes.studio/the-why/) | neogoose | 14 HN points · v 24 | 14 HN points · 5 comments · Show HN |
 | [Show HN: Can AI read your mind?](https://jeffyclassify.com/blog/mind-reader/) | nico | 6 HN points · v 22 | 6 HN points · 8 comments · Show HN |
