@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-15 13:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-15 13:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Player-1: Learning to Play from Synthetic Experience](https://huggingface.co/papers/2610.20584) | Mingyu Ouyang | 130 HF upvotes · v 130 | 130 HF upvotes · "Player-1: Learning to Play from Synthetic Experience" · model release |
+| [Player-1: Learning to Play from Synthetic Experience](https://huggingface.co/papers/2610.20584) | Mingyu Ouyang | 132 HF upvotes · v 132 | 132 HF upvotes · "Player-1: Learning to Play from Synthetic Experience" · model release |
 | [Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents](https://huggingface.co/papers/2610.20344) | Yuyao Ge | 85 HF upvotes · v 85 | 85 HF upvotes · "Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of " · model release |
 | [Cortex: Consolidating Context into Parametric Memory](https://huggingface.co/papers/2610.20399) | Jintian Zhang | 55 HF upvotes · v 55 | 55 HF upvotes · "Cortex: Consolidating Context into Parametric Memory" · model release |
 | [RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios](https://huggingface.co/papers/2610.19698) | Chenhao Yuan | 54 HF upvotes · v 54 | 54 HF upvotes · "RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios" · model release |
-| [More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning](https://huggingface.co/papers/2610.19789) | Linhao Zhong | 48 HF upvotes · v 48 | 48 HF upvotes · "More Methods, Better Agents? A Reality Check on Self-Distillation in A" · model release |
+| [More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning](https://huggingface.co/papers/2610.19789) | Linhao Zhong | 49 HF upvotes · v 49 | 49 HF upvotes · "More Methods, Better Agents? A Reality Check on Self-Distillation in A" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
