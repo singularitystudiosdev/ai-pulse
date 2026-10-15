@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-15 20:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-15 20:43 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Okay, so now I'm looking at there and it's "polysemanticity and superposition convinced me interpretability w…](https://x.com/allTheYud/status/2110805233454731449) | [@allTheYud](https://x.com/allTheYud) | 118♥ 1RT · v 70 | 70 velocity · 118♥ 1RT · 4608 views · 2h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
