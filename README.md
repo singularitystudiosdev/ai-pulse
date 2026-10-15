@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-15 21:15 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-15 23:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,15 +23,15 @@
 |---|---|---|---|
 | [Cortex: Consolidating Context into Parametric Memory](https://huggingface.co/papers/2610.20399) | Jintian Zhang | 62 HF upvotes · v 62 | 62 HF upvotes · "Cortex: Consolidating Context into Parametric Memory" · model release |
 | [RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios](https://huggingface.co/papers/2610.19698) | Chenhao Yuan | 61 HF upvotes · v 61 | 61 HF upvotes · "RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios" · model release |
+| [Many Right Answers, One Training Example: Removing Responder Noise from GRPO for LLM Recommenders](https://huggingface.co/papers/2610.17771) | Xin Li | 35 HF upvotes · v 35 | 35 HF upvotes · "Many Right Answers, One Training Example: Removing Responder Noise fro" · model release |
 | [Apertus 1.5: From Open Text Models to Open Multimodal Reasoners](https://huggingface.co/papers/2610.15542) | Project Apertus | 34 HF upvotes · v 34 | 34 HF upvotes · "Apertus 1.5: From Open Text Models to Open Multimodal Reasoners" · model release |
-| [Many Right Answers, One Training Example: Removing Responder Noise from GRPO for LLM Recommenders](https://huggingface.co/papers/2610.17771) | Xin Li | 31 HF upvotes · v 31 | 31 HF upvotes · "Many Right Answers, One Training Example: Removing Responder Noise fro" · model release |
-| [CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation P…](https://huggingface.co/papers/2610.19128) | Yuxiang Lai | 24 HF upvotes · v 24 | 24 HF upvotes · "CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a C" · model release |
+| [CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation P…](https://huggingface.co/papers/2610.19128) | Yuxiang Lai | 25 HF upvotes · v 25 | 25 HF upvotes · "CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a C" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 107 HN points · v 289 | 107 HN points · 91 comments · Show HN |
+| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 108 HN points · v 292 | 108 HN points · 92 comments · Show HN |
 | [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle) | KarLexAI | 47 HN points · v 73 | 47 HN points · 13 comments · Show HN |
 | [Show HN: The first short movie built using code and AI](https://fframes.studio/the-why/) | neogoose | 14 HN points · v 24 | 14 HN points · 5 comments · Show HN |
 | [Show HN: Can AI read your mind?](https://jeffyclassify.com/blog/mind-reader/) | nico | 6 HN points · v 22 | 6 HN points · 8 comments · Show HN |
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [turns out if a diffusion model is fast enough, precise enough, and smart enough, you can simulate turns of ga…](https://x.com/asciidiego/status/2110846676139221376)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2110841214228713472/img/x6cWEAkSLK0KfnBE.jpg) | [@asciidiego](https://x.com/asciidiego) | 27♥ 2RT · v 22 | 22 velocity · 27♥ 2RT · 1297 views · 2h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
