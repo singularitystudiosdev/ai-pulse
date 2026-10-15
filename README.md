@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-15 17:21 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-15 17:26 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Linus Torvalds says, rules prohibiting AI usage are “UTTERLY STUPID” and “idiotic”.  For the Linux kernel, To…](https://x.com/LundukeJournal/status/2110524360377458786)<br>![card](https://pbs.twimg.com/media/HUoWuBOXQAAmaqY.jpg?name=orig) | [@LundukeJournal](https://x.com/LundukeJournal) | 6020♥ 614RT · v 239.8 | 240 velocity · 6020♥ 614RT · 272181 views · 17h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
