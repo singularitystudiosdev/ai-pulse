@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-15 07:46 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-15 07:51 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation](https://huggingface.co/papers/2610.20571) | Weijie Wang | 159 HF upvotes · v 159 | 159 HF upvotes · "Any Time, Any Space: A World-State-Centric Framework for Agentic Video" · model release |
+| [Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation](https://huggingface.co/papers/2610.20571) | Weijie Wang | 161 HF upvotes · v 161 | 161 HF upvotes · "Any Time, Any Space: A World-State-Centric Framework for Agentic Video" · model release |
 | [Player-1: Learning to Play from Synthetic Experience](https://huggingface.co/papers/2610.20584) | Mingyu Ouyang | 116 HF upvotes · v 116 | 116 HF upvotes · "Player-1: Learning to Play from Synthetic Experience" · model release |
 | [LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation](https://huggingface.co/papers/2610.19975) | Zefeng He | 49 HF upvotes · v 49 | 49 HF upvotes · "LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocati" · model release |
-| [Cortex: Consolidating Context into Parametric Memory](https://huggingface.co/papers/2610.20399) | Jintian Zhang | 45 HF upvotes · v 45 | 45 HF upvotes · "Cortex: Consolidating Context into Parametric Memory" · model release |
-| [Recovering Reliable Supervision via Critique-Guided On-Policy Distillation](https://huggingface.co/papers/2610.20572) | Kaixiang Zhao | 45 HF upvotes · v 45 | 45 HF upvotes · "Recovering Reliable Supervision via Critique-Guided On-Policy Distilla" · model release |
+| [Cortex: Consolidating Context into Parametric Memory](https://huggingface.co/papers/2610.20399) | Jintian Zhang | 46 HF upvotes · v 46 | 46 HF upvotes · "Cortex: Consolidating Context into Parametric Memory" · model release |
+| [Recovering Reliable Supervision via Critique-Guided On-Policy Distillation](https://huggingface.co/papers/2610.20572) | Kaixiang Zhao | 46 HF upvotes · v 46 | 46 HF upvotes · "Recovering Reliable Supervision via Critique-Guided On-Policy Distilla" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 100 HN points · v 256 | 100 HN points · 78 comments · Show HN |
+| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 100 HN points · v 258 | 100 HN points · 79 comments · Show HN |
 | [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle) | KarLexAI | 45 HN points · v 69 | 45 HN points · 12 comments · Show HN |
 | [Show HN: The first short movie built using code and AI](https://fframes.studio/the-why/) | neogoose | 14 HN points · v 24 | 14 HN points · 5 comments · Show HN |
 | [Show HN: Can AI read your mind?](https://jeffyclassify.com/blog/mind-reader/) | nico | 6 HN points · v 22 | 6 HN points · 8 comments · Show HN |
