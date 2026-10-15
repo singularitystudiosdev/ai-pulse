@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-15 12:53 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-15 12:58 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Player-1: Learning to Play from Synthetic Experience](https://huggingface.co/papers/2610.20584) | Mingyu Ouyang | 126 HF upvotes · v 126 | 126 HF upvotes · "Player-1: Learning to Play from Synthetic Experience" · model release |
+| [Player-1: Learning to Play from Synthetic Experience](https://huggingface.co/papers/2610.20584) | Mingyu Ouyang | 128 HF upvotes · v 128 | 128 HF upvotes · "Player-1: Learning to Play from Synthetic Experience" · model release |
 | [Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents](https://huggingface.co/papers/2610.20344) | Yuyao Ge | 83 HF upvotes · v 83 | 83 HF upvotes · "Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of " · model release |
 | [RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios](https://huggingface.co/papers/2610.19698) | Chenhao Yuan | 54 HF upvotes · v 54 | 54 HF upvotes · "RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios" · model release |
-| [Cortex: Consolidating Context into Parametric Memory](https://huggingface.co/papers/2610.20399) | Jintian Zhang | 53 HF upvotes · v 53 | 53 HF upvotes · "Cortex: Consolidating Context into Parametric Memory" · model release |
-| [ActionOPD: Distilling Decisions, Not Tokens](https://huggingface.co/papers/2610.19820) | Huining Yuan | 46 HF upvotes · v 46 | 46 HF upvotes · "ActionOPD: Distilling Decisions, Not Tokens" · model release |
+| [Cortex: Consolidating Context into Parametric Memory](https://huggingface.co/papers/2610.20399) | Jintian Zhang | 54 HF upvotes · v 54 | 54 HF upvotes · "Cortex: Consolidating Context into Parametric Memory" · model release |
+| [More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning](https://huggingface.co/papers/2610.19789) | Linhao Zhong | 47 HF upvotes · v 47 | 47 HF upvotes · "More Methods, Better Agents? A Reality Check on Self-Distillation in A" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 102 HN points · v 270 | 102 HN points · 84 comments · Show HN |
+| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 102 HN points · v 272 | 102 HN points · 85 comments · Show HN |
 | [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle) | KarLexAI | 45 HN points · v 69 | 45 HN points · 12 comments · Show HN |
 | [Show HN: The first short movie built using code and AI](https://fframes.studio/the-why/) | neogoose | 14 HN points · v 24 | 14 HN points · 5 comments · Show HN |
 | [Show HN: Can AI read your mind?](https://jeffyclassify.com/blog/mind-reader/) | nico | 6 HN points · v 22 | 6 HN points · 8 comments · Show HN |
