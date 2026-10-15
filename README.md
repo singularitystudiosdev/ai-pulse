@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-15 23:18 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-15 23:23 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [Cortex: Consolidating Context into Parametric Memory](https://huggingface.co/papers/2610.20399) | Jintian Zhang | 62 HF upvotes · v 62 | 62 HF upvotes · "Cortex: Consolidating Context into Parametric Memory" · model release |
 | [RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios](https://huggingface.co/papers/2610.19698) | Chenhao Yuan | 61 HF upvotes · v 61 | 61 HF upvotes · "RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios" · model release |
-| [Many Right Answers, One Training Example: Removing Responder Noise from GRPO for LLM Recommenders](https://huggingface.co/papers/2610.17771) | Xin Li | 35 HF upvotes · v 35 | 35 HF upvotes · "Many Right Answers, One Training Example: Removing Responder Noise fro" · model release |
+| [Many Right Answers, One Training Example: Removing Responder Noise from GRPO for LLM Recommenders](https://huggingface.co/papers/2610.17771) | Xin Li | 36 HF upvotes · v 36 | 36 HF upvotes · "Many Right Answers, One Training Example: Removing Responder Noise fro" · model release |
 | [Apertus 1.5: From Open Text Models to Open Multimodal Reasoners](https://huggingface.co/papers/2610.15542) | Project Apertus | 34 HF upvotes · v 34 | 34 HF upvotes · "Apertus 1.5: From Open Text Models to Open Multimodal Reasoners" · model release |
 | [CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation P…](https://huggingface.co/papers/2610.19128) | Yuxiang Lai | 25 HF upvotes · v 25 | 25 HF upvotes · "CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a C" · model release |
 
