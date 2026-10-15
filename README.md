@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-14 23:56 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-15 00:02 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://huggingface.co/papers/2610.17953) | Guanting Dong | 193 HF upvotes · v 193 | 193 HF upvotes · "Agent-Reflex: Teaching Language Agents to Act Reflectively" · model release |
 | [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://huggingface.co/papers/2610.18356) | Yu Wang | 109 HF upvotes · v 109 | 109 HF upvotes · "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes" · model release |
 | [GreenWAM: A World Foundation Model for Robotics](https://huggingface.co/papers/2610.18774) | Gennady Sidorov | 82 HF upvotes · v 82 | 82 HF upvotes · "GreenWAM: A World Foundation Model for Robotics" · model release |
-| [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://huggingface.co/papers/2610.18868) | Wenbo Hu | 75 HF upvotes · v 75 | 75 HF upvotes · "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rew" · model release |
+| [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://huggingface.co/papers/2610.18868) | Wenbo Hu | 76 HF upvotes · v 76 | 76 HF upvotes · "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rew" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by…](https://x.com/elonmusk/status/2110445577184133456) | [@elonmusk](https://x.com/elonmusk) | 35650♥ 4598RT · v 14929.6 | known founder · 14930 velocity · 35650♥ 4598RT · 1847271 views · 5h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
@@ -53,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-15](archive/2026-10-15.md)
 - [2026-10-14](archive/2026-10-14.md)
 - [2026-10-13](archive/2026-10-13.md)
 - [2026-10-12](archive/2026-10-12.md)
