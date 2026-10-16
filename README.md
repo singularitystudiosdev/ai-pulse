@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-16 19:11 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-16 19:16 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 114 HN points · v 306 | 114 HN points · 96 comments · Show HN |
-| [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 38 HN points · v 74 | 38 HN points · 18 comments · Show HN |
+| [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 39 HN points · v 75 | 39 HN points · 18 comments · Show HN |
 | [Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects](https://gitsu.app/) | indhuja | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
 | [Show HN: Dub Anything – Dub videos in each actor's own voice](https://github.com/swax/dub-anything) | swax | 8 HN points · v 16 | 8 HN points · 4 comments · Show HN |
 
