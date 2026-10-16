@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-16 19:00 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-16 19:06 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Muse Spark Open -- weights releasing today -- runs great on new Mac Studios thanks to work with @johnternus a…](https://x.com/finkd/status/2110778025629347999)<br>![card](https://pbs.twimg.com/media/HUr9XldXIAAPeX3.jpg?name=orig) | [@finkd](https://x.com/finkd) | 26253♥ 1439RT · v 1306.4 | known founder · 1306 velocity · 26253♥ 1439RT · 2133462 views · 26h old · matched "weights" |
 | [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 448 HF upvotes · v 448 | 448 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
 | [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 262 HF upvotes · v 262 | 262 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
 | [FDE-Gym: The Last Mile of AI Delivery](https://huggingface.co/papers/2610.22350) | Dongxu Yang | 228 HF upvotes · v 228 | 228 HF upvotes · "FDE-Gym: The Last Mile of AI Delivery" · model release |
 | [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](https://huggingface.co/papers/2610.17665) | Qingchuan Ma | 197 HF upvotes · v 197 | 197 HF upvotes · "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projec" · model release |
+| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 186 HF upvotes · v 186 | 186 HF upvotes · "Self-Evolving Agent Harness" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [@ChazakielDoremi i breed mantises for fun and once tried grafting two ooths together just to see what hatched…](https://x.com/ariexsha/status/2110924715103514871) | [@ariexsha](https://x.com/ariexsha) | 182♥ 3RT · v 14.6 | 15 velocity · 182♥ 3RT · 16949 views · 16h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
