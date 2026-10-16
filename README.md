@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-16 12:26 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-16 15:33 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 181 HF upvotes · v 181 | 181 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
-| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 152 HF upvotes · v 152 | 152 HF upvotes · "Self-Evolving Agent Harness" · model release |
-| [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](https://huggingface.co/papers/2610.17665) | Qingchuan Ma | 150 HF upvotes · v 150 | 150 HF upvotes · "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projec" · model release |
-| [Learning Where to Split: Dynamic Band Splitting for Audio Source Separation](https://huggingface.co/papers/2610.14993) | Bingzhe Zhang | 130 HF upvotes · v 130 | 130 HF upvotes · "Learning Where to Split: Dynamic Band Splitting for Audio Source Separ" · model release |
-| [InfiniSplat v2: Analyzing and Improving Feed-Forward 3DGS from Any Views](https://huggingface.co/papers/2610.20341) | Yongzhen Hu | 114 HF upvotes · v 114 | 114 HF upvotes · "InfiniSplat v2: Analyzing and Improving Feed-Forward 3DGS from Any Vie" · model release |
+| [Beam is now available across platforms, with open weights under the Apache 2.0 license - in collaboration wit…](https://x.com/reflection_ai/status/2111079965529968798)<br>![card](https://pbs.twimg.com/media/HUwPdcpWsAAYt5M.jpg?name=orig) | [@reflection_ai](https://x.com/reflection_ai) | 546♥ 124RT · v 765.5 | 765 velocity · 546♥ 124RT · 71763 views · 3h old · matched "weights", "tokenizer" |
+| [Reflection’s first model, Beam, scores 30 on the Artificial Analysis Intelligence Index, placing it #2 among …](https://x.com/ArtificialAnlys/status/2111087606759030831)<br>![card](https://pbs.twimg.com/media/HUwQ8XIbIAAEBTD.jpg?name=orig) | [@ArtificialAnlys](https://x.com/ArtificialAnlys) | 291♥ 27RT · v 390.6 | known founder · 391 velocity · 291♥ 27RT · 18943 views · 2h old · matched "qwen", "weights" |
+| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 286 HF upvotes · v 286 | 286 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
+| [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](https://huggingface.co/papers/2610.17665) | Qingchuan Ma | 197 HF upvotes · v 197 | 197 HF upvotes · "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projec" · model release |
+| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 185 HF upvotes · v 185 | 185 HF upvotes · "Self-Evolving Agent Harness" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 112 HN points · v 302 | 112 HN points · 95 comments · Show HN |
+| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 114 HN points · v 304 | 114 HN points · 95 comments · Show HN |
 | [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle) | KarLexAI | 47 HN points · v 73 | 47 HN points · 13 comments · Show HN |
 | [Show HN: The first short movie built using code and AI](https://fframes.studio/the-why/) | neogoose | 14 HN points · v 24 | 14 HN points · 5 comments · Show HN |
-| [Show HN: Dub Anything – Dub videos in each actor's own voice](https://github.com/swax/dub-anything) | swax | 8 HN points · v 16 | 8 HN points · 4 comments · Show HN |
+| [Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects](https://gitsu.app/) | indhuja | 5 HN points · v 17 | 5 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [🔥逆天了，货真价实的在安卓上运行 IOS 系统。  hackios可能真的在创造历史了，太不可思议了。  他们是完全的代码重写、修复和打磨，目前应该在最后的攻坚阶段，如果可行， hackios 就会完全公开。  而且…](https://x.com/aehyok/status/2110580211553378377)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2110580005923397633/img/xe6v0aRciug1HZbA.jpg) | [@aehyok](https://x.com/aehyok) | 2611♥ 221RT · v 78.4 | 78 velocity · 2611♥ 221RT · 336429 views · 36h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
