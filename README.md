@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-16 06:17 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-16 06:22 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding](https://huggingface.co/papers/2610.18829) | Xuyang Liu | 91 HF upvotes · v 91 | 91 HF upvotes · "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and U" · model release |
-| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 65 HF upvotes · v 65 | 65 HF upvotes · "Self-Evolving Agent Harness" · model release |
-| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 64 HF upvotes · v 64 | 64 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
-| [Speculative Forcing for Efficient Autoregressive Video Generation](https://huggingface.co/papers/2610.22347) | Hyunwook Choi | 56 HF upvotes · v 56 | 56 HF upvotes · "Speculative Forcing for Efficient Autoregressive Video Generation" · model release |
-| [SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in Text-to-image Generation](https://huggingface.co/papers/2610.22264) | Yufei Jiao | 38 HF upvotes · v 38 | 38 HF upvotes · "SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in " · model release |
+| [OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding](https://huggingface.co/papers/2610.18829) | Xuyang Liu | 92 HF upvotes · v 92 | 92 HF upvotes · "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and U" · model release |
+| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 67 HF upvotes · v 67 | 67 HF upvotes · "Self-Evolving Agent Harness" · model release |
+| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 66 HF upvotes · v 66 | 66 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
+| [Speculative Forcing for Efficient Autoregressive Video Generation](https://huggingface.co/papers/2610.22347) | Hyunwook Choi | 57 HF upvotes · v 57 | 57 HF upvotes · "Speculative Forcing for Efficient Autoregressive Video Generation" · model release |
+| [SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in Text-to-image Generation](https://huggingface.co/papers/2610.22264) | Yufei Jiao | 39 HF upvotes · v 39 | 39 HF upvotes · "SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in " · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 111 HN points · v 297 | 111 HN points · 93 comments · Show HN |
+| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 111 HN points · v 299 | 111 HN points · 94 comments · Show HN |
 | [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle) | KarLexAI | 47 HN points · v 73 | 47 HN points · 13 comments · Show HN |
 | [Show HN: The first short movie built using code and AI](https://fframes.studio/the-why/) | neogoose | 14 HN points · v 24 | 14 HN points · 5 comments · Show HN |
 | [Show HN: Dub Anything – Dub videos in each actor's own voice](https://github.com/swax/dub-anything) | swax | 7 HN points · v 13 | 7 HN points · 3 comments · Show HN |
