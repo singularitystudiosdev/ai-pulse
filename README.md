@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-16 02:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-16 02:15 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios](https://huggingface.co/papers/2610.19698) | Chenhao Yuan | 62 HF upvotes · v 62 | 62 HF upvotes · "RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios" · model release |
 | [Many Right Answers, One Training Example: Removing Responder Noise from GRPO for LLM Recommenders](https://huggingface.co/papers/2610.17771) | Xin Li | 39 HF upvotes · v 39 | 39 HF upvotes · "Many Right Answers, One Training Example: Removing Responder Noise fro" · model release |
 | [Apertus 1.5: From Open Text Models to Open Multimodal Reasoners](https://huggingface.co/papers/2610.15542) | Project Apertus | 34 HF upvotes · v 34 | 34 HF upvotes · "Apertus 1.5: From Open Text Models to Open Multimodal Reasoners" · model release |
-| [CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation P…](https://huggingface.co/papers/2610.19128) | Yuxiang Lai | 26 HF upvotes · v 26 | 26 HF upvotes · "CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a C" · model release |
+| [CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation P…](https://huggingface.co/papers/2610.19128) | Yuxiang Lai | 27 HF upvotes · v 27 | 27 HF upvotes · "CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a C" · model release |
 | [The Thinking Leakage in Reinforcement Learning for LLMs](https://huggingface.co/papers/2610.14270) | Wenxuan Zhu | 21 HF upvotes · v 21 | 21 HF upvotes · "The Thinking Leakage in Reinforcement Learning for LLMs" · model release |
 
 ### 🚀 AI SaaS launches (4)
