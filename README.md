@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-16 11:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-16 11:54 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 181 HF upvotes · v 181 | 181 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
-| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 138 HF upvotes · v 138 | 138 HF upvotes · "Self-Evolving Agent Harness" · model release |
+| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 142 HF upvotes · v 142 | 142 HF upvotes · "Self-Evolving Agent Harness" · model release |
 | [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](https://huggingface.co/papers/2610.17665) | Qingchuan Ma | 137 HF upvotes · v 137 | 137 HF upvotes · "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projec" · model release |
 | [Learning Where to Split: Dynamic Band Splitting for Audio Source Separation](https://huggingface.co/papers/2610.14993) | Bingzhe Zhang | 129 HF upvotes · v 129 | 129 HF upvotes · "Learning Where to Split: Dynamic Band Splitting for Audio Source Separ" · model release |
 | [InfiniSplat v2: Analyzing and Improving Feed-Forward 3DGS from Any Views](https://huggingface.co/papers/2610.20341) | Yongzhen Hu | 114 HF upvotes · v 114 | 114 HF upvotes · "InfiniSplat v2: Analyzing and Improving Feed-Forward 3DGS from Any Vie" · model release |
