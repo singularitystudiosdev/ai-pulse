@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-16 15:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-16 15:38 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Beam is now available across platforms, with open weights under the Apache 2.0 license - in collaboration wit…](https://x.com/reflection_ai/status/2111079965529968798)<br>![card](https://pbs.twimg.com/media/HUwPdcpWsAAYt5M.jpg?name=orig) | [@reflection_ai](https://x.com/reflection_ai) | 546♥ 124RT · v 765.5 | 765 velocity · 546♥ 124RT · 71763 views · 3h old · matched "weights", "tokenizer" |
-| [Reflection’s first model, Beam, scores 30 on the Artificial Analysis Intelligence Index, placing it #2 among …](https://x.com/ArtificialAnlys/status/2111087606759030831)<br>![card](https://pbs.twimg.com/media/HUwQ8XIbIAAEBTD.jpg?name=orig) | [@ArtificialAnlys](https://x.com/ArtificialAnlys) | 291♥ 27RT · v 390.6 | known founder · 391 velocity · 291♥ 27RT · 18943 views · 2h old · matched "qwen", "weights" |
-| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 286 HF upvotes · v 286 | 286 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
+| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 292 HF upvotes · v 292 | 292 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
 | [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](https://huggingface.co/papers/2610.17665) | Qingchuan Ma | 197 HF upvotes · v 197 | 197 HF upvotes · "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projec" · model release |
 | [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 185 HF upvotes · v 185 | 185 HF upvotes · "Self-Evolving Agent Harness" · model release |
+| [FDE-Gym: The Last Mile of AI Delivery](https://huggingface.co/papers/2610.22350) | Dongxu Yang | 179 HF upvotes · v 179 | 179 HF upvotes · "FDE-Gym: The Last Mile of AI Delivery" · model release |
+| [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 178 HF upvotes · v 178 | 178 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [🔥逆天了，货真价实的在安卓上运行 IOS 系统。  hackios可能真的在创造历史了，太不可思议了。  他们是完全的代码重写、修复和打磨，目前应该在最后的攻坚阶段，如果可行， hackios 就会完全公开。  而且…](https://x.com/aehyok/status/2110580211553378377)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2110580005923397633/img/xe6v0aRciug1HZbA.jpg) | [@aehyok](https://x.com/aehyok) | 2611♥ 221RT · v 78.4 | 78 velocity · 2611♥ 221RT · 336429 views · 36h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
