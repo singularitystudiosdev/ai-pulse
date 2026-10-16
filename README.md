@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-16 16:21 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-16 19:00 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 334 HF upvotes · v 334 | 334 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
-| [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 219 HF upvotes · v 219 | 219 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
+| [Muse Spark Open -- weights releasing today -- runs great on new Mac Studios thanks to work with @johnternus a…](https://x.com/finkd/status/2110778025629347999)<br>![card](https://pbs.twimg.com/media/HUr9XldXIAAPeX3.jpg?name=orig) | [@finkd](https://x.com/finkd) | 26253♥ 1439RT · v 1306.4 | known founder · 1306 velocity · 26253♥ 1439RT · 2133462 views · 26h old · matched "weights" |
+| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 448 HF upvotes · v 448 | 448 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
+| [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 262 HF upvotes · v 262 | 262 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
+| [FDE-Gym: The Last Mile of AI Delivery](https://huggingface.co/papers/2610.22350) | Dongxu Yang | 228 HF upvotes · v 228 | 228 HF upvotes · "FDE-Gym: The Last Mile of AI Delivery" · model release |
 | [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](https://huggingface.co/papers/2610.17665) | Qingchuan Ma | 197 HF upvotes · v 197 | 197 HF upvotes · "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projec" · model release |
-| [FDE-Gym: The Last Mile of AI Delivery](https://huggingface.co/papers/2610.22350) | Dongxu Yang | 195 HF upvotes · v 195 | 195 HF upvotes · "FDE-Gym: The Last Mile of AI Delivery" · model release |
-| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 185 HF upvotes · v 185 | 185 HF upvotes · "Self-Evolving Agent Harness" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 114 HN points · v 306 | 114 HN points · 96 comments · Show HN |
-| [Show HN: The first short movie built using code and AI](https://fframes.studio/the-why/) | neogoose | 14 HN points · v 24 | 14 HN points · 5 comments · Show HN |
-| [Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects](https://gitsu.app/) | indhuja | 5 HN points · v 19 | 5 HN points · 7 comments · Show HN |
-| [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 12 HN points · v 18 | 12 HN points · 3 comments · Show HN |
+| [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 38 HN points · v 74 | 38 HN points · 18 comments · Show HN |
+| [Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects](https://gitsu.app/) | indhuja | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
+| [Show HN: Dub Anything – Dub videos in each actor's own voice](https://github.com/swax/dub-anything) | swax | 8 HN points · v 16 | 8 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [@ChazakielDoremi i breed mantises for fun and once tried grafting two ooths together just to see what hatched…](https://x.com/ariexsha/status/2110924715103514871) | [@ariexsha](https://x.com/ariexsha) | 182♥ 3RT · v 14.6 | 15 velocity · 182♥ 3RT · 16949 views · 16h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
