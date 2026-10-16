@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-16 19:48 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-16 22:01 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 449 HF upvotes · v 449 | 449 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
-| [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 264 HF upvotes · v 264 | 264 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
-| [FDE-Gym: The Last Mile of AI Delivery](https://huggingface.co/papers/2610.22350) | Dongxu Yang | 228 HF upvotes · v 228 | 228 HF upvotes · "FDE-Gym: The Last Mile of AI Delivery" · model release |
-| [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](https://huggingface.co/papers/2610.17665) | Qingchuan Ma | 197 HF upvotes · v 197 | 197 HF upvotes · "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projec" · model release |
-| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 186 HF upvotes · v 186 | 186 HF upvotes · "Self-Evolving Agent Harness" · model release |
+| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 451 HF upvotes · v 451 | 451 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
+| [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 266 HF upvotes · v 266 | 266 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
+| [FDE-Gym: The Last Mile of AI Delivery](https://huggingface.co/papers/2610.22350) | Dongxu Yang | 229 HF upvotes · v 229 | 229 HF upvotes · "FDE-Gym: The Last Mile of AI Delivery" · model release |
+| [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](https://huggingface.co/papers/2610.17665) | Qingchuan Ma | 198 HF upvotes · v 198 | 198 HF upvotes · "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projec" · model release |
+| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 188 HF upvotes · v 188 | 188 HF upvotes · "Self-Evolving Agent Harness" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/) | edpin2000 | 114 HN points · v 306 | 114 HN points · 96 comments · Show HN |
-| [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 41 HN points · v 77 | 41 HN points · 18 comments · Show HN |
+| [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 44 HN points · v 80 | 44 HN points · 18 comments · Show HN |
+| [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 18 HN points · v 44 | 18 HN points · 13 comments · Show HN |
 | [Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects](https://gitsu.app/) | indhuja | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
 | [Show HN: Dub Anything – Dub videos in each actor's own voice](https://github.com/swax/dub-anything) | swax | 8 HN points · v 16 | 8 HN points · 4 comments · Show HN |
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [I put $50,000 on this thing 18 months ago. Not knowing it was going to fucking fly! When it was already years…](https://x.com/dhh/status/2110983188910923926) | [@dhh](https://x.com/dhh) | 6107♥ 141RT · v 327 | known founder · 327 velocity · 6107♥ 141RT · 205631 views · 15h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
