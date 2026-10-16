@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-16 06:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-16 06:38 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding](https://huggingface.co/papers/2610.18829) | Xuyang Liu | 94 HF upvotes · v 94 | 94 HF upvotes · "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and U" · model release |
-| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 80 HF upvotes · v 80 | 80 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
-| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 68 HF upvotes · v 68 | 68 HF upvotes · "Self-Evolving Agent Harness" · model release |
+| [OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding](https://huggingface.co/papers/2610.18829) | Xuyang Liu | 95 HF upvotes · v 95 | 95 HF upvotes · "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and U" · model release |
+| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 87 HF upvotes · v 87 | 87 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
+| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 70 HF upvotes · v 70 | 70 HF upvotes · "Self-Evolving Agent Harness" · model release |
 | [Speculative Forcing for Efficient Autoregressive Video Generation](https://huggingface.co/papers/2610.22347) | Hyunwook Choi | 57 HF upvotes · v 57 | 57 HF upvotes · "Speculative Forcing for Efficient Autoregressive Video Generation" · model release |
-| [SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in Text-to-image Generation](https://huggingface.co/papers/2610.22264) | Yufei Jiao | 41 HF upvotes · v 41 | 41 HF upvotes · "SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in " · model release |
+| [SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in Text-to-image Generation](https://huggingface.co/papers/2610.22264) | Yufei Jiao | 42 HF upvotes · v 42 | 42 HF upvotes · "SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in " · model release |
 
 ### 🚀 AI SaaS launches (4)
 
