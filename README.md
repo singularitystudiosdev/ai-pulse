@@ -15,16 +15,16 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-16 06:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-16 06:54 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding](https://huggingface.co/papers/2610.18829) | Xuyang Liu | 127 HF upvotes · v 127 | 127 HF upvotes · "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and U" · model release |
+| [OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding](https://huggingface.co/papers/2610.18829) | Xuyang Liu | 129 HF upvotes · v 129 | 129 HF upvotes · "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and U" · model release |
 | [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 96 HF upvotes · v 96 | 96 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
 | [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 70 HF upvotes · v 70 | 70 HF upvotes · "Self-Evolving Agent Harness" · model release |
-| [Speculative Forcing for Efficient Autoregressive Video Generation](https://huggingface.co/papers/2610.22347) | Hyunwook Choi | 57 HF upvotes · v 57 | 57 HF upvotes · "Speculative Forcing for Efficient Autoregressive Video Generation" · model release |
+| [Speculative Forcing for Efficient Autoregressive Video Generation](https://huggingface.co/papers/2610.22347) | Hyunwook Choi | 58 HF upvotes · v 58 | 58 HF upvotes · "Speculative Forcing for Efficient Autoregressive Video Generation" · model release |
 | [SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in Text-to-image Generation](https://huggingface.co/papers/2610.22264) | Yufei Jiao | 43 HF upvotes · v 43 | 43 HF upvotes · "SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in " · model release |
 
 ### 🚀 AI SaaS launches (4)
