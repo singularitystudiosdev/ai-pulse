@@ -15,34 +15,38 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-17 01:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-17 04:47 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 462 HF upvotes · v 462 | 462 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
-| [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 277 HF upvotes · v 277 | 277 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
-| [FDE-Gym: The Last Mile of AI Delivery](https://huggingface.co/papers/2610.22350) | Dongxu Yang | 230 HF upvotes · v 230 | 230 HF upvotes · "FDE-Gym: The Last Mile of AI Delivery" · model release |
+| [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 656 HF upvotes · v 656 | 656 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
+| [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 284 HF upvotes · v 284 | 284 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
+| [FDE-Gym: The Last Mile of AI Delivery](https://huggingface.co/papers/2610.22350) | Dongxu Yang | 276 HF upvotes · v 276 | 276 HF upvotes · "FDE-Gym: The Last Mile of AI Delivery" · model release |
 | [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](https://huggingface.co/papers/2610.17665) | Qingchuan Ma | 198 HF upvotes · v 198 | 198 HF upvotes · "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projec" · model release |
-| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 189 HF upvotes · v 189 | 189 HF upvotes · "Self-Evolving Agent Harness" · model release |
+| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 191 HF upvotes · v 191 | 191 HF upvotes · "Self-Evolving Agent Harness" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 50 HN points · v 88 | 50 HN points · 19 comments · Show HN |
-| [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 21 HN points · v 55 | 21 HN points · 17 comments · Show HN |
+| [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 51 HN points · v 89 | 51 HN points · 19 comments · Show HN |
+| [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 25 HN points · v 63 | 25 HN points · 19 comments · Show HN |
 | [Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects](https://gitsu.app/) | indhuja | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
-| [Show HN: Dub Anything – Dub videos in each actor's own voice](https://github.com/swax/dub-anything) | swax | 8 HN points · v 18 | 8 HN points · 5 comments · Show HN |
+| [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 14 HN points · v 20 | 14 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (3)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [the physics behind the roadster - https://roadster.pplx.app/](https://x.com/AravSrinivas/status/2111260882089243129)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2111253795267379200/img/xAzHuNdl7OIzLLIH.jpg) | [@AravSrinivas](https://x.com/AravSrinivas) | 1108♥ 143RT · v 914.2 | known founder · 914 velocity · 1108♥ 143RT · 85905 views · 4h old |
+| [Beyond the limits of physics – Multi-mode fan & ground sealing system pulls air from beneath the vehicle, gen…](https://x.com/Tesla/status/2110907039493038577)<br>![card](https://pbs.twimg.com/media/HUtyekraIAEDN3j.jpg?name=orig) | [@Tesla](https://x.com/Tesla) | 3401♥ 281RT · v 98 | known founder · 98 velocity · 3401♥ 281RT · 161163 views · 27h old |
+| [Tl;dr (and it is long): I don't have a p(doom), but in particular I can't confidently say that my p(doom) is …](https://x.com/wtgowers/status/2111045962911097188) | [@wtgowers](https://x.com/wtgowers) | 129♥ 9RT · v 7.8 | 7.8 velocity · 129♥ 9RT · 10437 views · 18h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
