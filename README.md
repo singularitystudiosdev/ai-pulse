@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-17 16:45 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-17 18:22 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 54 HN points · v 92 | 54 HN points · 19 comments · Show HN |
-| [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 34 HN points · v 78 | 34 HN points · 22 comments · Show HN |
+| [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 36 HN points · v 80 | 36 HN points · 22 comments · Show HN |
 | [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 31 HN points · v 69 | 31 HN points · 19 comments · Show HN |
 | [Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects](https://gitsu.app/) | indhuja | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [We had a security breach last night related to a large scale distillation attack that impacted 1.4% of OpenCo…](https://x.com/opencode/status/2111516673953935833) | [@opencode](https://x.com/opencode) | 589♥ 67RT · v 881.3 | known founder · 881 velocity · 589♥ 67RT · 14325 views · <1h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
