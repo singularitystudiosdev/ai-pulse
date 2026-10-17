@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-17 18:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-17 18:54 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [🚨 Confirmed. OpenCode hacked. Keys stolen.  Telling customers to revoke.](https://x.com/mattjay/status/2111480005435719885)<br>![card](https://pbs.twimg.com/media/HU173_hW8AAbXwZ.jpg?name=orig) | [@mattjay](https://x.com/mattjay) | 1388♥ 234RT · v 1928.5 | 1929 velocity · 1388♥ 234RT · 246093 views · 3h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
