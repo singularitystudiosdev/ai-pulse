@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-17 08:57 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-17 09:02 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,8 +23,8 @@
 |---|---|---|---|
 | [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 660 HF upvotes · v 660 | 660 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
 | [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 315 HF upvotes · v 315 | 315 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
+| [MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://huggingface.co/papers/2610.22276) | Luozheng Qin | 282 HF upvotes · v 282 | 282 HF upvotes · "MJev-Spatial: System One Spatial Intelligence via Native Attention Mat" · model release |
 | [FDE-Gym: The Last Mile of AI Delivery](https://huggingface.co/papers/2610.22350) | Dongxu Yang | 281 HF upvotes · v 281 | 281 HF upvotes · "FDE-Gym: The Last Mile of AI Delivery" · model release |
-| [MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://huggingface.co/papers/2610.22276) | Luozheng Qin | 279 HF upvotes · v 279 | 279 HF upvotes · "MJev-Spatial: System One Spatial Intelligence via Native Attention Mat" · model release |
 | [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](https://huggingface.co/papers/2610.17665) | Qingchuan Ma | 200 HF upvotes · v 200 | 200 HF upvotes · "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projec" · model release |
 
 ### 🚀 AI SaaS launches (4)
