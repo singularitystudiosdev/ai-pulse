@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-17 05:18 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-17 05:24 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 656 HF upvotes · v 656 | 656 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
-| [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 291 HF upvotes · v 291 | 291 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
-| [FDE-Gym: The Last Mile of AI Delivery](https://huggingface.co/papers/2610.22350) | Dongxu Yang | 280 HF upvotes · v 280 | 280 HF upvotes · "FDE-Gym: The Last Mile of AI Delivery" · model release |
+| [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 292 HF upvotes · v 292 | 292 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
+| [FDE-Gym: The Last Mile of AI Delivery](https://huggingface.co/papers/2610.22350) | Dongxu Yang | 281 HF upvotes · v 281 | 281 HF upvotes · "FDE-Gym: The Last Mile of AI Delivery" · model release |
 | [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](https://huggingface.co/papers/2610.17665) | Qingchuan Ma | 198 HF upvotes · v 198 | 198 HF upvotes · "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projec" · model release |
 | [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 191 HF upvotes · v 191 | 191 HF upvotes · "Self-Evolving Agent Harness" · model release |
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 51 HN points · v 89 | 51 HN points · 19 comments · Show HN |
 | [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 25 HN points · v 63 | 25 HN points · 19 comments · Show HN |
-| [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 15 HN points · v 27 | 15 HN points · 6 comments · Show HN |
+| [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 17 HN points · v 31 | 17 HN points · 7 comments · Show HN |
 | [Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects](https://gitsu.app/) | indhuja | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
