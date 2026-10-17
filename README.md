@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-17 00:48 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-17 00:53 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [how much can models remember?  there’s a neat perspective on neural networks that deserves to be more widely …](https://x.com/heyyalexwang/status/2111158818730397932)<br>![card](https://pbs.twimg.com/tweet_video_thumb/HUxWpAybAAAEpA9.jpg) | [@heyyalexwang](https://x.com/heyyalexwang) | 292♥ 26RT · v 43.7 | 44 velocity · 292♥ 26RT · 11472 views · 7h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
