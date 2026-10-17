@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-17 09:02 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-17 09:08 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,8 +31,8 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 52 HN points · v 90 | 52 HN points · 19 comments · Show HN |
-| [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 28 HN points · v 66 | 28 HN points · 19 comments · Show HN |
+| [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 53 HN points · v 91 | 53 HN points · 19 comments · Show HN |
+| [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 29 HN points · v 67 | 29 HN points · 19 comments · Show HN |
 | [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 26 HN points · v 46 | 26 HN points · 10 comments · Show HN |
 | [Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects](https://gitsu.app/) | indhuja | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
 
