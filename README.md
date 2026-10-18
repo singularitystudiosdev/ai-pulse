@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-18 09:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-18 09:55 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | critiquebrowser | 125 HN points · v 189 | 125 HN points · 32 comments · Show HN |
+| [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | critiquebrowser | 128 HN points · v 192 | 128 HN points · 32 comments · Show HN |
 | [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 58 HN points · v 96 | 58 HN points · 19 comments · Show HN |
 | [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 41 HN points · v 87 | 41 HN points · 23 comments · Show HN |
 | [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 32 HN points · v 72 | 32 HN points · 20 comments · Show HN |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [@opencode so you leaked the API keys? please say that and not call this a distillation attack](https://x.com/WispyWinter/status/2111542806099722698)<br>![card](https://pbs.twimg.com/media/HU20eIabAAAT7HF.png?name=orig) | [@WispyWinter](https://x.com/WispyWinter) | 25♥ 0RT · v 6.5 | 6.5 velocity · 25♥ 0RT · 6352 views · 14h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
