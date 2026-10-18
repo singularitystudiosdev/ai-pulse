@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-18 17:23 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-18 17:28 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,8 +31,8 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | critiquebrowser | 210 HN points · v 352 | 210 HN points · 71 comments · Show HN |
-| [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 42 HN points · v 90 | 42 HN points · 24 comments · Show HN |
+| [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | critiquebrowser | 210 HN points · v 354 | 210 HN points · 72 comments · Show HN |
+| [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 43 HN points · v 91 | 43 HN points · 24 comments · Show HN |
 | [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 32 HN points · v 72 | 32 HN points · 20 comments · Show HN |
 | [Show HN: CallSitter – bot that answers my calls and wastes scammers' time](https://github.com/szerintedmi/callsitter) | szert | 6 HN points · v 24 | 6 HN points · 9 comments · Show HN |
 
