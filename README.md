@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-18 14:17 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-18 16:49 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,18 +31,21 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | critiquebrowser | 183 HN points · v 295 | 183 HN points · 56 comments · Show HN |
-| [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 58 HN points · v 96 | 58 HN points · 19 comments · Show HN |
-| [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 42 HN points · v 88 | 42 HN points · 23 comments · Show HN |
+| [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | critiquebrowser | 209 HN points · v 347 | 209 HN points · 69 comments · Show HN |
+| [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 42 HN points · v 90 | 42 HN points · 24 comments · Show HN |
 | [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 32 HN points · v 72 | 32 HN points · 20 comments · Show HN |
+| [Show HN: CallSitter – bot that answers my calls and wastes scammers' time](https://github.com/szerintedmi/callsitter) | szert | 5 HN points · v 23 | 5 HN points · 9 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (2)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [they've been non stop trying to attack our systems for the past 48 hours  a side effect is everything is gett…](https://x.com/thdxr/status/2111790511409258796) | [@thdxr](https://x.com/thdxr) | 5285♥ 189RT · v 3621.1 | known founder · 3621 velocity · 5285♥ 189RT · 462453 views · 5h old |
+| [@RhysSullivan yes that was a bit frustrating mid incident when trying to investigate. they did quite a bit an…](https://x.com/thdxr/status/2111831348336091179) | [@thdxr](https://x.com/thdxr) | 544♥ 8RT · v 1719.5 | known founder · 1719 velocity · 544♥ 8RT · 91081 views · 2h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
