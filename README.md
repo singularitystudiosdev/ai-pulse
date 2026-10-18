@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-18 05:41 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-18 05:47 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,7 +34,7 @@
 | [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 58 HN points · v 96 | 58 HN points · 19 comments · Show HN |
 | [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 40 HN points · v 86 | 40 HN points · 23 comments · Show HN |
 | [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 32 HN points · v 72 | 32 HN points · 20 comments · Show HN |
-| [Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | critiquebrowser | 16 HN points · v 20 | 16 HN points · 2 comments · Show HN |
+| [Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | critiquebrowser | 30 HN points · v 52 | 30 HN points · 11 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
