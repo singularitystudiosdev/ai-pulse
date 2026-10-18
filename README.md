@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-18 16:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-18 16:54 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,12 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [they've been non stop trying to attack our systems for the past 48 hours  a side effect is everything is gett…](https://x.com/thdxr/status/2111790511409258796) | [@thdxr](https://x.com/thdxr) | 5285♥ 189RT · v 3621.1 | known founder · 3621 velocity · 5285♥ 189RT · 462453 views · 5h old |
-| [@RhysSullivan yes that was a bit frustrating mid incident when trying to investigate. they did quite a bit an…](https://x.com/thdxr/status/2111831348336091179) | [@thdxr](https://x.com/thdxr) | 544♥ 8RT · v 1719.5 | known founder · 1719 velocity · 544♥ 8RT · 91081 views · 2h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
