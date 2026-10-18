@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-18 09:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-18 09:39 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | critiquebrowser | 121 HN points · v 181 | 121 HN points · 30 comments · Show HN |
+| [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | critiquebrowser | 124 HN points · v 186 | 124 HN points · 31 comments · Show HN |
 | [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) | stephenchung | 58 HN points · v 96 | 58 HN points · 19 comments · Show HN |
 | [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 41 HN points · v 87 | 41 HN points · 23 comments · Show HN |
 | [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 32 HN points · v 72 | 32 HN points · 20 comments · Show HN |
