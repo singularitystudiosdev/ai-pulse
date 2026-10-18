@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-18 22:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-18 22:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://huggingface.co/papers/2610.22276) | Luozheng Qin | 354 HF upvotes · v 354 | 354 HF upvotes · "MJev-Spatial: System One Spatial Intelligence via Native Attention Mat" · model release |
 | [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 316 HF upvotes · v 316 | 316 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
 | [FDE-Gym: The Last Mile of AI Delivery](https://huggingface.co/papers/2610.22350) | Dongxu Yang | 285 HF upvotes · v 285 | 285 HF upvotes · "FDE-Gym: The Last Mile of AI Delivery" · model release |
-| [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](https://huggingface.co/papers/2610.17665) | Qingchuan Ma | 202 HF upvotes · v 202 | 202 HF upvotes · "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projec" · model release |
+| [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 202 HF upvotes · v 202 | 202 HF upvotes · "Self-Evolving Agent Harness" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
