@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-19 07:04 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-19 07:09 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Behavioral Compositionality of Sparse Autoencoder Representations](https://huggingface.co/papers/2610.21261) | Haotian Ma | 107 HF upvotes · v 107 | 107 HF upvotes · "Behavioral Compositionality of Sparse Autoencoder Representations" · model release |
-| [Has GPT-6-Astra Achieved Embodied Intelligence?](https://huggingface.co/papers/2610.22471) | SenseNova | 88 HF upvotes · v 88 | 88 HF upvotes · "Has GPT-6-Astra Achieved Embodied Intelligence?" · model release |
-| [Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents](https://huggingface.co/papers/2610.18784) | Yuchen Lu | 87 HF upvotes · v 87 | 87 HF upvotes · "Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon" · model release |
-| [HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents](https://huggingface.co/papers/2610.23479) | Hongcheng Gao | 69 HF upvotes · v 69 | 69 HF upvotes · "HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Ro" · model release |
-| [Into the Unknown: Benchmarking AI agents on open scientific research problems](https://huggingface.co/papers/2610.19159) | Seungone Kim | 69 HF upvotes · v 69 | 69 HF upvotes · "Into the Unknown: Benchmarking AI agents on open scientific research p" · model release |
+| [Has GPT-6-Astra Achieved Embodied Intelligence?](https://huggingface.co/papers/2610.22471) | SenseNova | 89 HF upvotes · v 89 | 89 HF upvotes · "Has GPT-6-Astra Achieved Embodied Intelligence?" · model release |
+| [Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents](https://huggingface.co/papers/2610.18784) | Yuchen Lu | 88 HF upvotes · v 88 | 88 HF upvotes · "Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon" · model release |
+| [HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents](https://huggingface.co/papers/2610.23479) | Hongcheng Gao | 70 HF upvotes · v 70 | 70 HF upvotes · "HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Ro" · model release |
+| [Into the Unknown: Benchmarking AI agents on open scientific research problems](https://huggingface.co/papers/2610.19159) | Seungone Kim | 70 HF upvotes · v 70 | 70 HF upvotes · "Into the Unknown: Benchmarking AI agents on open scientific research p" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
