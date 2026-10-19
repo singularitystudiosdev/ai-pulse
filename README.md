@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-19 00:23 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-19 01:39 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://huggingface.co/papers/2610.21601) | Bingxi Hou | 668 HF upvotes · v 668 | 668 HF upvotes · "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Polic" · model release |
 | [MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://huggingface.co/papers/2610.22276) | Luozheng Qin | 354 HF upvotes · v 354 | 354 HF upvotes · "MJev-Spatial: System One Spatial Intelligence via Native Attention Mat" · model release |
-| [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 316 HF upvotes · v 316 | 316 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
+| [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://huggingface.co/papers/2610.22200) | Hanzhang Zhou | 317 HF upvotes · v 317 | 317 HF upvotes · "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use" · model release |
 | [FDE-Gym: The Last Mile of AI Delivery](https://huggingface.co/papers/2610.22350) | Dongxu Yang | 285 HF upvotes · v 285 | 285 HF upvotes · "FDE-Gym: The Last Mile of AI Delivery" · model release |
 | [Self-Evolving Agent Harness](https://huggingface.co/papers/2610.18813) | Chuyang Wei | 202 HF upvotes · v 202 | 202 HF upvotes · "Self-Evolving Agent Harness" · model release |
 
@@ -31,9 +31,9 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | critiquebrowser | 240 HN points · v 408 | 240 HN points · 84 comments · Show HN |
+| [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | critiquebrowser | 241 HN points · v 411 | 241 HN points · 85 comments · Show HN |
 | [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) | darajava | 45 HN points · v 93 | 45 HN points · 24 comments · Show HN |
-| [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 32 HN points · v 72 | 32 HN points · 20 comments · Show HN |
+| [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money) | _wesley | 33 HN points · v 73 | 33 HN points · 20 comments · Show HN |
 | [Show HN: CallSitter – bot that answers my calls and wastes scammers' time](https://github.com/szerintedmi/callsitter) | szert | 10 HN points · v 28 | 10 HN points · 9 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
