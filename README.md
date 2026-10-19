@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-19 20:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-19 20:19 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Has GPT-6-Astra Achieved Embodied Intelligence?](https://huggingface.co/papers/2610.22471) | SenseNova | 235 HF upvotes · v 235 | 235 HF upvotes · "Has GPT-6-Astra Achieved Embodied Intelligence?" · model release |
 | [Learning to Think and Explore in 3D World](https://huggingface.co/papers/2610.21783) | Yijiang Li | 141 HF upvotes · v 141 | 141 HF upvotes · "Learning to Think and Explore in 3D World" · model release |
 | [LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets](https://huggingface.co/papers/2610.09872) | Jun Zhao | 110 HF upvotes · v 110 | 110 HF upvotes · "LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolvi" · model release |
 | [Speculative Sampling in Interactive Video Generation](https://huggingface.co/papers/2610.20556) | Yubo Huang | 73 HF upvotes · v 73 | 73 HF upvotes · "Speculative Sampling in Interactive Video Generation" · model release |
 | [Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation](https://huggingface.co/papers/2610.23121) | Xuanyu Liu | 49 HF upvotes · v 49 | 49 HF upvotes · "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Gene" · model release |
+| [OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools](https://huggingface.co/papers/2610.14157) | Chenyang Yan | 39 HF upvotes · v 39 | 39 HF upvotes · "OpenMobile-2: Building Versatile Mobile Agents with Scalable Environme" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
