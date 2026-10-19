@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-19 23:40 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-19 23:45 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [Learning to Think and Explore in 3D World](https://huggingface.co/papers/2610.21783) | Yijiang Li | 144 HF upvotes · v 144 | 144 HF upvotes · "Learning to Think and Explore in 3D World" · model release |
 | [LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets](https://huggingface.co/papers/2610.09872) | Jun Zhao | 110 HF upvotes · v 110 | 110 HF upvotes · "LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolvi" · model release |
-| [LEV: Thinking Fast and Deep with Looped Decision Models](https://huggingface.co/papers/2610.20951) | Dingjie Song | 66 HF upvotes · v 66 | 66 HF upvotes · "LEV: Thinking Fast and Deep with Looped Decision Models" · model release |
+| [LEV: Thinking Fast and Deep with Looped Decision Models](https://huggingface.co/papers/2610.20951) | Dingjie Song | 67 HF upvotes · v 67 | 67 HF upvotes · "LEV: Thinking Fast and Deep with Looped Decision Models" · model release |
 | [Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation](https://huggingface.co/papers/2610.23121) | Xuanyu Liu | 49 HF upvotes · v 49 | 49 HF upvotes · "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Gene" · model release |
 | [OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools](https://huggingface.co/papers/2610.14157) | Chenyang Yan | 39 HF upvotes · v 39 | 39 HF upvotes · "OpenMobile-2: Building Versatile Mobile Agents with Scalable Environme" · model release |
 
