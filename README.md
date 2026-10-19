@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-19 14:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-19 14:38 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business](https://huggingface.co/papers/2610.20424) | Enhan Zhao | 192 HF upvotes · v 192 | 192 HF upvotes · "BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents" · model release |
-| [Has GPT-6-Astra Achieved Embodied Intelligence?](https://huggingface.co/papers/2610.22471) | SenseNova | 157 HF upvotes · v 157 | 157 HF upvotes · "Has GPT-6-Astra Achieved Embodied Intelligence?" · model release |
+| [Has GPT-6-Astra Achieved Embodied Intelligence?](https://huggingface.co/papers/2610.22471) | SenseNova | 158 HF upvotes · v 158 | 158 HF upvotes · "Has GPT-6-Astra Achieved Embodied Intelligence?" · model release |
 | [Learning to Think and Explore in 3D World](https://huggingface.co/papers/2610.21783) | Yijiang Li | 141 HF upvotes · v 141 | 141 HF upvotes · "Learning to Think and Explore in 3D World" · model release |
 | [LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets](https://huggingface.co/papers/2610.09872) | Jun Zhao | 115 HF upvotes · v 115 | 115 HF upvotes · "LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolvi" · model release |
-| [HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents](https://huggingface.co/papers/2610.23479) | Hongcheng Gao | 106 HF upvotes · v 106 | 106 HF upvotes · "HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Ro" · model release |
+| [HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents](https://huggingface.co/papers/2610.23479) | Hongcheng Gao | 108 HF upvotes · v 108 | 108 HF upvotes · "HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Ro" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | critiquebrowser | 248 HN points · v 422 | 248 HN points · 87 comments · Show HN |
-| [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/) | erikkannike | 66 HN points · v 142 | 66 HN points · 38 comments · Show HN |
+| [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/) | erikkannike | 68 HN points · v 146 | 68 HN points · 39 comments · Show HN |
 | [Show HN: Strot – Compile an LLM's intent once, run decisions locally](https://github.com/strot-ai/Project-STROT) | solohunter001 | 23 HN points · v 45 | 23 HN points · 11 comments · Show HN |
 | [Show HN: CallSitter – bot that answers my calls and wastes scammers' time](https://github.com/szerintedmi/callsitter) | szert | 13 HN points · v 33 | 13 HN points · 10 comments · Show HN |
 
