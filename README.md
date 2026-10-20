@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 21:24 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 21:29 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,9 +40,12 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (2)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [@OregonJournProj Here is a post of video from that speech. You need to issue a correction.  https://x.com/tds…](https://x.com/kgallella/status/2112332869461045733) | [@kgallella](https://x.com/kgallella) | 72♥ 0RT · v 0.6 | 0.6 velocity · 72♥ 0RT · 675 views · 22h old |
+| [@OregonJournProj And here's some google-cached images of her and other speakers in front of the same upside d…](https://x.com/Honest_Bender/status/2112301833708519659)<br>![card](https://pbs.twimg.com/media/HVBnUTOaoAEr4Fn.jpg?name=orig) | [@Honest_Bender](https://x.com/Honest_Bender) | 27♥ 0RT · v 0.3 | 0.3 velocity · 27♥ 0RT · 483 views · 24h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
