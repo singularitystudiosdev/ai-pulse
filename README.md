@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 07:43 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 07:49 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://huggingface.co/papers/2610.25736) | Chao Yu | 85 HF upvotes · v 85 | 85 HF upvotes · "Learning from Fleet Experience: A Collective Learning Paradigm for Rob" · model release |
+| [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://huggingface.co/papers/2610.25736) | Chao Yu | 86 HF upvotes · v 86 | 86 HF upvotes · "Learning from Fleet Experience: A Collective Learning Paradigm for Rob" · model release |
 | [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](https://huggingface.co/papers/2610.26860) | Yu Zhou | 59 HF upvotes · v 59 | 59 HF upvotes · "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memo" · model release |
 | [ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation](https://huggingface.co/papers/2610.25690) | Yihui Yang | 43 HF upvotes · v 43 | 43 HF upvotes · "ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned" · model release |
 | [Self-Evolving Coding Agents via Harness-Policy Optimization](https://huggingface.co/papers/2610.22791) | Zhepei Wei | 32 HF upvotes · v 32 | 32 HF upvotes · "Self-Evolving Coding Agents via Harness-Policy Optimization" · model release |
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/) | erikkannike | 147 HN points · v 363 | 147 HN points · 108 comments · Show HN |
+| [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/) | erikkannike | 148 HN points · v 364 | 148 HN points · 108 comments · Show HN |
 | [Show HN: I built a task system to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try) | dmayle | 54 HN points · v 152 | 54 HN points · 49 comments · Show HN |
 | [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) | murtazayusuf | 67 HN points · v 147 | 67 HN points · 40 comments · Show HN |
 | [Show HN: Strot – Compile an LLM's intent once, run decisions locally](https://github.com/strot-ai/Project-STROT) | solohunter001 | 23 HN points · v 49 | 23 HN points · 13 comments · Show HN |
