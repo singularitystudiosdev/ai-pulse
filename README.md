@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 21:40 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 21:45 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,7 +34,7 @@
 | [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 124 HN points · v 150 | 124 HN points · 13 comments · Show HN |
 | [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle) | dshekhar17 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 | [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/) | brndnbuilds | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
-| [Show HN: Shazam but for AI Slop Music](https://apps.apple.com/de/app/daft-slop-ai-music-detector/id6811013099) | obrhoff | 9 HN points · v 15 | 9 HN points · 3 comments · Show HN |
+| [Show HN: Shazam but for AI Slop Music](https://apps.apple.com/de/app/daft-slop-ai-music-detector/id6811013099) | obrhoff | 10 HN points · v 16 | 10 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
