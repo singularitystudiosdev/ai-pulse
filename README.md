@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 02:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 02:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Learning to Think and Explore in 3D World](https://huggingface.co/papers/2610.21783) | Yijiang Li | 145 HF upvotes · v 145 | 145 HF upvotes · "Learning to Think and Explore in 3D World" · model release |
+| [Learning to Think and Explore in 3D World](https://huggingface.co/papers/2610.21783) | Yijiang Li | 146 HF upvotes · v 146 | 146 HF upvotes · "Learning to Think and Explore in 3D World" · model release |
+| [LEV: Thinking Fast and Deep with Looped Decision Models](https://huggingface.co/papers/2610.20951) | Dingjie Song | 115 HF upvotes · v 115 | 115 HF upvotes · "LEV: Thinking Fast and Deep with Looped Decision Models" · model release |
 | [LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets](https://huggingface.co/papers/2610.09872) | Jun Zhao | 112 HF upvotes · v 112 | 112 HF upvotes · "LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolvi" · model release |
-| [LEV: Thinking Fast and Deep with Looped Decision Models](https://huggingface.co/papers/2610.20951) | Dingjie Song | 112 HF upvotes · v 112 | 112 HF upvotes · "LEV: Thinking Fast and Deep with Looped Decision Models" · model release |
 | [Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation](https://huggingface.co/papers/2610.23121) | Xuanyu Liu | 49 HF upvotes · v 49 | 49 HF upvotes · "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Gene" · model release |
-| [PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews](https://huggingface.co/papers/2610.21046) | Dingjie Song | 40 HF upvotes · v 40 | 40 HF upvotes · "PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews" · model release |
+| [PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews](https://huggingface.co/papers/2610.21046) | Dingjie Song | 41 HF upvotes · v 41 | 41 HF upvotes · "PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -34,7 +34,7 @@
 | [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/) | erikkannike | 145 HN points · v 361 | 145 HN points · 108 comments · Show HN |
 | [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) | murtazayusuf | 63 HN points · v 141 | 63 HN points · 39 comments · Show HN |
 | [Show HN: I built a task system to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try) | dmayle | 46 HN points · v 140 | 46 HN points · 47 comments · Show HN |
-| [Show HN: Strot – Compile an LLM's intent once, run decisions locally](https://github.com/strot-ai/Project-STROT) | solohunter001 | 23 HN points · v 47 | 23 HN points · 12 comments · Show HN |
+| [Show HN: Strot – Compile an LLM's intent once, run decisions locally](https://github.com/strot-ai/Project-STROT) | solohunter001 | 23 HN points · v 49 | 23 HN points · 13 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
