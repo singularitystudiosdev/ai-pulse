@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 02:35 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 02:41 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Learning to Think and Explore in 3D World](https://huggingface.co/papers/2610.21783) | Yijiang Li | 146 HF upvotes · v 146 | 146 HF upvotes · "Learning to Think and Explore in 3D World" · model release |
-| [LEV: Thinking Fast and Deep with Looped Decision Models](https://huggingface.co/papers/2610.20951) | Dingjie Song | 131 HF upvotes · v 131 | 131 HF upvotes · "LEV: Thinking Fast and Deep with Looped Decision Models" · model release |
+| [LEV: Thinking Fast and Deep with Looped Decision Models](https://huggingface.co/papers/2610.20951) | Dingjie Song | 134 HF upvotes · v 134 | 134 HF upvotes · "LEV: Thinking Fast and Deep with Looped Decision Models" · model release |
 | [LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets](https://huggingface.co/papers/2610.09872) | Jun Zhao | 112 HF upvotes · v 112 | 112 HF upvotes · "LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolvi" · model release |
+| [PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews](https://huggingface.co/papers/2610.21046) | Dingjie Song | 50 HF upvotes · v 50 | 50 HF upvotes · "PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews" · model release |
 | [Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation](https://huggingface.co/papers/2610.23121) | Xuanyu Liu | 49 HF upvotes · v 49 | 49 HF upvotes · "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Gene" · model release |
-| [PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews](https://huggingface.co/papers/2610.21046) | Dingjie Song | 48 HF upvotes · v 48 | 48 HF upvotes · "PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
