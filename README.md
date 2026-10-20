@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 18:11 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 18:16 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Scaling Parameter-Efficient Fine-Tuning for Brain Encoding](https://huggingface.co/papers/2610.26802) | Zhuofan Josh Ying | 215 HF upvotes · v 215 | 215 HF upvotes · "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding" · model release |
+| [Scaling Parameter-Efficient Fine-Tuning for Brain Encoding](https://huggingface.co/papers/2610.26802) | Zhuofan Josh Ying | 218 HF upvotes · v 218 | 218 HF upvotes · "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding" · model release |
 | [MemT-1.0: Towards Memory-Native Evolution](https://huggingface.co/papers/2610.26825) | Zhiyu Li | 144 HF upvotes · v 144 | 144 HF upvotes · "MemT-1.0: Towards Memory-Native Evolution" · model release |
 | [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://huggingface.co/papers/2610.25736) | Chao Yu | 107 HF upvotes · v 107 | 107 HF upvotes · "Learning from Fleet Experience: A Collective Learning Paradigm for Rob" · model release |
 | [Holi-World: Building Holistic World Intelligence from Human-Ego Experience](https://huggingface.co/papers/2610.26549) | Hao Li | 104 HF upvotes · v 104 | 104 HF upvotes · "Holi-World: Building Holistic World Intelligence from Human-Ego Experi" · model release |
-| [EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience](https://huggingface.co/papers/2610.26625) | Xinhao Ji | 96 HF upvotes · v 96 | 96 HF upvotes · "EgoXperience: Learning World-Grounded Egocentric Representations from " · model release |
+| [SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum](https://huggingface.co/papers/2610.26824) | Zhongxin Chen | 80 HF upvotes · v 80 | 80 HF upvotes · "SpecMRL: Redesign Matryoshka Representation Learning within Parametric" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 104 HN points · v 130 | 104 HN points · 13 comments · Show HN |
+| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 109 HN points · v 135 | 109 HN points · 13 comments · Show HN |
 | [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle) | dshekhar17 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 | [Show HN: A legal assistant that refuses to cite law it can't verify](https://ailegal.legal/) | vnutrivas | 9 HN points · v 15 | 9 HN points · 3 comments · Show HN |
 | [Show HN: Shazam but for AI Slop Music](https://apps.apple.com/de/app/daft-slop-ai-music-detector/id6811013099) | obrhoff | 8 HN points · v 14 | 8 HN points · 3 comments · Show HN |
