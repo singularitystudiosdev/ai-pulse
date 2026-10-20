@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 07:28 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 07:33 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/) | erikkannike | 146 HN points · v 362 | 146 HN points · 108 comments · Show HN |
-| [Show HN: I built a task system to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try) | dmayle | 54 HN points · v 154 | 54 HN points · 50 comments · Show HN |
+| [Show HN: I built a task system to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try) | dmayle | 54 HN points · v 152 | 54 HN points · 49 comments · Show HN |
 | [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) | murtazayusuf | 66 HN points · v 146 | 66 HN points · 40 comments · Show HN |
 | [Show HN: Strot – Compile an LLM's intent once, run decisions locally](https://github.com/strot-ai/Project-STROT) | solohunter001 | 23 HN points · v 49 | 23 HN points · 13 comments · Show HN |
 
