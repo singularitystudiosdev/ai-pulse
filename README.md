@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 18:32 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 18:38 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Scaling Parameter-Efficient Fine-Tuning for Brain Encoding](https://huggingface.co/papers/2610.26802) | Zhuofan Josh Ying | 222 HF upvotes · v 222 | 222 HF upvotes · "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding" · model release |
+| [Scaling Parameter-Efficient Fine-Tuning for Brain Encoding](https://huggingface.co/papers/2610.26802) | Zhuofan Josh Ying | 224 HF upvotes · v 224 | 224 HF upvotes · "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding" · model release |
 | [MemT-1.0: Towards Memory-Native Evolution](https://huggingface.co/papers/2610.26825) | Zhiyu Li | 144 HF upvotes · v 144 | 144 HF upvotes · "MemT-1.0: Towards Memory-Native Evolution" · model release |
 | [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://huggingface.co/papers/2610.25736) | Chao Yu | 107 HF upvotes · v 107 | 107 HF upvotes · "Learning from Fleet Experience: A Collective Learning Paradigm for Rob" · model release |
 | [Holi-World: Building Holistic World Intelligence from Human-Ego Experience](https://huggingface.co/papers/2610.26549) | Hao Li | 104 HF upvotes · v 104 | 104 HF upvotes · "Holi-World: Building Holistic World Intelligence from Human-Ego Experi" · model release |
