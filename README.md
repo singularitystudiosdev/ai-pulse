@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 18:38 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 20:58 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Scaling Parameter-Efficient Fine-Tuning for Brain Encoding](https://huggingface.co/papers/2610.26802) | Zhuofan Josh Ying | 224 HF upvotes · v 224 | 224 HF upvotes · "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding" · model release |
-| [MemT-1.0: Towards Memory-Native Evolution](https://huggingface.co/papers/2610.26825) | Zhiyu Li | 144 HF upvotes · v 144 | 144 HF upvotes · "MemT-1.0: Towards Memory-Native Evolution" · model release |
+| [Scaling Parameter-Efficient Fine-Tuning for Brain Encoding](https://huggingface.co/papers/2610.26802) | Zhuofan Josh Ying | 231 HF upvotes · v 231 | 231 HF upvotes · "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding" · model release |
+| [MemT-1.0: Towards Memory-Native Evolution](https://huggingface.co/papers/2610.26825) | Zhiyu Li | 145 HF upvotes · v 145 | 145 HF upvotes · "MemT-1.0: Towards Memory-Native Evolution" · model release |
+| [Holi-World: Building Holistic World Intelligence from Human-Ego Experience](https://huggingface.co/papers/2610.26549) | Hao Li | 109 HF upvotes · v 109 | 109 HF upvotes · "Holi-World: Building Holistic World Intelligence from Human-Ego Experi" · model release |
 | [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://huggingface.co/papers/2610.25736) | Chao Yu | 107 HF upvotes · v 107 | 107 HF upvotes · "Learning from Fleet Experience: A Collective Learning Paradigm for Rob" · model release |
-| [Holi-World: Building Holistic World Intelligence from Human-Ego Experience](https://huggingface.co/papers/2610.26549) | Hao Li | 104 HF upvotes · v 104 | 104 HF upvotes · "Holi-World: Building Holistic World Intelligence from Human-Ego Experi" · model release |
-| [SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum](https://huggingface.co/papers/2610.26824) | Zhongxin Chen | 80 HF upvotes · v 80 | 80 HF upvotes · "SpecMRL: Redesign Matryoshka Representation Learning within Parametric" · model release |
+| [SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum](https://huggingface.co/papers/2610.26824) | Zhongxin Chen | 81 HF upvotes · v 81 | 81 HF upvotes · "SpecMRL: Redesign Matryoshka Representation Learning within Parametric" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 124 HN points · v 150 | 124 HN points · 13 comments · Show HN |
+| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 124 HN points · v 148 | 124 HN points · 12 comments · Show HN |
 | [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle) | dshekhar17 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
+| [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/) | brndnbuilds | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
 | [Show HN: Shazam but for AI Slop Music](https://apps.apple.com/de/app/daft-slop-ai-music-detector/id6811013099) | obrhoff | 9 HN points · v 15 | 9 HN points · 3 comments · Show HN |
-| [Show HN: A legal assistant that refuses to cite law it can't verify](https://ailegal.legal/) | vnutrivas | 9 HN points · v 15 | 9 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [I'm looking at migrating over for the ChatGPT codebase and saw ~70% improvements on both wall time perf + pea…](https://x.com/feedthejim/status/2112584843368570921) | [@feedthejim](https://x.com/feedthejim) | 130♥ 4RT · v 38.6 | 39 velocity · 130♥ 4RT · 6113 views · 4h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
