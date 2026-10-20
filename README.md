@@ -15,25 +15,25 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 02:51 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 07:28 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Learning to Think and Explore in 3D World](https://huggingface.co/papers/2610.21783) | Yijiang Li | 146 HF upvotes · v 146 | 146 HF upvotes · "Learning to Think and Explore in 3D World" · model release |
-| [LEV: Thinking Fast and Deep with Looped Decision Models](https://huggingface.co/papers/2610.20951) | Dingjie Song | 139 HF upvotes · v 139 | 139 HF upvotes · "LEV: Thinking Fast and Deep with Looped Decision Models" · model release |
-| [LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets](https://huggingface.co/papers/2610.09872) | Jun Zhao | 112 HF upvotes · v 112 | 112 HF upvotes · "LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolvi" · model release |
-| [PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews](https://huggingface.co/papers/2610.21046) | Dingjie Song | 51 HF upvotes · v 51 | 51 HF upvotes · "PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews" · model release |
-| [Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation](https://huggingface.co/papers/2610.23121) | Xuanyu Liu | 49 HF upvotes · v 49 | 49 HF upvotes · "Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Gene" · model release |
+| [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://huggingface.co/papers/2610.25736) | Chao Yu | 85 HF upvotes · v 85 | 85 HF upvotes · "Learning from Fleet Experience: A Collective Learning Paradigm for Rob" · model release |
+| [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](https://huggingface.co/papers/2610.26860) | Yu Zhou | 59 HF upvotes · v 59 | 59 HF upvotes · "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memo" · model release |
+| [ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation](https://huggingface.co/papers/2610.25690) | Yihui Yang | 42 HF upvotes · v 42 | 42 HF upvotes · "ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned" · model release |
+| [Self-Evolving Coding Agents via Harness-Policy Optimization](https://huggingface.co/papers/2610.22791) | Zhepei Wei | 31 HF upvotes · v 31 | 31 HF upvotes · "Self-Evolving Coding Agents via Harness-Policy Optimization" · model release |
+| [MT Forcing: Towards Stable and Consistent Multi-Turn Image Editing with Autoregressive Diffusion](https://huggingface.co/papers/2610.25404) | Houyuan Chen | 30 HF upvotes · v 30 | 30 HF upvotes · "MT Forcing: Towards Stable and Consistent Multi-Turn Image Editing wit" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/) | erikkannike | 145 HN points · v 361 | 145 HN points · 108 comments · Show HN |
-| [Show HN: I built a task system to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try) | dmayle | 48 HN points · v 144 | 48 HN points · 48 comments · Show HN |
-| [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) | murtazayusuf | 64 HN points · v 142 | 64 HN points · 39 comments · Show HN |
+| [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/) | erikkannike | 146 HN points · v 362 | 146 HN points · 108 comments · Show HN |
+| [Show HN: I built a task system to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try) | dmayle | 54 HN points · v 154 | 54 HN points · 50 comments · Show HN |
+| [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) | murtazayusuf | 66 HN points · v 146 | 66 HN points · 40 comments · Show HN |
 | [Show HN: Strot – Compile an LLM's intent once, run decisions locally](https://github.com/strot-ai/Project-STROT) | solohunter001 | 23 HN points · v 49 | 23 HN points · 13 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
