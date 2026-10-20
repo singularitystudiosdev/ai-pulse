@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 21:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 21:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [If it was an “AI deep fake”, why did the official Somali TV Minnesota Facebook page upload photos of multiple…](https://x.com/alx/status/2112383598934573506)<br>![card](https://pbs.twimg.com/media/HVCxrsjWQAAI23b.jpg?name=orig) | [@alx](https://x.com/alx) | 896♥ 202RT · v 62.1 | known founder · 62 velocity · 896♥ 202RT · 49577 views · 18h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
