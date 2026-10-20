@@ -15,16 +15,16 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 13:27 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 13:32 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [MemT-1.0: Towards Memory-Native Evolution](https://huggingface.co/papers/2610.26825) | Zhiyu Li | 132 HF upvotes · v 132 | 132 HF upvotes · "MemT-1.0: Towards Memory-Native Evolution" · model release |
-| [Scaling Parameter-Efficient Fine-Tuning for Brain Encoding](https://huggingface.co/papers/2610.26802) | Zhuofan Josh Ying | 114 HF upvotes · v 114 | 114 HF upvotes · "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding" · model release |
+| [Scaling Parameter-Efficient Fine-Tuning for Brain Encoding](https://huggingface.co/papers/2610.26802) | Zhuofan Josh Ying | 116 HF upvotes · v 116 | 116 HF upvotes · "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding" · model release |
 | [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://huggingface.co/papers/2610.25736) | Chao Yu | 102 HF upvotes · v 102 | 102 HF upvotes · "Learning from Fleet Experience: A Collective Learning Paradigm for Rob" · model release |
-| [Holi-World: Building Holistic World Intelligence from Human-Ego Experience](https://huggingface.co/papers/2610.26549) | Hao Li | 77 HF upvotes · v 77 | 77 HF upvotes · "Holi-World: Building Holistic World Intelligence from Human-Ego Experi" · model release |
+| [Holi-World: Building Holistic World Intelligence from Human-Ego Experience](https://huggingface.co/papers/2610.26549) | Hao Li | 78 HF upvotes · v 78 | 78 HF upvotes · "Holi-World: Building Holistic World Intelligence from Human-Ego Experi" · model release |
 | [ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation](https://huggingface.co/papers/2610.25690) | Yihui Yang | 72 HF upvotes · v 72 | 72 HF upvotes · "ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned" · model release |
 
 ### 🚀 AI SaaS launches (4)
