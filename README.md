@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 07:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 07:54 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://huggingface.co/papers/2610.25736) | Chao Yu | 86 HF upvotes · v 86 | 86 HF upvotes · "Learning from Fleet Experience: A Collective Learning Paradigm for Rob" · model release |
-| [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](https://huggingface.co/papers/2610.26860) | Yu Zhou | 59 HF upvotes · v 59 | 59 HF upvotes · "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memo" · model release |
+| [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://huggingface.co/papers/2610.25736) | Chao Yu | 87 HF upvotes · v 87 | 87 HF upvotes · "Learning from Fleet Experience: A Collective Learning Paradigm for Rob" · model release |
+| [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](https://huggingface.co/papers/2610.26860) | Yu Zhou | 60 HF upvotes · v 60 | 60 HF upvotes · "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memo" · model release |
 | [ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation](https://huggingface.co/papers/2610.25690) | Yihui Yang | 43 HF upvotes · v 43 | 43 HF upvotes · "ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned" · model release |
 | [Self-Evolving Coding Agents via Harness-Policy Optimization](https://huggingface.co/papers/2610.22791) | Zhepei Wei | 32 HF upvotes · v 32 | 32 HF upvotes · "Self-Evolving Coding Agents via Harness-Policy Optimization" · model release |
 | [MT Forcing: Towards Stable and Consistent Multi-Turn Image Editing with Autoregressive Diffusion](https://huggingface.co/papers/2610.25404) | Houyuan Chen | 30 HF upvotes · v 30 | 30 HF upvotes · "MT Forcing: Towards Stable and Consistent Multi-Turn Image Editing wit" · model release |
