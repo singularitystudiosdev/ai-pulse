@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 17:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 17:55 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Scaling Parameter-Efficient Fine-Tuning for Brain Encoding](https://huggingface.co/papers/2610.26802) | Zhuofan Josh Ying | 208 HF upvotes · v 208 | 208 HF upvotes · "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding" · model release |
+| [Scaling Parameter-Efficient Fine-Tuning for Brain Encoding](https://huggingface.co/papers/2610.26802) | Zhuofan Josh Ying | 210 HF upvotes · v 210 | 210 HF upvotes · "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding" · model release |
 | [MemT-1.0: Towards Memory-Native Evolution](https://huggingface.co/papers/2610.26825) | Zhiyu Li | 144 HF upvotes · v 144 | 144 HF upvotes · "MemT-1.0: Towards Memory-Native Evolution" · model release |
 | [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://huggingface.co/papers/2610.25736) | Chao Yu | 107 HF upvotes · v 107 | 107 HF upvotes · "Learning from Fleet Experience: A Collective Learning Paradigm for Rob" · model release |
 | [Holi-World: Building Holistic World Intelligence from Human-Ego Experience](https://huggingface.co/papers/2610.26549) | Hao Li | 104 HF upvotes · v 104 | 104 HF upvotes · "Holi-World: Building Holistic World Intelligence from Human-Ego Experi" · model release |
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 103 HN points · v 127 | 103 HN points · 12 comments · Show HN |
+| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 104 HN points · v 128 | 104 HN points · 12 comments · Show HN |
 | [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle) | dshekhar17 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 | [Show HN: A legal assistant that refuses to cite law it can't verify](https://ailegal.legal/) | vnutrivas | 9 HN points · v 15 | 9 HN points · 3 comments · Show HN |
 | [Show HN: Shazam but for AI Slop Music](https://apps.apple.com/de/app/daft-slop-ai-music-detector/id6811013099) | obrhoff | 8 HN points · v 14 | 8 HN points · 3 comments · Show HN |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [A new frontier for on-device speech.  We're open-sourcing Phonon, a suite of TTS models under 50m parameters,…](https://x.com/GradiumAI/status/2112563128487514512)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2112562730771054594/img/mQzM0zRPbfBd8e2M.jpg) | [@GradiumAI](https://x.com/GradiumAI) | 574♥ 93RT · v 621.6 | 622 velocity · 574♥ 93RT · 58753 views · 3h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
