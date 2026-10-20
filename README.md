@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-20 08:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-20 12:54 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://huggingface.co/papers/2610.25736) | Chao Yu | 87 HF upvotes · v 87 | 87 HF upvotes · "Learning from Fleet Experience: A Collective Learning Paradigm for Rob" · model release |
-| [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](https://huggingface.co/papers/2610.26860) | Yu Zhou | 60 HF upvotes · v 60 | 60 HF upvotes · "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memo" · model release |
-| [ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation](https://huggingface.co/papers/2610.25690) | Yihui Yang | 44 HF upvotes · v 44 | 44 HF upvotes · "ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned" · model release |
-| [Self-Evolving Coding Agents via Harness-Policy Optimization](https://huggingface.co/papers/2610.22791) | Zhepei Wei | 33 HF upvotes · v 33 | 33 HF upvotes · "Self-Evolving Coding Agents via Harness-Policy Optimization" · model release |
-| [MT Forcing: Towards Stable and Consistent Multi-Turn Image Editing with Autoregressive Diffusion](https://huggingface.co/papers/2610.25404) | Houyuan Chen | 30 HF upvotes · v 30 | 30 HF upvotes · "MT Forcing: Towards Stable and Consistent Multi-Turn Image Editing wit" · model release |
+| [MemT-1.0: Towards Memory-Native Evolution](https://huggingface.co/papers/2610.26825) | Zhiyu Li | 130 HF upvotes · v 130 | 130 HF upvotes · "MemT-1.0: Towards Memory-Native Evolution" · model release |
+| [Scaling Parameter-Efficient Fine-Tuning for Brain Encoding](https://huggingface.co/papers/2610.26802) | Zhuofan Josh Ying | 102 HF upvotes · v 102 | 102 HF upvotes · "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding" · model release |
+| [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://huggingface.co/papers/2610.25736) | Chao Yu | 99 HF upvotes · v 99 | 99 HF upvotes · "Learning from Fleet Experience: A Collective Learning Paradigm for Rob" · model release |
+| [Holi-World: Building Holistic World Intelligence from Human-Ego Experience](https://huggingface.co/papers/2610.26549) | Hao Li | 77 HF upvotes · v 77 | 77 HF upvotes · "Holi-World: Building Holistic World Intelligence from Human-Ego Experi" · model release |
+| [EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience](https://huggingface.co/papers/2610.26625) | Xinhao Ji | 68 HF upvotes · v 68 | 68 HF upvotes · "EgoXperience: Learning World-Grounded Egocentric Representations from " · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/) | erikkannike | 148 HN points · v 364 | 148 HN points · 108 comments · Show HN |
-| [Show HN: I built a task system to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try) | dmayle | 54 HN points · v 152 | 54 HN points · 49 comments · Show HN |
-| [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) | murtazayusuf | 67 HN points · v 147 | 67 HN points · 40 comments · Show HN |
-| [Show HN: Strot – Compile an LLM's intent once, run decisions locally](https://github.com/strot-ai/Project-STROT) | solohunter001 | 23 HN points · v 49 | 23 HN points · 13 comments · Show HN |
+| [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/) | erikkannike | 149 HN points · v 369 | 149 HN points · 110 comments · Show HN |
+| [Show HN: I built a task system to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try) | dmayle | 56 HN points · v 156 | 56 HN points · 50 comments · Show HN |
+| [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) | murtazayusuf | 68 HN points · v 152 | 68 HN points · 42 comments · Show HN |
+| [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle) | dshekhar17 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
