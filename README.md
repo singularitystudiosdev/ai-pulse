@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 00:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 00:09 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -44,7 +44,7 @@ _nothing cleared the floor this run_
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [This is wild.  You can verify the fact that the original photos with the upside down American flag are real w…](https://x.com/alx/status/2112585386929397799)<br>![card](https://pbs.twimg.com/media/HVFpNTeXMAASfoe.jpg?name=orig) | [@alx](https://x.com/alx) | 500♥ 99RT · v 81.5 | known founder · 81 velocity · 500♥ 99RT · 14969 views · 7h old |
+| [Full details of a remotely exploitable vulnerability in the core engine of *all* PHP versions will be release…](https://x.com/attrc/status/2112660210498031638) | [@attrc](https://x.com/attrc) | 653♥ 120RT · v 1364.3 | 1364 velocity · 653♥ 120RT · 129195 views · 2h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
