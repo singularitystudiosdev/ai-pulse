@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 21:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 21:42 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent.  It comes…](https://x.com/claudeai/status/2112984664256241837)<br>![card](https://pbs.twimg.com/media/HVLUnMDWsAAn7Pw.png) | [@claudeai](https://x.com/claudeai) | 25413♥ 1618RT · v 33686 | known founder · 33686 velocity · 25413♥ 1618RT · 2015120 views · 2h old · matched "claude" |
 | [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 178 HF upvotes · v 178 | 178 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
 | [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 166 HF upvotes · v 166 | 166 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
 | [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 147 HF upvotes · v 147 | 147 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
 | [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 91 HF upvotes · v 91 | 91 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
+| [CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?](https://huggingface.co/papers/2610.25078) | Jiaqi Su | 59 HF upvotes · v 59 | 59 HF upvotes · "CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
