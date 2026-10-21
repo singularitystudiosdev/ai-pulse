@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 18:05 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 18:11 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,13 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (3)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Effective Immediately, all organizations using PHP for their systems are advised to be prepared for an update…](https://x.com/NSACyber/status/2112903220209098897) | [@NSACyber](https://x.com/NSACyber) | 32500♥ 4622RT · v 24290.9 | known founder · 24291 velocity · 32500♥ 4622RT · 2686431 views · 4h old |
-| [Let’s set the record straight: @lcfr_hax was the first to discover php2shell and develop a working exploit. S…](https://x.com/calif_io/status/2112914613297668583) | [@calif_io](https://x.com/calif_io) | 1339♥ 167RT · v 788.4 | 788 velocity · 1339♥ 167RT · 103812 views · 4h old |
-| [Two critical PHP vulnerabilities (CVSS 9.2) have been disclosed.  While an emergency patch is on the way, Bun…](https://x.com/BunnyCDN/status/2112867273333485634) | [@BunnyCDN](https://x.com/BunnyCDN) | 25♥ 3RT · v 9.5 | 9.5 velocity · 25♥ 3RT · 2889 views · 7h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
