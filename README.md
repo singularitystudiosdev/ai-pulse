@@ -15,16 +15,16 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 13:43 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 13:48 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 161 HF upvotes · v 161 | 161 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
+| [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 163 HF upvotes · v 163 | 163 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
 | [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 145 HF upvotes · v 145 | 145 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
-| [Focused Omni-Modal GUI Agents](https://huggingface.co/papers/2610.26203) | Fuyao Zhang | 136 HF upvotes · v 136 | 136 HF upvotes · "Focused Omni-Modal GUI Agents" · model release |
-| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 104 HF upvotes · v 104 | 104 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
+| [Focused Omni-Modal GUI Agents](https://huggingface.co/papers/2610.26203) | Fuyao Zhang | 137 HF upvotes · v 137 | 137 HF upvotes · "Focused Omni-Modal GUI Agents" · model release |
+| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 107 HF upvotes · v 107 | 107 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
 | [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 78 HF upvotes · v 78 | 78 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
 
 ### 🚀 AI SaaS launches (4)
@@ -44,7 +44,7 @@ _nothing cleared the floor this run_
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [皆様に、今夜に対応して頂きたい大至急のお願いです。   多くのウェブサイトで使用されているPHPに関し、PHPのセキュリティチームが、重大な２件の脆弱性に関する注意喚起を行っています。   公開しているウェブサイトでP…](https://x.com/takaichi_sanae/status/2112890642590564386) | [@takaichi_sanae](https://x.com/takaichi_sanae) | 53542♥ 21343RT · v 164585.2 | known founder · 164585 velocity · 53542♥ 21343RT · 3878223 views · <1h old |
+| [my friend helped me root my smart home speaker using these certs](https://x.com/otomir23/status/2112697830687047918)<br>![card](https://pbs.twimg.com/media/HVHPNyGWMAAcb6J.png?name=orig) | [@otomir23](https://x.com/otomir23) | 3879♥ 165RT · v 148.7 | 149 velocity · 3879♥ 165RT · 111051 views · 14h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
