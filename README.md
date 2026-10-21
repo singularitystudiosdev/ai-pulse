@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 07:48 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 07:53 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Focused Omni-Modal GUI Agents](https://huggingface.co/papers/2610.26203) | Fuyao Zhang | 99 HF upvotes · v 99 | 99 HF upvotes · "Focused Omni-Modal GUI Agents" · model release |
-| [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 71 HF upvotes · v 71 | 71 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
+| [Focused Omni-Modal GUI Agents](https://huggingface.co/papers/2610.26203) | Fuyao Zhang | 101 HF upvotes · v 101 | 101 HF upvotes · "Focused Omni-Modal GUI Agents" · model release |
+| [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 73 HF upvotes · v 73 | 73 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
 | [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 61 HF upvotes · v 61 | 61 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
 | [Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition](https://huggingface.co/papers/2610.28578) | Wenjie Lou | 55 HF upvotes · v 55 | 55 HF upvotes · "Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with " · model release |
 | [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 53 HF upvotes · v 53 | 53 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
