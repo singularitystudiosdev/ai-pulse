@@ -15,36 +15,34 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 18:54 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 21:37 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 176 HF upvotes · v 176 | 176 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
-| [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 146 HF upvotes · v 146 | 146 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
-| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 141 HF upvotes · v 141 | 141 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
-| [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 90 HF upvotes · v 90 | 90 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
-| [VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse](https://huggingface.co/papers/2610.25043) | Sicheng He | 59 HF upvotes · v 59 | 59 HF upvotes · "VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action" · model release |
+| [We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent.  It comes…](https://x.com/claudeai/status/2112984664256241837)<br>![card](https://pbs.twimg.com/media/HVLUnMDWsAAn7Pw.png) | [@claudeai](https://x.com/claudeai) | 25413♥ 1618RT · v 33686 | known founder · 33686 velocity · 25413♥ 1618RT · 2015120 views · 2h old · matched "claude" |
+| [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 178 HF upvotes · v 178 | 178 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
+| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 166 HF upvotes · v 166 | 166 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
+| [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 147 HF upvotes · v 147 | 147 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
+| [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 91 HF upvotes · v 91 | 91 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 187 HN points · v 213 | 187 HN points · 13 comments · Show HN |
+| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 188 HN points · v 214 | 188 HN points · 13 comments · Show HN |
 | [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/) | brndnbuilds | 25 HN points · v 37 | 25 HN points · 6 comments · Show HN |
-| [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
+| [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 11 HN points · v 25 | 11 HN points · 7 comments · Show HN |
 | [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle) | dshekhar17 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [@wescopeland_ Correction: I safely testing my own site, under my own controlled deltas... The poc itself cann…](https://x.com/J4ck3LSyN/status/2112753673235501137) | [@J4ck3LSyN](https://x.com/J4ck3LSyN) | 25♥ 0RT · v 99.9 | 100 velocity · 25♥ 0RT · 109553 views · 15h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
