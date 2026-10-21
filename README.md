@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 07:32 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 07:37 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Focused Omni-Modal GUI Agents](https://huggingface.co/papers/2610.26203) | Fuyao Zhang | 98 HF upvotes · v 98 | 98 HF upvotes · "Focused Omni-Modal GUI Agents" · model release |
-| [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 64 HF upvotes · v 64 | 64 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
+| [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 67 HF upvotes · v 67 | 67 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
 | [Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition](https://huggingface.co/papers/2610.28578) | Wenjie Lou | 55 HF upvotes · v 55 | 55 HF upvotes · "Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with " · model release |
-| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 51 HF upvotes · v 51 | 51 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
-| [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 41 HF upvotes · v 41 | 41 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
+| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 54 HF upvotes · v 54 | 54 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
+| [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 44 HF upvotes · v 44 | 44 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 162 HN points · v 188 | 162 HN points · 13 comments · Show HN |
+| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 174 HN points · v 200 | 174 HN points · 13 comments · Show HN |
 | [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/) | brndnbuilds | 23 HN points · v 35 | 23 HN points · 6 comments · Show HN |
 | [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle) | dshekhar17 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 | [Show HN: Snitch – my Mac talked to 347 servers in one idle hour, so I built this](https://github.com/aixisstudio/Snitch) | aiXis | 12 HN points · v 18 | 12 HN points · 3 comments · Show HN |
@@ -40,13 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (3)
+### 🔥 Viral AI posts (1)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [The most revealing part of this conversation between Jon Stewart and Jacob Coxon wasn't Coxon's warning about…](https://x.com/ezraklein/status/2112584886695481831) | [@ezraklein](https://x.com/ezraklein) | 1001♥ 113RT · v 337.3 | known founder · 337 velocity · 1001♥ 113RT · 233256 views · 15h old |
-| [Temporaly mitigation  php.ini: session.upload_progress.enabled = Off  UPGRADE TO THE LATEST PHP after 2pm UTC](https://x.com/k_firsov/status/2112718728232329240) | [@k_firsov](https://x.com/k_firsov) | 171♥ 22RT · v 96 | 96 velocity · 171♥ 22RT · 25429 views · 6h old |
-| [More details about CVE-2026-109618 and  CVE-2026-109619, the PHP RCE.  Upload progress can serialize before b…](https://x.com/rina4_tot/status/2112723421641531772)<br>![card](https://pbs.twimg.com/media/HVHmwKOXQAAdNtx.jpg?name=orig) | [@rina4_tot](https://x.com/rina4_tot) | 141♥ 13RT · v 82.3 | 82 velocity · 141♥ 13RT · 20353 views · 6h old |
+| [Multiple people have been posting on X on their confirming the discovery of the exploits and posting varying …](https://x.com/MagicalTux/status/2112725774025572431) | [@MagicalTux](https://x.com/MagicalTux) | 113♥ 10RT · v 57.3 | 57 velocity · 113♥ 10RT · 13811 views · 6h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
