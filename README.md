@@ -15,36 +15,37 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 08:19 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 13:11 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Focused Omni-Modal GUI Agents](https://huggingface.co/papers/2610.26203) | Fuyao Zhang | 101 HF upvotes · v 101 | 101 HF upvotes · "Focused Omni-Modal GUI Agents" · model release |
-| [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 80 HF upvotes · v 80 | 80 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
-| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 64 HF upvotes · v 64 | 64 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
-| [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 58 HF upvotes · v 58 | 58 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
-| [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 57 HF upvotes · v 57 | 57 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
+| [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 152 HF upvotes · v 152 | 152 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
+| [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 143 HF upvotes · v 143 | 143 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
+| [Focused Omni-Modal GUI Agents](https://huggingface.co/papers/2610.26203) | Fuyao Zhang | 131 HF upvotes · v 131 | 131 HF upvotes · "Focused Omni-Modal GUI Agents" · model release |
+| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 91 HF upvotes · v 91 | 91 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
+| [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 74 HF upvotes · v 74 | 74 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 185 HN points · v 211 | 185 HN points · 13 comments · Show HN |
+| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 186 HN points · v 212 | 186 HN points · 13 comments · Show HN |
 | [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/) | brndnbuilds | 24 HN points · v 36 | 24 HN points · 6 comments · Show HN |
 | [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle) | dshekhar17 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
-| [Show HN: Snitch – my Mac talked to 347 servers in one idle hour, so I built this](https://github.com/aixisstudio/Snitch) | aiXis | 12 HN points · v 18 | 12 HN points · 3 comments · Show HN |
+| [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 10 HN points · v 20 | 10 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (2)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [PHP sites behind Cloudflare already have an initial set of WAF rules deployed for the known exploit vectors i…](https://x.com/dok2001/status/2112811965735202970) | [@dok2001](https://x.com/dok2001) | 283♥ 54RT · v 347.5 | 348 velocity · 283♥ 54RT · 10080 views · <1h old |
+| [@StopForumSpam @ThePHPF @Cloudflare Cloudflare has protections in place for known exploit payloads.  There wi…](https://x.com/dok2001/status/2112802620029223193) | [@dok2001](https://x.com/dok2001) | 60♥ 3RT · v 35.5 | 35 velocity · 60♥ 3RT · 9729 views · 6h old |
+| [@k_firsov Did @sansecio just leak the vector in HTML meta keywords?](https://x.com/its5q/status/2112700519261032497)<br>![card](https://pbs.twimg.com/media/HVHRtXtXcAAE3PY.jpg?name=orig) | [@its5q](https://x.com/its5q) | 36♥ 1RT · v 12.4 | 12 velocity · 36♥ 1RT · 10399 views · 13h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
