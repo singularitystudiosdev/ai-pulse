@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 08:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 08:09 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Focused Omni-Modal GUI Agents](https://huggingface.co/papers/2610.26203) | Fuyao Zhang | 101 HF upvotes · v 101 | 101 HF upvotes · "Focused Omni-Modal GUI Agents" · model release |
-| [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 76 HF upvotes · v 76 | 76 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
+| [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 77 HF upvotes · v 77 | 77 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
 | [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 63 HF upvotes · v 63 | 63 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
 | [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 56 HF upvotes · v 56 | 56 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
-| [Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition](https://huggingface.co/papers/2610.28578) | Wenjie Lou | 55 HF upvotes · v 55 | 55 HF upvotes · "Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with " · model release |
+| [Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition](https://huggingface.co/papers/2610.28578) | Wenjie Lou | 56 HF upvotes · v 56 | 56 HF upvotes · "Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with " · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 185 HN points · v 211 | 185 HN points · 13 comments · Show HN |
-| [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/) | brndnbuilds | 23 HN points · v 35 | 23 HN points · 6 comments · Show HN |
+| [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/) | brndnbuilds | 24 HN points · v 36 | 24 HN points · 6 comments · Show HN |
 | [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle) | dshekhar17 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 | [Show HN: Snitch – my Mac talked to 347 servers in one idle hour, so I built this](https://github.com/aixisstudio/Snitch) | aiXis | 12 HN points · v 18 | 12 HN points · 3 comments · Show HN |
 
