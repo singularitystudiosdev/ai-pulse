@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 08:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 08:19 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Focused Omni-Modal GUI Agents](https://huggingface.co/papers/2610.26203) | Fuyao Zhang | 101 HF upvotes · v 101 | 101 HF upvotes · "Focused Omni-Modal GUI Agents" · model release |
-| [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 78 HF upvotes · v 78 | 78 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
-| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 63 HF upvotes · v 63 | 63 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
-| [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 57 HF upvotes · v 57 | 57 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
-| [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 56 HF upvotes · v 56 | 56 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
+| [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 80 HF upvotes · v 80 | 80 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
+| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 64 HF upvotes · v 64 | 64 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
+| [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 58 HF upvotes · v 58 | 58 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
+| [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 57 HF upvotes · v 57 | 57 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [PHP sites behind Cloudflare already have an initial set of WAF rules deployed for the known exploit vectors i…](https://x.com/dok2001/status/2112811965735202970) | [@dok2001](https://x.com/dok2001) | 283♥ 54RT · v 347.5 | 348 velocity · 283♥ 54RT · 10080 views · <1h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
