@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 21:58 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 22:03 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 178 HF upvotes · v 178 | 178 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
-| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 169 HF upvotes · v 169 | 169 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
+| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 171 HF upvotes · v 171 | 171 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
 | [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 147 HF upvotes · v 147 | 147 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
 | [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 91 HF upvotes · v 91 | 91 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
 | [CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?](https://huggingface.co/papers/2610.25078) | Jiaqi Su | 59 HF upvotes · v 59 | 59 HF upvotes · "CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?" · model release |
