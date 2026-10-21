@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 00:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 02:04 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Scaling Parameter-Efficient Fine-Tuning for Brain Encoding](https://huggingface.co/papers/2610.26802) | Zhuofan Josh Ying | 234 HF upvotes · v 234 | 234 HF upvotes · "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding" · model release |
 | [MemT-1.0: Towards Memory-Native Evolution](https://huggingface.co/papers/2610.26825) | Zhiyu Li | 146 HF upvotes · v 146 | 146 HF upvotes · "MemT-1.0: Towards Memory-Native Evolution" · model release |
-| [Holi-World: Building Holistic World Intelligence from Human-Ego Experience](https://huggingface.co/papers/2610.26549) | Hao Li | 110 HF upvotes · v 110 | 110 HF upvotes · "Holi-World: Building Holistic World Intelligence from Human-Ego Experi" · model release |
-| [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://huggingface.co/papers/2610.25736) | Chao Yu | 107 HF upvotes · v 107 | 107 HF upvotes · "Learning from Fleet Experience: A Collective Learning Paradigm for Rob" · model release |
 | [SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum](https://huggingface.co/papers/2610.26824) | Zhongxin Chen | 81 HF upvotes · v 81 | 81 HF upvotes · "SpecMRL: Redesign Matryoshka Representation Learning within Parametric" · model release |
+| [Kronecker Delta Rule for Long Context Linear Attention](https://huggingface.co/papers/2610.26834) | Anamaria-Roberta Hartl | 28 HF upvotes · v 28 | 28 HF upvotes · "Kronecker Delta Rule for Long Context Linear Attention" · model release |
+| [AdaExploreBench: Benchmarking LLM Agents for Proactive Exploration and Test-time Adaptation in Evolving Envir…](https://huggingface.co/papers/2610.25950) | Rui Wang | 27 HF upvotes · v 27 | 27 HF upvotes · "AdaExploreBench: Benchmarking LLM Agents for Proactive Exploration and" · model release |
+| [MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](https://huggingface.co/papers/2610.06830) | Haozhen Zhang | 26 HF upvotes · v 26 | 26 HF upvotes · "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM A" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [I have successfully recreated & lab/field tested CVE-2026-109618 / CVE-2026-109619   > Two heap use-after-fre…](https://x.com/J4ck3LSyN/status/2112703096443097263)<br>![card](https://pbs.twimg.com/media/HVHTue4akAA3Qhs.png?name=orig) | [@J4ck3LSyN](https://x.com/J4ck3LSyN) | 391♥ 41RT · v 751.5 | 751 velocity · 391♥ 41RT · 46107 views · 2h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
