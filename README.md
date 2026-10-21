@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 02:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 02:31 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,8 +24,8 @@
 | [MemT-1.0: Towards Memory-Native Evolution](https://huggingface.co/papers/2610.26825) | Zhiyu Li | 146 HF upvotes · v 146 | 146 HF upvotes · "MemT-1.0: Towards Memory-Native Evolution" · model release |
 | [SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum](https://huggingface.co/papers/2610.26824) | Zhongxin Chen | 81 HF upvotes · v 81 | 81 HF upvotes · "SpecMRL: Redesign Matryoshka Representation Learning within Parametric" · model release |
 | [Kronecker Delta Rule for Long Context Linear Attention](https://huggingface.co/papers/2610.26834) | Anamaria-Roberta Hartl | 28 HF upvotes · v 28 | 28 HF upvotes · "Kronecker Delta Rule for Long Context Linear Attention" · model release |
-| [MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](https://huggingface.co/papers/2610.06830) | Haozhen Zhang | 26 HF upvotes · v 26 | 26 HF upvotes · "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM A" · model release |
 | [RoboValue: A Fine-Grained Sim-and-Real Benchmark for Unified Evaluation of Robotic Value Models](https://huggingface.co/papers/2610.26663) | Shengbang Liu | 23 HF upvotes · v 23 | 23 HF upvotes · "RoboValue: A Fine-Grained Sim-and-Real Benchmark for Unified Evaluatio" · model release |
+| [BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References](https://huggingface.co/papers/2610.23986) | Xinyu Fang | 22 HF upvotes · v 22 | 22 HF upvotes · "BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-Wor" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Day 16/  You can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forev…](https://x.com/thsottiaux/status/2112712984644784534) | [@thsottiaux](https://x.com/thsottiaux) | 4917♥ 245RT · v 9669.4 | known founder · 9669 velocity · 4917♥ 245RT · 324496 views · 1h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
