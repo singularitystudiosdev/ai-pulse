@@ -15,34 +15,38 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 13:59 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 18:05 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 165 HF upvotes · v 165 | 165 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
+| [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 175 HF upvotes · v 175 | 175 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
 | [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 146 HF upvotes · v 146 | 146 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
-| [Focused Omni-Modal GUI Agents](https://huggingface.co/papers/2610.26203) | Fuyao Zhang | 138 HF upvotes · v 138 | 138 HF upvotes · "Focused Omni-Modal GUI Agents" · model release |
-| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 110 HF upvotes · v 110 | 110 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
-| [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 79 HF upvotes · v 79 | 79 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
+| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 139 HF upvotes · v 139 | 139 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
+| [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 88 HF upvotes · v 88 | 88 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
+| [VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse](https://huggingface.co/papers/2610.25043) | Sicheng He | 59 HF upvotes · v 59 | 59 HF upvotes · "VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 186 HN points · v 212 | 186 HN points · 13 comments · Show HN |
-| [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/) | brndnbuilds | 24 HN points · v 36 | 24 HN points · 6 comments · Show HN |
+| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 187 HN points · v 213 | 187 HN points · 13 comments · Show HN |
+| [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/) | brndnbuilds | 25 HN points · v 37 | 25 HN points · 6 comments · Show HN |
+| [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 | [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle) | dshekhar17 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
-| [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 10 HN points · v 22 | 10 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (3)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Effective Immediately, all organizations using PHP for their systems are advised to be prepared for an update…](https://x.com/NSACyber/status/2112903220209098897) | [@NSACyber](https://x.com/NSACyber) | 32500♥ 4622RT · v 24290.9 | known founder · 24291 velocity · 32500♥ 4622RT · 2686431 views · 4h old |
+| [Let’s set the record straight: @lcfr_hax was the first to discover php2shell and develop a working exploit. S…](https://x.com/calif_io/status/2112914613297668583) | [@calif_io](https://x.com/calif_io) | 1339♥ 167RT · v 788.4 | 788 velocity · 1339♥ 167RT · 103812 views · 4h old |
+| [Two critical PHP vulnerabilities (CVSS 9.2) have been disclosed.  While an emergency patch is on the way, Bun…](https://x.com/BunnyCDN/status/2112867273333485634) | [@BunnyCDN](https://x.com/BunnyCDN) | 25♥ 3RT · v 9.5 | 9.5 velocity · 25♥ 3RT · 2889 views · 7h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
