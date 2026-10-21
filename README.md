@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 02:20 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 02:25 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Day 16/  You can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forev…](https://x.com/thsottiaux/status/2112712984644784534) | [@thsottiaux](https://x.com/thsottiaux) | 4917♥ 245RT · v 9669.4 | known founder · 9669 velocity · 4917♥ 245RT · 324496 views · 1h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
