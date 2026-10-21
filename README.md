@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 00:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-21 00:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Full details of a remotely exploitable vulnerability in the core engine of *all* PHP versions will be release…](https://x.com/attrc/status/2112660210498031638) | [@attrc](https://x.com/attrc) | 653♥ 120RT · v 1364.3 | 1364 velocity · 653♥ 120RT · 129195 views · 2h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
