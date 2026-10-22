@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-22 16:00 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-22 19:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402) | StreamEval Team | 254 HF upvotes · v 254 | 254 HF upvotes · "StreamEval: Evaluating Interactive Streaming Video Generation Models" · model release |
+| [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402) | StreamEval Team | 295 HF upvotes · v 295 | 295 HF upvotes · "StreamEval: Evaluating Interactive Streaming Video Generation Models" · model release |
 | [SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?](https://huggingface.co/papers/2610.26659) | Zhaoxi Zhang | 128 HF upvotes · v 128 | 128 HF upvotes · "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?" · model release |
-| [DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations](https://huggingface.co/papers/2610.29997) | Mingze Sun | 102 HF upvotes · v 102 | 102 HF upvotes · "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demon" · model release |
-| [Cache Engineering for Agents](https://huggingface.co/papers/2610.28577) | Tianyu Fu | 87 HF upvotes · v 87 | 87 HF upvotes · "Cache Engineering for Agents" · model release |
-| [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](https://huggingface.co/papers/2610.29989) | Ruopeng Gao | 82 HF upvotes · v 82 | 82 HF upvotes · "Looking Ahead: Modeling Future Evolution in Autoregressive Video Gener" · model release |
+| [DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations](https://huggingface.co/papers/2610.29997) | Mingze Sun | 124 HF upvotes · v 124 | 124 HF upvotes · "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demon" · model release |
+| [Cache Engineering for Agents](https://huggingface.co/papers/2610.28577) | Tianyu Fu | 108 HF upvotes · v 108 | 108 HF upvotes · "Cache Engineering for Agents" · model release |
+| [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](https://huggingface.co/papers/2610.29989) | Ruopeng Gao | 102 HF upvotes · v 102 | 102 HF upvotes · "Looking Ahead: Modeling Future Evolution in Autoregressive Video Gener" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 188 HN points · v 214 | 188 HN points · 13 comments · Show HN |
-| [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 99 HN points · v 155 | 99 HN points · 28 comments · Show HN |
-| [Show HN: AI-built browser games, collected in one place](https://playgroundarcade.com/) | richleigh | 35 HN points · v 39 | 35 HN points · 2 comments · Show HN |
+| [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 107 HN points · v 169 | 107 HN points · 31 comments · Show HN |
+| [Show HN: AI-built browser games, collected in one place](https://playgroundarcade.com/) | richleigh | 35 HN points · v 41 | 35 HN points · 3 comments · Show HN |
 | [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 11 HN points · v 25 | 11 HN points · 7 comments · Show HN |
+| [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 12 HN points · v 16 | 12 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Utah county residents are demanding accountability after police forcibly removed a woman from a council meeti…](https://x.com/AJEnglish/status/2113155894187843891)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2113142749331644416/img/gzAWOdNpK51eCfGR.jpg) | [@AJEnglish](https://x.com/AJEnglish) | 1859♥ 980RT · v 262.5 | known founder · 263 velocity · 1859♥ 980RT · 116268 views · 13h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
