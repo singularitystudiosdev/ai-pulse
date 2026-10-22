@@ -15,16 +15,16 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-22 05:07 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-22 05:12 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://huggingface.co/papers/2610.26828) | Zhaoyang Wang | 46 HF upvotes · v 46 | 46 HF upvotes · "Agent World Model in the Wild: Computer-Use Agent Environment Synthesi" · model release |
-| [Cache Engineering for Agents](https://huggingface.co/papers/2610.28577) | Tianyu Fu | 39 HF upvotes · v 39 | 39 HF upvotes · "Cache Engineering for Agents" · model release |
+| [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://huggingface.co/papers/2610.26828) | Zhaoyang Wang | 48 HF upvotes · v 48 | 48 HF upvotes · "Agent World Model in the Wild: Computer-Use Agent Environment Synthesi" · model release |
+| [Cache Engineering for Agents](https://huggingface.co/papers/2610.28577) | Tianyu Fu | 40 HF upvotes · v 40 | 40 HF upvotes · "Cache Engineering for Agents" · model release |
+| [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](https://huggingface.co/papers/2610.29989) | Ruopeng Gao | 28 HF upvotes · v 28 | 28 HF upvotes · "Looking Ahead: Modeling Future Evolution in Autoregressive Video Gener" · model release |
 | [Socratic Skill Learning: Interleaving Teaching and Practice for Transferable Agent Skills](https://huggingface.co/papers/2610.17860) | Letian Zhu | 27 HF upvotes · v 27 | 27 HF upvotes · "Socratic Skill Learning: Interleaving Teaching and Practice for Transf" · model release |
-| [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](https://huggingface.co/papers/2610.29989) | Ruopeng Gao | 27 HF upvotes · v 27 | 27 HF upvotes · "Looking Ahead: Modeling Future Evolution in Autoregressive Video Gener" · model release |
 | [AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://huggingface.co/papers/2610.28589) | Xinxin Liu | 16 HF upvotes · v 16 | 16 HF upvotes · "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics" · model release |
 
 ### 🚀 AI SaaS launches (4)
