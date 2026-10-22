@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-22 10:41 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-22 10:46 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [Cache Engineering for Agents](https://huggingface.co/papers/2610.28577) | Tianyu Fu | 73 HF upvotes · v 73 | 73 HF upvotes · "Cache Engineering for Agents" · model release |
 | [SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?](https://huggingface.co/papers/2610.26659) | Zhaoxi Zhang | 70 HF upvotes · v 70 | 70 HF upvotes · "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?" · model release |
 | [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](https://huggingface.co/papers/2610.29989) | Ruopeng Gao | 69 HF upvotes · v 69 | 69 HF upvotes · "Looking Ahead: Modeling Future Evolution in Autoregressive Video Gener" · model release |
-| [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402) | StreamEval Team | 65 HF upvotes · v 65 | 65 HF upvotes · "StreamEval: Evaluating Interactive Streaming Video Generation Models" · model release |
+| [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402) | StreamEval Team | 67 HF upvotes · v 67 | 67 HF upvotes · "StreamEval: Evaluating Interactive Streaming Video Generation Models" · model release |
 | [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://huggingface.co/papers/2610.26828) | Zhaoyang Wang | 59 HF upvotes · v 59 | 59 HF upvotes · "Agent World Model in the Wild: Computer-Use Agent Environment Synthesi" · model release |
 
 ### 🚀 AI SaaS launches (4)
