@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-21 22:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-22 00:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 178 HF upvotes · v 178 | 178 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
+| [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 179 HF upvotes · v 179 | 179 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
 | [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 176 HF upvotes · v 176 | 176 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
 | [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 147 HF upvotes · v 147 | 147 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
 | [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 91 HF upvotes · v 91 | 91 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 188 HN points · v 214 | 188 HN points · 13 comments · Show HN |
-| [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/) | brndnbuilds | 25 HN points · v 37 | 25 HN points · 6 comments · Show HN |
+| [Show HN: Omnara – Open-Source Alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 18 HN points · v 30 | 18 HN points · 6 comments · Show HN |
 | [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 11 HN points · v 25 | 11 HN points · 7 comments · Show HN |
 | [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle) | dshekhar17 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [We are currently shutting down Postiz for all customers. We are afraid @Railway has been compromised; they wo…](https://x.com/wickedguro/status/2113015432974405658) | [@wickedguro](https://x.com/wickedguro) | 471♥ 20RT · v 806.1 | 806 velocity · 471♥ 20RT · 41053 views · 1h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
@@ -53,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-22](archive/2026-10-22.md)
 - [2026-10-21](archive/2026-10-21.md)
 - [2026-10-20](archive/2026-10-20.md)
 - [2026-10-19](archive/2026-10-19.md)
