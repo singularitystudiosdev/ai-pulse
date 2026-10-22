@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-22 05:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-22 10:04 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://huggingface.co/papers/2610.26828) | Zhaoyang Wang | 49 HF upvotes · v 49 | 49 HF upvotes · "Agent World Model in the Wild: Computer-Use Agent Environment Synthesi" · model release |
-| [Cache Engineering for Agents](https://huggingface.co/papers/2610.28577) | Tianyu Fu | 44 HF upvotes · v 44 | 44 HF upvotes · "Cache Engineering for Agents" · model release |
-| [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](https://huggingface.co/papers/2610.29989) | Ruopeng Gao | 37 HF upvotes · v 37 | 37 HF upvotes · "Looking Ahead: Modeling Future Evolution in Autoregressive Video Gener" · model release |
-| [Socratic Skill Learning: Interleaving Teaching and Practice for Transferable Agent Skills](https://huggingface.co/papers/2610.17860) | Letian Zhu | 28 HF upvotes · v 28 | 28 HF upvotes · "Socratic Skill Learning: Interleaving Teaching and Practice for Transf" · model release |
-| [Spectral-Spatial Interpretation](https://huggingface.co/papers/2610.21114) | Haotian Ma | 17 HF upvotes · v 17 | 17 HF upvotes · "Spectral-Spatial Interpretation" · model release |
+| [Cache Engineering for Agents](https://huggingface.co/papers/2610.28577) | Tianyu Fu | 71 HF upvotes · v 71 | 71 HF upvotes · "Cache Engineering for Agents" · model release |
+| [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](https://huggingface.co/papers/2610.29989) | Ruopeng Gao | 68 HF upvotes · v 68 | 68 HF upvotes · "Looking Ahead: Modeling Future Evolution in Autoregressive Video Gener" · model release |
+| [SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?](https://huggingface.co/papers/2610.26659) | Zhaoxi Zhang | 67 HF upvotes · v 67 | 67 HF upvotes · "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?" · model release |
+| [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://huggingface.co/papers/2610.26828) | Zhaoyang Wang | 59 HF upvotes · v 59 | 59 HF upvotes · "Agent World Model in the Wild: Computer-Use Agent Environment Synthesi" · model release |
+| [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402) | StreamEval Team | 52 HF upvotes · v 52 | 52 HF upvotes · "StreamEval: Evaluating Interactive Streaming Video Generation Models" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 188 HN points · v 214 | 188 HN points · 13 comments · Show HN |
-| [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 51 HN points · v 81 | 51 HN points · 15 comments · Show HN |
+| [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 80 HN points · v 130 | 80 HN points · 25 comments · Show HN |
 | [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 11 HN points · v 25 | 11 HN points · 7 comments · Show HN |
 | [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle) | dshekhar17 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Last month, we demonstrated high-rate alchemy: turning mercury into real, stable gold, beating CERN’s record …](https://x.com/MarathonFusion/status/2113001073019662481)<br>![card](https://pbs.twimg.com/media/HVLjrrdacAAQ6eS.jpg) | [@MarathonFusion](https://x.com/MarathonFusion) | 9394♥ 1138RT · v 2232.2 | 2232 velocity · 9394♥ 1138RT · 2060943 views · 14h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
