@@ -15,25 +15,25 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-22 10:52 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-22 15:12 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Cache Engineering for Agents](https://huggingface.co/papers/2610.28577) | Tianyu Fu | 73 HF upvotes · v 73 | 73 HF upvotes · "Cache Engineering for Agents" · model release |
-| [SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?](https://huggingface.co/papers/2610.26659) | Zhaoxi Zhang | 72 HF upvotes · v 72 | 72 HF upvotes · "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?" · model release |
-| [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402) | StreamEval Team | 69 HF upvotes · v 69 | 69 HF upvotes · "StreamEval: Evaluating Interactive Streaming Video Generation Models" · model release |
+| [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402) | StreamEval Team | 197 HF upvotes · v 197 | 197 HF upvotes · "StreamEval: Evaluating Interactive Streaming Video Generation Models" · model release |
+| [SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?](https://huggingface.co/papers/2610.26659) | Zhaoxi Zhang | 128 HF upvotes · v 128 | 128 HF upvotes · "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?" · model release |
+| [DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations](https://huggingface.co/papers/2610.29997) | Mingze Sun | 100 HF upvotes · v 100 | 100 HF upvotes · "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demon" · model release |
+| [Cache Engineering for Agents](https://huggingface.co/papers/2610.28577) | Tianyu Fu | 86 HF upvotes · v 86 | 86 HF upvotes · "Cache Engineering for Agents" · model release |
 | [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](https://huggingface.co/papers/2610.29989) | Ruopeng Gao | 69 HF upvotes · v 69 | 69 HF upvotes · "Looking Ahead: Modeling Future Evolution in Autoregressive Video Gener" · model release |
-| [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://huggingface.co/papers/2610.26828) | Zhaoyang Wang | 59 HF upvotes · v 59 | 59 HF upvotes · "Agent World Model in the Wild: Computer-Use Agent Environment Synthesi" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 188 HN points · v 214 | 188 HN points · 13 comments · Show HN |
-| [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 82 HN points · v 132 | 82 HN points · 25 comments · Show HN |
-| [Show HN: AI-built browser games, collected in one place](https://playgroundarcade.com/) | richleigh | 26 HN points · v 30 | 26 HN points · 2 comments · Show HN |
+| [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 97 HN points · v 153 | 97 HN points · 28 comments · Show HN |
+| [Show HN: AI-built browser games, collected in one place](https://playgroundarcade.com/) | richleigh | 33 HN points · v 37 | 33 HN points · 2 comments · Show HN |
 | [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 11 HN points · v 25 | 11 HN points · 7 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
