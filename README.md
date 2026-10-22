@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-22 15:55 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-22 16:00 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402) | StreamEval Team | 253 HF upvotes · v 253 | 253 HF upvotes · "StreamEval: Evaluating Interactive Streaming Video Generation Models" · model release |
+| [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402) | StreamEval Team | 254 HF upvotes · v 254 | 254 HF upvotes · "StreamEval: Evaluating Interactive Streaming Video Generation Models" · model release |
 | [SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?](https://huggingface.co/papers/2610.26659) | Zhaoxi Zhang | 128 HF upvotes · v 128 | 128 HF upvotes · "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?" · model release |
 | [DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations](https://huggingface.co/papers/2610.29997) | Mingze Sun | 102 HF upvotes · v 102 | 102 HF upvotes · "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demon" · model release |
 | [Cache Engineering for Agents](https://huggingface.co/papers/2610.28577) | Tianyu Fu | 87 HF upvotes · v 87 | 87 HF upvotes · "Cache Engineering for Agents" · model release |
