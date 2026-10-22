@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-22 19:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-22 19:20 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,17 +34,15 @@
 | [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 107 HN points · v 169 | 107 HN points · 31 comments · Show HN |
 | [Show HN: AI-built browser games, collected in one place](https://playgroundarcade.com/) | richleigh | 35 HN points · v 41 | 35 HN points · 3 comments · Show HN |
 | [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 11 HN points · v 25 | 11 HN points · 7 comments · Show HN |
-| [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 12 HN points · v 16 | 12 HN points · 2 comments · Show HN |
+| [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 14 HN points · v 18 | 14 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Utah county residents are demanding accountability after police forcibly removed a woman from a council meeti…](https://x.com/AJEnglish/status/2113155894187843891)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2113142749331644416/img/gzAWOdNpK51eCfGR.jpg) | [@AJEnglish](https://x.com/AJEnglish) | 1859♥ 980RT · v 262.5 | known founder · 263 velocity · 1859♥ 980RT · 116268 views · 13h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
