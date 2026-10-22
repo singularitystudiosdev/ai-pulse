@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-22 15:17 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-22 15:23 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402) | StreamEval Team | 207 HF upvotes · v 207 | 207 HF upvotes · "StreamEval: Evaluating Interactive Streaming Video Generation Models" · model release |
+| [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402) | StreamEval Team | 219 HF upvotes · v 219 | 219 HF upvotes · "StreamEval: Evaluating Interactive Streaming Video Generation Models" · model release |
 | [SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?](https://huggingface.co/papers/2610.26659) | Zhaoxi Zhang | 128 HF upvotes · v 128 | 128 HF upvotes · "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?" · model release |
 | [DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations](https://huggingface.co/papers/2610.29997) | Mingze Sun | 100 HF upvotes · v 100 | 100 HF upvotes · "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demon" · model release |
 | [Cache Engineering for Agents](https://huggingface.co/papers/2610.28577) | Tianyu Fu | 86 HF upvotes · v 86 | 86 HF upvotes · "Cache Engineering for Agents" · model release |
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 188 HN points · v 214 | 188 HN points · 13 comments · Show HN |
 | [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 98 HN points · v 154 | 98 HN points · 28 comments · Show HN |
-| [Show HN: AI-built browser games, collected in one place](https://playgroundarcade.com/) | richleigh | 33 HN points · v 37 | 33 HN points · 2 comments · Show HN |
+| [Show HN: AI-built browser games, collected in one place](https://playgroundarcade.com/) | richleigh | 34 HN points · v 38 | 34 HN points · 2 comments · Show HN |
 | [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 11 HN points · v 25 | 11 HN points · 7 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
