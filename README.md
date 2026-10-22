@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-22 01:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-22 05:01 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://huggingface.co/papers/2610.27999) | Jihai Zhang | 181 HF upvotes · v 181 | 181 HF upvotes · "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game W" · model release |
-| [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://huggingface.co/papers/2610.26855) | Tianqi Liu | 177 HF upvotes · v 177 | 177 HF upvotes · "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments " · model release |
-| [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://huggingface.co/papers/2610.27628) | Pan Wang | 147 HF upvotes · v 147 | 147 HF upvotes · "PAR: Progress-Aligned Recurrence for Length Generalization in State Tr" · model release |
-| [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](https://huggingface.co/papers/2610.28354) | Rui Gong | 92 HF upvotes · v 92 | 92 HF upvotes · "S-Agent 2.0: Spatial Reasoning with a General Coding Agent" · model release |
-| [CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?](https://huggingface.co/papers/2610.25078) | Jiaqi Su | 59 HF upvotes · v 59 | 59 HF upvotes · "CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?" · model release |
+| [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://huggingface.co/papers/2610.26828) | Zhaoyang Wang | 46 HF upvotes · v 46 | 46 HF upvotes · "Agent World Model in the Wild: Computer-Use Agent Environment Synthesi" · model release |
+| [Cache Engineering for Agents](https://huggingface.co/papers/2610.28577) | Tianyu Fu | 34 HF upvotes · v 34 | 34 HF upvotes · "Cache Engineering for Agents" · model release |
+| [Socratic Skill Learning: Interleaving Teaching and Practice for Transferable Agent Skills](https://huggingface.co/papers/2610.17860) | Letian Zhu | 27 HF upvotes · v 27 | 27 HF upvotes · "Socratic Skill Learning: Interleaving Teaching and Practice for Transf" · model release |
+| [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](https://huggingface.co/papers/2610.29989) | Ruopeng Gao | 27 HF upvotes · v 27 | 27 HF upvotes · "Looking Ahead: Modeling Future Evolution in Autoregressive Video Gener" · model release |
+| [AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://huggingface.co/papers/2610.28589) | Xinxin Liu | 16 HF upvotes · v 16 | 16 HF upvotes · "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess) | coding-maniac | 188 HN points · v 214 | 188 HN points · 13 comments · Show HN |
-| [Show HN: Omnara – Open-Source Alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 20 HN points · v 34 | 20 HN points · 7 comments · Show HN |
+| [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 47 HN points · v 73 | 47 HN points · 13 comments · Show HN |
 | [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 11 HN points · v 25 | 11 HN points · 7 comments · Show HN |
 | [Show HN: Make AI coding agents verify its own work](https://github.com/reticlehq/reticle) | dshekhar17 | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Some stats on #php2shell. In the 10 hours before it was publicly announced, across the @Cloudflare network we…](https://x.com/eastdakota/status/2113079352682570051) | [@eastdakota](https://x.com/eastdakota) | 9188♥ 1489RT · v 7745 | known founder · 7745 velocity · 9188♥ 1489RT · 674952 views · 4h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
