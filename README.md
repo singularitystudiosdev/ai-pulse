@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-23 01:18 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-23 01:24 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?](https://huggingface.co/papers/2610.26659) | Zhaoxi Zhang | 129 HF upvotes · v 129 | 129 HF upvotes · "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?" · model release |
 | [DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations](https://huggingface.co/papers/2610.29997) | Mingze Sun | 124 HF upvotes · v 124 | 124 HF upvotes · "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demon" · model release |
 | [Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents](https://huggingface.co/papers/2610.11942) | Jiaming Zhang | 91 HF upvotes · v 91 | 91 HF upvotes · "Right Screen, Wrong Transition: World Models as Verifiers for GUI Agen" · model release |
-| [Spectral-Spatial Interpretation](https://huggingface.co/papers/2610.21114) | Haotian Ma | 71 HF upvotes · v 71 | 71 HF upvotes · "Spectral-Spatial Interpretation" · model release |
+| [Spectral-Spatial Interpretation](https://huggingface.co/papers/2610.21114) | Haotian Ma | 73 HF upvotes · v 73 | 73 HF upvotes · "Spectral-Spatial Interpretation" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
