@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-23 19:51 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-23 19:56 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,16 +33,18 @@
 |---|---|---|---|
 | [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 111 HN points · v 179 | 111 HN points · 34 comments · Show HN |
 | [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 78 HN points · v 166 | 78 HN points · 44 comments · Show HN |
-| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 50 HN points · v 150 | 50 HN points · 50 comments · Show HN |
+| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 53 HN points · v 153 | 53 HN points · 50 comments · Show HN |
 | [Show HN: Kino Transcode – Open Red and Blackmagic Raw Files in the Browser](https://kino.ai/tools/transcode) | lukeigel | 9 HN points · v 13 | 9 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [What’s actually going on in Ukraine is that there is a massive incentive difference between the elites and th…](https://x.com/elonmusk/status/2113677835244044748) | [@elonmusk](https://x.com/elonmusk) | 92155♥ 14950RT · v 49524.7 | known founder · 49525 velocity · 92155♥ 14950RT · 2906977 views · 3h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
