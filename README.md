@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-23 01:13 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-23 01:18 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402) | StreamEval Team | 354 HF upvotes · v 354 | 354 HF upvotes · "StreamEval: Evaluating Interactive Streaming Video Generation Models" · model release |
+| [StreamEval: Evaluating Interactive Streaming Video Generation Models](https://huggingface.co/papers/2610.28402) | StreamEval Team | 355 HF upvotes · v 355 | 355 HF upvotes · "StreamEval: Evaluating Interactive Streaming Video Generation Models" · model release |
 | [SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?](https://huggingface.co/papers/2610.26659) | Zhaoxi Zhang | 129 HF upvotes · v 129 | 129 HF upvotes · "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?" · model release |
 | [DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations](https://huggingface.co/papers/2610.29997) | Mingze Sun | 124 HF upvotes · v 124 | 124 HF upvotes · "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demon" · model release |
-| [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](https://huggingface.co/papers/2610.29989) | Ruopeng Gao | 116 HF upvotes · v 116 | 116 HF upvotes · "Looking Ahead: Modeling Future Evolution in Autoregressive Video Gener" · model release |
-| [Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents](https://huggingface.co/papers/2610.11942) | Jiaming Zhang | 89 HF upvotes · v 89 | 89 HF upvotes · "Right Screen, Wrong Transition: World Models as Verifiers for GUI Agen" · model release |
+| [Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents](https://huggingface.co/papers/2610.11942) | Jiaming Zhang | 91 HF upvotes · v 91 | 91 HF upvotes · "Right Screen, Wrong Transition: World Models as Verifiers for GUI Agen" · model release |
+| [Spectral-Spatial Interpretation](https://huggingface.co/papers/2610.21114) | Haotian Ma | 71 HF upvotes · v 71 | 71 HF upvotes · "Spectral-Spatial Interpretation" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
