@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-23 06:02 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-23 06:08 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 110 HN points · v 178 | 110 HN points · 34 comments · Show HN |
 | [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 75 HN points · v 159 | 75 HN points · 42 comments · Show HN |
-| [Show HN: AI-built browser games, collected in one place](https://playgroundarcade.com/) | richleigh | 35 HN points · v 41 | 35 HN points · 3 comments · Show HN |
+| [Show HN: AI-built browser games, collected in one place](https://playgroundarcade.com/) | richleigh | 36 HN points · v 42 | 36 HN points · 3 comments · Show HN |
 | [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 11 HN points · v 25 | 11 HN points · 7 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
