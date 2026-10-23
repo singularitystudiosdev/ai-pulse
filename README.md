@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-23 06:24 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-23 06:29 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?](https://huggingface.co/papers/2610.26659) | Zhaoxi Zhang | 131 HF upvotes · v 131 | 131 HF upvotes · "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?" · model release |
-| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 77 HF upvotes · v 77 | 77 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
-| [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 71 HF upvotes · v 71 | 71 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
+| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 79 HF upvotes · v 79 | 79 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
+| [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 72 HF upvotes · v 72 | 72 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
 | [Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language Models](https://huggingface.co/papers/2610.25100) | Rubin Wei | 28 HF upvotes · v 28 | 28 HF upvotes · "Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language" · model release |
 | [Retrieval Augmented Generation Compositionality](https://huggingface.co/papers/2610.29722) | Ido Levy | 28 HF upvotes · v 28 | 28 HF upvotes · "Retrieval Augmented Generation Compositionality" · model release |
 
