@@ -15,16 +15,16 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-23 10:58 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-23 11:04 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 155 HF upvotes · v 155 | 155 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
-| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 143 HF upvotes · v 143 | 143 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
-| [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 50 HF upvotes · v 50 | 50 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
-| [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 42 HF upvotes · v 42 | 42 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
+| [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 157 HF upvotes · v 157 | 157 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
+| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 144 HF upvotes · v 144 | 144 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
+| [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 51 HF upvotes · v 51 | 51 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
+| [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 45 HF upvotes · v 45 | 45 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
 | [Toward Recursive Self-Improvement in Physical AI](https://huggingface.co/papers/2610.29677) | Meng Luo | 42 HF upvotes · v 42 | 42 HF upvotes · "Toward Recursive Self-Improvement in Physical AI" · model release |
 
 ### 🚀 AI SaaS launches (4)
@@ -33,8 +33,8 @@
 |---|---|---|---|
 | [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 111 HN points · v 179 | 111 HN points · 34 comments · Show HN |
 | [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 77 HN points · v 163 | 77 HN points · 43 comments · Show HN |
-| [I think the last month might have been the biggest month in (zeroth-order) optimization history.  In the 10 d…](https://x.com/industriaalist/status/2113365351455219760)<br>![card](https://pbs.twimg.com/tweet_video_thumb/HVQrvVCboAA2y1x.jpg) | [@industriaalist](https://x.com/industriaalist) | 1072♥ 107RT · v 140.3 | 140 velocity · 1072♥ 107RT · 137929 views · 15h old · matched "we released" |
 | [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 11 HN points · v 25 | 11 HN points · 7 comments · Show HN |
+| [Show HN: Kino Transcode – Open Red and Blackmagic Raw Files in the Browser](https://kino.ai/tools/transcode) | lukeigel | 9 HN points · v 13 | 9 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
