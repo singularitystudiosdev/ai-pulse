@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-23 11:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-23 11:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,8 +23,8 @@
 |---|---|---|---|
 | [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 157 HF upvotes · v 157 | 157 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
 | [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 144 HF upvotes · v 144 | 144 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
-| [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 52 HF upvotes · v 52 | 52 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
-| [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 45 HF upvotes · v 45 | 45 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
+| [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 53 HF upvotes · v 53 | 53 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
+| [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 46 HF upvotes · v 46 | 46 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
 | [Toward Recursive Self-Improvement in Physical AI](https://huggingface.co/papers/2610.29677) | Meng Luo | 42 HF upvotes · v 42 | 42 HF upvotes · "Toward Recursive Self-Improvement in Physical AI" · model release |
 
 ### 🚀 AI SaaS launches (4)
