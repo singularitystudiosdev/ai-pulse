@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-23 23:12 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-23 23:17 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 221 HF upvotes · v 221 | 221 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
 | [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 163 HF upvotes · v 163 | 163 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
-| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 149 HF upvotes · v 149 | 149 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
+| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 151 HF upvotes · v 151 | 151 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
 | [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 73 HF upvotes · v 73 | 73 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
 | [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 53 HF upvotes · v 53 | 53 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 111 HN points · v 179 | 111 HN points · 34 comments · Show HN |
 | [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 78 HN points · v 166 | 78 HN points · 44 comments · Show HN |
-| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 54 HN points · v 160 | 54 HN points · 53 comments · Show HN |
+| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 55 HN points · v 161 | 55 HN points · 53 comments · Show HN |
 | [Show HN: Kino Transcode – Open Red and Blackmagic Raw Files in the Browser](https://kino.ai/tools/transcode) | lukeigel | 9 HN points · v 13 | 9 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
