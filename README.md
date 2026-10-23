@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-23 10:32 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-23 10:37 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [M3.1 Flash weights are now open 🔓  Thanks to @togethercompute for being a day-0 launch partner and bringing …](https://x.com/MiniMax_AI/status/2113452026902589732) | [@MiniMax_AI](https://x.com/MiniMax_AI) | 163♥ 8RT · v 198.6 | known founder · 199 velocity · 163♥ 8RT · 58869 views · 8h old · matched "weights" |
 | [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 145 HF upvotes · v 145 | 145 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
-| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 137 HF upvotes · v 137 | 137 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
-| [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 43 HF upvotes · v 43 | 43 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
+| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 138 HF upvotes · v 138 | 138 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
+| [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 44 HF upvotes · v 44 | 44 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
 | [Toward Recursive Self-Improvement in Physical AI](https://huggingface.co/papers/2610.29677) | Meng Luo | 42 HF upvotes · v 42 | 42 HF upvotes · "Toward Recursive Self-Improvement in Physical AI" · model release |
+| [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 39 HF upvotes · v 39 | 39 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 111 HN points · v 179 | 111 HN points · 34 comments · Show HN |
-| [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 77 HN points · v 161 | 77 HN points · 42 comments · Show HN |
+| [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 77 HN points · v 163 | 77 HN points · 43 comments · Show HN |
 | [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit) | manbudezhu | 11 HN points · v 25 | 11 HN points · 7 comments · Show HN |
 | [Show HN: Kino Transcode – Open Red and Blackmagic Raw Files in the Browser](https://kino.ai/tools/transcode) | lukeigel | 9 HN points · v 13 | 9 HN points · 2 comments · Show HN |
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Interesting idea. Had tokens to burn so I got Opus to put it to the test](https://x.com/re_skob/status/2113043120128483349)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2113041032497467392/img/vhUPH0zBBIg0KqoC.jpg) | [@re_skob](https://x.com/re_skob) | 5827♥ 347RT · v 70.7 | 71 velocity · 5827♥ 347RT · 276901 views · 36h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
