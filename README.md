@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-23 15:41 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-23 15:47 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 111 HN points · v 179 | 111 HN points · 34 comments · Show HN |
 | [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 77 HN points · v 163 | 77 HN points · 43 comments · Show HN |
-| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 11 HN points · v 17 | 11 HN points · 3 comments · Show HN |
+| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 13 HN points · v 23 | 13 HN points · 5 comments · Show HN |
 | [Show HN: Kino Transcode – Open Red and Blackmagic Raw Files in the Browser](https://kino.ai/tools/transcode) | lukeigel | 9 HN points · v 13 | 9 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
