@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-24 17:01 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-24 17:06 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 175 HF upvotes · v 175 | 175 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
 | [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 165 HF upvotes · v 165 | 165 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
 | [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 153 HF upvotes · v 153 | 153 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
-| [Post 2 exposing Kimi AI  That's the creators campaign docs I got from Kimi AI after their Kimi K3.1 pro relea…](https://x.com/elshayib_/status/2113734602032312731)<br>![card](https://pbs.twimg.com/media/HVV-albWUAAlSfj.jpg?name=orig) | [@elshayib_](https://x.com/elshayib_) | 1369♥ 121RT · v 89.3 | 89 velocity · 1369♥ 121RT · 146301 views · 20h old · matched "kimi" |
+| [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 85 HF upvotes · v 85 | 85 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
