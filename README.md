@@ -15,25 +15,25 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-24 14:32 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-24 17:01 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 230 HF upvotes · v 230 | 230 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
+| [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 231 HF upvotes · v 231 | 231 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
+| [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 175 HF upvotes · v 175 | 175 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
 | [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 165 HF upvotes · v 165 | 165 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
 | [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 153 HF upvotes · v 153 | 153 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
-| [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 143 HF upvotes · v 143 | 143 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
-| [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 79 HF upvotes · v 79 | 79 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
+| [Post 2 exposing Kimi AI  That's the creators campaign docs I got from Kimi AI after their Kimi K3.1 pro relea…](https://x.com/elshayib_/status/2113734602032312731)<br>![card](https://pbs.twimg.com/media/HVV-albWUAAlSfj.jpg?name=orig) | [@elshayib_](https://x.com/elshayib_) | 1369♥ 121RT · v 89.3 | 89 velocity · 1369♥ 121RT · 146301 views · 20h old · matched "kimi" |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 64 HN points · v 172 | 64 HN points · 54 comments · Show HN |
+| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 64 HN points · v 174 | 64 HN points · 55 comments · Show HN |
 | [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 79 HN points · v 167 | 79 HN points · 44 comments · Show HN |
-| [Show HN: AI text detector that never sees your text (runs 100% in-browser)](https://kouh.me/ai-text-detector) | mrkn1 | 5 HN points · v 17 | 5 HN points · 6 comments · Show HN |
+| [Show HN: AI text detector that never sees your text (runs 100% in-browser)](https://kouh.me/ai-text-detector) | mrkn1 | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
 | [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool) | botacode | 9 HN points · v 13 | 9 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
