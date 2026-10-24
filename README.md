@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-24 06:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-24 06:08 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 225 HF upvotes · v 225 | 225 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
+| [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 226 HF upvotes · v 226 | 226 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
 | [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 165 HF upvotes · v 165 | 165 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
 | [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 152 HF upvotes · v 152 | 152 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
 | [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 74 HF upvotes · v 74 | 74 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
