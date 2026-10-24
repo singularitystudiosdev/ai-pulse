@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-24 01:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-24 01:08 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,18 +33,16 @@
 |---|---|---|---|
 | [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 111 HN points · v 179 | 111 HN points · 34 comments · Show HN |
 | [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 79 HN points · v 167 | 79 HN points · 44 comments · Show HN |
-| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 55 HN points · v 161 | 55 HN points · 53 comments · Show HN |
+| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 56 HN points · v 162 | 56 HN points · 53 comments · Show HN |
 | [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool) | botacode | 9 HN points · v 13 | 9 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Evolving threat 🚨 CVE-2026-111497, previously known to affect Node.js (node2shell) and Python has evolved in…](https://x.com/AikidoSecurity/status/2113759110625906950)<br>![card](https://pbs.twimg.com/media/HVWQHuIaAAAgt4M.jpg?name=orig) | [@AikidoSecurity](https://x.com/AikidoSecurity) | 905♥ 192RT · v 931.8 | 932 velocity · 905♥ 192RT · 87344 views · 3h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
