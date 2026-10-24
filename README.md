@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-24 17:43 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-24 17:48 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -36,11 +36,9 @@
 | [Show HN: AI text detector that never sees your text (runs 100% in-browser)](https://kouh.me/ai-text-detector) | mrkn1 | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
 | [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool) | botacode | 9 HN points · v 13 | 9 HN points · 2 comments · Show HN |
 
-### 🦾 Embodied AI (1)
+### 🦾 Embodied AI (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [‼️‼️ Now this is something! 🔽 This technical thread suggests (explains) that the entire Starlink/shield slow…](https://x.com/RSA_Observer/status/2113578319023083695) | [@RSA_Observer](https://x.com/RSA_Observer) | 3504♥ 1089RT · v 111.9 | 112 velocity · 3504♥ 1089RT · 364378 views · 31h old · matched "drone" |
+_nothing cleared the floor this run_
 
 ### 🔥 Viral AI posts (0)
 
