@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-23 23:22 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-24 01:03 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 221 HF upvotes · v 221 | 221 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
-| [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 163 HF upvotes · v 163 | 163 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
-| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 151 HF upvotes · v 151 | 151 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
+| [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 222 HF upvotes · v 222 | 222 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
+| [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 164 HF upvotes · v 164 | 164 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
+| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 152 HF upvotes · v 152 | 152 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
 | [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 73 HF upvotes · v 73 | 73 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
-| [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 53 HF upvotes · v 53 | 53 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
+| [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 54 HF upvotes · v 54 | 54 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara) | kmansm27 | 111 HN points · v 179 | 111 HN points · 34 comments · Show HN |
-| [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 78 HN points · v 166 | 78 HN points · 44 comments · Show HN |
+| [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 79 HN points · v 167 | 79 HN points · 44 comments · Show HN |
 | [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 55 HN points · v 161 | 55 HN points · 53 comments · Show HN |
-| [Show HN: Kino Transcode – Open Red and Blackmagic Raw Files in the Browser](https://kino.ai/tools/transcode) | lukeigel | 9 HN points · v 13 | 9 HN points · 2 comments · Show HN |
+| [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool) | botacode | 9 HN points · v 13 | 9 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Evolving threat 🚨 CVE-2026-111497, previously known to affect Node.js (node2shell) and Python has evolved in…](https://x.com/AikidoSecurity/status/2113759110625906950)<br>![card](https://pbs.twimg.com/media/HVWQHuIaAAAgt4M.jpg?name=orig) | [@AikidoSecurity](https://x.com/AikidoSecurity) | 905♥ 192RT · v 931.8 | 932 velocity · 905♥ 192RT · 87344 views · 3h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
@@ -51,6 +53,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-24](archive/2026-10-24.md)
 - [2026-10-23](archive/2026-10-23.md)
 - [2026-10-22](archive/2026-10-22.md)
 - [2026-10-21](archive/2026-10-21.md)
