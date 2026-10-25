@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-25 00:22 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-25 00:28 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 233 HF upvotes · v 233 | 233 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
-| [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 176 HF upvotes · v 176 | 176 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
-| [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 166 HF upvotes · v 166 | 166 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
-| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 155 HF upvotes · v 155 | 155 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
-| [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 87 HF upvotes · v 87 | 87 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
+| [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 238 HF upvotes · v 238 | 238 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
+| [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 181 HF upvotes · v 181 | 181 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
+| [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 171 HF upvotes · v 171 | 171 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
+| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 160 HF upvotes · v 160 | 160 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
+| [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 91 HF upvotes · v 91 | 91 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -36,9 +36,11 @@
 | [Show HN: AI text detector that never sees your text (runs 100% in-browser)](https://kouh.me/ai-text-detector) | mrkn1 | 5 HN points · v 31 | 5 HN points · 13 comments · Show HN |
 | [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool) | botacode | 9 HN points · v 13 | 9 HN points · 2 comments · Show HN |
 
-### 🦾 Embodied AI (0)
+### 🦾 Embodied AI (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Correct.   Using Starlink, a civilian commercial service, for offensive drone strikes to kill people has neve…](https://x.com/elonmusk/status/2114063986744275011) | [@elonmusk](https://x.com/elonmusk) | 94049♥ 15697RT · v 26209.9 | known founder · 26210 velocity · 94049♥ 15697RT · 3794548 views · 6h old · matched "drone" |
 
 ### 🔥 Viral AI posts (0)
 
