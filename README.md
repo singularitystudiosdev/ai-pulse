@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-25 20:12 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-25 21:59 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,17 +23,17 @@
 |---|---|---|---|
 | [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 243 HF upvotes · v 243 | 243 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
 | [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 184 HF upvotes · v 184 | 184 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
-| [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 173 HF upvotes · v 173 | 173 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
-| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 162 HF upvotes · v 162 | 162 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
-| [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 97 HF upvotes · v 97 | 97 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
+| [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 174 HF upvotes · v 174 | 174 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
+| [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 164 HF upvotes · v 164 | 164 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
+| [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 98 HF upvotes · v 98 | 98 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 70 HN points · v 182 | 70 HN points · 56 comments · Show HN |
+| [Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1) | Gcarter08 | 29 HN points · v 49 | 29 HN points · 10 comments · Show HN |
 | [Show HN: AI text detector that never sees your text (runs 100% in-browser)](https://kouh.me/ai-text-detector) | mrkn1 | 7 HN points · v 37 | 7 HN points · 15 comments · Show HN |
-| [Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1) | Gcarter08 | 13 HN points · v 27 | 13 HN points · 7 comments · Show HN |
 | [Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses](https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42) | modern_cmo | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
