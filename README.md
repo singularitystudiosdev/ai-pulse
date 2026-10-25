@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-25 08:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-25 08:21 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 182 HF upvotes · v 182 | 182 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
 | [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) | Songlin Yang | 172 HF upvotes · v 172 | 172 HF upvotes · "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinem" · model release |
 | [Deep Search in Real-World Web Environments](https://huggingface.co/papers/2610.30181) | Xiaomin Yu | 160 HF upvotes · v 160 | 160 HF upvotes · "Deep Search in Real-World Web Environments" · model release |
-| [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 92 HF upvotes · v 92 | 92 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
+| [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 93 HF upvotes · v 93 | 93 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
