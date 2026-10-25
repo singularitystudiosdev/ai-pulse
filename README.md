@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-24 23:54 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-25 00:00 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-25](archive/2026-10-25.md)
 - [2026-10-24](archive/2026-10-24.md)
 - [2026-10-23](archive/2026-10-23.md)
 - [2026-10-22](archive/2026-10-22.md)
