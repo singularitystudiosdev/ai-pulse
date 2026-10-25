@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-25 02:28 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-25 02:33 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 65 HN points · v 175 | 65 HN points · 55 comments · Show HN |
+| [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | jreynar | 65 HN points · v 177 | 65 HN points · 56 comments · Show HN |
 | [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | elwingo1 | 80 HN points · v 170 | 80 HN points · 45 comments · Show HN |
 | [Show HN: AI text detector that never sees your text (runs 100% in-browser)](https://kouh.me/ai-text-detector) | mrkn1 | 5 HN points · v 31 | 5 HN points · 13 comments · Show HN |
 | [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool) | botacode | 9 HN points · v 13 | 9 HN points · 2 comments · Show HN |
