@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-26 11:07 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-26 11:12 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 244 HF upvotes · v 244 | 244 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
 | [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 101 HF upvotes · v 101 | 101 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
-| [Reading, Writing, Sharing, and Interacting with the World through Video](https://huggingface.co/papers/2610.31668) | Shengqiong Wu | 54 HF upvotes · v 54 | 54 HF upvotes · "Reading, Writing, Sharing, and Interacting with the World through Vide" · model release |
+| [Reading, Writing, Sharing, and Interacting with the World through Video](https://huggingface.co/papers/2610.31668) | Shengqiong Wu | 61 HF upvotes · v 61 | 61 HF upvotes · "Reading, Writing, Sharing, and Interacting with the World through Vide" · model release |
 | [UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](https://huggingface.co/papers/2610.30932) | Jujia Zhao | 41 HF upvotes · v 41 | 41 HF upvotes · "UserArena: Benchmarking Interactive User Simulation for Long-Horizon S" · model release |
 | [What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models](https://huggingface.co/papers/2610.23987) | Tengju Ru | 40 HF upvotes · v 40 | 40 HF upvotes · "What Generation Knows: Unlocking Fine-Grained Understanding in Unified" · model release |
 
