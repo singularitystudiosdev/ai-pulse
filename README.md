@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-26 11:12 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-26 11:17 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 244 HF upvotes · v 244 | 244 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
 | [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 101 HF upvotes · v 101 | 101 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
-| [Reading, Writing, Sharing, and Interacting with the World through Video](https://huggingface.co/papers/2610.31668) | Shengqiong Wu | 61 HF upvotes · v 61 | 61 HF upvotes · "Reading, Writing, Sharing, and Interacting with the World through Vide" · model release |
+| [Reading, Writing, Sharing, and Interacting with the World through Video](https://huggingface.co/papers/2610.31668) | Shengqiong Wu | 65 HF upvotes · v 65 | 65 HF upvotes · "Reading, Writing, Sharing, and Interacting with the World through Vide" · model release |
 | [UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](https://huggingface.co/papers/2610.30932) | Jujia Zhao | 41 HF upvotes · v 41 | 41 HF upvotes · "UserArena: Benchmarking Interactive User Simulation for Long-Horizon S" · model release |
 | [What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models](https://huggingface.co/papers/2610.23987) | Tengju Ru | 40 HF upvotes · v 40 | 40 HF upvotes · "What Generation Knows: Unlocking Fine-Grained Understanding in Unified" · model release |
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1) | Gcarter08 | 61 HN points · v 111 | 61 HN points · 25 comments · Show HN |
-| [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems) | lumbroso | 45 HN points · v 101 | 45 HN points · 28 comments · Show HN |
+| [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems) | lumbroso | 46 HN points · v 102 | 46 HN points · 28 comments · Show HN |
 | [Show HN: AI text detector that never sees your text (runs 100% in-browser)](https://kouh.me/ai-text-detector) | mrkn1 | 7 HN points · v 37 | 7 HN points · 15 comments · Show HN |
 | [Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses](https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42) | modern_cmo | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
 
