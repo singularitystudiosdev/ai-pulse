@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-26 05:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-26 10:34 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | Tianming Liang | 244 HF upvotes · v 244 | 244 HF upvotes · "WeVisOne-VL: Unified Visual Perception from Objects to Pixels" · model release |
-| [Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://huggingface.co/papers/2610.24738) | Wen Xue | 184 HF upvotes · v 184 | 184 HF upvotes · "Editing Images into Reusable Layers via Compositional Edit-Prior Disti" · model release |
-| [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 99 HF upvotes · v 99 | 99 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
-| [Toward Recursive Self-Improvement in Physical AI](https://huggingface.co/papers/2610.29677) | Meng Luo | 59 HF upvotes · v 59 | 59 HF upvotes · "Toward Recursive Self-Improvement in Physical AI" · model release |
-| [Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language Models](https://huggingface.co/papers/2610.25100) | Rubin Wei | 50 HF upvotes · v 50 | 50 HF upvotes · "Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language" · model release |
+| [IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems](https://huggingface.co/papers/2610.30949) | A. Jian Yang | 101 HF upvotes · v 101 | 101 HF upvotes · "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems" · model release |
+| [UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](https://huggingface.co/papers/2610.30932) | Jujia Zhao | 41 HF upvotes · v 41 | 41 HF upvotes · "UserArena: Benchmarking Interactive User Simulation for Long-Horizon S" · model release |
+| [What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models](https://huggingface.co/papers/2610.23987) | Tengju Ru | 40 HF upvotes · v 40 | 40 HF upvotes · "What Generation Knows: Unlocking Fine-Grained Understanding in Unified" · model release |
+| [FilmFlow: Agentic System for 3D Virtual Film Cinematography](https://huggingface.co/papers/2610.30753) | Yiming Zhang | 32 HF upvotes · v 32 | 32 HF upvotes · "FilmFlow: Agentic System for 3D Virtual Film Cinematography" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1) | Gcarter08 | 56 HN points · v 106 | 56 HN points · 25 comments · Show HN |
-| [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems) | lumbroso | 20 HN points · v 48 | 20 HN points · 14 comments · Show HN |
+| [Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1) | Gcarter08 | 61 HN points · v 111 | 61 HN points · 25 comments · Show HN |
+| [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems) | lumbroso | 44 HN points · v 94 | 44 HN points · 25 comments · Show HN |
 | [Show HN: AI text detector that never sees your text (runs 100% in-browser)](https://kouh.me/ai-text-detector) | mrkn1 | 7 HN points · v 37 | 7 HN points · 15 comments · Show HN |
 | [Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses](https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42) | modern_cmo | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [I got confirmation that the original version just had an index.html. So there never was any php code executed…](https://x.com/LiveOverflow/status/2114412072805208237)<br>![card](https://pbs.twimg.com/media/HVfmkqxWMAAXE5e.jpg?name=orig) | [@LiveOverflow](https://x.com/LiveOverflow) | 203♥ 5RT · v 33.6 | known founder · 34 velocity · 203♥ 5RT · 28169 views · 17h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
