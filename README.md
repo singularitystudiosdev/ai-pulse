@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-26 05:01 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-26 05:06 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1) | Gcarter08 | 56 HN points · v 106 | 56 HN points · 25 comments · Show HN |
-| [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems) | lumbroso | 20 HN points · v 50 | 20 HN points · 15 comments · Show HN |
+| [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems) | lumbroso | 20 HN points · v 48 | 20 HN points · 14 comments · Show HN |
 | [Show HN: AI text detector that never sees your text (runs 100% in-browser)](https://kouh.me/ai-text-detector) | mrkn1 | 7 HN points · v 37 | 7 HN points · 15 comments · Show HN |
 | [Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses](https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42) | modern_cmo | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
 
