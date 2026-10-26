@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-26 21:54 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-26 22:00 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,8 +31,8 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 55 HN points · v 87 | 55 HN points · 16 comments · Show HN |
-| [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) | i_strelov | 27 HN points · v 39 | 27 HN points · 6 comments · Show HN |
+| [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 56 HN points · v 88 | 56 HN points · 16 comments · Show HN |
+| [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) | i_strelov | 27 HN points · v 41 | 27 HN points · 7 comments · Show HN |
 | [Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses](https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42) | modern_cmo | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
 | [Show HN: RainbowSay – Learn, teach, research languages live with shows you love](https://rainbowsay.ai/) | gigapotential | 11 HN points · v 19 | 11 HN points · 4 comments · Show HN |
 
