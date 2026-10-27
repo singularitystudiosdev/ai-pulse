@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-26 22:23 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-27 00:47 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Reading, Writing, Sharing, and Interacting with the World through Video](https://huggingface.co/papers/2610.31668) | Shengqiong Wu | 221 HF upvotes · v 221 | 221 HF upvotes · "Reading, Writing, Sharing, and Interacting with the World through Vide" · model release |
+| [Reading, Writing, Sharing, and Interacting with the World through Video](https://huggingface.co/papers/2610.31668) | Shengqiong Wu | 222 HF upvotes · v 222 | 222 HF upvotes · "Reading, Writing, Sharing, and Interacting with the World through Vide" · model release |
 | [UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](https://huggingface.co/papers/2610.30932) | Jujia Zhao | 47 HF upvotes · v 47 | 47 HF upvotes · "UserArena: Benchmarking Interactive User Simulation for Long-Horizon S" · model release |
 | [HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games](https://huggingface.co/papers/2610.31162) | Zecong Tang | 38 HF upvotes · v 38 | 38 HF upvotes · "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Game" · model release |
 | [RSIHub: A Composable Framework for Agent-Evolution Methods](https://huggingface.co/papers/2610.32253) | Zimu Wang | 34 HF upvotes · v 34 | 34 HF upvotes · "RSIHub: A Composable Framework for Agent-Evolution Methods" · model release |
-| [RynnUnify: Towards Unified Embodied Brain](https://huggingface.co/papers/2610.32965) | Minghao Zhu | 31 HF upvotes · v 31 | 31 HF upvotes · "RynnUnify: Towards Unified Embodied Brain" · model release |
+| [RynnUnify: Towards Unified Embodied Brain](https://huggingface.co/papers/2610.32965) | Minghao Zhu | 33 HF upvotes · v 33 | 33 HF upvotes · "RynnUnify: Towards Unified Embodied Brain" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 66 HN points · v 100 | 66 HN points · 17 comments · Show HN |
+| [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 107 HN points · v 157 | 107 HN points · 25 comments · Show HN |
 | [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) | i_strelov | 27 HN points · v 41 | 27 HN points · 7 comments · Show HN |
 | [Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses](https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42) | modern_cmo | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
 | [Show HN: RainbowSay – Learn, teach, research languages live with shows you love](https://rainbowsay.ai/) | gigapotential | 11 HN points · v 19 | 11 HN points · 4 comments · Show HN |
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-27](archive/2026-10-27.md)
 - [2026-10-26](archive/2026-10-26.md)
 - [2026-10-25](archive/2026-10-25.md)
 - [2026-10-24](archive/2026-10-24.md)
