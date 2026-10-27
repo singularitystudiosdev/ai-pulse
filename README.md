@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-27 06:31 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-27 11:04 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Reading, Writing, Sharing, and Interacting with the World through Video](https://huggingface.co/papers/2610.31668) | Shengqiong Wu | 273 HF upvotes · v 273 | 273 HF upvotes · "Reading, Writing, Sharing, and Interacting with the World through Vide" · model release |
-| [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://huggingface.co/papers/2610.33568) | Yihao Hu | 106 HF upvotes · v 106 | 106 HF upvotes · "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis " · model release |
-| [StreamVibe: Proactive Video Agents for Evolving User Intent](https://huggingface.co/papers/2610.34662) | Chengzhi Liu | 86 HF upvotes · v 86 | 86 HF upvotes · "StreamVibe: Proactive Video Agents for Evolving User Intent" · model release |
-| [Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution](https://huggingface.co/papers/2610.32285) | Zhiyong Cao | 77 HF upvotes · v 77 | 77 HF upvotes · "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Fa" · model release |
-| [InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](https://huggingface.co/papers/2610.33966) | Qinsi Wang | 71 HF upvotes · v 71 | 71 HF upvotes · "InteractiveWorld: A Verifiable Human-Centric Environment for Building " · model release |
+| [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://huggingface.co/papers/2610.33568) | Yihao Hu | 206 HF upvotes · v 206 | 206 HF upvotes · "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis " · model release |
+| [StreamVibe: Proactive Video Agents for Evolving User Intent](https://huggingface.co/papers/2610.34662) | Chengzhi Liu | 205 HF upvotes · v 205 | 205 HF upvotes · "StreamVibe: Proactive Video Agents for Evolving User Intent" · model release |
+| [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467) | Ruhao Liu | 150 HF upvotes · v 150 | 150 HF upvotes · "DynaFlow: Learning Free-Form Multi-Agent Orchestration" · model release |
+| [Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution](https://huggingface.co/papers/2610.32285) | Zhiyong Cao | 135 HF upvotes · v 135 | 135 HF upvotes · "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Fa" · model release |
+| [InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](https://huggingface.co/papers/2610.33966) | Qinsi Wang | 84 HF upvotes · v 84 | 84 HF upvotes · "InteractiveWorld: A Verifiable Human-Centric Environment for Building " · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 136 HN points · v 198 | 136 HN points · 31 comments · Show HN |
-| [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) | i_strelov | 29 HN points · v 45 | 29 HN points · 8 comments · Show HN |
+| [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 147 HN points · v 213 | 147 HN points · 33 comments · Show HN |
+| [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) | i_strelov | 31 HN points · v 47 | 31 HN points · 8 comments · Show HN |
 | [Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses](https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42) | modern_cmo | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
 | [Show HN: RainbowSay – Learn, teach, research languages live with shows you love](https://rainbowsay.ai/) | gigapotential | 11 HN points · v 19 | 11 HN points · 4 comments · Show HN |
 
