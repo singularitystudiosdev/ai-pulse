@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-27 11:41 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-27 11:46 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://huggingface.co/papers/2610.33568) | Yihao Hu | 261 HF upvotes · v 261 | 261 HF upvotes · "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis " · model release |
-| [StreamVibe: Proactive Video Agents for Evolving User Intent](https://huggingface.co/papers/2610.34662) | Chengzhi Liu | 220 HF upvotes · v 220 | 220 HF upvotes · "StreamVibe: Proactive Video Agents for Evolving User Intent" · model release |
-| [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467) | Ruhao Liu | 152 HF upvotes · v 152 | 152 HF upvotes · "DynaFlow: Learning Free-Form Multi-Agent Orchestration" · model release |
+| [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://huggingface.co/papers/2610.33568) | Yihao Hu | 268 HF upvotes · v 268 | 268 HF upvotes · "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis " · model release |
+| [StreamVibe: Proactive Video Agents for Evolving User Intent](https://huggingface.co/papers/2610.34662) | Chengzhi Liu | 224 HF upvotes · v 224 | 224 HF upvotes · "StreamVibe: Proactive Video Agents for Evolving User Intent" · model release |
+| [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467) | Ruhao Liu | 153 HF upvotes · v 153 | 153 HF upvotes · "DynaFlow: Learning Free-Form Multi-Agent Orchestration" · model release |
 | [Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution](https://huggingface.co/papers/2610.32285) | Zhiyong Cao | 139 HF upvotes · v 139 | 139 HF upvotes · "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Fa" · model release |
-| [InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](https://huggingface.co/papers/2610.33966) | Qinsi Wang | 91 HF upvotes · v 91 | 91 HF upvotes · "InteractiveWorld: A Verifiable Human-Centric Environment for Building " · model release |
+| [InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](https://huggingface.co/papers/2610.33966) | Qinsi Wang | 92 HF upvotes · v 92 | 92 HF upvotes · "InteractiveWorld: A Verifiable Human-Centric Environment for Building " · model release |
 
 ### 🚀 AI SaaS launches (4)
 
