@@ -15,24 +15,24 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-27 17:22 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-27 20:57 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://huggingface.co/papers/2610.33568) | Yihao Hu | 330 HF upvotes · v 330 | 330 HF upvotes · "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis " · model release |
-| [StreamVibe: Proactive Video Agents for Evolving User Intent](https://huggingface.co/papers/2610.34662) | Chengzhi Liu | 233 HF upvotes · v 233 | 233 HF upvotes · "StreamVibe: Proactive Video Agents for Evolving User Intent" · model release |
-| [Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution](https://huggingface.co/papers/2610.32285) | Zhiyong Cao | 185 HF upvotes · v 185 | 185 HF upvotes · "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Fa" · model release |
-| [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467) | Ruhao Liu | 182 HF upvotes · v 182 | 182 HF upvotes · "DynaFlow: Learning Free-Form Multi-Agent Orchestration" · model release |
+| [StreamVibe: Proactive Video Agents for Evolving User Intent](https://huggingface.co/papers/2610.34662) | Chengzhi Liu | 237 HF upvotes · v 237 | 237 HF upvotes · "StreamVibe: Proactive Video Agents for Evolving User Intent" · model release |
+| [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467) | Ruhao Liu | 183 HF upvotes · v 183 | 183 HF upvotes · "DynaFlow: Learning Free-Form Multi-Agent Orchestration" · model release |
 | [InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](https://huggingface.co/papers/2610.33966) | Qinsi Wang | 109 HF upvotes · v 109 | 109 HF upvotes · "InteractiveWorld: A Verifiable Human-Centric Environment for Building " · model release |
+| [Work Agents: Systems, Capabilities, and Optimization](https://huggingface.co/papers/2610.35845) | Zishan Xu | 97 HF upvotes · v 97 | 97 HF upvotes · "Work Agents: Systems, Capabilities, and Optimization" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 160 HN points · v 236 | 160 HN points · 38 comments · Show HN |
-| [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) | i_strelov | 31 HN points · v 47 | 31 HN points · 8 comments · Show HN |
+| [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 164 HN points · v 246 | 164 HN points · 41 comments · Show HN |
+| [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) | i_strelov | 33 HN points · v 49 | 33 HN points · 8 comments · Show HN |
 | [Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses](https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42) | modern_cmo | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
 | [Show HN: RainbowSay – Learn, teach, research languages live with shows you love](https://rainbowsay.ai/) | gigapotential | 12 HN points · v 20 | 12 HN points · 4 comments · Show HN |
 
