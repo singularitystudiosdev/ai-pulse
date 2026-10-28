@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-28 18:42 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-28 18:47 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 331 HF upvotes · v 331 | 331 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
+| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 333 HF upvotes · v 333 | 333 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
 | [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 310 HF upvotes · v 310 | 310 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
-| [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013) | Tao Ren | 277 HF upvotes · v 277 | 277 HF upvotes · "Multiscale Policy Optimization for Long-Horizon LLM Agents" · model release |
+| [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013) | Tao Ren | 287 HF upvotes · v 287 | 287 HF upvotes · "Multiscale Policy Optimization for Long-Horizon LLM Agents" · model release |
 | [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://huggingface.co/papers/2610.37381) | Hanqing Wang | 138 HF upvotes · v 138 | 138 HF upvotes · "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Represen" · model release |
-| [VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://huggingface.co/papers/2610.35864) | Muxi Diao | 127 HF upvotes · v 127 | 127 HF upvotes · "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Gene" · model release |
+| [VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://huggingface.co/papers/2610.35864) | Muxi Diao | 129 HF upvotes · v 129 | 129 HF upvotes · "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Gene" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Steve Jobs in 2010: “Touch surfaces don’t wanna be vertical... it’s ergonomically terrible”  Apple in 2026: “…](https://x.com/Cartidise/status/2115498522476994721)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2115498494882721792/img/wILyFehd9LI94rw2.jpg) | [@Cartidise](https://x.com/Cartidise) | 2083♥ 180RT · v 2706.5 | 2707 velocity · 2083♥ 180RT · 125054 views · 1h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
