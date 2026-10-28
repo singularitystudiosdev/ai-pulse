@@ -15,16 +15,16 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-28 06:24 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-28 06:29 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 126 HF upvotes · v 126 | 126 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
-| [Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729) | Qiaoling Chen | 71 HF upvotes · v 71 | 71 HF upvotes · "Hy-Nomas: Towards Free-form Interactive World Generation" · model release |
+| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 128 HF upvotes · v 128 | 128 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
+| [Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729) | Qiaoling Chen | 75 HF upvotes · v 75 | 75 HF upvotes · "Hy-Nomas: Towards Free-form Interactive World Generation" · model release |
 | [Rollback: Experience Backtracking in World Models for Policy Improvement](https://huggingface.co/papers/2610.36068) | Jiayi Luo | 43 HF upvotes · v 43 | 43 HF upvotes · "Rollback: Experience Backtracking in World Models for Policy Improveme" · model release |
-| [ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](https://huggingface.co/papers/2610.37666) | Chaehyun Kim | 41 HF upvotes · v 41 | 41 HF upvotes · "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning" · model release |
+| [ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](https://huggingface.co/papers/2610.37666) | Chaehyun Kim | 42 HF upvotes · v 42 | 42 HF upvotes · "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning" · model release |
 | [Representation Redistribution in Sparse Autoencoders](https://huggingface.co/papers/2610.21240) | Ziye Mei | 36 HF upvotes · v 36 | 36 HF upvotes · "Representation Redistribution in Sparse Autoencoders" · model release |
 
 ### 🚀 AI SaaS launches (4)
