@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-28 06:34 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-28 06:40 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 129 HF upvotes · v 129 | 129 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
-| [Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729) | Qiaoling Chen | 75 HF upvotes · v 75 | 75 HF upvotes · "Hy-Nomas: Towards Free-form Interactive World Generation" · model release |
-| [Rollback: Experience Backtracking in World Models for Policy Improvement](https://huggingface.co/papers/2610.36068) | Jiayi Luo | 44 HF upvotes · v 44 | 44 HF upvotes · "Rollback: Experience Backtracking in World Models for Policy Improveme" · model release |
+| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 130 HF upvotes · v 130 | 130 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
+| [Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729) | Qiaoling Chen | 76 HF upvotes · v 76 | 76 HF upvotes · "Hy-Nomas: Towards Free-form Interactive World Generation" · model release |
+| [Rollback: Experience Backtracking in World Models for Policy Improvement](https://huggingface.co/papers/2610.36068) | Jiayi Luo | 45 HF upvotes · v 45 | 45 HF upvotes · "Rollback: Experience Backtracking in World Models for Policy Improveme" · model release |
 | [ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](https://huggingface.co/papers/2610.37666) | Chaehyun Kim | 42 HF upvotes · v 42 | 42 HF upvotes · "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning" · model release |
 | [CodeCap-Bench: Can Code Serve as a Good Video Caption?](https://huggingface.co/papers/2610.37341) | Jiafu Tang | 37 HF upvotes · v 37 | 37 HF upvotes · "CodeCap-Bench: Can Code Serve as a Good Video Caption?" · model release |
 
