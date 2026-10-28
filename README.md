@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-28 00:24 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-28 00:29 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,12 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Historically, Israeli exit polls don't diverge that much. Here, for example, are the numbers from 2022](https://x.com/israel_elects/status/2115168648520519891)<br>![card](https://pbs.twimg.com/media/HVqWmZ3WUAAciL-.jpg?name=orig) | [@israel_elects](https://x.com/israel_elects) | 155♥ 23RT · v 222.4 | 222 velocity · 155♥ 23RT · 42993 views · 5h old |
-| [Kantar/Kan Exit Poll Update:  Joint List gains a seat, Together loses one  🔵 Likud: 25 🔴 Yashar: 21 🔴 Toge…](https://x.com/israel_elects/status/2115191017066377366)<br>![card](https://pbs.twimg.com/media/HVqqhVAW4AEuR8o.png?name=orig) | [@israel_elects](https://x.com/israel_elects) | 31♥ 4RT · v 96 | 96 velocity · 31♥ 4RT · 11883 views · 3h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
