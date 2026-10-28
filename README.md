@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-28 13:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-28 13:30 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 262 HF upvotes · v 262 | 262 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
+| [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 270 HF upvotes · v 270 | 270 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
 | [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 216 HF upvotes · v 216 | 216 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
 | [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://huggingface.co/papers/2610.37381) | Hanqing Wang | 136 HF upvotes · v 136 | 136 HF upvotes · "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Represen" · model release |
 | [Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729) | Qiaoling Chen | 101 HF upvotes · v 101 | 101 HF upvotes · "Hy-Nomas: Towards Free-form Interactive World Generation" · model release |
