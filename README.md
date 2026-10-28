@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-28 18:52 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-28 18:58 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 335 HF upvotes · v 335 | 335 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
+| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 339 HF upvotes · v 339 | 339 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
 | [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 310 HF upvotes · v 310 | 310 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
-| [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013) | Tao Ren | 296 HF upvotes · v 296 | 296 HF upvotes · "Multiscale Policy Optimization for Long-Horizon LLM Agents" · model release |
+| [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013) | Tao Ren | 306 HF upvotes · v 306 | 306 HF upvotes · "Multiscale Policy Optimization for Long-Horizon LLM Agents" · model release |
 | [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://huggingface.co/papers/2610.37381) | Hanqing Wang | 138 HF upvotes · v 138 | 138 HF upvotes · "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Represen" · model release |
-| [VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://huggingface.co/papers/2610.35864) | Muxi Diao | 130 HF upvotes · v 130 | 130 HF upvotes · "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Gene" · model release |
+| [VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://huggingface.co/papers/2610.35864) | Muxi Diao | 131 HF upvotes · v 131 | 131 HF upvotes · "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Gene" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
