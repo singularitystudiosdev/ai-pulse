@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-28 01:12 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-28 06:03 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467) | Ruhao Liu | 189 HF upvotes · v 189 | 189 HF upvotes · "DynaFlow: Learning Free-Form Multi-Agent Orchestration" · model release |
-| [Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion](https://huggingface.co/papers/2610.34415) | Kam Man Wu | 42 HF upvotes · v 42 | 42 HF upvotes · "Spatial Audio Generation and Editing with Executable Plans and Self-Di" · model release |
-| [AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos](https://huggingface.co/papers/2610.33413) | Yuesheng Huang | 38 HF upvotes · v 38 | 38 HF upvotes · "AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos" · model release |
-| [Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL](https://huggingface.co/papers/2610.33512) | Hyun Ryu | 33 HF upvotes · v 33 | 33 HF upvotes · "Eat Your Precision: Precision Objective Mitigates Reward Hacking in Ru" · model release |
-| [Δτ-Bench: Pushing Agents Toward a Moving Capability](https://huggingface.co/papers/2610.34238) | Shuofei Qiao | 25 HF upvotes · v 25 | 25 HF upvotes · "Δτ-Bench: Pushing Agents Toward a Moving Capability" · model release |
+| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 116 HF upvotes · v 116 | 116 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
+| [Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729) | Qiaoling Chen | 68 HF upvotes · v 68 | 68 HF upvotes · "Hy-Nomas: Towards Free-form Interactive World Generation" · model release |
+| [Rollback: Experience Backtracking in World Models for Policy Improvement](https://huggingface.co/papers/2610.36068) | Jiayi Luo | 43 HF upvotes · v 43 | 43 HF upvotes · "Rollback: Experience Backtracking in World Models for Policy Improveme" · model release |
+| [ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](https://huggingface.co/papers/2610.37666) | Chaehyun Kim | 41 HF upvotes · v 41 | 41 HF upvotes · "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning" · model release |
+| [Representation Redistribution in Sparse Autoencoders](https://huggingface.co/papers/2610.21240) | Ziye Mei | 36 HF upvotes · v 36 | 36 HF upvotes · "Representation Redistribution in Sparse Autoencoders" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 164 HN points · v 248 | 164 HN points · 42 comments · Show HN |
-| [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) | i_strelov | 33 HN points · v 51 | 33 HN points · 9 comments · Show HN |
-| [Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses](https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42) | modern_cmo | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
+| [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 167 HN points · v 251 | 167 HN points · 42 comments · Show HN |
+| [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) | i_strelov | 36 HN points · v 54 | 36 HN points · 9 comments · Show HN |
 | [Show HN: Ultimidi – piano learning web game](https://game.ultimidi.com/) | XCSme | 9 HN points · v 21 | 9 HN points · 6 comments · Show HN |
+| [Show HN: RainbowSay – Learn, teach, research languages live with shows you love](https://rainbowsay.ai/) | gigapotential | 12 HN points · v 20 | 12 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Fixing cyberpunk to support all browsers   update should be pushed today](https://x.com/omonkeyzz/status/2115032697227854009) | [@omonkeyzz](https://x.com/omonkeyzz) | 25♥ 1RT · v 2.1 | 2.1 velocity · 25♥ 1RT · 3254 views · 19h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
