@@ -15,34 +15,37 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-27 21:44 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-28 00:24 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://huggingface.co/papers/2610.33568) | Yihao Hu | 330 HF upvotes · v 330 | 330 HF upvotes · "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis " · model release |
-| [StreamVibe: Proactive Video Agents for Evolving User Intent](https://huggingface.co/papers/2610.34662) | Chengzhi Liu | 237 HF upvotes · v 237 | 237 HF upvotes · "StreamVibe: Proactive Video Agents for Evolving User Intent" · model release |
-| [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467) | Ruhao Liu | 183 HF upvotes · v 183 | 183 HF upvotes · "DynaFlow: Learning Free-Form Multi-Agent Orchestration" · model release |
-| [InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](https://huggingface.co/papers/2610.33966) | Qinsi Wang | 109 HF upvotes · v 109 | 109 HF upvotes · "InteractiveWorld: A Verifiable Human-Centric Environment for Building " · model release |
-| [Work Agents: Systems, Capabilities, and Optimization](https://huggingface.co/papers/2610.35845) | Zishan Xu | 97 HF upvotes · v 97 | 97 HF upvotes · "Work Agents: Systems, Capabilities, and Optimization" · model release |
+| [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467) | Ruhao Liu | 184 HF upvotes · v 184 | 184 HF upvotes · "DynaFlow: Learning Free-Form Multi-Agent Orchestration" · model release |
+| [Work Agents: Systems, Capabilities, and Optimization](https://huggingface.co/papers/2610.35845) | Zishan Xu | 98 HF upvotes · v 98 | 98 HF upvotes · "Work Agents: Systems, Capabilities, and Optimization" · model release |
+| [Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion](https://huggingface.co/papers/2610.34415) | Kam Man Wu | 38 HF upvotes · v 38 | 38 HF upvotes · "Spatial Audio Generation and Editing with Executable Plans and Self-Di" · model release |
+| [AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos](https://huggingface.co/papers/2610.33413) | Yuesheng Huang | 33 HF upvotes · v 33 | 33 HF upvotes · "AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos" · model release |
+| [Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL](https://huggingface.co/papers/2610.33512) | Hyun Ryu | 29 HF upvotes · v 29 | 29 HF upvotes · "Eat Your Precision: Precision Objective Mitigates Reward Hacking in Ru" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 164 HN points · v 248 | 164 HN points · 42 comments · Show HN |
-| [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) | i_strelov | 33 HN points · v 49 | 33 HN points · 8 comments · Show HN |
+| [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) | i_strelov | 33 HN points · v 51 | 33 HN points · 9 comments · Show HN |
 | [Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses](https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42) | modern_cmo | 15 HN points · v 23 | 15 HN points · 4 comments · Show HN |
-| [Show HN: RainbowSay – Learn, teach, research languages live with shows you love](https://rainbowsay.ai/) | gigapotential | 12 HN points · v 20 | 12 HN points · 4 comments · Show HN |
+| [Show HN: Ultimidi – piano learning web game](https://game.ultimidi.com/) | XCSme | 9 HN points · v 21 | 9 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (2)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Historically, Israeli exit polls don't diverge that much. Here, for example, are the numbers from 2022](https://x.com/israel_elects/status/2115168648520519891)<br>![card](https://pbs.twimg.com/media/HVqWmZ3WUAAciL-.jpg?name=orig) | [@israel_elects](https://x.com/israel_elects) | 155♥ 23RT · v 222.4 | 222 velocity · 155♥ 23RT · 42993 views · 5h old |
+| [Kantar/Kan Exit Poll Update:  Joint List gains a seat, Together loses one  🔵 Likud: 25 🔴 Yashar: 21 🔴 Toge…](https://x.com/israel_elects/status/2115191017066377366)<br>![card](https://pbs.twimg.com/media/HVqqhVAW4AEuR8o.png?name=orig) | [@israel_elects](https://x.com/israel_elects) | 31♥ 4RT · v 96 | 96 velocity · 31♥ 4RT · 11883 views · 3h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
@@ -51,6 +54,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-28](archive/2026-10-28.md)
 - [2026-10-27](archive/2026-10-27.md)
 - [2026-10-26](archive/2026-10-26.md)
 - [2026-10-25](archive/2026-10-25.md)
