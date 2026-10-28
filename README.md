@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-28 23:10 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-28 23:16 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
+| [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013) | Tao Ren | 348 HF upvotes · v 348 | 348 HF upvotes · "Multiscale Policy Optimization for Long-Horizon LLM Agents" · model release |
 | [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 344 HF upvotes · v 344 | 344 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
-| [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013) | Tao Ren | 340 HF upvotes · v 340 | 340 HF upvotes · "Multiscale Policy Optimization for Long-Horizon LLM Agents" · model release |
 | [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 311 HF upvotes · v 311 | 311 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
 | [VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://huggingface.co/papers/2610.35864) | Muxi Diao | 171 HF upvotes · v 171 | 171 HF upvotes · "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Gene" · model release |
 | [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://huggingface.co/papers/2610.37381) | Hanqing Wang | 138 HF upvotes · v 138 | 138 HF upvotes · "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Represen" · model release |
