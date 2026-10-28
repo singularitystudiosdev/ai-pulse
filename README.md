@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-28 06:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-28 06:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 119 HF upvotes · v 119 | 119 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
+| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 121 HF upvotes · v 121 | 121 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
 | [Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729) | Qiaoling Chen | 70 HF upvotes · v 70 | 70 HF upvotes · "Hy-Nomas: Towards Free-form Interactive World Generation" · model release |
 | [Rollback: Experience Backtracking in World Models for Policy Improvement](https://huggingface.co/papers/2610.36068) | Jiayi Luo | 43 HF upvotes · v 43 | 43 HF upvotes · "Rollback: Experience Backtracking in World Models for Policy Improveme" · model release |
 | [ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](https://huggingface.co/papers/2610.37666) | Chaehyun Kim | 41 HF upvotes · v 41 | 41 HF upvotes · "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning" · model release |
