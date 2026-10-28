@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-28 12:43 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-28 12:48 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 214 HF upvotes · v 214 | 214 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
-| [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 201 HF upvotes · v 201 | 201 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
-| [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://huggingface.co/papers/2610.37381) | Hanqing Wang | 134 HF upvotes · v 134 | 134 HF upvotes · "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Represen" · model release |
+| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 215 HF upvotes · v 215 | 215 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
+| [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 210 HF upvotes · v 210 | 210 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
+| [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://huggingface.co/papers/2610.37381) | Hanqing Wang | 135 HF upvotes · v 135 | 135 HF upvotes · "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Represen" · model release |
 | [Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729) | Qiaoling Chen | 101 HF upvotes · v 101 | 101 HF upvotes · "Hy-Nomas: Towards Free-form Interactive World Generation" · model release |
 | [HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory](https://huggingface.co/papers/2610.24520) | Junming Zhang | 75 HF upvotes · v 75 | 75 HF upvotes · "HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidenc" · model release |
 
