@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-28 00:40 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-28 00:45 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467) | Ruhao Liu | 186 HF upvotes · v 186 | 186 HF upvotes · "DynaFlow: Learning Free-Form Multi-Agent Orchestration" · model release |
-| [Work Agents: Systems, Capabilities, and Optimization](https://huggingface.co/papers/2610.35845) | Zishan Xu | 99 HF upvotes · v 99 | 99 HF upvotes · "Work Agents: Systems, Capabilities, and Optimization" · model release |
-| [Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion](https://huggingface.co/papers/2610.34415) | Kam Man Wu | 39 HF upvotes · v 39 | 39 HF upvotes · "Spatial Audio Generation and Editing with Executable Plans and Self-Di" · model release |
-| [AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos](https://huggingface.co/papers/2610.33413) | Yuesheng Huang | 34 HF upvotes · v 34 | 34 HF upvotes · "AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos" · model release |
-| [Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL](https://huggingface.co/papers/2610.33512) | Hyun Ryu | 29 HF upvotes · v 29 | 29 HF upvotes · "Eat Your Precision: Precision Objective Mitigates Reward Hacking in Ru" · model release |
+| [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467) | Ruhao Liu | 189 HF upvotes · v 189 | 189 HF upvotes · "DynaFlow: Learning Free-Form Multi-Agent Orchestration" · model release |
+| [Work Agents: Systems, Capabilities, and Optimization](https://huggingface.co/papers/2610.35845) | Zishan Xu | 102 HF upvotes · v 102 | 102 HF upvotes · "Work Agents: Systems, Capabilities, and Optimization" · model release |
+| [Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion](https://huggingface.co/papers/2610.34415) | Kam Man Wu | 42 HF upvotes · v 42 | 42 HF upvotes · "Spatial Audio Generation and Editing with Executable Plans and Self-Di" · model release |
+| [AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos](https://huggingface.co/papers/2610.33413) | Yuesheng Huang | 37 HF upvotes · v 37 | 37 HF upvotes · "AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos" · model release |
+| [Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL](https://huggingface.co/papers/2610.33512) | Hyun Ryu | 33 HF upvotes · v 33 | 33 HF upvotes · "Eat Your Precision: Precision Objective Mitigates Reward Hacking in Ru" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
