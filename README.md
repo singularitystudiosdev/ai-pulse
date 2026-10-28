@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-28 06:50 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-28 12:43 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 130 HF upvotes · v 130 | 130 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
-| [Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729) | Qiaoling Chen | 77 HF upvotes · v 77 | 77 HF upvotes · "Hy-Nomas: Towards Free-form Interactive World Generation" · model release |
-| [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://huggingface.co/papers/2610.37381) | Hanqing Wang | 46 HF upvotes · v 46 | 46 HF upvotes · "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Represen" · model release |
-| [Rollback: Experience Backtracking in World Models for Policy Improvement](https://huggingface.co/papers/2610.36068) | Jiayi Luo | 46 HF upvotes · v 46 | 46 HF upvotes · "Rollback: Experience Backtracking in World Models for Policy Improveme" · model release |
-| [ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](https://huggingface.co/papers/2610.37666) | Chaehyun Kim | 42 HF upvotes · v 42 | 42 HF upvotes · "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning" · model release |
+| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 214 HF upvotes · v 214 | 214 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
+| [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 201 HF upvotes · v 201 | 201 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
+| [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://huggingface.co/papers/2610.37381) | Hanqing Wang | 134 HF upvotes · v 134 | 134 HF upvotes · "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Represen" · model release |
+| [Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729) | Qiaoling Chen | 101 HF upvotes · v 101 | 101 HF upvotes · "Hy-Nomas: Towards Free-form Interactive World Generation" · model release |
+| [HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory](https://huggingface.co/papers/2610.24520) | Junming Zhang | 75 HF upvotes · v 75 | 75 HF upvotes · "HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidenc" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 168 HN points · v 252 | 168 HN points · 42 comments · Show HN |
-| [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) | i_strelov | 36 HN points · v 54 | 36 HN points · 9 comments · Show HN |
+| [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 170 HN points · v 254 | 170 HN points · 42 comments · Show HN |
+| [Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](https://freehire.me/) | i_strelov | 37 HN points · v 55 | 37 HN points · 9 comments · Show HN |
 | [Show HN: Ultimidi – piano learning web game](https://game.ultimidi.com/) | XCSme | 9 HN points · v 21 | 9 HN points · 6 comments · Show HN |
-| [Show HN: RainbowSay – Learn, teach, research languages live with shows you love](https://rainbowsay.ai/) | gigapotential | 12 HN points · v 20 | 12 HN points · 4 comments · Show HN |
+| [Show HN: Freightfloor. Have 3 minutes? Drive a forklift vs. AI](https://freightfloor.com) | davenportjw | 5 HN points · v 13 | 5 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
