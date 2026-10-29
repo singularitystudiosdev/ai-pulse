@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-29 01:59 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-29 02:04 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Kind of got carried away and made Slop New York more fun to drive around and way less sloppy 😅  https://mrdo…](https://x.com/mrdoob/status/2115428459791225092)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2115421811131502592/img/jHVFGP91jNjm-_jQ.jpg) | [@mrdoob](https://x.com/mrdoob) | 808♥ 53RT · v 44.9 | 45 velocity · 808♥ 53RT · 33048 views · 13h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
