@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-29 16:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-29 20:24 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 543 HF upvotes · v 543 | 543 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
-| [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013) | Tao Ren | 379 HF upvotes · v 379 | 379 HF upvotes · "Multiscale Policy Optimization for Long-Horizon LLM Agents" · model release |
-| [DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models](https://huggingface.co/papers/2610.35201) | Hongze Chen | 256 HF upvotes · v 256 | 256 HF upvotes · "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in " · model release |
-| [VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://huggingface.co/papers/2610.35864) | Muxi Diao | 175 HF upvotes · v 175 | 175 HF upvotes · "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Gene" · model release |
-| [Memory Tax: Dissecting the Net Value of Agent Memory](https://huggingface.co/papers/2610.34073) | Xuan He | 149 HF upvotes · v 149 | 149 HF upvotes · "Memory Tax: Dissecting the Net Value of Agent Memory" · model release |
+| [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 386 HF upvotes · v 386 | 386 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
+| [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013) | Tao Ren | 380 HF upvotes · v 380 | 380 HF upvotes · "Multiscale Policy Optimization for Long-Horizon LLM Agents" · model release |
+| [Memory Tax: Dissecting the Net Value of Agent Memory](https://huggingface.co/papers/2610.34073) | Xuan He | 151 HF upvotes · v 151 | 151 HF upvotes · "Memory Tax: Dissecting the Net Value of Agent Memory" · model release |
+| [Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes](https://huggingface.co/papers/2610.32749) | Wendi Sang | 149 HF upvotes · v 149 | 149 HF upvotes · "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-Wo" · model release |
+| [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://huggingface.co/papers/2610.37381) | Hanqing Wang | 148 HF upvotes · v 148 | 148 HF upvotes · "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Represen" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Freightfloor. Have 3 minutes? Drive a forklift vs. AI](https://freightfloor.com) | davenportjw | 6 HN points · v 18 | 6 HN points · 6 comments · Show HN |
-| [Show HN: A visual map of related food dishes from around the world](https://tangledtaste.com/) | agendreau | 5 HN points · v 15 | 5 HN points · 5 comments · Show HN |
+| [@IntCyberDigest Google committed a fix on June 15th and it was shipped in the security preview patches in mid…](https://x.com/GrapheneOS/status/2115848460578762757) | [@GrapheneOS](https://x.com/GrapheneOS) | 233♥ 9RT · v 76 | known founder · 76 velocity · 233♥ 9RT · 5746 views · 4h old · matched "shipped" |
+| [Show HN: A visual map of related food dishes from around the world](https://tangledtaste.com/) | agendreau | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
+| [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo) | akashpatel7204 | 9 HN points · v 15 | 9 HN points · 3 comments · Show HN |
 | [Show HN: Pidgeon – Email inboxes for AI agents](https://pidgeon.ai) | patrickcneuhaus | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
-| [Show HN: Interview your analysts instead of auto-generating a semantic layer](https://github.com/nodal-data/nodal-context) | ronpotok | 5 HN points · v 13 | 5 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
