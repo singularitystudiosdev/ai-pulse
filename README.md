@@ -15,16 +15,16 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-29 02:04 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-29 02:09 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 531 HF upvotes · v 531 | 531 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
+| [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 532 HF upvotes · v 532 | 532 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
 | [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013) | Tao Ren | 373 HF upvotes · v 373 | 373 HF upvotes · "Multiscale Policy Optimization for Long-Horizon LLM Agents" · model release |
 | [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 346 HF upvotes · v 346 | 346 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
-| [VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://huggingface.co/papers/2610.35864) | Muxi Diao | 172 HF upvotes · v 172 | 172 HF upvotes · "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Gene" · model release |
+| [VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://huggingface.co/papers/2610.35864) | Muxi Diao | 173 HF upvotes · v 173 | 173 HF upvotes · "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Gene" · model release |
 | [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://huggingface.co/papers/2610.37381) | Hanqing Wang | 140 HF upvotes · v 140 | 140 HF upvotes · "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Represen" · model release |
 
 ### 🚀 AI SaaS launches (4)
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Kind of got carried away and made Slop New York more fun to drive around and way less sloppy 😅  https://mrdo…](https://x.com/mrdoob/status/2115428459791225092)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2115421811131502592/img/jHVFGP91jNjm-_jQ.jpg) | [@mrdoob](https://x.com/mrdoob) | 808♥ 53RT · v 44.9 | 45 velocity · 808♥ 53RT · 33048 views · 13h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
