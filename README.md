@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-29 20:40 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-29 20:45 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [We're impacted by an ongoing security incident.  If you use our RUM product, please remove the embed code fro…](https://x.com/DebugBear/status/2115866496643535293) | [@DebugBear](https://x.com/DebugBear) | 403♥ 49RT · v 626.8 | 627 velocity · 403♥ 49RT · 65366 views · 3h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
