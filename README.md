@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-29 02:20 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-29 02:25 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 532 HF upvotes · v 532 | 532 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
 | [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013) | Tao Ren | 373 HF upvotes · v 373 | 373 HF upvotes · "Multiscale Policy Optimization for Long-Horizon LLM Agents" · model release |
 | [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 346 HF upvotes · v 346 | 346 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
-| [DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models](https://huggingface.co/papers/2610.35201) | Hongze Chen | 248 HF upvotes · v 248 | 248 HF upvotes · "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in " · model release |
+| [DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models](https://huggingface.co/papers/2610.35201) | Hongze Chen | 249 HF upvotes · v 249 | 249 HF upvotes · "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in " · model release |
 | [VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://huggingface.co/papers/2610.35864) | Muxi Diao | 173 HF upvotes · v 173 | 173 HF upvotes · "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Gene" · model release |
 
 ### 🚀 AI SaaS launches (4)
