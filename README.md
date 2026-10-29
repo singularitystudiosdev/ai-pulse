@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-29 15:58 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-29 16:04 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,9 +32,9 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Freightfloor. Have 3 minutes? Drive a forklift vs. AI](https://freightfloor.com) | davenportjw | 6 HN points · v 18 | 6 HN points · 6 comments · Show HN |
+| [Show HN: A visual map of related food dishes from around the world](https://tangledtaste.com/) | agendreau | 5 HN points · v 15 | 5 HN points · 5 comments · Show HN |
 | [Show HN: Pidgeon – Email inboxes for AI agents](https://pidgeon.ai) | patrickcneuhaus | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
 | [Show HN: Interview your analysts instead of auto-generating a semantic layer](https://github.com/nodal-data/nodal-context) | ronpotok | 5 HN points · v 13 | 5 HN points · 4 comments · Show HN |
-| [Show HN: Guess what frontier LLMs do in a repeated prisoner's dilemma](https://thenunchiproject.com/game/ai-decides) | masterofarbs | 7 HN points · v 13 | 7 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
