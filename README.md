@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-28 23:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-29 01:59 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013) | Tao Ren | 372 HF upvotes · v 372 | 372 HF upvotes · "Multiscale Policy Optimization for Long-Horizon LLM Agents" · model release |
-| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 344 HF upvotes · v 344 | 344 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
-| [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 311 HF upvotes · v 311 | 311 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
-| [VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://huggingface.co/papers/2610.35864) | Muxi Diao | 171 HF upvotes · v 171 | 171 HF upvotes · "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Gene" · model release |
-| [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://huggingface.co/papers/2610.37381) | Hanqing Wang | 138 HF upvotes · v 138 | 138 HF upvotes · "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Represen" · model release |
+| [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://huggingface.co/papers/2610.36077) | Weidong Tang | 531 HF upvotes · v 531 | 531 HF upvotes · "The Trinity:Capability-Driven Recursive Self-Improvement for Multimoda" · model release |
+| [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013) | Tao Ren | 373 HF upvotes · v 373 | 373 HF upvotes · "Multiscale Policy Optimization for Long-Horizon LLM Agents" · model release |
+| [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://huggingface.co/papers/2610.34283) | Yihao Hu | 346 HF upvotes · v 346 | 346 HF upvotes · "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial" · model release |
+| [VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://huggingface.co/papers/2610.35864) | Muxi Diao | 172 HF upvotes · v 172 | 172 HF upvotes · "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Gene" · model release |
+| [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://huggingface.co/papers/2610.37381) | Hanqing Wang | 140 HF upvotes · v 140 | 140 HF upvotes · "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Represen" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -33,8 +33,8 @@
 |---|---|---|---|
 | [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | pancomplex | 172 HN points · v 256 | 172 HN points · 42 comments · Show HN |
 | [Show HN: Ultimidi – piano learning web game](https://game.ultimidi.com/) | XCSme | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
-| [Show HN: Freightfloor. Have 3 minutes? Drive a forklift vs. AI](https://freightfloor.com) | davenportjw | 6 HN points · v 14 | 6 HN points · 4 comments · Show HN |
-| [Show HN: Guess what frontier LLMs do in a repeated prisoner's dilemma](https://thenunchiproject.com/game/ai-decides) | masterofarbs | 7 HN points · v 13 | 7 HN points · 3 comments · Show HN |
+| [Show HN: Freightfloor. Have 3 minutes? Drive a forklift vs. AI](https://freightfloor.com) | davenportjw | 6 HN points · v 18 | 6 HN points · 6 comments · Show HN |
+| [Show HN: Interview your analysts instead of auto-generating a semantic layer](https://github.com/nodal-data/nodal-context) | ronpotok | 5 HN points · v 13 | 5 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-29](archive/2026-10-29.md)
 - [2026-10-28](archive/2026-10-28.md)
 - [2026-10-27](archive/2026-10-27.md)
 - [2026-10-26](archive/2026-10-26.md)
