@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-30 06:05 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-30 06:10 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,9 +23,9 @@
 |---|---|---|---|
 | [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://huggingface.co/papers/2610.35013) | Tao Ren | 381 HF upvotes · v 381 | 381 HF upvotes · "Multiscale Policy Optimization for Long-Horizon LLM Agents" · model release |
 | [Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes](https://huggingface.co/papers/2610.32749) | Wendi Sang | 152 HF upvotes · v 152 | 152 HF upvotes · "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-Wo" · model release |
-| [Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?](https://huggingface.co/papers/2610.37662) | Jialv Zou | 60 HF upvotes · v 60 | 60 HF upvotes · "Can Discrete Tokens Serve as Semantically Lossless Representations of " · model release |
-| [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | Yifan Sun | 54 HF upvotes · v 54 | 54 HF upvotes · "Your Benchmark Is an Empirical Measure Over Difficulty" · model release |
+| [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | Yifan Sun | 61 HF upvotes · v 61 | 61 HF upvotes · "Your Benchmark Is an Empirical Measure Over Difficulty" · model release |
 | [OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images](https://huggingface.co/papers/2610.35684) | Junyeong Ahn | 49 HF upvotes · v 49 | 49 HF upvotes · "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from" · model release |
+| [EmbeddingGemma 2: Unified and Efficient Multimodal Representations](https://huggingface.co/papers/2610.37364) | Henrique Schechter Vera | 26 HF upvotes · v 26 | 26 HF upvotes · "EmbeddingGemma 2: Unified and Efficient Multimodal Representations" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
