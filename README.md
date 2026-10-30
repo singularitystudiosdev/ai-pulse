@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-30 05:44 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-30 05:49 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,13 +25,13 @@
 | [Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes](https://huggingface.co/papers/2610.32749) | Wendi Sang | 153 HF upvotes · v 153 | 153 HF upvotes · "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-Wo" · model release |
 | [Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?](https://huggingface.co/papers/2610.37662) | Jialv Zou | 60 HF upvotes · v 60 | 60 HF upvotes · "Can Discrete Tokens Serve as Semantically Lossless Representations of " · model release |
 | [OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images](https://huggingface.co/papers/2610.35684) | Junyeong Ahn | 49 HF upvotes · v 49 | 49 HF upvotes · "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from" · model release |
-| [Truncate or Not? A Scaling Study of Looped Transformers with Truncated Backpropagation](https://huggingface.co/papers/2610.26030) | Xuyuan Xiong | 30 HF upvotes · v 30 | 30 HF upvotes · "Truncate or Not? A Scaling Study of Looped Transformers with Truncated" · model release |
+| [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | Yifan Sun | 35 HF upvotes · v 35 | 35 HF upvotes · "Your Benchmark Is an Empirical Measure Over Difficulty" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) | rvanderlinden | 38 HN points · v 44 | 38 HN points · 3 comments · Show HN |
+| [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) | rvanderlinden | 39 HN points · v 45 | 39 HN points · 3 comments · Show HN |
 | [Show HN: A visual map of related food dishes from around the world](https://tangledtaste.com/) | agendreau | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
 | [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo) | akashpatel7204 | 11 HN points · v 19 | 11 HN points · 4 comments · Show HN |
 | [Show HN: Pidgeon – Email inboxes for AI agents](https://pidgeon.ai) | patrickcneuhaus | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
@@ -40,12 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Binance's initial investigation suggests that the security incident may involve a compromised DevOps engineer…](https://x.com/binance/status/2115993361517891592)<br>![card](https://pbs.twimg.com/media/HV2EXppbwAEyxeq.jpg?name=orig) | [@binance](https://x.com/binance) | 15408♥ 3194RT · v 24309.7 | known founder · 24310 velocity · 15408♥ 3194RT · 2025858 views · 3h old |
-| [We are aware of a security incident affecting DebugBear and are treating it as a top priority.  We have engag…](https://x.com/DebugBear/status/2115930681398239278) | [@DebugBear](https://x.com/DebugBear) | 28♥ 6RT · v 15.8 | 16 velocity · 28♥ 6RT · 5741 views · 7h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
