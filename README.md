@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-30 21:40 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-30 21:45 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) | rvanderlinden | 42 HN points · v 50 | 42 HN points · 4 comments · Show HN |
-| [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru) | ericlevine | 14 HN points · v 26 | 14 HN points · 6 comments · Show HN |
+| [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru) | ericlevine | 15 HN points · v 27 | 15 HN points · 6 comments · Show HN |
 | [Show HN: A visual map of related food dishes from around the world](https://tangledtaste.com/) | agendreau | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
 | [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo) | akashpatel7204 | 12 HN points · v 20 | 12 HN points · 4 comments · Show HN |
 
