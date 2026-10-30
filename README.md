@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-30 21:50 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-30 21:55 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,13 +25,13 @@
 | [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) | Yu Liu | 155 HF upvotes · v 155 | 155 HF upvotes · "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement" · model release |
 | [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | Yifan Sun | 141 HF upvotes · v 141 | 141 HF upvotes · "Your Benchmark Is an Empirical Measure Over Difficulty" · model release |
 | [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://huggingface.co/papers/2610.36671) | Donghyeon Cho | 90 HF upvotes · v 90 | 90 HF upvotes · "Look Only When Needed: Certificate-Guided Visual Routing for Efficient" · model release |
-| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 51 HF upvotes · v 51 | 51 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
+| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 52 HF upvotes · v 52 | 52 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) | rvanderlinden | 42 HN points · v 50 | 42 HN points · 4 comments · Show HN |
+| [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) | rvanderlinden | 43 HN points · v 51 | 43 HN points · 4 comments · Show HN |
 | [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru) | ericlevine | 15 HN points · v 27 | 15 HN points · 6 comments · Show HN |
 | [Show HN: A visual map of related food dishes from around the world](https://tangledtaste.com/) | agendreau | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
 | [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo) | akashpatel7204 | 12 HN points · v 20 | 12 HN points · 4 comments · Show HN |
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [‼️ Chainalysis, the firm that tracks crypto hackers, was hacked itself.  It told customers in an email seen b…](https://x.com/IntCyberDigest/status/2116257776045281620)<br>![card](https://pbs.twimg.com/media/HV51OwaWkAAip8r.jpg?name=orig) | [@IntCyberDigest](https://x.com/IntCyberDigest) | 490♥ 95RT · v 808 | known founder · 808 velocity · 490♥ 95RT · 38563 views · 2h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
