@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-30 05:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-30 05:54 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes](https://huggingface.co/papers/2610.32749) | Wendi Sang | 153 HF upvotes · v 153 | 153 HF upvotes · "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-Wo" · model release |
 | [Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?](https://huggingface.co/papers/2610.37662) | Jialv Zou | 60 HF upvotes · v 60 | 60 HF upvotes · "Can Discrete Tokens Serve as Semantically Lossless Representations of " · model release |
 | [OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images](https://huggingface.co/papers/2610.35684) | Junyeong Ahn | 49 HF upvotes · v 49 | 49 HF upvotes · "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from" · model release |
-| [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | Yifan Sun | 35 HF upvotes · v 35 | 35 HF upvotes · "Your Benchmark Is an Empirical Measure Over Difficulty" · model release |
+| [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | Yifan Sun | 42 HF upvotes · v 42 | 42 HF upvotes · "Your Benchmark Is an Empirical Measure Over Difficulty" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
