@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-30 00:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-30 00:55 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) | rvanderlinden | 29 HN points · v 33 | 29 HN points · 2 comments · Show HN |
+| [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) | rvanderlinden | 30 HN points · v 34 | 30 HN points · 2 comments · Show HN |
 | [Show HN: A visual map of related food dishes from around the world](https://tangledtaste.com/) | agendreau | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
 | [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo) | akashpatel7204 | 11 HN points · v 19 | 11 HN points · 4 comments · Show HN |
 | [Show HN: Pidgeon – Email inboxes for AI agents](https://pidgeon.ai) | patrickcneuhaus | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
