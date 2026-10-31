@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-31 21:22 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-31 21:27 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem) | abijahkaj | 30 HN points · v 76 | 30 HN points · 23 comments · Show HN |
+| [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem) | abijahkaj | 31 HN points · v 77 | 31 HN points · 23 comments · Show HN |
 | [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) | rvanderlinden | 44 HN points · v 64 | 44 HN points · 10 comments · Show HN |
 | [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru) | ericlevine | 35 HN points · v 57 | 35 HN points · 11 comments · Show HN |
 | [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/) | proy87 | 9 HN points · v 43 | 9 HN points · 17 comments · Show HN |
