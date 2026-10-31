@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-31 14:16 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-31 17:53 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Intrinsic Distribution Matching](https://huggingface.co/papers/2610.39633) | Deyuan Liu | 243 HF upvotes · v 243 | 243 HF upvotes · "Intrinsic Distribution Matching" · model release |
-| [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) | Yu Liu | 162 HF upvotes · v 162 | 162 HF upvotes · "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement" · model release |
-| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 146 HF upvotes · v 146 | 146 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
-| [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | Yifan Sun | 144 HF upvotes · v 144 | 144 HF upvotes · "Your Benchmark Is an Empirical Measure Over Difficulty" · model release |
-| [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://huggingface.co/papers/2610.36671) | Donghyeon Cho | 96 HF upvotes · v 96 | 96 HF upvotes · "Look Only When Needed: Certificate-Guided Visual Routing for Efficient" · model release |
+| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 163 HF upvotes · v 163 | 163 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
+| [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) | Yu Liu | 163 HF upvotes · v 163 | 163 HF upvotes · "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement" · model release |
+| [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | Yifan Sun | 145 HF upvotes · v 145 | 145 HF upvotes · "Your Benchmark Is an Empirical Measure Over Difficulty" · model release |
+| [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://huggingface.co/papers/2610.36671) | Donghyeon Cho | 97 HF upvotes · v 97 | 97 HF upvotes · "Look Only When Needed: Certificate-Guided Visual Routing for Efficient" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) | rvanderlinden | 44 HN points · v 64 | 44 HN points · 10 comments · Show HN |
-| [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru) | ericlevine | 35 HN points · v 55 | 35 HN points · 10 comments · Show HN |
+| [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru) | ericlevine | 35 HN points · v 57 | 35 HN points · 11 comments · Show HN |
 | [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo) | akashpatel7204 | 13 HN points · v 21 | 13 HN points · 4 comments · Show HN |
-| [Show HN: A visual map of related food dishes from around the world](https://tangledtaste.com/) | agendreau | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
+| [Show HN: Pidgeon – Email inboxes for AI agents](https://pidgeon.ai) | patrickcneuhaus | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
