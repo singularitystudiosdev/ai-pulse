@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-31 18:29 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-31 18:35 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://huggingface.co/papers/2610.36671) | Donghyeon Cho | 97 HF upvotes · v 97 | 97 HF upvotes · "Look Only When Needed: Certificate-Guided Visual Routing for Efficient" · model release |
-| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 74 HF upvotes · v 74 | 74 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
+| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 75 HF upvotes · v 75 | 75 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
 | [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) | Yu Liu | 66 HF upvotes · v 66 | 66 HF upvotes · "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement" · model release |
 | [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://huggingface.co/papers/2610.39302) | Randall Balestriero | 57 HF upvotes · v 57 | 57 HF upvotes · "Proving and Improving the Platonic Representation Hypothesis with JEPA" · model release |
 | [L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://huggingface.co/papers/2610.40614) | Jinhyeok Choi | 38 HF upvotes · v 38 | 38 HF upvotes · "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian" · model release |
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) | rvanderlinden | 44 HN points · v 64 | 44 HN points · 10 comments · Show HN |
 | [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru) | ericlevine | 35 HN points · v 57 | 35 HN points · 11 comments · Show HN |
-| [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/) | proy87 | 8 HN points · v 24 | 8 HN points · 8 comments · Show HN |
+| [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/) | proy87 | 9 HN points · v 25 | 9 HN points · 8 comments · Show HN |
 | [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo) | akashpatel7204 | 13 HN points · v 21 | 13 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
