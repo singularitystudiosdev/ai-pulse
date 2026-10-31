@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-31 13:28 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-31 13:34 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [Intrinsic Distribution Matching](https://huggingface.co/papers/2610.39633) | Deyuan Liu | 241 HF upvotes · v 241 | 241 HF upvotes · "Intrinsic Distribution Matching" · model release |
 | [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) | Yu Liu | 160 HF upvotes · v 160 | 160 HF upvotes · "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement" · model release |
 | [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | Yifan Sun | 144 HF upvotes · v 144 | 144 HF upvotes · "Your Benchmark Is an Empirical Measure Over Difficulty" · model release |
-| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 141 HF upvotes · v 141 | 141 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
+| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 142 HF upvotes · v 142 | 142 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
 | [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://huggingface.co/papers/2610.36671) | Donghyeon Cho | 95 HF upvotes · v 95 | 95 HF upvotes · "Look Only When Needed: Certificate-Guided Visual Routing for Efficient" · model release |
 
 ### 🚀 AI SaaS launches (4)
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Investigation update: Our initial investigation suggested that the security incident may have involved a comp…](https://x.com/binance/status/2116089661408108712)<br>![card](https://pbs.twimg.com/media/HV3cQDOaoAAtEPC.jpg?name=orig) | [@binance](https://x.com/binance) | 5481♥ 896RT · v 502.6 | known founder · 503 velocity · 5481♥ 896RT · 1006457 views · 29h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
