@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-31 17:53 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-31 17:58 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,7 +34,7 @@
 | [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) | rvanderlinden | 44 HN points · v 64 | 44 HN points · 10 comments · Show HN |
 | [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru) | ericlevine | 35 HN points · v 57 | 35 HN points · 11 comments · Show HN |
 | [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo) | akashpatel7204 | 13 HN points · v 21 | 13 HN points · 4 comments · Show HN |
-| [Show HN: Pidgeon – Email inboxes for AI agents](https://pidgeon.ai) | patrickcneuhaus | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
+| [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/) | proy87 | 6 HN points · v 14 | 6 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
