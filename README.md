@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-31 07:12 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-31 07:18 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [Intrinsic Distribution Matching](https://huggingface.co/papers/2610.39633) | Deyuan Liu | 239 HF upvotes · v 239 | 239 HF upvotes · "Intrinsic Distribution Matching" · model release |
 | [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) | Yu Liu | 158 HF upvotes · v 158 | 158 HF upvotes · "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement" · model release |
 | [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | Yifan Sun | 143 HF upvotes · v 143 | 143 HF upvotes · "Your Benchmark Is an Empirical Measure Over Difficulty" · model release |
-| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 123 HF upvotes · v 123 | 123 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
+| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 124 HF upvotes · v 124 | 124 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
 | [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://huggingface.co/papers/2610.36671) | Donghyeon Cho | 94 HF upvotes · v 94 | 94 HF upvotes · "Look Only When Needed: Certificate-Guided Visual Routing for Efficient" · model release |
 
 ### 🚀 AI SaaS launches (4)
