@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-31 18:19 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-31 18:24 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Intrinsic Distribution Matching](https://huggingface.co/papers/2610.39633) | Deyuan Liu | 243 HF upvotes · v 243 | 243 HF upvotes · "Intrinsic Distribution Matching" · model release |
-| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 164 HF upvotes · v 164 | 164 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
-| [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) | Yu Liu | 163 HF upvotes · v 163 | 163 HF upvotes · "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement" · model release |
-| [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | Yifan Sun | 145 HF upvotes · v 145 | 145 HF upvotes · "Your Benchmark Is an Empirical Measure Over Difficulty" · model release |
 | [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://huggingface.co/papers/2610.36671) | Donghyeon Cho | 97 HF upvotes · v 97 | 97 HF upvotes · "Look Only When Needed: Certificate-Guided Visual Routing for Efficient" · model release |
+| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 74 HF upvotes · v 74 | 74 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
+| [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) | Yu Liu | 66 HF upvotes · v 66 | 66 HF upvotes · "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement" · model release |
+| [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://huggingface.co/papers/2610.39302) | Randall Balestriero | 57 HF upvotes · v 57 | 57 HF upvotes · "Proving and Improving the Platonic Representation Hypothesis with JEPA" · model release |
+| [L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://huggingface.co/papers/2610.40614) | Jinhyeok Choi | 38 HF upvotes · v 38 | 38 HF upvotes · "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
