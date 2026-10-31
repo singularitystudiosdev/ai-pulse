@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-10-30 22:22 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-10-31 01:01 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Intrinsic Distribution Matching](https://huggingface.co/papers/2610.39633) | Deyuan Liu | 235 HF upvotes · v 235 | 235 HF upvotes · "Intrinsic Distribution Matching" · model release |
-| [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) | Yu Liu | 155 HF upvotes · v 155 | 155 HF upvotes · "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement" · model release |
-| [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | Yifan Sun | 141 HF upvotes · v 141 | 141 HF upvotes · "Your Benchmark Is an Empirical Measure Over Difficulty" · model release |
-| [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://huggingface.co/papers/2610.36671) | Donghyeon Cho | 90 HF upvotes · v 90 | 90 HF upvotes · "Look Only When Needed: Certificate-Guided Visual Routing for Efficient" · model release |
-| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 54 HF upvotes · v 54 | 54 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
+| [Intrinsic Distribution Matching](https://huggingface.co/papers/2610.39633) | Deyuan Liu | 238 HF upvotes · v 238 | 238 HF upvotes · "Intrinsic Distribution Matching" · model release |
+| [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) | Yu Liu | 157 HF upvotes · v 157 | 157 HF upvotes · "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement" · model release |
+| [Your Benchmark Is an Empirical Measure Over Difficulty](https://huggingface.co/papers/2610.29927) | Yifan Sun | 143 HF upvotes · v 143 | 143 HF upvotes · "Your Benchmark Is an Empirical Measure Over Difficulty" · model release |
+| [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://huggingface.co/papers/2610.36671) | Donghyeon Cho | 91 HF upvotes · v 91 | 91 HF upvotes · "Look Only When Needed: Certificate-Guided Visual Routing for Efficient" · model release |
+| [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://huggingface.co/papers/2610.39301) | Yunhang Shen | 55 HF upvotes · v 55 | 55 HF upvotes · "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) | rvanderlinden | 43 HN points · v 51 | 43 HN points · 4 comments · Show HN |
-| [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru) | ericlevine | 15 HN points · v 27 | 15 HN points · 6 comments · Show HN |
+| [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions) | rvanderlinden | 43 HN points · v 59 | 43 HN points · 8 comments · Show HN |
+| [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru) | ericlevine | 22 HN points · v 38 | 22 HN points · 8 comments · Show HN |
+| [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo) | akashpatel7204 | 13 HN points · v 21 | 13 HN points · 4 comments · Show HN |
 | [Show HN: A visual map of related food dishes from around the world](https://tangledtaste.com/) | agendreau | 5 HN points · v 21 | 5 HN points · 8 comments · Show HN |
-| [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo) | akashpatel7204 | 12 HN points · v 20 | 12 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-10-31](archive/2026-10-31.md)
 - [2026-10-30](archive/2026-10-30.md)
 - [2026-10-29](archive/2026-10-29.md)
 - [2026-10-28](archive/2026-10-28.md)
