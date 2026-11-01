@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-01 05:53 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-01 05:58 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,17 +34,15 @@
 | [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem) | abijahkaj | 53 HN points · v 125 | 53 HN points · 36 comments · Show HN |
 | [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru) | ericlevine | 35 HN points · v 57 | 35 HN points · 11 comments · Show HN |
 | [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/) | proy87 | 13 HN points · v 51 | 13 HN points · 19 comments · Show HN |
-| [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1) | creack | 18 HN points · v 28 | 18 HN points · 5 comments · Show HN |
+| [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1) | creack | 19 HN points · v 29 | 19 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Mentioned it before already, but RE: CVE-2026-98432, here was the first #grsecurity patch for Linux 5.6 when …](https://x.com/spendergrsec/status/2116602388471758887)<br>![card](https://pbs.twimg.com/media/HV-uRxXWIAAUUs6.jpg?name=orig) | [@spendergrsec](https://x.com/spendergrsec) | 32♥ 6RT · v 4.6 | 4.6 velocity · 32♥ 6RT · 2809 views · 11h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
