@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-01 05:58 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-01 06:04 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,10 +31,10 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem) | abijahkaj | 53 HN points · v 125 | 53 HN points · 36 comments · Show HN |
+| [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem) | abijahkaj | 53 HN points · v 127 | 53 HN points · 37 comments · Show HN |
 | [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru) | ericlevine | 35 HN points · v 57 | 35 HN points · 11 comments · Show HN |
-| [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/) | proy87 | 13 HN points · v 51 | 13 HN points · 19 comments · Show HN |
-| [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1) | creack | 19 HN points · v 29 | 19 HN points · 5 comments · Show HN |
+| [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/) | proy87 | 13 HN points · v 53 | 13 HN points · 20 comments · Show HN |
+| [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1) | creack | 20 HN points · v 32 | 20 HN points · 6 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
