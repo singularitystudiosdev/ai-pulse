@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-01 22:48 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-02 01:28 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://huggingface.co/papers/2610.36671) | Donghyeon Cho | 101 HF upvotes · v 101 | 101 HF upvotes · "Look Only When Needed: Certificate-Guided Visual Routing for Efficient" · model release |
-| [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) | Yu Liu | 71 HF upvotes · v 71 | 71 HF upvotes · "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement" · model release |
-| [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://huggingface.co/papers/2610.39302) | Randall Balestriero | 64 HF upvotes · v 64 | 64 HF upvotes · "Proving and Improving the Platonic Representation Hypothesis with JEPA" · model release |
-| [L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://huggingface.co/papers/2610.40614) | Jinhyeok Choi | 40 HF upvotes · v 40 | 40 HF upvotes · "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian" · model release |
-| [WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training](https://huggingface.co/papers/2610.37161) | Ziyang Zeng | 37 HF upvotes · v 37 | 37 HF upvotes · "WorkFactory: Turning Professional Intents into Executable Work for Sca" · model release |
+| [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://huggingface.co/papers/2610.36671) | Donghyeon Cho | 104 HF upvotes · v 104 | 104 HF upvotes · "Look Only When Needed: Certificate-Guided Visual Routing for Efficient" · model release |
+| [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) | Yu Liu | 72 HF upvotes · v 72 | 72 HF upvotes · "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement" · model release |
+| [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://huggingface.co/papers/2610.39302) | Randall Balestriero | 66 HF upvotes · v 66 | 66 HF upvotes · "Proving and Improving the Platonic Representation Hypothesis with JEPA" · model release |
+| [L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://huggingface.co/papers/2610.40614) | Jinhyeok Choi | 42 HF upvotes · v 42 | 42 HF upvotes · "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian" · model release |
+| [WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training](https://huggingface.co/papers/2610.37161) | Ziyang Zeng | 38 HF upvotes · v 38 | 38 HF upvotes · "WorkFactory: Turning Professional Intents into Executable Work for Sca" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 116 HN points · v 186 | 116 HN points · 35 comments · Show HN |
+| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 156 HN points · v 236 | 156 HN points · 40 comments · Show HN |
 | [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem) | abijahkaj | 60 HN points · v 142 | 60 HN points · 41 comments · Show HN |
 | [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1) | creack | 48 HN points · v 68 | 48 HN points · 10 comments · Show HN |
 | [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/) | proy87 | 14 HN points · v 68 | 14 HN points · 27 comments · Show HN |
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Incredible test flight of new Tesla Roadster.  Can’t wait to fly to @SalesforceTower! ❤️🎃🤣🤘](https://x.com/Benioff/status/2116658212640604297)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2116658183074967553/img/TwqBDUL3mbcUgySt.jpg) | [@Benioff](https://x.com/Benioff) | 2005♥ 162RT · v 471.7 | known founder · 472 velocity · 2005♥ 162RT · 883965 views · 27h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
@@ -51,6 +53,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-11-02](archive/2026-11-02.md)
 - [2026-11-01](archive/2026-11-01.md)
 - [2026-10-31](archive/2026-10-31.md)
 - [2026-10-30](archive/2026-10-30.md)
