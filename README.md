@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-02 08:47 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-02 08:53 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,8 +31,8 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 228 HN points · v 350 | 228 HN points · 61 comments · Show HN |
-| [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 112 HN points · v 166 | 112 HN points · 27 comments · Show HN |
+| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 229 HN points · v 353 | 229 HN points · 62 comments · Show HN |
+| [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 119 HN points · v 173 | 119 HN points · 27 comments · Show HN |
 | [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem) | abijahkaj | 60 HN points · v 144 | 60 HN points · 42 comments · Show HN |
 | [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1) | creack | 52 HN points · v 74 | 52 HN points · 11 comments · Show HN |
 
