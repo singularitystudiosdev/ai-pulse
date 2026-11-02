@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-02 18:36 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-02 18:42 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop](https://huggingface.co/papers/2610.22740) | Mingda Zhang | 86 HF upvotes · v 86 | 86 HF upvotes · "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-P" · model release |
 | [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://huggingface.co/papers/2610.39302) | Randall Balestriero | 70 HF upvotes · v 70 | 70 HF upvotes · "Proving and Improving the Platonic Representation Hypothesis with JEPA" · model release |
 | [Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?](https://huggingface.co/papers/2610.39497) | Qi Wang | 58 HF upvotes · v 58 | 58 HF upvotes · "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?" · model release |
-| [REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](https://huggingface.co/papers/2610.42053) | Pengfei Zhou | 43 HF upvotes · v 43 | 43 HF upvotes · "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum" · model release |
+| [Today we’re releasing suicide-memory-bench v01.1  First of our consumer alignment evals set, a 2,048 stateful…](https://x.com/Prosaic_int/status/2117318562880905678)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2117314862284251136/img/8W8egfglOWk47qVF.jpg) | [@Prosaic_int](https://x.com/Prosaic_int) | 62♥ 18RT · v 49.9 | 50 velocity · 62♥ 18RT · 987 views · <1h old · matched "gemini", "evals" |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 324 HN points · v 524 | 324 HN points · 100 comments · Show HN |
 | [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 301 HN points · v 487 | 301 HN points · 93 comments · Show HN |
-| [Show HN: Subvocal – Talk to your computer without making noise](https://subvocal.company/) | aarushyadav | 163 HN points · v 415 | 163 HN points · 126 comments · Show HN |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://subvocal.company/) | aarushyadav | 183 HN points · v 449 | 183 HN points · 133 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 179 HN points · v 229 | 179 HN points · 25 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
