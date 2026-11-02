@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-02 08:16 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-02 08:21 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,16 +24,16 @@
 | [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://huggingface.co/papers/2610.36671) | Donghyeon Cho | 109 HF upvotes · v 109 | 109 HF upvotes · "Look Only When Needed: Certificate-Guided Visual Routing for Efficient" · model release |
 | [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) | Yu Liu | 75 HF upvotes · v 75 | 75 HF upvotes · "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement" · model release |
 | [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://huggingface.co/papers/2610.39302) | Randall Balestriero | 66 HF upvotes · v 66 | 66 HF upvotes · "Proving and Improving the Platonic Representation Hypothesis with JEPA" · model release |
-| [Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?](https://huggingface.co/papers/2610.39497) | Qi Wang | 48 HF upvotes · v 48 | 48 HF upvotes · "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?" · model release |
+| [Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?](https://huggingface.co/papers/2610.39497) | Qi Wang | 49 HF upvotes · v 49 | 49 HF upvotes · "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?" · model release |
 | [L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://huggingface.co/papers/2610.40614) | Jinhyeok Choi | 44 HF upvotes · v 44 | 44 HF upvotes · "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 227 HN points · v 337 | 227 HN points · 55 comments · Show HN |
+| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 227 HN points · v 341 | 227 HN points · 57 comments · Show HN |
 | [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem) | abijahkaj | 60 HN points · v 144 | 60 HN points · 42 comments · Show HN |
-| [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 82 HN points · v 124 | 82 HN points · 21 comments · Show HN |
+| [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 87 HN points · v 129 | 87 HN points · 21 comments · Show HN |
 | [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1) | creack | 51 HN points · v 73 | 51 HN points · 11 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
