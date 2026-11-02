@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-02 18:47 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-02 18:52 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation](https://huggingface.co/papers/2610.36545) | Yijing Lin | 109 HF upvotes · v 109 | 109 HF upvotes · "FrameForge: Harnessing Priors of Video Foundation Models for Unified I" · model release |
+| [FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation](https://huggingface.co/papers/2610.36545) | Yijing Lin | 110 HF upvotes · v 110 | 110 HF upvotes · "FrameForge: Harnessing Priors of Video Foundation Models for Unified I" · model release |
 | [R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop](https://huggingface.co/papers/2610.22740) | Mingda Zhang | 86 HF upvotes · v 86 | 86 HF upvotes · "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-P" · model release |
 | [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://huggingface.co/papers/2610.39302) | Randall Balestriero | 70 HF upvotes · v 70 | 70 HF upvotes · "Proving and Improving the Platonic Representation Hypothesis with JEPA" · model release |
 | [Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?](https://huggingface.co/papers/2610.39497) | Qi Wang | 58 HF upvotes · v 58 | 58 HF upvotes · "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?" · model release |
@@ -32,8 +32,8 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 324 HN points · v 524 | 324 HN points · 100 comments · Show HN |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://subvocal.company/) | aarushyadav | 200 HN points · v 498 | 200 HN points · 149 comments · Show HN |
 | [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 301 HN points · v 487 | 301 HN points · 93 comments · Show HN |
-| [Show HN: Subvocal – Talk to your computer without making noise](https://subvocal.company/) | aarushyadav | 193 HN points · v 481 | 193 HN points · 144 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 179 HN points · v 229 | 179 HN points · 25 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
