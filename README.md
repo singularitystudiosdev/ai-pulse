@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-02 01:28 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-02 01:33 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 156 HN points · v 236 | 156 HN points · 40 comments · Show HN |
+| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 157 HN points · v 239 | 157 HN points · 41 comments · Show HN |
 | [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem) | abijahkaj | 60 HN points · v 142 | 60 HN points · 41 comments · Show HN |
 | [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1) | creack | 48 HN points · v 68 | 48 HN points · 10 comments · Show HN |
 | [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/) | proy87 | 14 HN points · v 68 | 14 HN points · 27 comments · Show HN |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Incredible test flight of new Tesla Roadster.  Can’t wait to fly to @SalesforceTower! ❤️🎃🤣🤘](https://x.com/Benioff/status/2116658212640604297)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2116658183074967553/img/TwqBDUL3mbcUgySt.jpg) | [@Benioff](https://x.com/Benioff) | 2005♥ 162RT · v 471.7 | known founder · 472 velocity · 2005♥ 162RT · 883965 views · 27h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
