@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-02 18:52 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-02 18:57 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 324 HN points · v 524 | 324 HN points · 100 comments · Show HN |
-| [Show HN: Subvocal – Talk to your computer without making noise](https://subvocal.company/) | aarushyadav | 200 HN points · v 498 | 200 HN points · 149 comments · Show HN |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://subvocal.company/) | aarushyadav | 212 HN points · v 516 | 212 HN points · 152 comments · Show HN |
 | [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 301 HN points · v 487 | 301 HN points · 93 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 179 HN points · v 229 | 179 HN points · 25 comments · Show HN |
 
