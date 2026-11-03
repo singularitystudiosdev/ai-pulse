@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-03 16:23 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-03 16:28 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859) | Yijie Jin | 96 HF upvotes · v 96 | 96 HF upvotes · "Wave Forcing: Towards Speed-of-Light Streaming Video Generation" · model release |
-| [CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://huggingface.co/papers/2611.03126) | Xinlei Yu | 89 HF upvotes · v 89 | 89 HF upvotes · "CUA-Master: Scaling Computer-use Agents through Open-World Recursive I" · model release |
-| [CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://huggingface.co/papers/2611.03178) | Jiajie Jin | 84 HF upvotes · v 84 | 84 HF upvotes · "CoworkOS:Scaling Agent Coworkers for Real-world Automation" · model release |
+| [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859) | Yijie Jin | 97 HF upvotes · v 97 | 97 HF upvotes · "Wave Forcing: Towards Speed-of-Light Streaming Video Generation" · model release |
+| [CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://huggingface.co/papers/2611.03126) | Xinlei Yu | 90 HF upvotes · v 90 | 90 HF upvotes · "CUA-Master: Scaling Computer-use Agents through Open-World Recursive I" · model release |
+| [CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://huggingface.co/papers/2611.03178) | Jiajie Jin | 85 HF upvotes · v 85 | 85 HF upvotes · "CoworkOS:Scaling Agent Coworkers for Real-world Automation" · model release |
 | [Advances in Agentic Computer Graphics](https://huggingface.co/papers/2611.01860) | Hengyu Liu | 76 HF upvotes · v 76 | 76 HF upvotes · "Advances in Agentic Computer Graphics" · model release |
-| [Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Imp…](https://huggingface.co/papers/2610.40191) | Liaoyuan Fan | 66 HF upvotes · v 66 | 66 HF upvotes · "Video Generation Meets Agent Harness: Agentic Video Generation, Agenti" · model release |
+| [Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Imp…](https://huggingface.co/papers/2610.40191) | Liaoyuan Fan | 67 HF upvotes · v 67 | 67 HF upvotes · "Video Generation Meets Agent Harness: Agentic Video Generation, Agenti" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
