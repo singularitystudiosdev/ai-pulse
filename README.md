@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-03 01:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-03 01:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 534 HN points · v 1114 | 534 HN points · 290 comments · Show HN |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 537 HN points · v 1125 | 537 HN points · 294 comments · Show HN |
 | [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 332 HN points · v 536 | 332 HN points · 102 comments · Show HN |
 | [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 310 HN points · v 498 | 310 HN points · 94 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 181 HN points · v 231 | 181 HN points · 25 comments · Show HN |
@@ -40,12 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [This is simultaneously very cool but also a bit exaggerated. Reading the prompt you gave, the prompt veeery m…](https://x.com/giffmana/status/2117346161866514524)<br>![card](https://pbs.twimg.com/media/HWJTHJsXAAAAkpm.jpg?name=orig) | [@giffmana](https://x.com/giffmana) | 547♥ 23RT · v 165.2 | known founder · 165 velocity · 547♥ 23RT · 21273 views · 5h old |
-| [Introducing LeVJEPA 1.5 Large, the first step in scaling our method.  It closes the gap to V-JEPA on both ima…](https://x.com/lukaskuhn77/status/2117323261465735320)<br>![card](https://pbs.twimg.com/media/HWI-KTKWwAAuokN.jpg) | [@lukaskuhn77](https://x.com/lukaskuhn77) | 342♥ 41RT · v 70.4 | 70 velocity · 342♥ 41RT · 19813 views · 7h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
