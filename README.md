@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-03 07:55 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-03 08:01 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](https://huggingface.co/papers/2610.42053) | Pengfei Zhou | 137 HF upvotes · v 137 | 137 HF upvotes · "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum" · model release |
 | [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859) | Yijie Jin | 65 HF upvotes · v 65 | 65 HF upvotes · "Wave Forcing: Towards Speed-of-Light Streaming Video Generation" · model release |
-| [Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Imp…](https://huggingface.co/papers/2610.40191) | Liaoyuan Fan | 52 HF upvotes · v 52 | 52 HF upvotes · "Video Generation Meets Agent Harness: Agentic Video Generation, Agenti" · model release |
+| [Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Imp…](https://huggingface.co/papers/2610.40191) | Liaoyuan Fan | 53 HF upvotes · v 53 | 53 HF upvotes · "Video Generation Meets Agent Harness: Agentic Video Generation, Agenti" · model release |
 | [Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use](https://huggingface.co/papers/2610.40738) | Aman Tiwari | 35 HF upvotes · v 35 | 35 HF upvotes · "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Too" · model release |
 | [Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://huggingface.co/papers/2611.01560) | Jiarui Yuan | 30 HF upvotes · v 30 | 30 HF upvotes · "Democratizing Robot-Use Agents: A Unified Harness with Open Models" · model release |
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 662 HN points · v 1322 | 662 HN points · 330 comments · Show HN |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 663 HN points · v 1325 | 663 HN points · 331 comments · Show HN |
 | [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 336 HN points · v 542 | 336 HN points · 103 comments · Show HN |
 | [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 313 HN points · v 501 | 313 HN points · 94 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 182 HN points · v 232 | 182 HN points · 25 comments · Show HN |
