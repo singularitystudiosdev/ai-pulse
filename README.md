@@ -15,34 +15,37 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-03 08:43 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-03 16:00 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](https://huggingface.co/papers/2610.42053) | Pengfei Zhou | 137 HF upvotes · v 137 | 137 HF upvotes · "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum" · model release |
-| [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859) | Yijie Jin | 68 HF upvotes · v 68 | 68 HF upvotes · "Wave Forcing: Towards Speed-of-Light Streaming Video Generation" · model release |
-| [Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Imp…](https://huggingface.co/papers/2610.40191) | Liaoyuan Fan | 55 HF upvotes · v 55 | 55 HF upvotes · "Video Generation Meets Agent Harness: Agentic Video Generation, Agenti" · model release |
-| [CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://huggingface.co/papers/2611.03178) | Jiajie Jin | 48 HF upvotes · v 48 | 48 HF upvotes · "CoworkOS:Scaling Agent Coworkers for Real-world Automation" · model release |
-| [Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use](https://huggingface.co/papers/2610.40738) | Aman Tiwari | 35 HF upvotes · v 35 | 35 HF upvotes · "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Too" · model release |
+| [We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math. It directly changed only 0.016% of weights…](https://x.com/rikiyatakehi/status/2117313742891327994)<br>![card](https://pbs.twimg.com/media/HWI1oKUWUAAWoZp.jpg?name=orig) | [@rikiyatakehi](https://x.com/rikiyatakehi) | 51874♥ 6767RT · v 3793.7 | 3794 velocity · 51874♥ 6767RT · 7330198 views · 22h old · matched "qwen", "weights" |
+| [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859) | Yijie Jin | 96 HF upvotes · v 96 | 96 HF upvotes · "Wave Forcing: Towards Speed-of-Light Streaming Video Generation" · model release |
+| [CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://huggingface.co/papers/2611.03126) | Xinlei Yu | 89 HF upvotes · v 89 | 89 HF upvotes · "CUA-Master: Scaling Computer-use Agents through Open-World Recursive I" · model release |
+| [CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://huggingface.co/papers/2611.03178) | Jiajie Jin | 84 HF upvotes · v 84 | 84 HF upvotes · "CoworkOS:Scaling Agent Coworkers for Real-world Automation" · model release |
+| [Advances in Agentic Computer Graphics](https://huggingface.co/papers/2611.01860) | Hengyu Liu | 76 HF upvotes · v 76 | 76 HF upvotes · "Advances in Agentic Computer Graphics" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 675 HN points · v 1347 | 675 HN points · 336 comments · Show HN |
-| [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 337 HN points · v 543 | 337 HN points · 103 comments · Show HN |
-| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 314 HN points · v 502 | 314 HN points · 94 comments · Show HN |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 788 HN points · v 1516 | 788 HN points · 364 comments · Show HN |
+| [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 339 HN points · v 545 | 339 HN points · 103 comments · Show HN |
+| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 315 HN points · v 507 | 315 HN points · 96 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 182 HN points · v 232 | 182 HN points · 25 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (2)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [i've reproduced the results from the MIT blog post today on weight-space programming. but one additional resu…](https://x.com/AlexKrentsel/status/2117376683724660898)<br>![card](https://pbs.twimg.com/media/HWJu33abQAEJL87.jpg?name=orig) | [@AlexKrentsel](https://x.com/AlexKrentsel) | 6906♥ 720RT · v 369.8 | 370 velocity · 6906♥ 720RT · 481023 views · 18h old |
+| [@rikiyatakehi @a1zhang @lateinteraction @jayden_teoh_ This is an old hat. That's exactly what the fast weight…](https://x.com/SchmidhuberAI/status/2117446822855888956) | [@SchmidhuberAI](https://x.com/SchmidhuberAI) | 325♥ 21RT · v 47.1 | known founder · 47 velocity · 325♥ 21RT · 26007 views · 13h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
