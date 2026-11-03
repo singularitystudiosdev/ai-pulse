@@ -15,25 +15,25 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-03 16:49 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-03 21:41 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859) | Yijie Jin | 99 HF upvotes · v 99 | 99 HF upvotes · "Wave Forcing: Towards Speed-of-Light Streaming Video Generation" · model release |
-| [CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://huggingface.co/papers/2611.03126) | Xinlei Yu | 90 HF upvotes · v 90 | 90 HF upvotes · "CUA-Master: Scaling Computer-use Agents through Open-World Recursive I" · model release |
-| [CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://huggingface.co/papers/2611.03178) | Jiajie Jin | 85 HF upvotes · v 85 | 85 HF upvotes · "CoworkOS:Scaling Agent Coworkers for Real-world Automation" · model release |
-| [Advances in Agentic Computer Graphics](https://huggingface.co/papers/2611.01860) | Hengyu Liu | 76 HF upvotes · v 76 | 76 HF upvotes · "Advances in Agentic Computer Graphics" · model release |
-| [Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Imp…](https://huggingface.co/papers/2610.40191) | Liaoyuan Fan | 67 HF upvotes · v 67 | 67 HF upvotes · "Video Generation Meets Agent Harness: Agentic Video Generation, Agenti" · model release |
+| [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859) | Yijie Jin | 101 HF upvotes · v 101 | 101 HF upvotes · "Wave Forcing: Towards Speed-of-Light Streaming Video Generation" · model release |
+| [Advances in Agentic Computer Graphics](https://huggingface.co/papers/2611.01860) | Hengyu Liu | 94 HF upvotes · v 94 | 94 HF upvotes · "Advances in Agentic Computer Graphics" · model release |
+| [CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://huggingface.co/papers/2611.03126) | Xinlei Yu | 91 HF upvotes · v 91 | 91 HF upvotes · "CUA-Master: Scaling Computer-use Agents through Open-World Recursive I" · model release |
+| [CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://huggingface.co/papers/2611.03178) | Jiajie Jin | 87 HF upvotes · v 87 | 87 HF upvotes · "CoworkOS:Scaling Agent Coworkers for Real-world Automation" · model release |
+| [Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Imp…](https://huggingface.co/papers/2610.40191) | Liaoyuan Fan | 68 HF upvotes · v 68 | 68 HF upvotes · "Video Generation Meets Agent Harness: Agentic Video Generation, Agenti" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 791 HN points · v 1527 | 791 HN points · 368 comments · Show HN |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 807 HN points · v 1561 | 807 HN points · 377 comments · Show HN |
 | [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 339 HN points · v 545 | 339 HN points · 103 comments · Show HN |
-| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 315 HN points · v 507 | 315 HN points · 96 comments · Show HN |
+| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 316 HN points · v 508 | 316 HN points · 96 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 182 HN points · v 232 | 182 HN points · 25 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
