@@ -15,34 +15,37 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-02 19:13 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-03 01:09 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation](https://huggingface.co/papers/2610.36545) | Yijing Lin | 110 HF upvotes · v 110 | 110 HF upvotes · "FrameForge: Harnessing Priors of Video Foundation Models for Unified I" · model release |
-| [R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop](https://huggingface.co/papers/2610.22740) | Mingda Zhang | 86 HF upvotes · v 86 | 86 HF upvotes · "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-P" · model release |
-| [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://huggingface.co/papers/2610.39302) | Randall Balestriero | 70 HF upvotes · v 70 | 70 HF upvotes · "Proving and Improving the Platonic Representation Hypothesis with JEPA" · model release |
-| [Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?](https://huggingface.co/papers/2610.39497) | Qi Wang | 58 HF upvotes · v 58 | 58 HF upvotes · "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?" · model release |
-| [REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](https://huggingface.co/papers/2610.42053) | Pengfei Zhou | 43 HF upvotes · v 43 | 43 HF upvotes · "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum" · model release |
+| [FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation](https://huggingface.co/papers/2610.36545) | Yijing Lin | 112 HF upvotes · v 112 | 112 HF upvotes · "FrameForge: Harnessing Priors of Video Foundation Models for Unified I" · model release |
+| [R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop](https://huggingface.co/papers/2610.22740) | Mingda Zhang | 89 HF upvotes · v 89 | 89 HF upvotes · "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-P" · model release |
+| [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://huggingface.co/papers/2610.39302) | Randall Balestriero | 71 HF upvotes · v 71 | 71 HF upvotes · "Proving and Improving the Platonic Representation Hypothesis with JEPA" · model release |
+| [Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?](https://huggingface.co/papers/2610.39497) | Qi Wang | 59 HF upvotes · v 59 | 59 HF upvotes · "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?" · model release |
+| [REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](https://huggingface.co/papers/2610.42053) | Pengfei Zhou | 44 HF upvotes · v 44 | 44 HF upvotes · "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Subvocal – Talk to your computer without making noise](https://subvocal.company/) | aarushyadav | 246 HN points · v 584 | 246 HN points · 169 comments · Show HN |
-| [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 324 HN points · v 524 | 324 HN points · 100 comments · Show HN |
-| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 301 HN points · v 489 | 301 HN points · 94 comments · Show HN |
-| [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 179 HN points · v 229 | 179 HN points · 25 comments · Show HN |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 534 HN points · v 1114 | 534 HN points · 290 comments · Show HN |
+| [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 332 HN points · v 536 | 332 HN points · 102 comments · Show HN |
+| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 310 HN points · v 498 | 310 HN points · 94 comments · Show HN |
+| [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 181 HN points · v 231 | 181 HN points · 25 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (2)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [This is simultaneously very cool but also a bit exaggerated. Reading the prompt you gave, the prompt veeery m…](https://x.com/giffmana/status/2117346161866514524)<br>![card](https://pbs.twimg.com/media/HWJTHJsXAAAAkpm.jpg?name=orig) | [@giffmana](https://x.com/giffmana) | 547♥ 23RT · v 165.2 | known founder · 165 velocity · 547♥ 23RT · 21273 views · 5h old |
+| [Introducing LeVJEPA 1.5 Large, the first step in scaling our method.  It closes the gap to V-JEPA on both ima…](https://x.com/lukaskuhn77/status/2117323261465735320)<br>![card](https://pbs.twimg.com/media/HWI-KTKWwAAuokN.jpg) | [@lukaskuhn77](https://x.com/lukaskuhn77) | 342♥ 41RT · v 70.4 | 70 velocity · 342♥ 41RT · 19813 views · 7h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
@@ -51,6 +54,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-11-03](archive/2026-11-03.md)
 - [2026-11-02](archive/2026-11-02.md)
 - [2026-11-01](archive/2026-11-01.md)
 - [2026-10-31](archive/2026-10-31.md)
