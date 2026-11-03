@@ -15,23 +15,23 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-03 08:07 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-03 08:12 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](https://huggingface.co/papers/2610.42053) | Pengfei Zhou | 137 HF upvotes · v 137 | 137 HF upvotes · "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum" · model release |
-| [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859) | Yijie Jin | 66 HF upvotes · v 66 | 66 HF upvotes · "Wave Forcing: Towards Speed-of-Light Streaming Video Generation" · model release |
+| [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859) | Yijie Jin | 67 HF upvotes · v 67 | 67 HF upvotes · "Wave Forcing: Towards Speed-of-Light Streaming Video Generation" · model release |
 | [Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Imp…](https://huggingface.co/papers/2610.40191) | Liaoyuan Fan | 53 HF upvotes · v 53 | 53 HF upvotes · "Video Generation Meets Agent Harness: Agentic Video Generation, Agenti" · model release |
+| [CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://huggingface.co/papers/2611.03178) | Jiajie Jin | 37 HF upvotes · v 37 | 37 HF upvotes · "CoworkOS:Scaling Agent Coworkers for Real-world Automation" · model release |
 | [Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use](https://huggingface.co/papers/2610.40738) | Aman Tiwari | 35 HF upvotes · v 35 | 35 HF upvotes · "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Too" · model release |
-| [CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://huggingface.co/papers/2611.03178) | Jiajie Jin | 31 HF upvotes · v 31 | 31 HF upvotes · "CoworkOS:Scaling Agent Coworkers for Real-world Automation" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 663 HN points · v 1325 | 663 HN points · 331 comments · Show HN |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 666 HN points · v 1328 | 666 HN points · 331 comments · Show HN |
 | [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 337 HN points · v 543 | 337 HN points · 103 comments · Show HN |
 | [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 313 HN points · v 501 | 313 HN points · 94 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 182 HN points · v 232 | 182 HN points · 25 comments · Show HN |
