@@ -15,34 +15,37 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-03 22:29 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-04 01:41 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Advances in Agentic Computer Graphics](https://huggingface.co/papers/2611.01860) | Hengyu Liu | 102 HF upvotes · v 102 | 102 HF upvotes · "Advances in Agentic Computer Graphics" · model release |
-| [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859) | Yijie Jin | 101 HF upvotes · v 101 | 101 HF upvotes · "Wave Forcing: Towards Speed-of-Light Streaming Video Generation" · model release |
-| [CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://huggingface.co/papers/2611.03126) | Xinlei Yu | 91 HF upvotes · v 91 | 91 HF upvotes · "CUA-Master: Scaling Computer-use Agents through Open-World Recursive I" · model release |
-| [CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://huggingface.co/papers/2611.03178) | Jiajie Jin | 87 HF upvotes · v 87 | 87 HF upvotes · "CoworkOS:Scaling Agent Coworkers for Real-world Automation" · model release |
-| [Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Imp…](https://huggingface.co/papers/2610.40191) | Liaoyuan Fan | 68 HF upvotes · v 68 | 68 HF upvotes · "Video Generation Meets Agent Harness: Agentic Video Generation, Agenti" · model release |
+| [Advances in Agentic Computer Graphics](https://huggingface.co/papers/2611.01860) | Hengyu Liu | 111 HF upvotes · v 111 | 111 HF upvotes · "Advances in Agentic Computer Graphics" · model release |
+| [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://huggingface.co/papers/2611.00859) | Yijie Jin | 107 HF upvotes · v 107 | 107 HF upvotes · "Wave Forcing: Towards Speed-of-Light Streaming Video Generation" · model release |
+| [CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://huggingface.co/papers/2611.03126) | Xinlei Yu | 92 HF upvotes · v 92 | 92 HF upvotes · "CUA-Master: Scaling Computer-use Agents through Open-World Recursive I" · model release |
+| [CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://huggingface.co/papers/2611.03178) | Jiajie Jin | 88 HF upvotes · v 88 | 88 HF upvotes · "CoworkOS:Scaling Agent Coworkers for Real-world Automation" · model release |
+| [Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Imp…](https://huggingface.co/papers/2610.40191) | Liaoyuan Fan | 69 HF upvotes · v 69 | 69 HF upvotes · "Video Generation Meets Agent Harness: Agentic Video Generation, Agenti" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 808 HN points · v 1564 | 808 HN points · 378 comments · Show HN |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 811 HN points · v 1573 | 811 HN points · 381 comments · Show HN |
 | [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 339 HN points · v 545 | 339 HN points · 103 comments · Show HN |
-| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 316 HN points · v 508 | 316 HN points · 96 comments · Show HN |
+| [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) | FabCH | 317 HN points · v 509 | 317 HN points · 96 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 182 HN points · v 232 | 182 HN points · 25 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (2)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [I made https://compend.org. It's a Letterboxd-style review site for all earthly things. It just seemed like a…](https://x.com/darth_erogenous/status/2117624123509915993)<br>![card](https://pbs.twimg.com/media/HWNP4lgXoAIOc1O.jpg?name=orig) | [@darth_erogenous](https://x.com/darth_erogenous) | 3116♥ 256RT · v 370.5 | 370 velocity · 3116♥ 256RT · 233996 views · 11h old |
+| [@HieroBorschtIII It depends on how stretched you are. Technically its possible.](https://x.com/flipper_net/status/2117746400754876911) | [@flipper_net](https://x.com/flipper_net) | 612♥ 34RT · v 176.4 | known founder · 176 velocity · 612♥ 34RT · 10417 views · 3h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
@@ -51,6 +54,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-11-04](archive/2026-11-04.md)
 - [2026-11-03](archive/2026-11-03.md)
 - [2026-11-02](archive/2026-11-02.md)
 - [2026-11-01](archive/2026-11-01.md)
