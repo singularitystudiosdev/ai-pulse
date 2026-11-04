@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-04 08:31 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-04 08:36 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Advances in Agentic Computer Graphics](https://huggingface.co/papers/2611.01860) | Hengyu Liu | 124 HF upvotes · v 124 | 124 HF upvotes · "Advances in Agentic Computer Graphics" · model release |
-| [Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://huggingface.co/papers/2611.05275) | Pengfei Zhou | 53 HF upvotes · v 53 | 53 HF upvotes · "Route Anything: A Study of Model and Policy Routing for General-Purpos" · model release |
+| [Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://huggingface.co/papers/2611.05275) | Pengfei Zhou | 59 HF upvotes · v 59 | 59 HF upvotes · "Route Anything: A Study of Model and Policy Routing for General-Purpos" · model release |
 | [Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling](https://huggingface.co/papers/2611.04916) | Kling Team | 43 HF upvotes · v 43 | 43 HF upvotes · "Behind Video Generation: Observations and Insights on Multimodal Under" · model release |
 | [MoviEdit: Long-form Multi-Shot Video Editing Made Easy](https://huggingface.co/papers/2611.02737) | Suhyeon Lee | 37 HF upvotes · v 37 | 37 HF upvotes · "MoviEdit: Long-form Multi-Shot Video Editing Made Easy" · model release |
 | [SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training](https://huggingface.co/papers/2611.02074) | Ziming Li | 37 HF upvotes · v 37 | 37 HF upvotes · "SWE-Trail: History-Guided Trajectory Collection for Coding Agent Train" · model release |
