@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-04 08:04 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-04 08:09 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Advances in Agentic Computer Graphics](https://huggingface.co/papers/2611.01860) | Hengyu Liu | 124 HF upvotes · v 124 | 124 HF upvotes · "Advances in Agentic Computer Graphics" · model release |
-| [Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://huggingface.co/papers/2611.05275) | Pengfei Zhou | 44 HF upvotes · v 44 | 44 HF upvotes · "Route Anything: A Study of Model and Policy Routing for General-Purpos" · model release |
+| [Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://huggingface.co/papers/2611.05275) | Pengfei Zhou | 46 HF upvotes · v 46 | 46 HF upvotes · "Route Anything: A Study of Model and Policy Routing for General-Purpos" · model release |
 | [Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling](https://huggingface.co/papers/2611.04916) | Kling Team | 42 HF upvotes · v 42 | 42 HF upvotes · "Behind Video Generation: Observations and Insights on Multimodal Under" · model release |
+| [MoviEdit: Long-form Multi-Shot Video Editing Made Easy](https://huggingface.co/papers/2611.02737) | Suhyeon Lee | 36 HF upvotes · v 36 | 36 HF upvotes · "MoviEdit: Long-form Multi-Shot Video Editing Made Easy" · model release |
 | [SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training](https://huggingface.co/papers/2611.02074) | Ziming Li | 36 HF upvotes · v 36 | 36 HF upvotes · "SWE-Trail: History-Guided Trajectory Collection for Coding Agent Train" · model release |
-| [MoviEdit: Long-form Multi-Shot Video Editing Made Easy](https://huggingface.co/papers/2611.02737) | Suhyeon Lee | 35 HF upvotes · v 35 | 35 HF upvotes · "MoviEdit: Long-form Multi-Shot Video Editing Made Easy" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -34,18 +34,15 @@
 | [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 817 HN points · v 1593 | 817 HN points · 388 comments · Show HN |
 | [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 339 HN points · v 547 | 339 HN points · 104 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 182 HN points · v 232 | 182 HN points · 25 comments · Show HN |
-| [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos) | ayanb9440 | 87 HN points · v 125 | 87 HN points · 19 comments · Show HN |
+| [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos) | ayanb9440 | 87 HN points · v 127 | 87 HN points · 20 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [【Notice Regarding PC Launcher Anomaly】  We have identified an issue indicating that the PC Launcher's script …](https://x.com/NIKKE_en/status/2117817602659770434)<br>![card](https://pbs.twimg.com/media/HWP9V4cbQAAlGWw.jpg?name=orig) | [@NIKKE_en](https://x.com/NIKKE_en) | 8995♥ 1495RT · v 4124.7 | known founder · 4125 velocity · 8995♥ 1495RT · 495263 views · 5h old |
-| [👨‍💻 THREAD on how data center-related ballot measures are faring tonight  data centers are on the ballot in…](https://x.com/jdcapelouto/status/2117786709173645427) | [@jdcapelouto](https://x.com/jdcapelouto) | 1835♥ 367RT · v 1496.3 | 1496 velocity · 1835♥ 367RT · 490144 views · 7h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
