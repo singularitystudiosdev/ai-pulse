@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-04 22:34 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-04 22:39 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,17 +34,15 @@
 | [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 829 HN points · v 1609 | 829 HN points · 390 comments · Show HN |
 | [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | passkey1510 | 121 HN points · v 245 | 121 HN points · 62 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 183 HN points · v 233 | 183 HN points · 25 comments · Show HN |
-| [Show HN: I built a tool that prices a prebuilt PC part by part](https://pcdealcheck.com/) | adlep | 82 HN points · v 196 | 82 HN points · 57 comments · Show HN |
+| [Show HN: I built a tool that prices a prebuilt PC part by part](https://pcdealcheck.com/) | adlep | 83 HN points · v 197 | 83 HN points · 57 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Congrats to Pierre! I have many great friends that work there and I’m so happy for them. I’m also a minor inv…](https://x.com/mitchellh/status/2118012675582280038) | [@mitchellh](https://x.com/mitchellh) | 1644♥ 10RT · v 379.3 | known founder · 379 velocity · 1644♥ 10RT · 67105 views · 6h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
