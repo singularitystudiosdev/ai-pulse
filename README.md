@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-04 22:39 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-04 22:45 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,9 +32,9 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 829 HN points · v 1609 | 829 HN points · 390 comments · Show HN |
-| [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | passkey1510 | 121 HN points · v 245 | 121 HN points · 62 comments · Show HN |
+| [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | passkey1510 | 121 HN points · v 249 | 121 HN points · 64 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 183 HN points · v 233 | 183 HN points · 25 comments · Show HN |
-| [Show HN: I built a tool that prices a prebuilt PC part by part](https://pcdealcheck.com/) | adlep | 83 HN points · v 197 | 83 HN points · 57 comments · Show HN |
+| [Show HN: I built a tool that prices a prebuilt PC part by part](https://pcdealcheck.com/) | adlep | 83 HN points · v 199 | 83 HN points · 58 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
