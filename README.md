@@ -15,36 +15,34 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-04 21:57 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-04 22:02 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [The intelligence frontier keeps advancing every day. Are your agents delivering better outcomes on what matte…](https://x.com/gauri__gupta/status/2118036805865890022)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2118008756936282112/img/WPsW2qwlLmbQzWI3.jpg) | [@gauri__gupta](https://x.com/gauri__gupta) | 188♥ 51RT · v 615.3 | 615 velocity · 188♥ 51RT · 107580 views · 4h old · matched "evals" |
 | [Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://huggingface.co/papers/2611.05275) | Pengfei Zhou | 84 HF upvotes · v 84 | 84 HF upvotes · "Route Anything: A Study of Model and Policy Routing for General-Purpos" · model release |
 | [Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy](https://huggingface.co/papers/2611.00617) | Mengxi Xiao | 67 HF upvotes · v 67 | 67 HF upvotes · "Words Caught in the Heart: Simulating Person-Specific Expression for S" · model release |
 | [Think Less, Locally: Local Preference Learning for Reasoning Compression](https://huggingface.co/papers/2611.04814) | Muyao Yuan | 65 HF upvotes · v 65 | 65 HF upvotes · "Think Less, Locally: Local Preference Learning for Reasoning Compressi" · model release |
 | [MoviEdit: Long-form Multi-Shot Video Editing Made Easy](https://huggingface.co/papers/2611.02737) | Suhyeon Lee | 61 HF upvotes · v 61 | 61 HF upvotes · "MoviEdit: Long-form Multi-Shot Video Editing Made Easy" · model release |
+| [Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling](https://huggingface.co/papers/2611.04916) | Kling Team | 51 HF upvotes · v 51 | 51 HF upvotes · "Behind Video Generation: Observations and Insights on Multimodal Under" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 828 HN points · v 1608 | 828 HN points · 390 comments · Show HN |
-| [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | passkey1510 | 120 HN points · v 244 | 120 HN points · 62 comments · Show HN |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 829 HN points · v 1609 | 829 HN points · 390 comments · Show HN |
+| [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | passkey1510 | 121 HN points · v 245 | 121 HN points · 62 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 183 HN points · v 233 | 183 HN points · 25 comments · Show HN |
-| [Show HN: I built a tool that prices a prebuilt PC part by part](https://pcdealcheck.com/) | adlep | 77 HN points · v 181 | 77 HN points · 52 comments · Show HN |
+| [Show HN: I built a tool that prices a prebuilt PC part by part](https://pcdealcheck.com/) | adlep | 78 HN points · v 182 | 78 HN points · 52 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [I used an AI for two hours and found a zero-day that would let a nation-state hack any server running stock U…](https://x.com/just1cz/status/2118009777922228361) | [@just1cz](https://x.com/just1cz) | 273♥ 27RT · v 66.7 | 67 velocity · 273♥ 27RT · 16424 views · 6h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
