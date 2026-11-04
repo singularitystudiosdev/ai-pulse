@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-04 08:47 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-04 08:52 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://huggingface.co/papers/2611.05275) | Pengfei Zhou | 63 HF upvotes · v 63 | 63 HF upvotes · "Route Anything: A Study of Model and Policy Routing for General-Purpos" · model release |
+| [Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://huggingface.co/papers/2611.05275) | Pengfei Zhou | 65 HF upvotes · v 65 | 65 HF upvotes · "Route Anything: A Study of Model and Policy Routing for General-Purpos" · model release |
 | [Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling](https://huggingface.co/papers/2611.04916) | Kling Team | 44 HF upvotes · v 44 | 44 HF upvotes · "Behind Video Generation: Observations and Insights on Multimodal Under" · model release |
 | [MoviEdit: Long-form Multi-Shot Video Editing Made Easy](https://huggingface.co/papers/2611.02737) | Suhyeon Lee | 38 HF upvotes · v 38 | 38 HF upvotes · "MoviEdit: Long-form Multi-Shot Video Editing Made Easy" · model release |
 | [SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training](https://huggingface.co/papers/2611.02074) | Ziming Li | 37 HF upvotes · v 37 | 37 HF upvotes · "SWE-Trail: History-Guided Trajectory Collection for Coding Agent Train" · model release |
@@ -34,7 +34,7 @@
 | [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 817 HN points · v 1593 | 817 HN points · 388 comments · Show HN |
 | [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app) | aizk | 339 HN points · v 547 | 339 HN points · 104 comments · Show HN |
 | [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 182 HN points · v 232 | 182 HN points · 25 comments · Show HN |
-| [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos) | ayanb9440 | 90 HN points · v 134 | 90 HN points · 22 comments · Show HN |
+| [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos) | ayanb9440 | 91 HN points · v 135 | 91 HN points · 22 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
