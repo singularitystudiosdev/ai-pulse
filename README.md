@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-05 17:48 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-05 17:53 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [We've been early adopters of Rust since 2018 and a lot of our infra, voice tech, and even some of the current…](https://x.com/svishnevskiy/status/2118081920194203799)<br>![card](https://pbs.twimg.com/media/HWTt_8BaIAAeM1m.png?name=orig) | [@svishnevskiy](https://x.com/svishnevskiy) | 10112♥ 648RT · v 533.4 | 533 velocity · 10112♥ 648RT · 937159 views · 21h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
