@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-05 23:02 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-05 23:08 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -34,7 +34,7 @@
 | [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) | adlep | 115 HN points · v 273 | 115 HN points · 79 comments · Show HN |
 | [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | passkey1510 | 127 HN points · v 265 | 127 HN points · 69 comments · Show HN |
 | [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos) | ayanb9440 | 104 HN points · v 172 | 104 HN points · 34 comments · Show HN |
-| [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k) | schopra909 | 116 HN points · v 142 | 116 HN points · 13 comments · Show HN |
+| [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k) | schopra909 | 119 HN points · v 145 | 119 HN points · 13 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
