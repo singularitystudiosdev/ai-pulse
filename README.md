@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-05 10:20 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-05 17:37 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 61 HF upvotes · v 61 | 61 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
-| [DreamX: Video Diffusion Model is a Universal Latent Action Learner](https://huggingface.co/papers/2611.05377) | Jisoo Kim | 54 HF upvotes · v 54 | 54 HF upvotes · "DreamX: Video Diffusion Model is a Universal Latent Action Learner" · model release |
-| [Think Less, Locally: Local Preference Learning for Reasoning Compression](https://huggingface.co/papers/2611.04814) | Muyao Yuan | 53 HF upvotes · v 53 | 53 HF upvotes · "Think Less, Locally: Local Preference Learning for Reasoning Compressi" · model release |
-| [From Pixels to Actions - Towards Native Vision-Language-Action Policies](https://huggingface.co/papers/2611.06918) | Weichen Fan | 50 HF upvotes · v 50 | 50 HF upvotes · "From Pixels to Actions - Towards Native Vision-Language-Action Policie" · model release |
-| [Factorized MLLM Embeddings for Composed Image Retrieval](https://huggingface.co/papers/2611.05193) | WonJun Moon | 45 HF upvotes · v 45 | 45 HF upvotes · "Factorized MLLM Embeddings for Composed Image Retrieval" · model release |
+| [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 101 HF upvotes · v 101 | 101 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
+| [From Pixels to Actions - Towards Native Vision-Language-Action Policies](https://huggingface.co/papers/2611.06918) | Weichen Fan | 55 HF upvotes · v 55 | 55 HF upvotes · "From Pixels to Actions - Towards Native Vision-Language-Action Policie" · model release |
+| [Think Less, Locally: Local Preference Learning for Reasoning Compression](https://huggingface.co/papers/2611.04814) | Muyao Yuan | 55 HF upvotes · v 55 | 55 HF upvotes · "Think Less, Locally: Local Preference Learning for Reasoning Compressi" · model release |
+| [Factorized MLLM Embeddings for Composed Image Retrieval](https://huggingface.co/papers/2611.05193) | WonJun Moon | 47 HF upvotes · v 47 | 47 HF upvotes · "Factorized MLLM Embeddings for Composed Image Retrieval" · model release |
+| [FrontierPhysics: Evaluating Agents for End-to-End Physics Research](https://huggingface.co/papers/2611.06910) | Bingran You | 34 HF upvotes · v 34 | 34 HF upvotes · "FrontierPhysics: Evaluating Agents for End-to-End Physics Research" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 831 HN points · v 1611 | 831 HN points · 390 comments · Show HN |
-| [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | passkey1510 | 125 HN points · v 259 | 125 HN points · 67 comments · Show HN |
-| [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) | adlep | 106 HN points · v 250 | 106 HN points · 72 comments · Show HN |
+| [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) | adlep | 114 HN points · v 270 | 114 HN points · 78 comments · Show HN |
+| [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | passkey1510 | 127 HN points · v 265 | 127 HN points · 69 comments · Show HN |
 | [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos) | ayanb9440 | 104 HN points · v 172 | 104 HN points · 34 comments · Show HN |
+| [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli) | 0x63_Problems | 39 HN points · v 57 | 39 HN points · 9 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [GPT Image 2.6 Flare produces fewer unnecessary text slogans in generated images. In the image below, GPT Imag…](https://x.com/DesignArena/status/2118124381155303918)<br>![card](https://pbs.twimg.com/media/HWUW5kubgAAONvK.jpg?name=orig) | [@DesignArena](https://x.com/DesignArena) | 26♥ 0RT · v 1.8 | 1.8 velocity · 26♥ 0RT · 2502 views · 18h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
