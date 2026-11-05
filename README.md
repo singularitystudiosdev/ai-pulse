@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-04 22:45 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-05 02:11 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://huggingface.co/papers/2611.05275) | Pengfei Zhou | 84 HF upvotes · v 84 | 84 HF upvotes · "Route Anything: A Study of Model and Policy Routing for General-Purpos" · model release |
-| [Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy](https://huggingface.co/papers/2611.00617) | Mengxi Xiao | 67 HF upvotes · v 67 | 67 HF upvotes · "Words Caught in the Heart: Simulating Person-Specific Expression for S" · model release |
+| [Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://huggingface.co/papers/2611.05275) | Pengfei Zhou | 86 HF upvotes · v 86 | 86 HF upvotes · "Route Anything: A Study of Model and Policy Routing for General-Purpos" · model release |
+| [Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy](https://huggingface.co/papers/2611.00617) | Mengxi Xiao | 69 HF upvotes · v 69 | 69 HF upvotes · "Words Caught in the Heart: Simulating Person-Specific Expression for S" · model release |
 | [Think Less, Locally: Local Preference Learning for Reasoning Compression](https://huggingface.co/papers/2611.04814) | Muyao Yuan | 65 HF upvotes · v 65 | 65 HF upvotes · "Think Less, Locally: Local Preference Learning for Reasoning Compressi" · model release |
-| [MoviEdit: Long-form Multi-Shot Video Editing Made Easy](https://huggingface.co/papers/2611.02737) | Suhyeon Lee | 61 HF upvotes · v 61 | 61 HF upvotes · "MoviEdit: Long-form Multi-Shot Video Editing Made Easy" · model release |
-| [Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling](https://huggingface.co/papers/2611.04916) | Kling Team | 51 HF upvotes · v 51 | 51 HF upvotes · "Behind Video Generation: Observations and Insights on Multimodal Under" · model release |
+| [Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling](https://huggingface.co/papers/2611.04916) | Kling Team | 52 HF upvotes · v 52 | 52 HF upvotes · "Behind Video Generation: Observations and Insights on Multimodal Under" · model release |
+| [DreamX: Video Diffusion Model is a Universal Latent Action Learner](https://huggingface.co/papers/2611.05377) | Jisoo Kim | 51 HF upvotes · v 51 | 51 HF upvotes · "DreamX: Video Diffusion Model is a Universal Latent Action Learner" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 829 HN points · v 1609 | 829 HN points · 390 comments · Show HN |
-| [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | passkey1510 | 121 HN points · v 249 | 121 HN points · 64 comments · Show HN |
-| [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/) | mw888 | 183 HN points · v 233 | 183 HN points · 25 comments · Show HN |
-| [Show HN: I built a tool that prices a prebuilt PC part by part](https://pcdealcheck.com/) | adlep | 83 HN points · v 199 | 83 HN points · 58 comments · Show HN |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 830 HN points · v 1610 | 830 HN points · 390 comments · Show HN |
+| [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | passkey1510 | 122 HN points · v 254 | 122 HN points · 66 comments · Show HN |
+| [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) | adlep | 95 HN points · v 229 | 95 HN points · 67 comments · Show HN |
+| [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos) | ayanb9440 | 104 HN points · v 166 | 104 HN points · 31 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [@JDVance 1) End the war  2) Focus on cost of living/inflation  3) Put America First  4) Change our relationsh…](https://x.com/paulg/status/2118041310699352558) | [@paulg](https://x.com/paulg) | 21261♥ 835RT · v 4428.3 | known founder · 4428 velocity · 21261♥ 835RT · 1116034 views · 8h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
@@ -51,6 +53,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-11-05](archive/2026-11-05.md)
 - [2026-11-04](archive/2026-11-04.md)
 - [2026-11-03](archive/2026-11-03.md)
 - [2026-11-02](archive/2026-11-02.md)
