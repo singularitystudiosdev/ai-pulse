@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-05 17:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-05 17:42 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,9 +23,9 @@
 |---|---|---|---|
 | [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 101 HF upvotes · v 101 | 101 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
 | [From Pixels to Actions - Towards Native Vision-Language-Action Policies](https://huggingface.co/papers/2611.06918) | Weichen Fan | 55 HF upvotes · v 55 | 55 HF upvotes · "From Pixels to Actions - Towards Native Vision-Language-Action Policie" · model release |
-| [Think Less, Locally: Local Preference Learning for Reasoning Compression](https://huggingface.co/papers/2611.04814) | Muyao Yuan | 55 HF upvotes · v 55 | 55 HF upvotes · "Think Less, Locally: Local Preference Learning for Reasoning Compressi" · model release |
 | [Factorized MLLM Embeddings for Composed Image Retrieval](https://huggingface.co/papers/2611.05193) | WonJun Moon | 47 HF upvotes · v 47 | 47 HF upvotes · "Factorized MLLM Embeddings for Composed Image Retrieval" · model release |
 | [FrontierPhysics: Evaluating Agents for End-to-End Physics Research](https://huggingface.co/papers/2611.06910) | Bingran You | 34 HF upvotes · v 34 | 34 HF upvotes · "FrontierPhysics: Evaluating Agents for End-to-End Physics Research" · model release |
+| [GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling](https://huggingface.co/papers/2610.37257) | Kang He | 33 HF upvotes · v 33 | 33 HF upvotes · "GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactiv" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [GPT Image 2.6 Flare produces fewer unnecessary text slogans in generated images. In the image below, GPT Imag…](https://x.com/DesignArena/status/2118124381155303918)<br>![card](https://pbs.twimg.com/media/HWUW5kubgAAONvK.jpg?name=orig) | [@DesignArena](https://x.com/DesignArena) | 26♥ 0RT · v 1.8 | 1.8 velocity · 26♥ 0RT · 2502 views · 18h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
