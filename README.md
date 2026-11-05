@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-05 02:53 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-05 02:58 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | aarushyadav | 830 HN points · v 1610 | 830 HN points · 390 comments · Show HN |
 | [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | passkey1510 | 122 HN points · v 254 | 122 HN points · 66 comments · Show HN |
-| [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) | adlep | 95 HN points · v 229 | 95 HN points · 67 comments · Show HN |
+| [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) | adlep | 95 HN points · v 231 | 95 HN points · 68 comments · Show HN |
 | [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos) | ayanb9440 | 104 HN points · v 166 | 104 HN points · 31 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
