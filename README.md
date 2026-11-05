@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-05 10:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-05 10:20 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 60 HF upvotes · v 60 | 60 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
+| [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 61 HF upvotes · v 61 | 61 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
 | [DreamX: Video Diffusion Model is a Universal Latent Action Learner](https://huggingface.co/papers/2611.05377) | Jisoo Kim | 54 HF upvotes · v 54 | 54 HF upvotes · "DreamX: Video Diffusion Model is a Universal Latent Action Learner" · model release |
 | [Think Less, Locally: Local Preference Learning for Reasoning Compression](https://huggingface.co/papers/2611.04814) | Muyao Yuan | 53 HF upvotes · v 53 | 53 HF upvotes · "Think Less, Locally: Local Preference Learning for Reasoning Compressi" · model release |
 | [From Pixels to Actions - Towards Native Vision-Language-Action Policies](https://huggingface.co/papers/2611.06918) | Weichen Fan | 50 HF upvotes · v 50 | 50 HF upvotes · "From Pixels to Actions - Towards Native Vision-Language-Action Policie" · model release |
