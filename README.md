@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-05 22:52 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-05 22:57 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,21 +31,18 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [History was made last night.  For months, we were saying that 2026 was the most consequential midterm electio…](https://x.com/tedcruz/status/2118125881067487633) | [@tedcruz](https://x.com/tedcruz) | 34303♥ 3546RT · v 6974.5 | known founder · 6975 velocity · 34303♥ 3546RT · 10043727 views · 23h old · matched "we built" |
 | [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) | adlep | 115 HN points · v 273 | 115 HN points · 79 comments · Show HN |
 | [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | passkey1510 | 127 HN points · v 265 | 127 HN points · 69 comments · Show HN |
 | [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos) | ayanb9440 | 104 HN points · v 172 | 104 HN points · 34 comments · Show HN |
+| [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k) | schopra909 | 116 HN points · v 142 | 116 HN points · 13 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Comprehensive list of hedge funds blowing up this week, getting large redemptions, or shutting down PMs: - Ax…](https://x.com/SpecialSitsNews/status/2118415084280242230)<br>![card](https://pbs.twimg.com/media/HWYfSJ1XYAEGDp-.png?name=orig) | [@SpecialSitsNews](https://x.com/SpecialSitsNews) | 1412♥ 252RT · v 2439.3 | known founder · 2439 velocity · 1412♥ 252RT · 264297 views · 4h old |
-| [Republicans are blaming the Iran war and rising prices for this week's electoral shellacking. Fair enough. Bu…](https://x.com/JeffFlake/status/2118355575356727470) | [@JeffFlake](https://x.com/JeffFlake) | 2639♥ 403RT · v 243.6 | known founder · 244 velocity · 2639♥ 403RT · 42837 views · 8h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
