@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-05 09:32 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-05 09:37 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Think Less, Locally: Local Preference Learning for Reasoning Compression](https://huggingface.co/papers/2611.04814) | Muyao Yuan | 73 HF upvotes · v 73 | 73 HF upvotes · "Think Less, Locally: Local Preference Learning for Reasoning Compressi" · model release |
-| [Kimi K3.1 Pro doesn't just recall hidden tests (great thread by @JSchaeff3r). It also writes fake OpenAI ciph…](https://x.com/PeterNutter1/status/2118084568419045704)<br>![card](https://pbs.twimg.com/media/HWTyOFeb0AAK5pL.jpg?name=orig) | [@PeterNutter1](https://x.com/PeterNutter1) | 268♥ 21RT · v 54.9 | 55 velocity · 268♥ 21RT · 43641 views · 13h old · matched "kimi" |
-| [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 54 HF upvotes · v 54 | 54 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
+| [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 55 HF upvotes · v 55 | 55 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
 | [DreamX: Video Diffusion Model is a Universal Latent Action Learner](https://huggingface.co/papers/2611.05377) | Jisoo Kim | 54 HF upvotes · v 54 | 54 HF upvotes · "DreamX: Video Diffusion Model is a Universal Latent Action Learner" · model release |
 | [Factorized MLLM Embeddings for Composed Image Retrieval](https://huggingface.co/papers/2611.05193) | WonJun Moon | 45 HF upvotes · v 45 | 45 HF upvotes · "Factorized MLLM Embeddings for Composed Image Retrieval" · model release |
+| [From Pixels to Actions - Towards Native Vision-Language-Action Policies](https://huggingface.co/papers/2611.06918) | Weichen Fan | 42 HF upvotes · v 42 | 42 HF upvotes · "From Pixels to Actions - Towards Native Vision-Language-Action Policie" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
