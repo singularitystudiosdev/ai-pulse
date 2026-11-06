@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-06 03:36 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-06 03:41 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,8 +31,8 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) | adlep | 116 HN points · v 278 | 116 HN points · 81 comments · Show HN |
-| [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k) | schopra909 | 171 HN points · v 203 | 171 HN points · 16 comments · Show HN |
+| [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) | adlep | 116 HN points · v 280 | 116 HN points · 82 comments · Show HN |
+| [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k) | schopra909 | 172 HN points · v 204 | 172 HN points · 16 comments · Show HN |
 | [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli) | 0x63_Problems | 40 HN points · v 60 | 40 HN points · 10 comments · Show HN |
 | [Show HN: I built Postraid to help founders create social media content with AI](https://www.postraid.com) | Z4cki | 5 HN points · v 15 | 5 HN points · 5 comments · Show HN |
 
