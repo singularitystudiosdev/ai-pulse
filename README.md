@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-06 17:42 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-06 17:47 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,9 +23,9 @@
 |---|---|---|---|
 | [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 126 HF upvotes · v 126 | 126 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
 | [Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://huggingface.co/papers/2611.02075) | Lang Mo | 113 HF upvotes · v 113 | 113 HF upvotes · "Decoupled Predictive Decision Making: A Shared Conditional Predictor f" · model release |
-| [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 78 HF upvotes · v 78 | 78 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
-| [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277) | Kangning Zhang | 51 HF upvotes · v 51 | 51 HF upvotes · "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Tra" · model release |
-| [Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand](https://huggingface.co/papers/2611.00883) | George Ling | 49 HF upvotes · v 49 | 49 HF upvotes · "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via" · model release |
+| [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 79 HF upvotes · v 79 | 79 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
+| [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277) | Kangning Zhang | 52 HF upvotes · v 52 | 52 HF upvotes · "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Tra" · model release |
+| [Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand](https://huggingface.co/papers/2611.00883) | George Ling | 50 HF upvotes · v 50 | 50 HF upvotes · "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
