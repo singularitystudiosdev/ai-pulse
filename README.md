@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-06 03:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-06 03:09 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [I have to thank Apple for their support of Linux and our efforts to bring up the M5 Max and Ultra on Omarchy!…](https://x.com/JoshuaSWarren/status/2118331083330629847) | [@JoshuaSWarren](https://x.com/JoshuaSWarren) | 1483♥ 57RT · v 94.9 | 95 velocity · 1483♥ 57RT · 80240 views · 14h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
