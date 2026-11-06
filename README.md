@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-06 22:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-06 22:31 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [A research system I built for @psipbc, using a non-public Anthropic model, has proved the Aaronson-Ambainis c…](https://x.com/DavidTurturean/status/2118707648925429982) | [@DavidTurturean](https://x.com/DavidTurturean) | 356♥ 36RT · v 45 | 45 velocity · 356♥ 36RT · 16730 views · 8h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
