@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-06 18:30 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-06 22:25 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 126 HF upvotes · v 126 | 126 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
 | [Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://huggingface.co/papers/2611.02075) | Lang Mo | 113 HF upvotes · v 113 | 113 HF upvotes · "Decoupled Predictive Decision Making: A Shared Conditional Predictor f" · model release |
-| [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 81 HF upvotes · v 81 | 81 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
-| [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277) | Kangning Zhang | 52 HF upvotes · v 52 | 52 HF upvotes · "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Tra" · model release |
+| [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 88 HF upvotes · v 88 | 88 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
+| [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277) | Kangning Zhang | 54 HF upvotes · v 54 | 54 HF upvotes · "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Tra" · model release |
 | [Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand](https://huggingface.co/papers/2611.00883) | George Ling | 50 HF upvotes · v 50 | 50 HF upvotes · "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via" · model release |
+| [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373) | Fuhao Li | 48 HF upvotes · v 48 | 48 HF upvotes · "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli) | 0x63_Problems | 42 HN points · v 62 | 42 HN points · 10 comments · Show HN |
-| [Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents](https://github.com/zalando-incubator/agentic-identity-broker) | jbspeakr | 17 HN points · v 23 | 17 HN points · 3 comments · Show HN |
+| [Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents](https://github.com/zalando-incubator/agentic-identity-broker) | jbspeakr | 18 HN points · v 24 | 18 HN points · 3 comments · Show HN |
+| [Show HN: Inference business simulator – don't go broke, rent GPUs, serve tokens](https://makermaker.ai/breakthroughs/inference/simulation/) | dval | 10 HN points · v 18 | 10 HN points · 4 comments · Show HN |
+| [Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms](https://adikshatriyag-crypto.github.io/aegis-kernel/) | adityawebde | 10 HN points · v 16 | 10 HN points · 3 comments · Show HN |
 | [Show HN: I built Postraid to help founders create social media content with AI](https://www.postraid.com) | Z4cki | 5 HN points · v 15 | 5 HN points · 5 comments · Show HN |
-| [Show HN: Inference business simulator – don't go broke, rent GPUs, serve tokens](https://makermaker.ai/breakthroughs/inference/simulation/) | dval | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [A research system I built for @psipbc, using a non-public Anthropic model, has proved the Aaronson-Ambainis c…](https://x.com/DavidTurturean/status/2118707648925429982) | [@DavidTurturean](https://x.com/DavidTurturean) | 356♥ 36RT · v 45 | 45 velocity · 356♥ 36RT · 16730 views · 8h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
