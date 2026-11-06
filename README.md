@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-06 11:34 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-06 17:42 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 126 HF upvotes · v 126 | 126 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
-| [Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://huggingface.co/papers/2611.02075) | Lang Mo | 112 HF upvotes · v 112 | 112 HF upvotes · "Decoupled Predictive Decision Making: A Shared Conditional Predictor f" · model release |
-| [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 58 HF upvotes · v 58 | 58 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
-| [FrontierPhysics: Evaluating Agents for End-to-End Physics Research](https://huggingface.co/papers/2611.06910) | Bingran You | 50 HF upvotes · v 50 | 50 HF upvotes · "FrontierPhysics: Evaluating Agents for End-to-End Physics Research" · model release |
-| [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277) | Kangning Zhang | 45 HF upvotes · v 45 | 45 HF upvotes · "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Tra" · model release |
+| [Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://huggingface.co/papers/2611.02075) | Lang Mo | 113 HF upvotes · v 113 | 113 HF upvotes · "Decoupled Predictive Decision Making: A Shared Conditional Predictor f" · model release |
+| [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 78 HF upvotes · v 78 | 78 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
+| [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277) | Kangning Zhang | 51 HF upvotes · v 51 | 51 HF upvotes · "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Tra" · model release |
+| [Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand](https://huggingface.co/papers/2611.00883) | George Ling | 49 HF upvotes · v 49 | 49 HF upvotes · "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k) | schopra909 | 238 HN points · v 282 | 238 HN points · 22 comments · Show HN |
-| [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) | adlep | 116 HN points · v 280 | 116 HN points · 82 comments · Show HN |
-| [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli) | 0x63_Problems | 41 HN points · v 61 | 41 HN points · 10 comments · Show HN |
+| [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli) | 0x63_Problems | 42 HN points · v 62 | 42 HN points · 10 comments · Show HN |
+| [Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents](https://github.com/zalando-incubator/agentic-identity-broker) | jbspeakr | 13 HN points · v 19 | 13 HN points · 3 comments · Show HN |
 | [Show HN: I built Postraid to help founders create social media content with AI](https://www.postraid.com) | Z4cki | 5 HN points · v 15 | 5 HN points · 5 comments · Show HN |
+| [Show HN: Inference business simulator – don't go broke, rent GPUs, serve tokens](https://makermaker.ai/breakthroughs/inference/simulation/) | dval | 10 HN points · v 14 | 10 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
