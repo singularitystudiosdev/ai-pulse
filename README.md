@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-05 23:13 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-06 03:03 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 118 HF upvotes · v 118 | 118 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
+| [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 124 HF upvotes · v 124 | 124 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
 | [From Pixels to Actions - Towards Native Vision-Language-Action Policies](https://huggingface.co/papers/2611.06918) | Weichen Fan | 56 HF upvotes · v 56 | 56 HF upvotes · "From Pixels to Actions - Towards Native Vision-Language-Action Policie" · model release |
-| [Factorized MLLM Embeddings for Composed Image Retrieval](https://huggingface.co/papers/2611.05193) | WonJun Moon | 47 HF upvotes · v 47 | 47 HF upvotes · "Factorized MLLM Embeddings for Composed Image Retrieval" · model release |
-| [FrontierPhysics: Evaluating Agents for End-to-End Physics Research](https://huggingface.co/papers/2611.06910) | Bingran You | 44 HF upvotes · v 44 | 44 HF upvotes · "FrontierPhysics: Evaluating Agents for End-to-End Physics Research" · model release |
-| [GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling](https://huggingface.co/papers/2610.37257) | Kang He | 33 HF upvotes · v 33 | 33 HF upvotes · "GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactiv" · model release |
+| [FrontierPhysics: Evaluating Agents for End-to-End Physics Research](https://huggingface.co/papers/2611.06910) | Bingran You | 48 HF upvotes · v 48 | 48 HF upvotes · "FrontierPhysics: Evaluating Agents for End-to-End Physics Research" · model release |
+| [What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?](https://huggingface.co/papers/2611.06483) | Kejian Zhu | 34 HF upvotes · v 34 | 34 HF upvotes · "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agen" · model release |
+| [GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling](https://huggingface.co/papers/2610.37257) | Kang He | 34 HF upvotes · v 34 | 34 HF upvotes · "GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactiv" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) | adlep | 115 HN points · v 273 | 115 HN points · 79 comments · Show HN |
-| [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | passkey1510 | 127 HN points · v 265 | 127 HN points · 69 comments · Show HN |
-| [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos) | ayanb9440 | 104 HN points · v 172 | 104 HN points · 34 comments · Show HN |
-| [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k) | schopra909 | 120 HN points · v 148 | 120 HN points · 14 comments · Show HN |
+| [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) | adlep | 116 HN points · v 278 | 116 HN points · 81 comments · Show HN |
+| [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k) | schopra909 | 161 HN points · v 191 | 161 HN points · 15 comments · Show HN |
+| [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli) | 0x63_Problems | 40 HN points · v 60 | 40 HN points · 10 comments · Show HN |
+| [Show HN: I built Postraid to help founders create social media content with AI](https://www.postraid.com) | Z4cki | 5 HN points · v 15 | 5 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [I have to thank Apple for their support of Linux and our efforts to bring up the M5 Max and Ultra on Omarchy!…](https://x.com/JoshuaSWarren/status/2118331083330629847) | [@JoshuaSWarren](https://x.com/JoshuaSWarren) | 1483♥ 57RT · v 94.9 | 95 velocity · 1483♥ 57RT · 80240 views · 14h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
@@ -51,6 +53,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-11-06](archive/2026-11-06.md)
 - [2026-11-05](archive/2026-11-05.md)
 - [2026-11-04](archive/2026-11-04.md)
 - [2026-11-03](archive/2026-11-03.md)
