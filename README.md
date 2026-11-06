@@ -15,25 +15,25 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-06 03:51 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-06 10:45 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 124 HF upvotes · v 124 | 124 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
-| [From Pixels to Actions - Towards Native Vision-Language-Action Policies](https://huggingface.co/papers/2611.06918) | Weichen Fan | 56 HF upvotes · v 56 | 56 HF upvotes · "From Pixels to Actions - Towards Native Vision-Language-Action Policie" · model release |
-| [FrontierPhysics: Evaluating Agents for End-to-End Physics Research](https://huggingface.co/papers/2611.06910) | Bingran You | 48 HF upvotes · v 48 | 48 HF upvotes · "FrontierPhysics: Evaluating Agents for End-to-End Physics Research" · model release |
-| [What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?](https://huggingface.co/papers/2611.06483) | Kejian Zhu | 35 HF upvotes · v 35 | 35 HF upvotes · "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agen" · model release |
-| [GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling](https://huggingface.co/papers/2610.37257) | Kang He | 34 HF upvotes · v 34 | 34 HF upvotes · "GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactiv" · model release |
+| [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://huggingface.co/papers/2611.06728) | Shuai Dong | 126 HF upvotes · v 126 | 126 HF upvotes · "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit" · model release |
+| [Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://huggingface.co/papers/2611.02075) | Lang Mo | 112 HF upvotes · v 112 | 112 HF upvotes · "Decoupled Predictive Decision Making: A Shared Conditional Predictor f" · model release |
+| [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 58 HF upvotes · v 58 | 58 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
+| [FrontierPhysics: Evaluating Agents for End-to-End Physics Research](https://huggingface.co/papers/2611.06910) | Bingran You | 50 HF upvotes · v 50 | 50 HF upvotes · "FrontierPhysics: Evaluating Agents for End-to-End Physics Research" · model release |
+| [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277) | Kangning Zhang | 45 HF upvotes · v 45 | 45 HF upvotes · "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Tra" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) | adlep | 116 HN points · v 280 | 116 HN points · 82 comments · Show HN |
-| [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k) | schopra909 | 173 HN points · v 205 | 173 HN points · 16 comments · Show HN |
-| [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli) | 0x63_Problems | 40 HN points · v 60 | 40 HN points · 10 comments · Show HN |
+| [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k) | schopra909 | 234 HN points · v 278 | 234 HN points · 22 comments · Show HN |
+| [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli) | 0x63_Problems | 41 HN points · v 61 | 41 HN points · 10 comments · Show HN |
 | [Show HN: I built Postraid to help founders create social media content with AI](https://www.postraid.com) | Z4cki | 5 HN points · v 15 | 5 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
