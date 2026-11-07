@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-07 23:36 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-07 23:41 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0) | antelocnova | 30 HN points · v 34 | 30 HN points · 2 comments · Show HN |
 | [Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents](https://github.com/zalando-incubator/agentic-identity-broker) | jbspeakr | 23 HN points · v 29 | 23 HN points · 3 comments · Show HN |
-| [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 13 HN points · v 21 | 13 HN points · 4 comments · Show HN |
+| [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 14 HN points · v 24 | 14 HN points · 5 comments · Show HN |
 | [Show HN: Backwords – Let AI teach you how to speak in reverse](https://backwords.greg.technology/) | gregsadetsky | 12 HN points · v 18 | 12 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
