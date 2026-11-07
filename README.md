@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-07 02:31 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-07 02:36 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://huggingface.co/papers/2611.02075) | Lang Mo | 114 HF upvotes · v 114 | 114 HF upvotes · "Decoupled Predictive Decision Making: A Shared Conditional Predictor f" · model release |
-| [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 95 HF upvotes · v 95 | 95 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
-| [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373) | Fuhao Li | 91 HF upvotes · v 91 | 91 HF upvotes · "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training" · model release |
+| [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 96 HF upvotes · v 96 | 96 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
+| [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373) | Fuhao Li | 92 HF upvotes · v 92 | 92 HF upvotes · "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training" · model release |
 | [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277) | Kangning Zhang | 55 HF upvotes · v 55 | 55 HF upvotes · "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Tra" · model release |
 | [Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand](https://huggingface.co/papers/2611.00883) | George Ling | 50 HF upvotes · v 50 | 50 HF upvotes · "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via" · model release |
 
