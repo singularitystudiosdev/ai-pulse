@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-07 20:13 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-07 20:18 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -25,7 +25,7 @@
 | [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373) | Fuhao Li | 80 HF upvotes · v 80 | 80 HF upvotes · "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training" · model release |
 | [Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://huggingface.co/papers/2611.02075) | Lang Mo | 79 HF upvotes · v 79 | 79 HF upvotes · "Decoupled Predictive Decision Making: A Shared Conditional Predictor f" · model release |
 | [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277) | Kangning Zhang | 62 HF upvotes · v 62 | 62 HF upvotes · "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Tra" · model release |
-| [From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](https://huggingface.co/papers/2611.05376) | Hao Fei | 59 HF upvotes · v 59 | 59 HF upvotes · "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Hum" · model release |
+| [From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](https://huggingface.co/papers/2611.05376) | Hao Fei | 61 HF upvotes · v 61 | 61 HF upvotes · "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Hum" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
