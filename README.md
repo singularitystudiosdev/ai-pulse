@@ -15,34 +15,36 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-06 23:16 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-07 02:15 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://huggingface.co/papers/2611.02075) | Lang Mo | 113 HF upvotes · v 113 | 113 HF upvotes · "Decoupled Predictive Decision Making: A Shared Conditional Predictor f" · model release |
-| [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 88 HF upvotes · v 88 | 88 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
+| [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 93 HF upvotes · v 93 | 93 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
+| [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373) | Fuhao Li | 87 HF upvotes · v 87 | 87 HF upvotes · "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training" · model release |
 | [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277) | Kangning Zhang | 54 HF upvotes · v 54 | 54 HF upvotes · "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Tra" · model release |
 | [Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand](https://huggingface.co/papers/2611.00883) | George Ling | 50 HF upvotes · v 50 | 50 HF upvotes · "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via" · model release |
-| [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373) | Fuhao Li | 48 HF upvotes · v 48 | 48 HF upvotes · "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents](https://github.com/zalando-incubator/agentic-identity-broker) | jbspeakr | 19 HN points · v 25 | 19 HN points · 3 comments · Show HN |
-| [Show HN: Inference business simulator – don't go broke, rent GPUs, serve tokens](https://makermaker.ai/breakthroughs/inference/simulation/) | dval | 10 HN points · v 20 | 10 HN points · 5 comments · Show HN |
-| [Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms](https://adikshatriyag-crypto.github.io/aegis-kernel/) | adityawebde | 11 HN points · v 17 | 11 HN points · 3 comments · Show HN |
+| [Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents](https://github.com/zalando-incubator/agentic-identity-broker) | jbspeakr | 21 HN points · v 27 | 21 HN points · 3 comments · Show HN |
+| [Show HN: Inference business simulator – don't go broke, rent GPUs, serve tokens](https://makermaker.ai/breakthroughs/inference/simulation/) | dval | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
+| [Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms](https://adikshatriyag-crypto.github.io/aegis-kernel/) | adityawebde | 12 HN points · v 18 | 12 HN points · 3 comments · Show HN |
 | [Show HN: I built Postraid to help founders create social media content with AI](https://www.postraid.com) | Z4cki | 5 HN points · v 15 | 5 HN points · 5 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [Well, this report finding acceleration of AI progress inside of Anthropic certainly has my attention! Digging…](https://x.com/ramez/status/2118472046812213577) | [@ramez](https://x.com/ramez) | 110♥ 1RT · v 2.1 | 2.1 velocity · 110♥ 1RT · 5586 views · 28h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
@@ -51,6 +53,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-11-07](archive/2026-11-07.md)
 - [2026-11-06](archive/2026-11-06.md)
 - [2026-11-05](archive/2026-11-05.md)
 - [2026-11-04](archive/2026-11-04.md)
