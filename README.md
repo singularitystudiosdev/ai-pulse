@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-08 16:52 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-08 20:25 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](https://huggingface.co/papers/2611.05376) | Hao Fei | 114 HF upvotes · v 114 | 114 HF upvotes · "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Hum" · model release |
-| [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 104 HF upvotes · v 104 | 104 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
-| [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373) | Fuhao Li | 91 HF upvotes · v 91 | 91 HF upvotes · "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training" · model release |
+| [From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](https://huggingface.co/papers/2611.05376) | Hao Fei | 116 HF upvotes · v 116 | 116 HF upvotes · "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Hum" · model release |
+| [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 106 HF upvotes · v 106 | 106 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
+| [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373) | Fuhao Li | 92 HF upvotes · v 92 | 92 HF upvotes · "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training" · model release |
 | [Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://huggingface.co/papers/2611.02075) | Lang Mo | 81 HF upvotes · v 81 | 81 HF upvotes · "Decoupled Predictive Decision Making: A Shared Conditional Predictor f" · model release |
 | [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277) | Kangning Zhang | 66 HF upvotes · v 66 | 66 HF upvotes · "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Tra" · model release |
 
@@ -31,10 +31,10 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 36 HN points · v 78 | 36 HN points · 21 comments · Show HN |
+| [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 37 HN points · v 81 | 37 HN points · 22 comments · Show HN |
 | [Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0) | antelocnova | 31 HN points · v 35 | 31 HN points · 2 comments · Show HN |
 | [Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents](https://github.com/zalando-incubator/agentic-identity-broker) | jbspeakr | 24 HN points · v 30 | 24 HN points · 3 comments · Show HN |
-| [Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms](https://adikshatriyag-crypto.github.io/aegis-kernel/) | adityawebde | 13 HN points · v 19 | 13 HN points · 3 comments · Show HN |
+| [Show HN: Backwords – Let AI teach you how to speak in reverse](https://backwords.greg.technology/) | gregsadetsky | 13 HN points · v 19 | 13 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
