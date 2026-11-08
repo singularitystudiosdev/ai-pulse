@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-08 16:05 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-08 16:10 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,12 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (2)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [Brute force computation is not enough for intelligence. Clever new methods are needed. The science of AI is f…](https://x.com/RichardSSutton/status/2119142310894334262) | [@RichardSSutton](https://x.com/RichardSSutton) | 5205♥ 599RT · v 459.8 | 460 velocity · 5205♥ 599RT · 828107 views · 21h old |
-| [After hte latest changes, DwarfStar can run DS4.1Flash in SSD streaming in a quite fast way. If it wasn't for…](https://x.com/antirez/status/2119392658661749175)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2119392491514273792/img/quttocUnH7hOW6Ma.jpg) | [@antirez](https://x.com/antirez) | 187♥ 6RT · v 81 | 81 velocity · 187♥ 6RT · 14529 views · 5h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
