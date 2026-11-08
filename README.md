@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-08 02:56 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-08 03:01 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -23,7 +23,7 @@
 |---|---|---|---|
 | [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) | Yu-Cheng Chou | 100 HF upvotes · v 100 | 100 HF upvotes · "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding" · model release |
 | [From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](https://huggingface.co/papers/2611.05376) | Hao Fei | 86 HF upvotes · v 86 | 86 HF upvotes · "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Hum" · model release |
-| [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373) | Fuhao Li | 81 HF upvotes · v 81 | 81 HF upvotes · "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training" · model release |
+| [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373) | Fuhao Li | 82 HF upvotes · v 82 | 82 HF upvotes · "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training" · model release |
 | [Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://huggingface.co/papers/2611.02075) | Lang Mo | 80 HF upvotes · v 80 | 80 HF upvotes · "Decoupled Predictive Decision Making: A Shared Conditional Predictor f" · model release |
 | [Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://huggingface.co/papers/2611.04277) | Kangning Zhang | 63 HF upvotes · v 63 | 63 HF upvotes · "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Tra" · model release |
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 28 HN points · v 52 | 28 HN points · 12 comments · Show HN |
+| [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 28 HN points · v 54 | 28 HN points · 13 comments · Show HN |
 | [Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0) | antelocnova | 30 HN points · v 34 | 30 HN points · 2 comments · Show HN |
 | [Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents](https://github.com/zalando-incubator/agentic-identity-broker) | jbspeakr | 23 HN points · v 29 | 23 HN points · 3 comments · Show HN |
 | [Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms](https://adikshatriyag-crypto.github.io/aegis-kernel/) | adityawebde | 13 HN points · v 19 | 13 HN points · 3 comments · Show HN |
