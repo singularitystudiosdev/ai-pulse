@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-09 15:13 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-09 23:31 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](https://huggingface.co/papers/2611.05376) | Hao Fei | 120 HF upvotes · v 120 | 120 HF upvotes · "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Hum" · model release |
-| [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373) | Fuhao Li | 96 HF upvotes · v 96 | 96 HF upvotes · "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training" · model release |
+| [From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](https://huggingface.co/papers/2611.05376) | Hao Fei | 121 HF upvotes · v 121 | 121 HF upvotes · "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Hum" · model release |
 | [Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://huggingface.co/papers/2611.02075) | Lang Mo | 81 HF upvotes · v 81 | 81 HF upvotes · "Decoupled Predictive Decision Making: A Shared Conditional Predictor f" · model release |
-| [SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://huggingface.co/papers/2611.08264) | Hao Yu | 59 HF upvotes · v 59 | 59 HF upvotes · "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS ac" · model release |
+| [SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://huggingface.co/papers/2611.08264) | Hao Yu | 60 HF upvotes · v 60 | 60 HF upvotes · "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS ac" · model release |
+| [P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors](https://huggingface.co/papers/2611.03953) | Sinuo Wang | 44 HF upvotes · v 44 | 44 HF upvotes · "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parame" · model release |
 | [TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing](https://huggingface.co/papers/2611.06741) | Ruikang Li | 41 HF upvotes · v 41 | 41 HF upvotes · "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Ima" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
+| [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform) | rkaehn | 45 HN points · v 87 | 45 HN points · 21 comments · Show HN |
 | [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 39 HN points · v 85 | 39 HN points · 23 comments · Show HN |
-| [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform) | rkaehn | 38 HN points · v 80 | 38 HN points · 21 comments · Show HN |
+| [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 38 HN points · v 58 | 38 HN points · 10 comments · Show HN |
 | [Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0) | antelocnova | 31 HN points · v 35 | 31 HN points · 2 comments · Show HN |
-| [Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms](https://adikshatriyag-crypto.github.io/aegis-kernel/) | adityawebde | 14 HN points · v 22 | 14 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
