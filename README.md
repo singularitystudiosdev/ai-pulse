@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-09 06:21 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-09 06:26 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 38 HN points · v 84 | 38 HN points · 23 comments · Show HN |
 | [Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0) | antelocnova | 31 HN points · v 35 | 31 HN points · 2 comments · Show HN |
-| [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform) | rkaehn | 18 HN points · v 26 | 18 HN points · 4 comments · Show HN |
+| [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform) | rkaehn | 19 HN points · v 27 | 19 HN points · 4 comments · Show HN |
 | [Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms](https://adikshatriyag-crypto.github.io/aegis-kernel/) | adityawebde | 14 HN points · v 22 | 14 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
