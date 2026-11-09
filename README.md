@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-09 14:25 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-09 14:30 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,7 +32,7 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 39 HN points · v 85 | 39 HN points · 23 comments · Show HN |
-| [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform) | rkaehn | 37 HN points · v 77 | 37 HN points · 20 comments · Show HN |
+| [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform) | rkaehn | 37 HN points · v 79 | 37 HN points · 21 comments · Show HN |
 | [Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0) | antelocnova | 31 HN points · v 35 | 31 HN points · 2 comments · Show HN |
 | [Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms](https://adikshatriyag-crypto.github.io/aegis-kernel/) | adityawebde | 14 HN points · v 22 | 14 HN points · 4 comments · Show HN |
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [A man who pioneered parallel processing cannot be expected to run a single thread](https://x.com/FangYi11101/status/2119586357853204813) | [@FangYi11101](https://x.com/FangYi11101) | 20842♥ 1786RT · v 729.2 | 729 velocity · 20842♥ 1786RT · 544422 views · 14h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
