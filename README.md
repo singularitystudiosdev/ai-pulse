@@ -15,17 +15,17 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-09 15:02 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-09 15:07 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Good morning, my friends. Some interesting news I've been hearing about a few AI labs:  OpenAI finally seems …](https://x.com/TokenGremlin/status/2119783808773841101) | [@TokenGremlin](https://x.com/TokenGremlin) | 492♥ 9RT · v 442.6 | 443 velocity · 492♥ 9RT · 26158 views · 2h old · matched "claude", "checkpoint" |
 | [From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](https://huggingface.co/papers/2611.05376) | Hao Fei | 120 HF upvotes · v 120 | 120 HF upvotes · "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Hum" · model release |
 | [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373) | Fuhao Li | 96 HF upvotes · v 96 | 96 HF upvotes · "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training" · model release |
 | [Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents](https://huggingface.co/papers/2611.02075) | Lang Mo | 81 HF upvotes · v 81 | 81 HF upvotes · "Decoupled Predictive Decision Making: A Shared Conditional Predictor f" · model release |
 | [SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://huggingface.co/papers/2611.08264) | Hao Yu | 59 HF upvotes · v 59 | 59 HF upvotes · "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS ac" · model release |
+| [TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing](https://huggingface.co/papers/2611.06741) | Ruikang Li | 41 HF upvotes · v 41 | 41 HF upvotes · "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Ima" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
