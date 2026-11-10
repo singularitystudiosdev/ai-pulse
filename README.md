@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-09 23:57 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-10 00:03 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform) | rkaehn | 45 HN points · v 87 | 45 HN points · 21 comments · Show HN |
 | [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 39 HN points · v 85 | 39 HN points · 23 comments · Show HN |
-| [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 43 HN points · v 69 | 43 HN points · 13 comments · Show HN |
+| [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 44 HN points · v 68 | 44 HN points · 12 comments · Show HN |
 | [Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0) | antelocnova | 31 HN points · v 35 | 31 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-11-10](archive/2026-11-10.md)
 - [2026-11-09](archive/2026-11-09.md)
 - [2026-11-08](archive/2026-11-08.md)
 - [2026-11-07](archive/2026-11-07.md)
