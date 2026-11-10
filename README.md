@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-10 13:03 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-10 13:08 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,14 +24,14 @@
 | [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806) | Bing Han | 90 HF upvotes · v 90 | 90 HF upvotes · "Learning Heterogeneous Tactile Representation for General Dexterous Ma" · model release |
 | [SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://huggingface.co/papers/2611.08264) | Hao Yu | 67 HF upvotes · v 67 | 67 HF upvotes · "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS ac" · model release |
 | [P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors](https://huggingface.co/papers/2611.03953) | Sinuo Wang | 49 HF upvotes · v 49 | 49 HF upvotes · "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parame" · model release |
-| [Toward the Era of Agentic Embodied Intelligence](https://huggingface.co/papers/2611.09124) | Chao Liang | 45 HF upvotes · v 45 | 45 HF upvotes · "Toward the Era of Agentic Embodied Intelligence" · model release |
+| [Toward the Era of Agentic Embodied Intelligence](https://huggingface.co/papers/2611.09124) | Chao Liang | 46 HF upvotes · v 46 | 46 HF upvotes · "Toward the Era of Agentic Embodied Intelligence" · model release |
 | [WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771) | Juanxi Tian | 42 HF upvotes · v 42 | 42 HF upvotes · "WorldFoundry: Towards Unified Infrastructure for World Intelligence" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 96 HN points · v 162 | 96 HN points · 33 comments · Show HN |
+| [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 97 HN points · v 163 | 97 HN points · 33 comments · Show HN |
 | [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform) | rkaehn | 46 HN points · v 90 | 46 HN points · 22 comments · Show HN |
 | [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 39 HN points · v 85 | 39 HN points · 23 comments · Show HN |
 | [Show HN: Backwords – Let AI teach you how to speak in reverse](https://backwords.greg.technology/) | gregsadetsky | 13 HN points · v 19 | 13 HN points · 3 comments · Show HN |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [WHOA Whoa whoa Fable5.2 is truly *very* good at pcb layout.  Two months after Astra (first workable layout mo…](https://x.com/jlcjak/status/2119917708846260729)<br>![card](https://pbs.twimg.com/media/HWt059RWUAAThia.jpg?name=orig) | [@jlcjak](https://x.com/jlcjak) | 998♥ 69RT · v 50.3 | 50 velocity · 998♥ 69RT · 45529 views · 15h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
