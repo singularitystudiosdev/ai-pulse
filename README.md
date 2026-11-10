@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-10 13:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-10 13:19 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 97 HN points · v 163 | 97 HN points · 33 comments · Show HN |
+| [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 97 HN points · v 165 | 97 HN points · 34 comments · Show HN |
 | [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform) | rkaehn | 46 HN points · v 90 | 46 HN points · 22 comments · Show HN |
 | [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 39 HN points · v 85 | 39 HN points · 23 comments · Show HN |
 | [Show HN: Backwords – Let AI teach you how to speak in reverse](https://backwords.greg.technology/) | gregsadetsky | 13 HN points · v 19 | 13 HN points · 3 comments · Show HN |
