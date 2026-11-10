@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-10 20:32 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-10 20:37 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 115 HN points · v 181 | 115 HN points · 33 comments · Show HN |
+| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 123 HN points · v 197 | 123 HN points · 37 comments · Show HN |
 | [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 104 HN points · v 180 | 104 HN points · 38 comments · Show HN |
 | [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 39 HN points · v 85 | 39 HN points · 23 comments · Show HN |
 | [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 6 HN points · v 14 | 6 HN points · 4 comments · Show HN |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [I'm slowly discovering that the age of prompt engineering is basically over. It's so simple:  "You know, you …](https://x.com/felixrieseberg/status/2119927483994907024) | [@felixrieseberg](https://x.com/felixrieseberg) | 1394♥ 29RT · v 107.1 | known founder · 107 velocity · 1394♥ 29RT · 130729 views · 22h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
