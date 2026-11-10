@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-10 13:35 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-10 13:40 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,8 +24,8 @@
 | [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806) | Bing Han | 90 HF upvotes · v 90 | 90 HF upvotes · "Learning Heterogeneous Tactile Representation for General Dexterous Ma" · model release |
 | [SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://huggingface.co/papers/2611.08264) | Hao Yu | 67 HF upvotes · v 67 | 67 HF upvotes · "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS ac" · model release |
 | [P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors](https://huggingface.co/papers/2611.03953) | Sinuo Wang | 49 HF upvotes · v 49 | 49 HF upvotes · "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parame" · model release |
-| [WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771) | Juanxi Tian | 46 HF upvotes · v 46 | 46 HF upvotes · "WorldFoundry: Towards Unified Infrastructure for World Intelligence" · model release |
-| [Toward the Era of Agentic Embodied Intelligence](https://huggingface.co/papers/2611.09124) | Chao Liang | 46 HF upvotes · v 46 | 46 HF upvotes · "Toward the Era of Agentic Embodied Intelligence" · model release |
+| [WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771) | Juanxi Tian | 48 HF upvotes · v 48 | 48 HF upvotes · "WorldFoundry: Towards Unified Infrastructure for World Intelligence" · model release |
+| [Toward the Era of Agentic Embodied Intelligence](https://huggingface.co/papers/2611.09124) | Chao Liang | 47 HF upvotes · v 47 | 47 HF upvotes · "Toward the Era of Agentic Embodied Intelligence" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
