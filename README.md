@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-10 21:09 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-10 21:14 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 149 HN points · v 235 | 149 HN points · 43 comments · Show HN |
+| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 152 HN points · v 238 | 152 HN points · 43 comments · Show HN |
 | [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 104 HN points · v 180 | 104 HN points · 38 comments · Show HN |
 | [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 39 HN points · v 85 | 39 HN points · 23 comments · Show HN |
 | [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 6 HN points · v 14 | 6 HN points · 4 comments · Show HN |
