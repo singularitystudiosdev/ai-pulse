@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-11 01:06 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-11 01:11 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,8 +33,8 @@
 |---|---|---|---|
 | [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 252 HN points · v 396 | 252 HN points · 72 comments · Show HN |
 | [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 105 HN points · v 183 | 105 HN points · 39 comments · Show HN |
+| [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com) | peetle | 9 HN points · v 15 | 9 HN points · 3 comments · Show HN |
 | [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 7 HN points · v 15 | 7 HN points · 4 comments · Show HN |
-| [Show HN: ZTHR – what replaces code review when AI agents write all the code](https://zthr.ai/) | SymmetricalZero | 6 HN points · v 14 | 6 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
