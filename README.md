@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-11 16:00 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-11 16:06 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 414 HN points · v 690 | 414 HN points · 138 comments · Show HN |
+| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 415 HN points · v 691 | 415 HN points · 138 comments · Show HN |
 | [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com) | peetle | 42 HN points · v 76 | 42 HN points · 17 comments · Show HN |
 | [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 9 HN points · v 17 | 9 HN points · 4 comments · Show HN |
 | [Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai](https://taipeiledger.com/gpu/) | khoonie | 11 HN points · v 15 | 11 HN points · 2 comments · Show HN |
