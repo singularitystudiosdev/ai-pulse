@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-11 15:33 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-11 15:38 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,14 +24,14 @@
 | [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://huggingface.co/papers/2611.14210) | Hadi Salloum | 58 HF upvotes · v 58 | 58 HF upvotes · "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits" · model release |
 | [World In-Context Learning for Agentic Robot Manipulation](https://huggingface.co/papers/2611.12885) | Heng Fang | 52 HF upvotes · v 52 | 52 HF upvotes · "World In-Context Learning for Agentic Robot Manipulation" · model release |
 | [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://huggingface.co/papers/2611.14320) | Yukyeong Lee | 47 HF upvotes · v 47 | 47 HF upvotes · "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-In" · model release |
-| [Few-Step Streaming Video Generation via Condition Shifting](https://huggingface.co/papers/2611.14033) | Deyuan Liu | 44 HF upvotes · v 44 | 44 HF upvotes · "Few-Step Streaming Video Generation via Condition Shifting" · model release |
+| [Few-Step Streaming Video Generation via Condition Shifting](https://huggingface.co/papers/2611.14033) | Deyuan Liu | 45 HF upvotes · v 45 | 45 HF upvotes · "Few-Step Streaming Video Generation via Condition Shifting" · model release |
 | [dNaViT: Discrete Codes are General-Purpose Visual Representations](https://huggingface.co/papers/2611.12426) | Xiaotong Li | 32 HF upvotes · v 32 | 32 HF upvotes · "dNaViT: Discrete Codes are General-Purpose Visual Representations" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 414 HN points · v 686 | 414 HN points · 136 comments · Show HN |
+| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 414 HN points · v 688 | 414 HN points · 137 comments · Show HN |
 | [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com) | peetle | 41 HN points · v 75 | 41 HN points · 17 comments · Show HN |
 | [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 9 HN points · v 17 | 9 HN points · 4 comments · Show HN |
 | [Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai](https://taipeiledger.com/gpu/) | khoonie | 11 HN points · v 15 | 11 HN points · 2 comments · Show HN |
