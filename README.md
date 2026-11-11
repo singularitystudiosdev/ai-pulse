@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-11 07:19 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-11 07:24 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,7 +31,7 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 339 HN points · v 541 | 339 HN points · 101 comments · Show HN |
+| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 340 HN points · v 542 | 340 HN points · 101 comments · Show HN |
 | [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com) | peetle | 37 HN points · v 69 | 37 HN points · 16 comments · Show HN |
 | [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 8 HN points · v 16 | 8 HN points · 4 comments · Show HN |
 | [Show HN: AI agents that barter your stuff for things you want](https://barterpilot.com/) | Llex44 | 7 HN points · v 15 | 7 HN points · 4 comments · Show HN |
