@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-11 01:22 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-11 01:27 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806) | Bing Han | 92 HF upvotes · v 92 | 92 HF upvotes · "Learning Heterogeneous Tactile Representation for General Dexterous Ma" · model release |
-| [WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771) | Juanxi Tian | 53 HF upvotes · v 53 | 53 HF upvotes · "WorldFoundry: Towards Unified Infrastructure for World Intelligence" · model release |
+| [WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771) | Juanxi Tian | 54 HF upvotes · v 54 | 54 HF upvotes · "WorldFoundry: Towards Unified Infrastructure for World Intelligence" · model release |
 | [Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery](https://huggingface.co/papers/2611.12762) | Weida Wang | 52 HF upvotes · v 52 | 52 HF upvotes · "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery" · model release |
 | [Toward the Era of Agentic Embodied Intelligence](https://huggingface.co/papers/2611.09124) | Chao Liang | 49 HF upvotes · v 49 | 49 HF upvotes · "Toward the Era of Agentic Embodied Intelligence" · model release |
 | [PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?](https://huggingface.co/papers/2611.08175) | Yue Zhang | 40 HF upvotes · v 40 | 40 HF upvotes · "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engine" · model release |
@@ -31,9 +31,9 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 253 HN points · v 401 | 253 HN points · 74 comments · Show HN |
+| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 255 HN points · v 405 | 255 HN points · 75 comments · Show HN |
 | [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 105 HN points · v 183 | 105 HN points · 39 comments · Show HN |
-| [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com) | peetle | 9 HN points · v 21 | 9 HN points · 6 comments · Show HN |
+| [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com) | peetle | 10 HN points · v 22 | 10 HN points · 6 comments · Show HN |
 | [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 7 HN points · v 15 | 7 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
