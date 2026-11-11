@@ -15,30 +15,32 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-11 08:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-11 15:28 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806) | Bing Han | 96 HF upvotes · v 96 | 96 HF upvotes · "Learning Heterogeneous Tactile Representation for General Dexterous Ma" · model release |
-| [Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery](https://huggingface.co/papers/2611.12762) | Weida Wang | 54 HF upvotes · v 54 | 54 HF upvotes · "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery" · model release |
-| [Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning](https://huggingface.co/papers/2611.12886) | Haozhi Yuan | 38 HF upvotes · v 38 | 38 HF upvotes · "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for " · model release |
-| [dNaViT: Discrete Codes are General-Purpose Visual Representations](https://huggingface.co/papers/2611.12426) | Xiaotong Li | 28 HF upvotes · v 28 | 28 HF upvotes · "dNaViT: Discrete Codes are General-Purpose Visual Representations" · model release |
-| [MMDM: Measuring Massive Multitask Decision Making](https://huggingface.co/papers/2611.14309) | Junhao Shen | 23 HF upvotes · v 23 | 23 HF upvotes · "MMDM: Measuring Massive Multitask Decision Making" · model release |
+| [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://huggingface.co/papers/2611.14210) | Hadi Salloum | 58 HF upvotes · v 58 | 58 HF upvotes · "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits" · model release |
+| [World In-Context Learning for Agentic Robot Manipulation](https://huggingface.co/papers/2611.12885) | Heng Fang | 52 HF upvotes · v 52 | 52 HF upvotes · "World In-Context Learning for Agentic Robot Manipulation" · model release |
+| [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://huggingface.co/papers/2611.14320) | Yukyeong Lee | 47 HF upvotes · v 47 | 47 HF upvotes · "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-In" · model release |
+| [Few-Step Streaming Video Generation via Condition Shifting](https://huggingface.co/papers/2611.14033) | Deyuan Liu | 44 HF upvotes · v 44 | 44 HF upvotes · "Few-Step Streaming Video Generation via Condition Shifting" · model release |
+| [dNaViT: Discrete Codes are General-Purpose Visual Representations](https://huggingface.co/papers/2611.12426) | Xiaotong Li | 32 HF upvotes · v 32 | 32 HF upvotes · "dNaViT: Discrete Codes are General-Purpose Visual Representations" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 350 HN points · v 562 | 350 HN points · 106 comments · Show HN |
-| [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com) | peetle | 37 HN points · v 69 | 37 HN points · 16 comments · Show HN |
-| [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 8 HN points · v 16 | 8 HN points · 4 comments · Show HN |
-| [Show HN: AI agents that barter your stuff for things you want](https://barterpilot.com/) | Llex44 | 7 HN points · v 15 | 7 HN points · 4 comments · Show HN |
+| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 414 HN points · v 686 | 414 HN points · 136 comments · Show HN |
+| [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com) | peetle | 41 HN points · v 75 | 41 HN points · 17 comments · Show HN |
+| [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 9 HN points · v 17 | 9 HN points · 4 comments · Show HN |
+| [Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai](https://taipeiledger.com/gpu/) | khoonie | 11 HN points · v 15 | 11 HN points · 2 comments · Show HN |
 
-### 🦾 Embodied AI (0)
+### 🦾 Embodied AI (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [🔥Russians are panicking over Ukraine’s new refinery strike tactics. Drones reportedly switch targets mid-fli…](https://x.com/Tweet4AnnaNAFO/status/2120068909738967342)<br>![card](https://pbs.twimg.com/media/HWv_ZvFWsAA_pM7.jpg?name=orig) | [@Tweet4AnnaNAFO](https://x.com/Tweet4AnnaNAFO) | 12350♥ 2876RT · v 168.2 | 168 velocity · 12350♥ 2876RT · 472022 views · 31h old · matched "drone" |
 
 ### 🔥 Viral AI posts (0)
 
