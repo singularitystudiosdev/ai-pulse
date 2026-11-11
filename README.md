@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-11 22:22 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-11 22:28 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -32,8 +32,8 @@
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 423 HN points · v 701 | 423 HN points · 139 comments · Show HN |
-| [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt) | brownrout | 132 HN points · v 256 | 132 HN points · 62 comments · Show HN |
-| [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad) | ambewas | 66 HN points · v 122 | 66 HN points · 28 comments · Show HN |
+| [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt) | brownrout | 134 HN points · v 258 | 134 HN points · 62 comments · Show HN |
+| [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad) | ambewas | 67 HN points · v 123 | 67 HN points · 28 comments · Show HN |
 | [Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai](https://taipeiledger.com/gpu/) | khoonie | 13 HN points · v 17 | 13 HN points · 2 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
