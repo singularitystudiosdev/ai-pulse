@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-11 01:16 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-11 01:22 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -31,9 +31,9 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 253 HN points · v 397 | 253 HN points · 72 comments · Show HN |
+| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 253 HN points · v 401 | 253 HN points · 74 comments · Show HN |
 | [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 105 HN points · v 183 | 105 HN points · 39 comments · Show HN |
-| [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com) | peetle | 9 HN points · v 15 | 9 HN points · 3 comments · Show HN |
+| [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com) | peetle | 9 HN points · v 21 | 9 HN points · 6 comments · Show HN |
 | [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 7 HN points · v 15 | 7 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
