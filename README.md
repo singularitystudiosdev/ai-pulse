@@ -15,15 +15,15 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-10 21:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-11 00:49 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
 | [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806) | Bing Han | 92 HF upvotes · v 92 | 92 HF upvotes · "Learning Heterogeneous Tactile Representation for General Dexterous Ma" · model release |
-| [WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771) | Juanxi Tian | 52 HF upvotes · v 52 | 52 HF upvotes · "WorldFoundry: Towards Unified Infrastructure for World Intelligence" · model release |
-| [Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery](https://huggingface.co/papers/2611.12762) | Weida Wang | 51 HF upvotes · v 51 | 51 HF upvotes · "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery" · model release |
+| [WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771) | Juanxi Tian | 53 HF upvotes · v 53 | 53 HF upvotes · "WorldFoundry: Towards Unified Infrastructure for World Intelligence" · model release |
+| [Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery](https://huggingface.co/papers/2611.12762) | Weida Wang | 52 HF upvotes · v 52 | 52 HF upvotes · "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery" · model release |
 | [Toward the Era of Agentic Embodied Intelligence](https://huggingface.co/papers/2611.09124) | Chao Liang | 49 HF upvotes · v 49 | 49 HF upvotes · "Toward the Era of Agentic Embodied Intelligence" · model release |
 | [PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?](https://huggingface.co/papers/2611.08175) | Yue Zhang | 40 HF upvotes · v 40 | 40 HF upvotes · "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engine" · model release |
 
@@ -31,10 +31,10 @@
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 152 HN points · v 238 | 152 HN points · 43 comments · Show HN |
-| [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 104 HN points · v 180 | 104 HN points · 38 comments · Show HN |
+| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 250 HN points · v 390 | 250 HN points · 70 comments · Show HN |
+| [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer) | Dodaios | 105 HN points · v 183 | 105 HN points · 39 comments · Show HN |
 | [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/) | prnysoni | 39 HN points · v 85 | 39 HN points · 23 comments · Show HN |
-| [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 6 HN points · v 14 | 6 HN points · 4 comments · Show HN |
+| [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 7 HN points · v 15 | 7 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-11-11](archive/2026-11-11.md)
 - [2026-11-10](archive/2026-11-10.md)
 - [2026-11-09](archive/2026-11-09.md)
 - [2026-11-08](archive/2026-11-08.md)
