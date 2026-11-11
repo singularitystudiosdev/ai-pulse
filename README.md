@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-11 15:28 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-11 15:33 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -36,11 +36,9 @@
 | [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 9 HN points · v 17 | 9 HN points · 4 comments · Show HN |
 | [Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai](https://taipeiledger.com/gpu/) | khoonie | 11 HN points · v 15 | 11 HN points · 2 comments · Show HN |
 
-### 🦾 Embodied AI (1)
+### 🦾 Embodied AI (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [🔥Russians are panicking over Ukraine’s new refinery strike tactics. Drones reportedly switch targets mid-fli…](https://x.com/Tweet4AnnaNAFO/status/2120068909738967342)<br>![card](https://pbs.twimg.com/media/HWv_ZvFWsAA_pM7.jpg?name=orig) | [@Tweet4AnnaNAFO](https://x.com/Tweet4AnnaNAFO) | 12350♥ 2876RT · v 168.2 | 168 velocity · 12350♥ 2876RT · 472022 views · 31h old · matched "drone" |
+_nothing cleared the floor this run_
 
 ### 🔥 Viral AI posts (0)
 
