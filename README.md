@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-11 01:37 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-11 07:19 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806) | Bing Han | 92 HF upvotes · v 92 | 92 HF upvotes · "Learning Heterogeneous Tactile Representation for General Dexterous Ma" · model release |
-| [WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://huggingface.co/papers/2611.10771) | Juanxi Tian | 54 HF upvotes · v 54 | 54 HF upvotes · "WorldFoundry: Towards Unified Infrastructure for World Intelligence" · model release |
-| [Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery](https://huggingface.co/papers/2611.12762) | Weida Wang | 52 HF upvotes · v 52 | 52 HF upvotes · "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery" · model release |
-| [Toward the Era of Agentic Embodied Intelligence](https://huggingface.co/papers/2611.09124) | Chao Liang | 49 HF upvotes · v 49 | 49 HF upvotes · "Toward the Era of Agentic Embodied Intelligence" · model release |
-| [PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?](https://huggingface.co/papers/2611.08175) | Yue Zhang | 40 HF upvotes · v 40 | 40 HF upvotes · "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engine" · model release |
+| [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806) | Bing Han | 96 HF upvotes · v 96 | 96 HF upvotes · "Learning Heterogeneous Tactile Representation for General Dexterous Ma" · model release |
+| [Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery](https://huggingface.co/papers/2611.12762) | Weida Wang | 54 HF upvotes · v 54 | 54 HF upvotes · "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery" · model release |
+| [Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning](https://huggingface.co/papers/2611.12886) | Haozhi Yuan | 38 HF upvotes · v 38 | 38 HF upvotes · "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for " · model release |
+| [dNaViT: Discrete Codes are General-Purpose Visual Representations](https://huggingface.co/papers/2611.12426) | Xiaotong Li | 27 HF upvotes · v 27 | 27 HF upvotes · "dNaViT: Discrete Codes are General-Purpose Visual Representations" · model release |
+| [MMDM: Measuring Massive Multitask Decision Making](https://huggingface.co/papers/2611.14309) | Junhao Shen | 22 HF upvotes · v 22 | 22 HF upvotes · "MMDM: Measuring Massive Multitask Decision Making" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 259 HN points · v 409 | 259 HN points · 75 comments · Show HN |
-| [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com) | peetle | 11 HN points · v 23 | 11 HN points · 6 comments · Show HN |
-| [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 7 HN points · v 15 | 7 HN points · 4 comments · Show HN |
-| [Show HN: ZTHR – what replaces code review when AI agents write all the code](https://zthr.ai/) | SymmetricalZero | 6 HN points · v 14 | 6 HN points · 4 comments · Show HN |
+| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 339 HN points · v 541 | 339 HN points · 101 comments · Show HN |
+| [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com) | peetle | 37 HN points · v 69 | 37 HN points · 16 comments · Show HN |
+| [Show HN: Cosh – An open-source AI agent orchestrator](https://github.com/DiegoZaluski/co-sh) | Zaluski | 8 HN points · v 16 | 8 HN points · 4 comments · Show HN |
+| [Show HN: AI agents that barter your stuff for things you want](https://barterpilot.com/) | Llex44 | 7 HN points · v 15 | 7 HN points · 4 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
