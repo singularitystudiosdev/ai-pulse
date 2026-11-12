@@ -15,26 +15,26 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-11 22:59 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-12 03:05 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://huggingface.co/papers/2611.14210) | Hadi Salloum | 71 HF upvotes · v 71 | 71 HF upvotes · "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits" · model release |
-| [World In-Context Learning for Agentic Robot Manipulation](https://huggingface.co/papers/2611.12885) | Heng Fang | 64 HF upvotes · v 64 | 64 HF upvotes · "World In-Context Learning for Agentic Robot Manipulation" · model release |
-| [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://huggingface.co/papers/2611.14320) | Yukyeong Lee | 51 HF upvotes · v 51 | 51 HF upvotes · "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-In" · model release |
-| [Few-Step Streaming Video Generation via Condition Shifting](https://huggingface.co/papers/2611.14033) | Deyuan Liu | 47 HF upvotes · v 47 | 47 HF upvotes · "Few-Step Streaming Video Generation via Condition Shifting" · model release |
-| [Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization](https://huggingface.co/papers/2611.11995) | Zhengyu Hu | 33 HF upvotes · v 33 | 33 HF upvotes · "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon A" · model release |
+| [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://huggingface.co/papers/2611.14210) | Hadi Salloum | 77 HF upvotes · v 77 | 77 HF upvotes · "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits" · model release |
+| [Few-Step Streaming Video Generation via Condition Shifting](https://huggingface.co/papers/2611.14033) | Deyuan Liu | 67 HF upvotes · v 67 | 67 HF upvotes · "Few-Step Streaming Video Generation via Condition Shifting" · model release |
+| [World In-Context Learning for Agentic Robot Manipulation](https://huggingface.co/papers/2611.12885) | Heng Fang | 65 HF upvotes · v 65 | 65 HF upvotes · "World In-Context Learning for Agentic Robot Manipulation" · model release |
+| [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://huggingface.co/papers/2611.14320) | Yukyeong Lee | 57 HF upvotes · v 57 | 57 HF upvotes · "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-In" · model release |
+| [Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization](https://huggingface.co/papers/2611.11995) | Zhengyu Hu | 35 HF upvotes · v 35 | 35 HF upvotes · "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon A" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 423 HN points · v 701 | 423 HN points · 139 comments · Show HN |
-| [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt) | brownrout | 141 HN points · v 267 | 141 HN points · 63 comments · Show HN |
-| [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad) | ambewas | 68 HN points · v 124 | 68 HN points · 28 comments · Show HN |
-| [Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai](https://taipeiledger.com/gpu/) | khoonie | 14 HN points · v 20 | 14 HN points · 3 comments · Show HN |
+| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 425 HN points · v 709 | 425 HN points · 142 comments · Show HN |
+| [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt) | brownrout | 184 HN points · v 346 | 184 HN points · 81 comments · Show HN |
+| [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad) | ambewas | 72 HN points · v 132 | 72 HN points · 30 comments · Show HN |
+| [Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai](https://taipeiledger.com/gpu/) | khoonie | 15 HN points · v 21 | 15 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
@@ -51,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-11-12](archive/2026-11-12.md)
 - [2026-11-11](archive/2026-11-11.md)
 - [2026-11-10](archive/2026-11-10.md)
 - [2026-11-09](archive/2026-11-09.md)
