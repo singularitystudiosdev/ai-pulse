@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-12 11:24 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-12 11:30 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -24,7 +24,7 @@
 | [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://huggingface.co/papers/2611.14210) | Hadi Salloum | 85 HF upvotes · v 85 | 85 HF upvotes · "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits" · model release |
 | [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://huggingface.co/papers/2611.14320) | Yukyeong Lee | 62 HF upvotes · v 62 | 62 HF upvotes · "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-In" · model release |
 | [One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction](https://huggingface.co/papers/2611.13001) | Yuanrui Wang | 37 HF upvotes · v 37 | 37 HF upvotes · "One Table, Many Queries: Benchmarking Generalist Tabular Models Across" · model release |
-| [Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394) | Youqing Fang | 30 HF upvotes · v 30 | 30 HF upvotes · "Scaling Mathematical Proof Supervision from Structured Textbooks" · model release |
+| [Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394) | Youqing Fang | 31 HF upvotes · v 31 | 31 HF upvotes · "Scaling Mathematical Proof Supervision from Structured Textbooks" · model release |
 | [Embodied First Exam](https://huggingface.co/papers/2611.12177) | Kangrui Wang | 26 HF upvotes · v 26 | 26 HF upvotes · "Embodied First Exam" · model release |
 
 ### 🚀 AI SaaS launches (4)
