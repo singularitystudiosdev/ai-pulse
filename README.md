@@ -15,34 +15,38 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-12 11:46 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-12 18:48 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://huggingface.co/papers/2611.14210) | Hadi Salloum | 86 HF upvotes · v 86 | 86 HF upvotes · "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits" · model release |
-| [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://huggingface.co/papers/2611.14320) | Yukyeong Lee | 62 HF upvotes · v 62 | 62 HF upvotes · "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-In" · model release |
-| [One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction](https://huggingface.co/papers/2611.13001) | Yuanrui Wang | 37 HF upvotes · v 37 | 37 HF upvotes · "One Table, Many Queries: Benchmarking Generalist Tabular Models Across" · model release |
-| [Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394) | Youqing Fang | 31 HF upvotes · v 31 | 31 HF upvotes · "Scaling Mathematical Proof Supervision from Structured Textbooks" · model release |
-| [Embodied First Exam](https://huggingface.co/papers/2611.12177) | Kangrui Wang | 26 HF upvotes · v 26 | 26 HF upvotes · "Embodied First Exam" · model release |
+| [My Experience With the Leaders of the Jensen Coup  At the start of 2025, numerous Washington, D.C. based NGOs…](https://x.com/brianchau57/status/2120745928722087948) | [@brianchau57](https://x.com/brianchau57) | 2845♥ 442RT · v 432.7 | 433 velocity · 2845♥ 442RT · 379597 views · 14h old · matched "gemini", "deepseek" |
+| [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](https://huggingface.co/papers/2611.14320) | Yukyeong Lee | 65 HF upvotes · v 65 | 65 HF upvotes · "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-In" · model release |
+| [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://huggingface.co/papers/2611.14210) | Hadi Salloum | 62 HF upvotes · v 62 | 62 HF upvotes · "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits" · model release |
+| [One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction](https://huggingface.co/papers/2611.13001) | Yuanrui Wang | 40 HF upvotes · v 40 | 40 HF upvotes · "One Table, Many Queries: Benchmarking Generalist Tabular Models Across" · model release |
+| [Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394) | Youqing Fang | 37 HF upvotes · v 37 | 37 HF upvotes · "Scaling Mathematical Proof Supervision from Structured Textbooks" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | paulirish | 430 HN points · v 714 | 430 HN points · 142 comments · Show HN |
-| [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt) | brownrout | 248 HN points · v 438 | 248 HN points · 95 comments · Show HN |
-| [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad) | ambewas | 79 HN points · v 141 | 79 HN points · 31 comments · Show HN |
+| [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt) | brownrout | 282 HN points · v 498 | 282 HN points · 108 comments · Show HN |
+| [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad) | ambewas | 82 HN points · v 146 | 82 HN points · 32 comments · Show HN |
+| [Show HN: AI Red Lines – write down what would make you act on AI](https://yourairedlines.com) | ap11071 | 26 HN points · v 56 | 26 HN points · 15 comments · Show HN |
 | [Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai](https://taipeiledger.com/gpu/) | khoonie | 15 HN points · v 21 | 15 HN points · 3 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (3)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [We're investigating reports of users experiencing issues accessing Exchange Online mailboxes through multiple…](https://x.com/MSFT365Status/status/2120938282204688468) | [@MSFT365Status](https://x.com/MSFT365Status) | 2691♥ 665RT · v 21502.2 | known founder · 21502 velocity · 2691♥ 665RT · 620851 views · <1h old |
+| [The people on the Nvidia Board:  1. Jensen Huang - Co-founder, President & CEO 2. Tench Coxe - Former Managin…](https://x.com/snowmaker/status/2120902014389694684) | [@snowmaker](https://x.com/snowmaker) | 567♥ 24RT · v 406.5 | 406 velocity · 567♥ 24RT · 50422 views · 3h old |
+| [Announcing a proof of the Riemann Hypothesis in Lean 4.   https://philpapers.org/rec/NIEPOT-5  @AltRealityGam…](https://x.com/QualiaQuanta/status/2120723454861467810) | [@QualiaQuanta](https://x.com/QualiaQuanta) | 317♥ 38RT · v 77.8 | 78 velocity · 317♥ 38RT · 83349 views · 15h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
