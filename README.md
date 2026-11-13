@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-12 23:54 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-12 23:59 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [I'm back as CEO of @HubSpot today.  @dharmesh and I are completely re-founding the company.  Its day 1.  We'r…](https://x.com/bhalligan/status/2120869421485003061) | [@bhalligan](https://x.com/bhalligan) | 4308♥ 184RT · v 1054.3 | known founder · 1054 velocity · 4308♥ 184RT · 413722 views · 11h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
@@ -53,6 +51,7 @@ _nothing cleared the floor this run_
 ## Archive
 
 <!--START_SECTION:archive-->
+- [2026-11-13](archive/2026-11-13.md)
 - [2026-11-12](archive/2026-11-12.md)
 - [2026-11-11](archive/2026-11-11.md)
 - [2026-11-10](archive/2026-11-10.md)
