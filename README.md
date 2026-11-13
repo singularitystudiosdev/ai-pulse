@@ -15,13 +15,13 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-13 14:07 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-13 14:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777) | Lichen Li | 60 HF upvotes · v 60 | 60 HF upvotes · "SO-Arena: Benchmarking the Capability Spectrum and Reliability of Syst" · model release |
+| [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777) | Lichen Li | 61 HF upvotes · v 61 | 61 HF upvotes · "SO-Arena: Benchmarking the Capability Spectrum and Reliability of Syst" · model release |
 | [Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394) | Youqing Fang | 43 HF upvotes · v 43 | 43 HF upvotes · "Scaling Mathematical Proof Supervision from Structured Textbooks" · model release |
 | [BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](https://huggingface.co/papers/2611.14815) | Junyoung Seo | 41 HF upvotes · v 41 | 41 HF upvotes · "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible" · model release |
 | [One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction](https://huggingface.co/papers/2611.13001) | Yuanrui Wang | 40 HF upvotes · v 40 | 40 HF upvotes · "One Table, Many Queries: Benchmarking Generalist Tabular Models Across" · model release |
