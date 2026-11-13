@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-13 21:08 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-13 21:13 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,9 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (0)
+### 🔥 Viral AI posts (1)
 
-_nothing cleared the floor this run_
+| post | source | signal | why it's here |
+|---|---|---|---|
+| [This FAQ doesn’t accurately reflect the facts. Fireworks Inference API is ZDR (no retention, no training) and…](https://x.com/dzhulgakov/status/2120888103602708631)<br>![card](https://pbs.twimg.com/media/HW7oSWpbUAALV-J.jpg?name=orig) | [@dzhulgakov](https://x.com/dzhulgakov) | 68♥ 4RT · v 2 | 2.0 velocity · 68♥ 4RT · 6497 views · 31h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
