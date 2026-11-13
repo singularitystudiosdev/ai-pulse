@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-13 00:16 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-13 00:21 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt) | brownrout | 285 HN points · v 507 | 285 HN points · 111 comments · Show HN |
 | [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad) | ambewas | 83 HN points · v 147 | 83 HN points · 32 comments · Show HN |
-| [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md) | miguelrios | 72 HN points · v 96 | 72 HN points · 12 comments · Show HN |
+| [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md) | miguelrios | 73 HN points · v 97 | 73 HN points · 12 comments · Show HN |
 | [Show HN: AI Red Lines – write down what would make you act on AI](https://yourairedlines.com) | ap11071 | 31 HN points · v 87 | 31 HN points · 28 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
