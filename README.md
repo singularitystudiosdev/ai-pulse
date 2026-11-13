@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-13 05:38 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-13 05:44 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md) | miguelrios | 90 HN points · v 138 | 90 HN points · 24 comments · Show HN |
 | [Show HN: AI Red Lines – write down what would make you act on AI](https://yourairedlines.com) | ap11071 | 36 HN points · v 94 | 36 HN points · 29 comments · Show HN |
-| [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281) | alirezamshi | 41 HN points · v 61 | 41 HN points · 10 comments · Show HN |
+| [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281) | alirezamshi | 42 HN points · v 62 | 42 HN points · 10 comments · Show HN |
 | [Show HN: I built a Rick and Morty explainer video generator](https://usediorama.com/rick-and-morty) | dixitbavu | 10 HN points · v 38 | 10 HN points · 14 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
