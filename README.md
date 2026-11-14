@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-14 08:14 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-14 08:20 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -44,7 +44,7 @@ _nothing cleared the floor this run_
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Today's Jensen Update Thread  1. WSJ fabricated statements from the Singapore government](https://x.com/brianchau57/status/2121465308368265231)<br>![card](https://pbs.twimg.com/media/HXDzukGawAECjg-.jpg?name=orig) | [@brianchau57](https://x.com/brianchau57) | 1595♥ 268RT · v 459.4 | 459 velocity · 1595♥ 268RT · 48781 views · 3h old |
+| [美国司法部长托德·布兰奇今晨回答记者说：“没有人说过那个（黄乐是中国间谍）。我当然没有说过那个。”否认了Alice Huang是中国间谍的说法。  司法部是FBI的上级机关。黄仁勋白辞职了？🤣🤣🤣](https://x.com/santoulang/status/2121029063712358579)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2121012416439844865/img/YZvnegdPNXnYaJxf.jpg) | [@santoulang](https://x.com/santoulang) | 450♥ 47RT · v 22.1 | 22 velocity · 450♥ 47RT · 81914 views · 32h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
