@@ -15,36 +15,34 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-14 08:20 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-14 14:28 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777) | Lichen Li | 83 HF upvotes · v 83 | 83 HF upvotes · "SO-Arena: Benchmarking the Capability Spectrum and Reliability of Syst" · model release |
+| [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777) | Lichen Li | 85 HF upvotes · v 85 | 85 HF upvotes · "SO-Arena: Benchmarking the Capability Spectrum and Reliability of Syst" · model release |
 | [BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](https://huggingface.co/papers/2611.14815) | Junyoung Seo | 49 HF upvotes · v 49 | 49 HF upvotes · "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible" · model release |
-| [Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394) | Youqing Fang | 45 HF upvotes · v 45 | 45 HF upvotes · "Scaling Mathematical Proof Supervision from Structured Textbooks" · model release |
+| [Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394) | Youqing Fang | 47 HF upvotes · v 47 | 47 HF upvotes · "Scaling Mathematical Proof Supervision from Structured Textbooks" · model release |
 | [PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models](https://huggingface.co/papers/2611.16748) | Yuxuan Chen | 44 HF upvotes · v 44 | 44 HF upvotes · "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video " · model release |
-| [G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation](https://huggingface.co/papers/2611.13004) | Xu Huang | 42 HF upvotes · v 42 | 42 HF upvotes · "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressi" · model release |
+| [G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation](https://huggingface.co/papers/2611.13004) | Xu Huang | 43 HF upvotes · v 43 | 43 HF upvotes · "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressi" · model release |
 
 ### 🚀 AI SaaS launches (4)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md) | miguelrios | 134 HN points · v 212 | 134 HN points · 39 comments · Show HN |
-| [Show HN: AI Red Lines – write down what would make you act on AI](https://yourairedlines.com) | ap11071 | 39 HN points · v 105 | 39 HN points · 33 comments · Show HN |
+| [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md) | miguelrios | 135 HN points · v 213 | 135 HN points · 39 comments · Show HN |
 | [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281) | alirezamshi | 58 HN points · v 84 | 58 HN points · 13 comments · Show HN |
 | [Show HN: I built a Rick and Morty explainer video generator](https://usediorama.com/rick-and-morty) | dixitbavu | 12 HN points · v 56 | 12 HN points · 22 comments · Show HN |
+| [Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay](https://github.com/cerulion-inc/cerulion) | lakshays | 12 HN points · v 28 | 12 HN points · 8 comments · Show HN |
 
 ### 🦾 Embodied AI (0)
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [美国司法部长托德·布兰奇今晨回答记者说：“没有人说过那个（黄乐是中国间谍）。我当然没有说过那个。”否认了Alice Huang是中国间谍的说法。  司法部是FBI的上级机关。黄仁勋白辞职了？🤣🤣🤣](https://x.com/santoulang/status/2121029063712358579)<br>![card](https://pbs.twimg.com/amplify_video_thumb/2121012416439844865/img/YZvnegdPNXnYaJxf.jpg) | [@santoulang](https://x.com/santoulang) | 450♥ 47RT · v 22.1 | 22 velocity · 450♥ 47RT · 81914 views · 32h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
