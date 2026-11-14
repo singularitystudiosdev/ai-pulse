@@ -15,7 +15,7 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-14 01:02 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-14 01:07 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
@@ -40,13 +40,11 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (3)
+### 🔥 Viral AI posts (1)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [We are deeply sorry for the disruption this incident has caused our customers and partners. We know the trust…](https://x.com/Microsoft/status/2121282013600907325) | [@Microsoft](https://x.com/Microsoft) | 49034♥ 7919RT · v 32579.8 | known founder · 32580 velocity · 49034♥ 7919RT · 9270595 views · 8h old |
-| [All international flights departing Europe and Mexico bound for the United States have been canceled until fu…](https://x.com/sentdefender/status/2121381457683964308)<br>![card](https://pbs.twimg.com/media/HXCpLVQXkAE4UKy.jpg?name=orig) | [@sentdefender](https://x.com/sentdefender) | 2328♥ 385RT · v 4290.7 | known founder · 4291 velocity · 2328♥ 385RT · 186173 views · 2h old |
-| [Bombshell story. The spy narrative is collapsing already.  Is there clear & convincing evidence that Alice Hu…](https://x.com/DavidSacks/status/2121070881258504395) | [@DavidSacks](https://x.com/DavidSacks) | 28601♥ 4305RT · v 3044.6 | known founder · 3045 velocity · 28601♥ 4305RT · 3961392 views · 22h old |
+| [🚨 BREAKING NEWS: FAA has issued a ground stop and halted all flight departures nationwide due to “rolling fr…](https://x.com/Anna_Giaritelli/status/2121344915091206311)<br>![card](https://pbs.twimg.com/media/HXCH9TnXcAAiw6v.jpg?name=orig) | [@Anna_Giaritelli](https://x.com/Anna_Giaritelli) | 58♥ 23RT · v 925.3 | 925 velocity · 58♥ 23RT · 168304 views · 4h old |
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
