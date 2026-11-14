@@ -15,14 +15,14 @@
 
 <!--START_SECTION:feed-->
 
-> **Last updated:** 2026-11-14 07:32 UTC · runs every 30 min · 0 secrets, no X API
+> **Last updated:** 2026-11-14 07:38 UTC · runs every 30 min · 0 secrets, no X API
 
 ### 🧠 Model releases (5)
 
 | post | source | signal | why it's here |
 |---|---|---|---|
-| [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777) | Lichen Li | 82 HF upvotes · v 82 | 82 HF upvotes · "SO-Arena: Benchmarking the Capability Spectrum and Reliability of Syst" · model release |
-| [BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](https://huggingface.co/papers/2611.14815) | Junyoung Seo | 48 HF upvotes · v 48 | 48 HF upvotes · "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible" · model release |
+| [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777) | Lichen Li | 83 HF upvotes · v 83 | 83 HF upvotes · "SO-Arena: Benchmarking the Capability Spectrum and Reliability of Syst" · model release |
+| [BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](https://huggingface.co/papers/2611.14815) | Junyoung Seo | 49 HF upvotes · v 49 | 49 HF upvotes · "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible" · model release |
 | [Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394) | Youqing Fang | 45 HF upvotes · v 45 | 45 HF upvotes · "Scaling Mathematical Proof Supervision from Structured Textbooks" · model release |
 | [PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models](https://huggingface.co/papers/2611.16748) | Yuxuan Chen | 44 HF upvotes · v 44 | 44 HF upvotes · "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video " · model release |
 | [G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation](https://huggingface.co/papers/2611.13004) | Xu Huang | 42 HF upvotes · v 42 | 42 HF upvotes · "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressi" · model release |
@@ -40,11 +40,9 @@
 
 _nothing cleared the floor this run_
 
-### 🔥 Viral AI posts (1)
+### 🔥 Viral AI posts (0)
 
-| post | source | signal | why it's here |
-|---|---|---|---|
-| [SpaceX has decided the early Hawaii return will not be used and the flight will continue!  📸SpaceX  #Trackin…](https://x.com/TrackingTheSB/status/2121392533418786992)<br>![card](https://pbs.twimg.com/media/HXCzQ6NWMAAQV4g.jpg?name=orig) | [@TrackingTheSB](https://x.com/TrackingTheSB) | 111♥ 11RT · v 9.8 | 9.8 velocity · 111♥ 11RT · 2831 views · 8h old |
+_nothing cleared the floor this run_
 
 <sub>Known bias: sourced from what HN commenters + Show HN + HF upvoters surface, so long-tail SaaS launches are under-represented.</sub>
 
